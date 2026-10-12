@@ -13,3 +13,8 @@ build/*.log
 # python caches
 __pycache__/
 *.pyc
+
+# azure speech key (local only, never commit)
+build/azure_config.json
+# volcengine tts credentials (local only, never commit)
+build/volc_config.json
