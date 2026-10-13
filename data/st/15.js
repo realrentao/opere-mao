@@ -1,1 +1,223 @@
-window.__GRIMM_STORIES__['15'] = {"id": "15", "title_it": "Il Comitato Esecutivo Centrale del Kuomintang (27 novembre 1925)", "title_zh": "国民党中央执行委员会（一九二五年十一月二十七日）", "paras": [{"pid": "s001", "sec": 1, "it": "(27 novembre 1925) a causa delle molte battaglie necessarie per cacciare i controrivoluzionari da Canton, la data del congresso è stata spostata diverse volte. Ora comunque l’intera provincia del Kwangtung è stata unificata e Canton è salda come una roccia.", "zh": "（一九二五年十一月二十七日）由于把反革命势力逐出广州必须进行多次战斗，大会会期已几经展延。现在广东全省已经统一，广州坚如磐石。", "head": false, "audio": "audio/15/s001.mp3", "audio_zh": "audio/15/zs001.mp3"}, {"pid": "s002", "sec": 1, "it": "Anche se le comunicazioni non funzionano al meglio, non ci sono ostacoli per lo svolgimento della riunione.", "zh": "即使交通尚未尽臻便利，会议的举行也已没有任何障碍。", "head": false, "audio": "audio/15/s002.mp3", "audio_zh": "audio/15/zs002.mp3"}, {"pid": "s003", "sec": 1, "it": "Di conseguenza il Comitato esecutivo centrale ha stabilito di convocare la sua quarta sessione plenaria a Canton l’¹¹ dicembre e il secondo Congresso nazionale del Partito il¹° gennaio 1926. Sono già stati spediti a Lin Sen e agli altri compagni i telegrammi che li invitano a rispettare le decisioni prese dal Comitato esecutivo centrale, a considerare attentamente la situazione, a recarsi immediatamente a Canton e a partecipare alla riunione, piuttosto che continuare a sostenere i loro errori e a dedicare le loro esistenze a creare contrasti.", "zh": "因此，中央执行委员会决定十二月¹¹日在广州召开第四次全体会议，并于一九二六年¹月¹日召开党的第二次全国代表大会。已致电林森等同志，请他们遵守中央执行委员会的决定，通盘考虑形势，立即赴广州参加会议，而不要继续坚持错误，毕生从事于制造纷争。", "head": false, "audio": "audio/15/s003.mp3", "audio_zh": "audio/15/zs003.mp3"}, {"pid": "s004", "sec": 1, "it": "Inoltre, per il compagno Han-min che si trova a Mosca e per i compagni Lie-chun e Pai Wen-wei che sono in missione fuori dalla capitale: noi, vostri fratelli minori, rispetteremo unitariamente la risoluzione della terza sessione plenaria del Comitato esecutivo centrale e l’ultima decisione del Comitato esecutivo centrale; faremo inoltre ogni sforzo per tenerle sempre presenti e metterle in pratica. Con rispetto, sottoponiamo questa dichiarazione alla vostra lettura e attenzione.", "zh": "此外，对于远在莫斯科的胡汉民同志，以及在外地执行任务的刘群、柏文蔚同志：我等小兄弟，将一致遵从中央执行委员会第三次全体会议之决议及中央执行委员会之最后决定；并将勉力铭记于心，付诸实行。谨此呈上本声明，敬请垂鉴。", "head": false, "audio": "audio/15/s004.mp3", "audio_zh": "audio/15/zs004.mp3"}, {"pid": "s005", "sec": 1, "it": "I membri del Comitato esecutivo centrale: Wang Ching-wei, Tan Yen-kai, Tan Ping-shan, Liu Tsu-han, Li Ta-chao, Yu Po-hsan, Yu Shu-te, Wang Fa-gin, Ting Wei-fen, En Kepa-yuan.", "zh": "中央执行委员会委员：汪精卫、谭延闿、谭平山、刘祖汉、李大钊、于伯珊、于树德、王法勤、丁惟汾、恩克巴图。", "head": false, "audio": "audio/15/s005.mp3", "audio_zh": "audio/15/zs005.mp3"}, {"pid": "s006", "sec": 1, "it": "I membri supplenti del Comitato esecutivo centrale: Chu Chiu-pai, Han Lin-fu, Yu Fang-chou, Chang Kuo-tao, Mao Tse-tung.", "zh": "中央执行委员会候补委员：瞿秋白、韩麟符、于方舟、张国焘、毛泽东。", "head": false, "audio": "audio/15/s006.mp3", "audio_zh": "audio/15/zs006.mp3"}, {"pid": "s007", "sec": 1, "it": "Lo scritto fu pubblicato sul numero¹ dell’organo del Kuomintang, Settimanale politico, di cui Mao Tse-tung era direttore. Mao Tse-tung era anche segretario della Sezione centrale di Propaganda e in tale veste aveva redatto questo testo.", "zh": "此文发表于国民党中央机关刊物《政治周报》第一期¹，毛泽东任该刊主编。毛泽东当时还兼任中央宣传部秘书，此文即是以该身份执笔写成的。", "head": false, "audio": "audio/15/s007.mp3", "audio_zh": "audio/15/zs007.mp3"}, {"pid": "s008", "sec": 1, "it": "La guerra di cui si parla scoppiò nell’ottobre 1925 quando Sun Chuan-fang (governatore del Chekiang, della cricca del Chihli) attaccò Yang Yu-ting (appena nominato governatore del Kiangsu, della cricca del Fengtien). Essa si allargò ben presto in una guerra generale contro la cricca del Fengtien, contro cui combattevano, più o meno alleati, la cricca del Chihli, le truppe di Feng Yu-hsiang e le forze del Kuomintang. Quando però la rivolta di Kuo Sung-ling contro Chang Tso-lin (capo della cricca del Fengtien) fu soffocata grazie all’intervento di truppe giapponesi, la guerra si trasformò in guerra delle due cricche del Chihli e del Fengtien alleate contro le forze di Feng Yu-hsiang. Nell’agosto del 1926 le forze di Feng Yu-hsiang dovettero abbandonare il Kansu, nel frattempo però il Kuomintang era già riuscito a lanciare la Spedizione al nord che pose fine al potere dei signori della guerra del Peiyang.", "zh": "这次战争于1925年10月爆发，当时孙传芳（浙江督理、直系军阀）进攻杨宇霆（刚被任命为江苏督理、奉系军阀）。战争很快扩大为反对奉系军阀的全面战争，与奉系作战的各方或多或少结成联盟，包括直系军阀、冯玉祥的部队以及国民党的军队。然而，当郭松龄反对张作霖（奉系军阀首领）的起义在日本军队的干预下被镇压之后，这场战争便转化为直、奉两系军阀联合对冯玉祥部队的战争。1926年8月，冯玉祥的部队被迫撤出甘肃；但与此同时，国民党已经成功发动北伐，从而结束了北洋军阀的统治。", "head": false, "audio": "audio/15/s008.mp3", "audio_zh": "audio/15/zs008.mp3"}, {"pid": "s009", "sec": 1, "it": "La Sezione centrale di Propaganda del Comitato esecutivo centrale ha analizzato a fondo il problema della guerra contro la cricca del Fengtien, guerra che costituisce un episodio della lotta del movimento nazionale rivoluzionario contro l’imperialismo britannico e giapponese.", "zh": "中央执行委员会中央宣传部对反对奉系军阀的战争问题作了深入分析，这场战争是全国国民革命运动反对英、日帝国主义斗争的一个环节。", "head": false, "audio": "audio/15/s009.mp3", "audio_zh": "audio/15/zs009.mp3"}, {"pid": "s010", "sec": 1, "it": "I quartier generali del Partito in ogni zona e a ogni livello devono mobilitare rapidamente tutti i compagni e condurre un’ampia azione di propaganda in modo da rendere chiari a tutto il popolo, in tutto il paese, le cause e gli obiettivi di questa guerra.", "zh": "各地各级党的机关必须迅速动员全体党员，广泛开展宣传鼓动工作，使全国全体人民都明了这场战争的起因和目的。", "head": false, "audio": "audio/15/s010.mp3", "audio_zh": "audio/15/zs010.mp3"}, {"pid": "s011", "sec": 1, "it": "Abbiamo a questo proposito stabilito alcuni principi generali per la propaganda, consistenti in primo luogo nell’analisi dei diversi aspetti della guerra contro la cricca del Fengtien, in secondo luogo in un programma generale per il lavoro di propaganda e infine in un elenco di nove parole d’ordine. Questi principi generali sono stati proposti dal segretario della Sezione centrale di propaganda, Mao Tse-tung e approvati dalla riunione del Comitato esecutivo centrale del²⁷ novembre.", "zh": "关于此事，我们制定了宣传工作的若干一般原则，首先包括对反奉系军阀战争各方面情况的分析，其次包括宣传工作的一般纲领，最后包括九条口号。这些一般原则由中央宣传部部长毛泽东提出，并经十一月中央执行委员会会议批准。²⁷", "head": false, "audio": "audio/15/s011.mp3", "audio_zh": "audio/15/zs011.mp3"}, {"pid": "s012", "sec": 1, "it": "Quello che segue è il testo completo dei principi.", "zh": "以下为各项原则的全文。", "head": false, "audio": "audio/15/s012.mp3", "audio_zh": "audio/15/zs012.mp3"}, {"pid": "s013", "sec": 1, "it": "Analisi dei diversi aspetti della guerra contro la cricca del Fengtien", "zh": "反奉系军阀战争各方面情况的分析", "head": false, "audio": "audio/15/s013.mp3", "audio_zh": "audio/15/zs013.mp3"}, {"pid": "s014", "sec": 1, "it": "1. Gli imperialisti. La guerra dello scorso anno tra la cricca del Fengtien e quella", "zh": "1．帝国主义分子。去年奉系军阀与……军阀之间的战争", "head": false, "audio": "audio/15/s014.mp3", "audio_zh": "audio/15/zs014.mp3"}, {"pid": "s015", "sec": 1, "it": "del Chihli non ha rispettato lo schema tradizionale secondo cui gli imperialisti", "zh": "直隶并未遵循帝国主义者依循的传统模式", "head": false, "audio": "audio/15/s015.mp3", "audio_zh": "audio/15/zs015.mp3"}]};
+window.__GRIMM_STORIES__['15'] = {
+  "id": "15",
+  "title_it": "Il Comitato Esecutivo Centrale del Kuomintang (27 novembre 1925)",
+  "title_zh": "国民党中央执行委员会（一九二五年十一月二十七日）",
+  "paras": [
+    {
+      "pid": "s001",
+      "sec": 1,
+      "it": "(27 novembre 1925) a causa delle molte battaglie necessarie per cacciare i controrivoluzionari da Canton, la data del congresso è stata spostata diverse volte.",
+      "zh": "（一九二五年十一月二十七日）由于把反革命势力逐出广州必须进行多次战斗，大会会期已几经展延。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s002",
+      "sec": 1,
+      "it": "Ora comunque l’intera provincia del Kwangtung è stata unificata e Canton è salda come una roccia.",
+      "zh": "现在广东全省已经统一，广州坚如磐石。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s003",
+      "sec": 1,
+      "it": "Anche se le comunicazioni non funzionano al meglio, non ci sono ostacoli per lo svolgimento della riunione.",
+      "zh": "即使交通尚未尽臻便利，会议的举行也已没有任何障碍。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s004",
+      "sec": 1,
+      "it": "Di conseguenza il Comitato esecutivo centrale ha stabilito di convocare la sua quarta sessione plenaria a Canton l’¹¹ dicembre e il secondo Congresso nazionale del Partito il¹° gennaio 1926.",
+      "zh": "因此，中央执行委员会决定十二月¹¹日在广州召开第四次全体会议，并于一九二六年¹月¹日召开党的第二次全国代表大会。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s005",
+      "sec": 1,
+      "it": "Sono già stati spediti a Lin Sen e agli altri compagni i telegrammi che li invitano a rispettare le decisioni prese dal Comitato esecutivo centrale, a considerare attentamente la situazione, a recarsi immediatamente a Canton e a partecipare alla riunione, piuttosto che continuare a sostenere i loro errori e a dedicare le loro esistenze a creare contrasti.",
+      "zh": "已致电林森等同志，请他们遵守中央执行委员会的决定，通盘考虑形势，立即赴广州参加会议，而不要继续坚持错误，毕生从事于制造纷争。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s006",
+      "sec": 1,
+      "it": "Inoltre, per il compagno Han-min che si trova a Mosca e per i compagni Lie-chun e Pai Wen-wei che sono in missione fuori dalla capitale: noi, vostri fratelli minori, rispetteremo unitariamente la risoluzione della terza sessione plenaria del Comitato esecutivo centrale e l’ultima decisione del Comitato esecutivo centrale; faremo inoltre ogni sforzo per tenerle sempre presenti e metterle in pratica.",
+      "zh": "此外，对于远在莫斯科的胡汉民同志，以及在外地执行任务的刘群、柏文蔚同志：我等小兄弟，将一致遵从中央执行委员会第三次全体会议之决议及中央执行委员会之最后决定；并将勉力铭记于心，付诸实行。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s007",
+      "sec": 1,
+      "it": "Con rispetto, sottoponiamo questa dichiarazione alla vostra lettura e attenzione.",
+      "zh": "谨此呈上本声明，敬请垂鉴。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s008",
+      "sec": 1,
+      "it": "I membri del Comitato esecutivo centrale: Wang Ching-wei, Tan Yen-kai, Tan Ping-shan, Liu Tsu-han, Li Ta-chao, Yu Po-hsan, Yu Shu-te, Wang Fa-gin, Ting Wei-fen, En Kepa-yuan.",
+      "zh": "中央执行委员会委员：汪精卫、谭延闿、谭平山、刘祖汉、李大钊、于伯珊、于树德、王法勤、丁惟汾、恩克巴图。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s009",
+      "sec": 1,
+      "it": "I membri supplenti del Comitato esecutivo centrale: Chu Chiu-pai, Han Lin-fu, Yu Fang-chou, Chang Kuo-tao, Mao Tse-tung.",
+      "zh": "中央执行委员会候补委员：瞿秋白、韩麟符、于方舟、张国焘、毛泽东。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s010",
+      "sec": 1,
+      "it": "Lo scritto fu pubblicato sul numero¹ dell’organo del Kuomintang, Settimanale politico, di cui Mao Tse-tung era direttore.",
+      "zh": "此文发表于国民党中央机关刊物《政治周报》第一期¹，毛泽东任该刊主编。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s011",
+      "sec": 1,
+      "it": "Mao Tse-tung era anche segretario della Sezione centrale di Propaganda e in tale veste aveva redatto questo testo.",
+      "zh": "毛泽东当时还兼任中央宣传部秘书，此文即是以该身份执笔写成的。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s012",
+      "sec": 1,
+      "it": "La guerra di cui si parla scoppiò nell’ottobre 1925 quando Sun Chuan-fang (governatore del Chekiang, della cricca del Chihli) attaccò Yang Yu-ting (appena nominato governatore del Kiangsu, della cricca del Fengtien).",
+      "zh": "这次战争于1925年10月爆发，当时孙传芳（浙江督理、直系军阀）进攻杨宇霆（刚被任命为江苏督理、奉系军阀）。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s013",
+      "sec": 1,
+      "it": "Essa si allargò ben presto in una guerra generale contro la cricca del Fengtien, contro cui combattevano, più o meno alleati, la cricca del Chihli, le truppe di Feng Yu-hsiang e le forze del Kuomintang.",
+      "zh": "战争很快扩大为反对奉系军阀的全面战争，与奉系作战的各方或多或少结成联盟，包括直系军阀、冯玉祥的部队以及国民党的军队。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s014",
+      "sec": 1,
+      "it": "Quando però la rivolta di Kuo Sung-ling contro Chang Tso-lin (capo della cricca del Fengtien) fu soffocata grazie all’intervento di truppe giapponesi, la guerra si trasformò in guerra delle due cricche del Chihli e del Fengtien alleate contro le forze di Feng Yu-hsiang.",
+      "zh": "然而，当郭松龄反对张作霖（奉系军阀首领）的起义在日本军队的干预下被镇压之后，这场战争便转化为直、奉两系军阀联合对冯玉祥部队的战争。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s015",
+      "sec": 1,
+      "it": "Nell’agosto del 1926 le forze di Feng Yu-hsiang dovettero abbandonare il Kansu, nel frattempo però il Kuomintang era già riuscito a lanciare la Spedizione al nord che pose fine al potere dei signori della guerra del Peiyang.",
+      "zh": "1926年8月，冯玉祥的部队被迫撤出甘肃；但与此同时，国民党已经成功发动北伐，从而结束了北洋军阀的统治。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s016",
+      "sec": 1,
+      "it": "La Sezione centrale di Propaganda del Comitato esecutivo centrale ha analizzato a fondo il problema della guerra contro la cricca del Fengtien, guerra che costituisce un episodio della lotta del movimento nazionale rivoluzionario contro l’imperialismo britannico e giapponese.",
+      "zh": "中央执行委员会中央宣传部对反对奉系军阀的战争问题作了深入分析，这场战争是全国国民革命运动反对英、日帝国主义斗争的一个环节。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s017",
+      "sec": 1,
+      "it": "I quartier generali del Partito in ogni zona e a ogni livello devono mobilitare rapidamente tutti i compagni e condurre un’ampia azione di propaganda in modo da rendere chiari a tutto il popolo, in tutto il paese, le cause e gli obiettivi di questa guerra.",
+      "zh": "各地各级党的机关必须迅速动员全体党员，广泛开展宣传鼓动工作，使全国全体人民都明了这场战争的起因和目的。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s018",
+      "sec": 1,
+      "it": "Abbiamo a questo proposito stabilito alcuni principi generali per la propaganda, consistenti in primo luogo nell’analisi dei diversi aspetti della guerra contro la cricca del Fengtien, in secondo luogo in un programma generale per il lavoro di propaganda e infine in un elenco di nove parole d’ordine.",
+      "zh": "关于此事，我们制定了宣传工作的若干一般原则，首先包括对反奉系军阀战争各方面情况的分析，其次包括宣传工作的一般纲领，最后包括九条口号。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s019",
+      "sec": 1,
+      "it": "Questi principi generali sono stati proposti dal segretario della Sezione centrale di propaganda, Mao Tse-tung e approvati dalla riunione del Comitato esecutivo centrale del²⁷ novembre.",
+      "zh": "这些一般原则由中央宣传部部长毛泽东提出，并经十一月中央执行委员会会议批准。²⁷",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s020",
+      "sec": 1,
+      "it": "Quello che segue è il testo completo dei principi.",
+      "zh": "以下为各项原则的全文。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s021",
+      "sec": 1,
+      "it": "Analisi dei diversi aspetti della guerra contro la cricca del Fengtien",
+      "zh": "反奉系军阀战争各方面情况的分析",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s022",
+      "sec": 1,
+      "it": "1..Gli imperialisti.",
+      "zh": "1．帝国主义分子。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s023",
+      "sec": 1,
+      "it": "La guerra dello scorso anno tra la cricca del Fengtien e quella",
+      "zh": "去年奉系军阀与……军阀之间的战争",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s024",
+      "sec": 1,
+      "it": "del Chihli non ha rispettato lo schema tradizionale secondo cui gli imperialisti",
+      "zh": "直隶并未遵循帝国主义者依循的传统模式",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    }
+  ]
+};

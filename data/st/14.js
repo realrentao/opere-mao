@@ -1,1 +1,151 @@
-window.__GRIMM_STORIES__['14'] = {"id": "14", "title_it": "Changsha (1925)", "title_zh": "长沙（1925年）", "paras": [{"pid": "s001", "sec": 1, "it": "(1925) Il primo Congresso nazionale del Kuomintang (Canton gennaio 1924) aveva approvato l’ingresso dei membri del PCC, la collaborazione col PCC e l’alleanza con l’Unione Sovietica. L’ala destra del Kuomintang incominciò subito dopo il Congresso a complottare contro queste decisioni. Dopo la morte di Sun Yat-sen a Pechino (marzo 1925), i membri dell’ala destra, sempre più legati ai signori della guerra e ai gruppi imperialisti, tennero un convegno illegale a Pechino per portare avanti i loro complotti (riunione di Hsishan). A questo convegno si riferisce il seguente telegramma inviato dal Comitato esecutivo centrale del Kuomintang a tutte le sedi locali (quartier generali) del Partito. Lo stesso telegramma venne pubblicato anche sul numero¹ dell’organo del Kuomintang, Settimanale politico, di cui Mao Tse-tung era direttore.", "zh": "（1925年）中国国民党第一次全国代表大会（1924年1月于广州）通过了接纳中国共产党党员、与中国共产党合作以及同苏联结盟的决议。国民党右翼在大会结束后立即开始阴谋反对这些决议。孙中山在北京逝世（1925年3月）后，右翼分子同军阀和帝国主义集团的勾结日益紧密，在北京召开了一次非法会议，以推进其阴谋活动（西山会议）。以下是中国国民党中央执行委员会向各地党部（总支部）发出的电报，所指即这次会议。该电同时刊载于国民党的机关刊物《政治周报》第¹期，毛泽东当时任该刊主编。", "head": false, "audio": "audio/14/s001.mp3", "audio_zh": "audio/14/zs001.mp3"}, {"pid": "s002", "sec": 1, "it": "A tutti i compagni di tutti i quartier generali del Kuomintang cinese.", "zh": "致中国国民党各总支部全体同志。", "head": false, "audio": "audio/14/s002.mp3", "audio_zh": "audio/14/zs002.mp3"}, {"pid": "s003", "sec": 1, "it": "Recentemente abbiamo ricevuto un telegramma (datato¹⁶ novembre) spedito dai membri di Pechino del Comitato esecutivo centrale, Lin Sen e altri, che confermava la convocazione della quarta sessione plenaria del Comitato esecutivo centrale nella località Hsishan, a Pechino. Questa “convocazione” è già stata risolutamente respinta dal Comitato esecutivo centrale nella sua risposta. Per quanto concerne l’aspetto della legalità, la terza sessione plenaria del Comitato esecutivo centrale ha stabilito che i congressi nazionali del Partito e le sessioni plenarie del Comitato esecutivo centrale devono tenersi a Canton. A nessuno e per nessun motivo può essere consentito agire contravvenendo a queste decisioni. Per quanto concerne la situazione concreta, una sessione plenaria del Comitato esecutivo centrale è una riunione aperta e pubblica; se si tenesse a Pechino sarebbe soggetta esternamente alle pressioni dei signori della guerra e all’interno i reazionari userebbero i signori della guerra per provocare disordini.", "zh": "最近我们接到中央执行委员会委员林森等从北京发来的电报（十一月十六日发出¹⁶），证实中央执行委员会第四次全体会议在北京西山召开。对这一\"召集\"，中央执行委员会已在复电中坚决拒绝。就合法性而言，中央执行委员会第三次全体会议已决定，党的全国代表大会及中央执行委员会全体会议均须在广州举行。任何人、任何理由，均不得违反此项决议。就实际情况而言，中央执行委员会全体会议是公开之会议；若在北京召开，对外将受军阀之压迫，对内则反动派将利用军阀制造纷扰。", "head": false, "audio": "audio/14/s003.mp3", "audio_zh": "audio/14/zs003.mp3"}, {"pid": "s004", "sec": 1, "it": "Questa è la ragione per cui, quando la terza sessione plenaria del Comitato esecutivo centrale si è tenuta a Pechino nell’aprile di quest’anno, è stata interrotta a metà e spostata a sud, a Canton.", "zh": "因此，今年四月中央执行委员会第三次全体会议在北京举行时，中途停会，移往南方广州。", "head": false, "audio": "audio/14/s004.mp3", "audio_zh": "audio/14/zs004.mp3"}, {"pid": "s005", "sec": 1, "it": "Chi rimane scottato teme il fuoco. Come potremmo permettere che la quarta sessione plenaria del Comitato esecutivo centrale ripercorra lo stesso cammino, dando ai signori della guerra e ai reazionari l’opportunità di attuare i loro piani per sconfiggere la rivoluzione? D’altronde era già stato deciso che il secondo Congresso nazionale del partito si sarebbe tenuto il¹⁵ agosto 1925 a Canton. Poi, a causa dello sciopero Canton-Hongkong che ha fatto saltare le comunicazioni e", "zh": "一朝被蛇咬，三年怕井绳。我们怎么能让中央执行委员会第四次全体会议重走老路，给军阀和反动派以实施其扑灭革命计划的机会呢？何况党的第二次全国代表大会原定于1925年8月¹⁵在广州召开。后来，由于省港罢工使交通中断，", "head": false, "audio": "audio/14/s005.mp3", "audio_zh": "audio/14/zs005.mp3"}]};
+window.__GRIMM_STORIES__['14'] = {
+  "id": "14",
+  "title_it": "Changsha (1925)",
+  "title_zh": "长沙（1925年）",
+  "paras": [
+    {
+      "pid": "s001",
+      "sec": 1,
+      "it": "(1925) Il primo Congresso nazionale del Kuomintang (Canton gennaio 1924) aveva approvato l’ingresso dei membri del PCC, la collaborazione col PCC e l’alleanza con l’Unione Sovietica.",
+      "zh": "（1925年）中国国民党第一次全国代表大会（1924年1月于广州）通过了接纳中国共产党党员、与中国共产党合作以及同苏联结盟的决议。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s002",
+      "sec": 1,
+      "it": "L’ala destra del Kuomintang incominciò subito dopo il Congresso a complottare contro queste decisioni.",
+      "zh": "国民党右翼在大会结束后立即开始阴谋反对这些决议。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s003",
+      "sec": 1,
+      "it": "Dopo la morte di Sun Yat-sen a Pechino (marzo 1925), i membri dell’ala destra, sempre più legati ai signori della guerra e ai gruppi imperialisti, tennero un convegno illegale a Pechino per portare avanti i loro complotti (riunione di Hsishan).",
+      "zh": "孙中山在北京逝世（1925年3月）后，右翼分子同军阀和帝国主义集团的勾结日益紧密，在北京召开了一次非法会议，以推进其阴谋活动（西山会议）。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s004",
+      "sec": 1,
+      "it": "A questo convegno si riferisce il seguente telegramma inviato dal Comitato esecutivo centrale del Kuomintang a tutte le sedi locali (quartier generali) del Partito.",
+      "zh": "以下是中国国民党中央执行委员会向各地党部（总支部）发出的电报，所指即这次会议。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s005",
+      "sec": 1,
+      "it": "Lo stesso telegramma venne pubblicato anche sul numero¹ dell’organo del Kuomintang, Settimanale politico, di cui Mao Tse-tung era direttore.",
+      "zh": "该电同时刊载于国民党的机关刊物《政治周报》第¹期，毛泽东当时任该刊主编。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s006",
+      "sec": 1,
+      "it": "A tutti i compagni di tutti i quartier generali del Kuomintang cinese.",
+      "zh": "致中国国民党各总支部全体同志。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s007",
+      "sec": 1,
+      "it": "Recentemente abbiamo ricevuto un telegramma (datato¹⁶ novembre) spedito dai membri di Pechino del Comitato esecutivo centrale, Lin Sen e altri, che confermava la convocazione della quarta sessione plenaria del Comitato esecutivo centrale nella località Hsishan, a Pechino.",
+      "zh": "最近我们接到中央执行委员会委员林森等从北京发来的电报（十一月十六日发出¹⁶），证实中央执行委员会第四次全体会议在北京西山召开。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s008",
+      "sec": 1,
+      "it": "Questa “convocazione” è già stata risolutamente respinta dal Comitato esecutivo centrale nella sua risposta.",
+      "zh": "对这一\"召集\"，中央执行委员会已在复电中坚决拒绝。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s009",
+      "sec": 1,
+      "it": "Per quanto concerne l’aspetto della legalità, la terza sessione plenaria del Comitato esecutivo centrale ha stabilito che i congressi nazionali del Partito e le sessioni plenarie del Comitato esecutivo centrale devono tenersi a Canton.",
+      "zh": "就合法性而言，中央执行委员会第三次全体会议已决定，党的全国代表大会及中央执行委员会全体会议均须在广州举行。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s010",
+      "sec": 1,
+      "it": "A nessuno e per nessun motivo può essere consentito agire contravvenendo a queste decisioni.",
+      "zh": "任何人、任何理由，均不得违反此项决议。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s011",
+      "sec": 1,
+      "it": "Per quanto concerne la situazione concreta, una sessione plenaria del Comitato esecutivo centrale è una riunione aperta e pubblica; se si tenesse a Pechino sarebbe soggetta esternamente alle pressioni dei signori della guerra e all’interno i reazionari userebbero i signori della guerra per provocare disordini.",
+      "zh": "就实际情况而言，中央执行委员会全体会议是公开之会议；若在北京召开，对外将受军阀之压迫，对内则反动派将利用军阀制造纷扰。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s012",
+      "sec": 1,
+      "it": "Questa è la ragione per cui, quando la terza sessione plenaria del Comitato esecutivo centrale si è tenuta a Pechino nell’aprile di quest’anno, è stata interrotta a metà e spostata a sud, a Canton.",
+      "zh": "因此，今年四月中央执行委员会第三次全体会议在北京举行时，中途停会，移往南方广州。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s013",
+      "sec": 1,
+      "it": "Chi rimane scottato teme il fuoco.",
+      "zh": "一朝被蛇咬，三年怕井绳。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s014",
+      "sec": 1,
+      "it": "Come potremmo permettere che la quarta sessione plenaria del Comitato esecutivo centrale ripercorra lo stesso cammino, dando ai signori della guerra e ai reazionari l’opportunità di attuare i loro piani per sconfiggere la rivoluzione?",
+      "zh": "我们怎么能让中央执行委员会第四次全体会议重走老路，给军阀和反动派以实施其扑灭革命计划的机会呢？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s015",
+      "sec": 1,
+      "it": "D’altronde era già stato deciso che il secondo Congresso nazionale del partito si sarebbe tenuto il¹⁵ agosto 1925 a Canton.",
+      "zh": "何况党的第二次全国代表大会原定于1925年8月¹⁵在广州召开。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s016",
+      "sec": 1,
+      "it": "Poi, a causa dello sciopero Canton-Hongkong che ha fatto saltare le comunicazioni e",
+      "zh": "后来，由于省港罢工使交通中断，",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    }
+  ]
+};

@@ -1,1 +1,286 @@
-window.__GRIMM_STORIES__['13'] = {"id": "13", "title_it": "La tassa sulle sigarette (29 agosto 1923)", "title_zh": "卷烟税（1923年8月29日）", "paras": [{"pid": "s001", "sec": 1, "it": "(29 agosto 1923) permettere che gli stranieri la aboliscano. Dobbiamo lottare con forza in difesa della nostra sovranità, basandoci sul nostro buon diritto senza permettere che essi lo violino accampando pretesti”.", "zh": "（1923年8月29日）不容许外国人将其取消。我们应当据理力争，坚决维护我们的主权，不容许他们借口任何理由加以侵犯”。", "head": false, "audio": "audio/13/s001.mp3", "audio_zh": "audio/13/zs001.mp3"}, {"pid": "s002", "sec": 1, "it": "Da tempo sia gli inglesi sia gli americani non permettono alla Cina di imporre liberamente tasse sulle merci di lusso importate, basandosi sui trattati che regolano le nostre tariffe doganali. Anche in questo caso, in cui si tratta di una tassa pagata interamente dai cittadini del Chekiang e di una questione amministrativa locale pertinente alla nostra sovranità nazionale, essi pretendono di impedire che noi possiamo liberamente stabilire delle tasse.", "zh": "英国人和美国人早已依据支配我国关税的条约，不容许中国对进口奢侈品自由征税。即便是这次完全由浙江人民负担的捐税，以及纯属我国主权范围内的地方行政问题，他们也要横加阻挠，不容许我们自由征税。", "head": false, "audio": "audio/13/s002.mp3", "audio_zh": "audio/13/zs002.mp3"}, {"pid": "s003", "sec": 1, "it": "Di tutte le sigarette vendute qui dalla British-American Tobacco company (BAT), soltanto una piccola quantità è importata dall’Inghilterra, dagli Stati Uniti d’America o dal Giappone; per la maggior parte sono sigarette prodotte dalla BAT con tabacco cinese e mano d’opera cinese in fabbriche che si trovano a Shanghai, Hankow o in altre città della Cina. Quando le sigarette escono dalla fabbrica, in conformità ai trattati viene pagata una piccola imposta. Le sigarette vengono poi distribuite in grande quantità in tutte le province e al governo cinese non è più permesso di tassarle liberamente. Soltanto nel Chekiang la vendita delle sigarette ammonta a più di dieci milioni di yuan all’anno. Non si conosce l’ammontare preciso della vendita annuale di sigarette in tutto il paese ma, calcolando in base alle vendite nella sola provincia del Chekiang, si arriva a una cifra che supera i duecento milioni di yuan all’anno. Questo è veramente orribile a udirsi! Prego i miei quattrocento milioni di connazionali di pensarci un po’ sopra: cosa significa in realtà l’amicizia che gli stranieri proclamano nei nostri confronti?", "zh": "这里英美烟草公司（BAT）所售卖的香烟，只有一小部分是从英国、美国或日本进口的；绝大部分是该公司以中国烟草和中国工人在设于上海、汉口或其他中国城市的工厂里生产的。香烟出厂时，依照条约只缴纳少量税款。随后这些香烟便大量行销于各省，中国政府从此不得再自由征税。仅浙江省一省，香烟销售每年就达一千多万元。全国香烟年销量的准确数目尚不清楚，但若以浙江省的销量推算，每年总额就超过了两亿元。这实在令人闻之骇然！恳请我的四万万同胞想一想：外国人对我们所宣扬的友谊，其真实含义究竟是什么？", "head": false, "audio": "audio/13/s003.mp3", "audio_zh": "audio/13/zs003.mp3"}, {"pid": "s004", "sec": 1, "it": "Il Consiglio dei ministri del governo cinese è davvero comprensivo e accomodante. Se i nostri padroni stranieri scoreggiano, per i nostri ministri è profumo.", "zh": "中国政府的内阁诸公实在可谓体贴入微、宽厚有加。外国主子放个屁，我们的阁员们闻来都是香的。", "head": false, "audio": "audio/13/s004.mp3", "audio_zh": "audio/13/zs004.mp3"}, {"pid": "s005", "sec": 1, "it": "Se i nostri padroni stranieri vogliono esportare il nostro cotone, loro aboliscono subito il divieto di esportazione del cotone. Se i nostri padroni stranieri vogliono vendere sigarette, il Consiglio dei ministri ordina telegraficamente a tutte le province di non tassare più le sigarette. Io chiedo ancora ai miei quattrocento milioni di connazionali di pensarci su un po’. Dire che il governo cinese è l’agenzia di affari dei padroni stranieri è dire il vero o dire il falso?", "zh": "如果我们的外国主子要输出我们的棉花，他们马上取消棉花出口的禁令。如果我们的外国主子要卖香烟，内阁就电令各省不再对香烟征税。我再要我的四万万同胞仔细想想。说中国政府是外国主子的办事机关，是说对了还是说错了？", "head": false, "audio": "audio/13/s005.mp3", "audio_zh": "audio/13/zs005.mp3"}, {"pid": "s006", "sec": 1, "it": "NOTE", "zh": "注释", "head": false, "audio": "audio/13/s006.mp3", "audio_zh": "audio/13/zs006.mp3"}, {"pid": "s007", "sec": 1, "it": "1. I “trattati ineguali”, firmati dal governo cinese con i governi imperialisti a partire dal", "zh": "1. 中国政府自1840年以来同各帝国主义政府签订的“不平等条约”，", "head": false, "audio": "audio/13/s007.mp3", "audio_zh": "audio/13/zs007.mp3"}, {"pid": "s008", "sec": 1, "it": "1840, tra l’altro limitavano o abolivano il potere sovrano dello Stato cinese di fissare le tariffe doganali sui beni importati.", "zh": "其中除其他内容外，还限制或取消了中国政府对进口货物征收关税的自主权。", "head": false, "audio": "audio/13/s008.mp3", "audio_zh": "audio/13/zs008.mp3"}, {"pid": "s009", "sec": 1, "it": "Solitario sto nel gelido autunno l’acqua dello Hsiang scorre verso nord oltre l’isola degli Aranci.", "zh": "独立寒秋，湘江北去，橘子洲头。", "head": false, "audio": "audio/13/s009.mp3", "audio_zh": "audio/13/zs009.mp3"}, {"pid": "s010", "sec": 1, "it": "Vedo i pendii rosseggianti di tante montagne falda a falda i boschi cosparsi di porpora; dove più verde è il fiume centinaia di barche lottano con la corrente.", "zh": "看万山红遍，层林尽染；漫江碧透，百舸争流。", "head": false, "audio": "audio/13/s010.mp3", "audio_zh": "audio/13/zs010.mp3"}, {"pid": "s011", "sec": 1, "it": "Aquile dardeggiano nel vasto spazio pesci guizzano nelle acque più basse nell’aria tersa ogni essere gareggia in libertà.", "zh": "鹰击长空，鱼翔浅底，万类霜天竞自由。", "head": false, "audio": "audio/13/s011.mp3", "audio_zh": "audio/13/zs011.mp3"}, {"pid": "s012", "sec": 1, "it": "Perplesso di fronte all’immenso spazio interrogo la terra sconfinata e il cielo “Chi governa gli alti e bassi della fortuna?”.", "zh": "怅寥廓，问苍茫大地，谁主沉浮？", "head": false, "audio": "audio/13/s012.mp3", "audio_zh": "audio/13/zs012.mp3"}, {"pid": "s013", "sec": 1, "it": "Condussi qui tanti e tanti compagni ricordo anni impegnati, mesi di fatiche.", "zh": "我曾在这里带领过许许多多同志；我记得那些投入的岁月，那些辛劳的月份。", "head": false, "audio": "audio/13/s013.mp3", "audio_zh": "audio/13/zs013.mp3"}, {"pid": "s014", "sec": 1, "it": "Eravamo allora giovani studenti esuberante la nostra mente; con fervore di adepti rigidamente sicuri accusavamo.", "zh": "那时我们还是青年学生，心中洋溢着奔放的热力；以信徒般的炽热，我们确信无疑，严正地提出控诉。", "head": false, "audio": "audio/13/s014.mp3", "audio_zh": "audio/13/zs014.mp3"}, {"pid": "s015", "sec": 1, "it": "Puntavamo il dito verso la nostra terra parole vibranti nei nostri scritti letame i nobili potenti del tempo.", "zh": "我们把手指向自己的国土；铿锵的文字见于我们的笔下，痛斥当时权倾一时的显贵，视之若粪土。", "head": false, "audio": "audio/13/s015.mp3", "audio_zh": "audio/13/zs015.mp3"}, {"pid": "s016", "sec": 1, "it": "Non ti ricordi?", "zh": "你不记得了吗？", "head": false, "audio": "audio/13/s016.mp3", "audio_zh": "audio/13/zs016.mp3"}, {"pid": "s017", "sec": 1, "it": "Giunti al centro della corrente percuotevamo l’acqua e l’onda si rifrangeva sulla barca veloce.", "zh": "我们来到江心，挥臂击水，浪花飞溅在疾行的小船上。", "head": false, "audio": "audio/13/s017.mp3", "audio_zh": "audio/13/zs017.mp3"}, {"pid": "s018", "sec": 1, "it": "Nella poesia Mao Tse-tung rivive liricamente gli anni della sua vita a Changsha dal 1911, quando aveva diciotto anni, al 1923.", "zh": "毛泽东在诗中，以抒情的方式重现了他在长沙的岁月：自1911年他十八岁起，至1923年止。", "head": false, "audio": "audio/13/s018.mp3", "audio_zh": "audio/13/zs018.mp3"}, {"pid": "s019", "sec": 1, "it": "Tra l’inverno del 1924 e la primavera del 1925, Mao Tse-tung era ritornato per un breve periodo a Changsha che aveva lasciato nella primavera del 1923 a seguito di un mandato di cattura.", "zh": "1924年冬与1925年春之间，毛泽东曾短暂回到长沙；他是因遭通缉，才于1923年春离开此地的。", "head": false, "audio": "audio/13/s019.mp3", "audio_zh": "audio/13/zs019.mp3"}]};
+window.__GRIMM_STORIES__['13'] = {
+  "id": "13",
+  "title_it": "La tassa sulle sigarette (29 agosto 1923)",
+  "title_zh": "卷烟税（1923年8月29日）",
+  "paras": [
+    {
+      "pid": "s001",
+      "sec": 1,
+      "it": "(29 agosto 1923) permettere che gli stranieri la aboliscano.",
+      "zh": "（1923年8月29日）不容许外国人将其取消。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s002",
+      "sec": 1,
+      "it": "Dobbiamo lottare con forza in difesa della nostra sovranità, basandoci sul nostro buon diritto senza permettere che essi lo violino accampando pretesti”.",
+      "zh": "我们应当据理力争，坚决维护我们的主权，不容许他们借口任何理由加以侵犯”。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s003",
+      "sec": 1,
+      "it": "Da tempo sia gli inglesi sia gli americani non permettono alla Cina di imporre liberamente tasse sulle merci di lusso importate, basandosi sui trattati che regolano le nostre tariffe doganali.",
+      "zh": "英国人和美国人早已依据支配我国关税的条约，不容许中国对进口奢侈品自由征税。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s004",
+      "sec": 1,
+      "it": "Anche in questo caso, in cui si tratta di una tassa pagata interamente dai cittadini del Chekiang e di una questione amministrativa locale pertinente alla nostra sovranità nazionale, essi pretendono di impedire che noi possiamo liberamente stabilire delle tasse.",
+      "zh": "即便是这次完全由浙江人民负担的捐税，以及纯属我国主权范围内的地方行政问题，他们也要横加阻挠，不容许我们自由征税。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s005",
+      "sec": 1,
+      "it": "Di tutte le sigarette vendute qui dalla British-American Tobacco company (BAT), soltanto una piccola quantità è importata dall’Inghilterra, dagli Stati Uniti d’America o dal Giappone; per la maggior parte sono sigarette prodotte dalla BAT con tabacco cinese e mano d’opera cinese in fabbriche che si trovano a Shanghai, Hankow o in altre città della Cina.",
+      "zh": "这里英美烟草公司（BAT）所售卖的香烟，只有一小部分是从英国、美国或日本进口的；绝大部分是该公司以中国烟草和中国工人在设于上海、汉口或其他中国城市的工厂里生产的。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s006",
+      "sec": 1,
+      "it": "Quando le sigarette escono dalla fabbrica, in conformità ai trattati viene pagata una piccola imposta.",
+      "zh": "香烟出厂时，依照条约只缴纳少量税款。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s007",
+      "sec": 1,
+      "it": "Le sigarette vengono poi distribuite in grande quantità in tutte le province e al governo cinese non è più permesso di tassarle liberamente.",
+      "zh": "随后这些香烟便大量行销于各省，中国政府从此不得再自由征税。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s008",
+      "sec": 1,
+      "it": "Soltanto nel Chekiang la vendita delle sigarette ammonta a più di dieci milioni di yuan all’anno.",
+      "zh": "仅浙江省一省，香烟销售每年就达一千多万元。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s009",
+      "sec": 1,
+      "it": "Non si conosce l’ammontare preciso della vendita annuale di sigarette in tutto il paese ma, calcolando in base alle vendite nella sola provincia del Chekiang, si arriva a una cifra che supera i duecento milioni di yuan all’anno.",
+      "zh": "全国香烟年销量的准确数目尚不清楚，但若以浙江省的销量推算，每年总额就超过了两亿元。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s010",
+      "sec": 1,
+      "it": "Questo è veramente orribile a udirsi!",
+      "zh": "这实在令人闻之骇然！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s011",
+      "sec": 1,
+      "it": "Prego i miei quattrocento milioni di connazionali di pensarci un po’ sopra: cosa significa in realtà l’amicizia che gli stranieri proclamano nei nostri confronti?",
+      "zh": "恳请我的四万万同胞想一想：外国人对我们所宣扬的友谊，其真实含义究竟是什么？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s012",
+      "sec": 1,
+      "it": "Il Consiglio dei ministri del governo cinese è davvero comprensivo e accomodante.",
+      "zh": "中国政府的内阁诸公实在可谓体贴入微、宽厚有加。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s013",
+      "sec": 1,
+      "it": "Se i nostri padroni stranieri scoreggiano, per i nostri ministri è profumo.",
+      "zh": "外国主子放个屁，我们的阁员们闻来都是香的。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s014",
+      "sec": 1,
+      "it": "Se i nostri padroni stranieri vogliono esportare il nostro cotone, loro aboliscono subito il divieto di esportazione del cotone.",
+      "zh": "如果我们的外国主子要输出我们的棉花，他们马上取消棉花出口的禁令。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s015",
+      "sec": 1,
+      "it": "Se i nostri padroni stranieri vogliono vendere sigarette, il Consiglio dei ministri ordina telegraficamente a tutte le province di non tassare più le sigarette.",
+      "zh": "如果我们的外国主子要卖香烟，内阁就电令各省不再对香烟征税。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s016",
+      "sec": 1,
+      "it": "Io chiedo ancora ai miei quattrocento milioni di connazionali di pensarci su un po’.",
+      "zh": "我再要我的四万万同胞仔细想想。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s017",
+      "sec": 1,
+      "it": "Dire che il governo cinese è l’agenzia di affari dei padroni stranieri è dire il vero o dire il falso?",
+      "zh": "说中国政府是外国主子的办事机关，是说对了还是说错了？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s018",
+      "sec": 1,
+      "it": "NOTE",
+      "zh": "注释",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s019",
+      "sec": 1,
+      "it": "1..I “trattati ineguali”, firmati dal governo cinese con i governi imperialisti a partire dal",
+      "zh": "1. 中国政府自1840年以来同各帝国主义政府签订的“不平等条约”，",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s020",
+      "sec": 1,
+      "it": "1840, tra l’altro limitavano o abolivano il potere sovrano dello Stato cinese di fissare le tariffe doganali sui beni importati.",
+      "zh": "其中除其他内容外，还限制或取消了中国政府对进口货物征收关税的自主权。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s021",
+      "sec": 1,
+      "it": "Solitario sto nel gelido autunno l’acqua dello Hsiang scorre verso nord oltre l’isola degli Aranci.",
+      "zh": "独立寒秋，湘江北去，橘子洲头。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s022",
+      "sec": 1,
+      "it": "Vedo i pendii rosseggianti di tante montagne falda a falda i boschi cosparsi di porpora; dove più verde è il fiume centinaia di barche lottano con la corrente.",
+      "zh": "看万山红遍，层林尽染；漫江碧透，百舸争流。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s023",
+      "sec": 1,
+      "it": "Aquile dardeggiano nel vasto spazio pesci guizzano nelle acque più basse nell’aria tersa ogni essere gareggia in libertà.",
+      "zh": "鹰击长空，鱼翔浅底，万类霜天竞自由。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s024",
+      "sec": 1,
+      "it": "Perplesso di fronte all’immenso spazio interrogo la terra sconfinata e il cielo “Chi governa gli alti e bassi della fortuna?”.",
+      "zh": "怅寥廓，问苍茫大地，谁主沉浮？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s025",
+      "sec": 1,
+      "it": "Condussi qui tanti e tanti compagni ricordo anni impegnati, mesi di fatiche.",
+      "zh": "我曾在这里带领过许许多多同志；我记得那些投入的岁月，那些辛劳的月份。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s026",
+      "sec": 1,
+      "it": "Eravamo allora giovani studenti esuberante la nostra mente; con fervore di adepti rigidamente sicuri accusavamo.",
+      "zh": "那时我们还是青年学生，心中洋溢着奔放的热力；以信徒般的炽热，我们确信无疑，严正地提出控诉。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s027",
+      "sec": 1,
+      "it": "Puntavamo il dito verso la nostra terra parole vibranti nei nostri scritti letame i nobili potenti del tempo.",
+      "zh": "我们把手指向自己的国土；铿锵的文字见于我们的笔下，痛斥当时权倾一时的显贵，视之若粪土。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s028",
+      "sec": 1,
+      "it": "Non ti ricordi?",
+      "zh": "你不记得了吗？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s029",
+      "sec": 1,
+      "it": "Giunti al centro della corrente percuotevamo l’acqua e l’onda si rifrangeva sulla barca veloce.",
+      "zh": "我们来到江心，挥臂击水，浪花飞溅在疾行的小船上。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s030",
+      "sec": 1,
+      "it": "Nella poesia Mao Tse-tung rivive liricamente gli anni della sua vita a Changsha dal 1911, quando aveva diciotto anni, al 1923.",
+      "zh": "毛泽东在诗中，以抒情的方式重现了他在长沙的岁月：自1911年他十八岁起，至1923年止。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s031",
+      "sec": 1,
+      "it": "Tra l’inverno del 1924 e la primavera del 1925, Mao Tse-tung era ritornato per un breve periodo a Changsha che aveva lasciato nella primavera del 1923 a seguito di un mandato di cattura.",
+      "zh": "1924年冬与1925年春之间，毛泽东曾短暂回到长沙；他是因遭通缉，才于1923年春离开此地的。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    }
+  ]
+};

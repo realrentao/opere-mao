@@ -1,1 +1,475 @@
-window.__GRIMM_STORIES__['11'] = {"id": "11", "title_it": "La costituzione provinciale Sutra e Chao Heng-ti (15 agosto 1923)", "title_zh": "《省宪法》与赵恒惕（1923年8月15日）", "paras": [{"pid": "s001", "sec": 1, "it": "(15 agosto 1923) un’organizzazione dei lavoratori, ma gli individui che a titolo personale vennero alla manifestazione non erano altro che alcuni loro intimi amici. Essi allora si agitarono molto e mandarono gente da tutte le parti, come per esempio all’Asso-ciazione dei lavoratori cinesi, che è stata sempre diretta da banditi, al Tempio della salvezza e al Tempio del “Budda che tiene un discorso”. Pagando⁵⁰ centesimi a testa e offrendo rinfreschi riuscirono a racimolare 120 o 130 persone e a mezzogiorno cominciarono la loro manifestazione. Prima di partire, tennero una riunione nella sala di proiezione dell’Associazione di educazione con un gruppo di circa 120 o 130 persone tra monaci buddisti e mendicanti. L’incontro si svolse nel modo seguente. Il monaco Chih-pei ringraziò i partecipanti e fece un discorso sul senso della riunione che potrebbe essere riassunto nel seguente modo: sarebbe meglio che la Costituzione provinciale venisse chiamata Costituzione provinciale  sutra², proprio come i buddisti hanno le loro sutra  buddiste... Le mani dei monaci e dei mendicanti si scatenarono in un applauso frenetico. Quando la riunione finì, si prepararono per la manifestazione. In testa posero due grossi striscioni, con scritto sul primo “Associazione per il mantenimento della Costitu-zione provinciale” e sull’altro “Grande riunione di petizione dei cittadini della provincia”. Seguivano un primo gruppo di manifestanti (la piccola nobiltà locale, sia quella con le vesti lunghe sia quella con le giacchette corte, come rappresentanti autorevoli del popolo della provincia), circa²⁰ o³⁰ persone in tutto; un secondo gruppo di manifestanti, l’Associazione dei lavoratori cinesi, circa⁵ o⁶ persone; un terzo gruppo di manifestanti, la delegazione del Tempio del “Budda che tiene un discorso” con le loro lucide teste pelate e ampi vestiti, circa⁴⁰ o⁵⁰ persone; un quarto gruppo di manifestanti, provenienti dal Tempio della salvezza, circa⁴⁰ persone.", "zh": "(1923年8月15日)一个工人组织，而以个人名义来参加游行的，不过是他们几个至亲密友而已。于是他们大肆活动，四处派人拉人，例如到中国劳工协会——这个协会一向由流氓把持——到救世堂，又到\"讲经佛寺\"。他们每人出五十分钱⁵⁰，并供应茶点，总算凑集了一百二三十人，中午时分开始了他们的游行。出发前，他们在一百二三十名佛教徒和乞丐中召集了一次集会，地点在教育协会的电影厅内。集会进行的情况如下：智培法师向与会者致谢，并就集会的意义发表演说，其大旨可归纳如下：省宪法最好叫作省宪经²，正如佛教徒有他们的佛经一样……众僧与乞丐的双手爆发出疯狂的掌声。集会结束后，众人准备游行。队伍最前面打着两幅大横幅，一幅写着\"拥护省宪协会\"，另一幅写着\"全省公民请愿大会\"。随后是第一队游行者（当地的士绅，无论是穿长袍的还是穿短褂的，都算是本省民众的权威代表），总共约²⁰二³⁰三十人；第二队游行者是中国劳工协会，约⁵五⁶六人；第三队游行者是\"讲经佛寺\"的代表团，一个个光头锃亮，宽袍大袖，约⁴⁰四⁵⁰五十人；第四队游行者来自救世堂，约⁴⁰四十人。", "head": false, "audio": "audio/11/s001.mp3", "audio_zh": "audio/11/zs001.mp3"}, {"pid": "s002", "sec": 1, "it": "Com’erano belli con tutti quei colori e quelle divise! ...  Quelli che hanno messo in piedi questa orribile sceneggiata sono veramente bravi a mettere in scena farse.", "zh": "他们有那么多的色彩和制服，多么漂亮啊！…… 搭起这座可怕舞台的人，实在善于上演丑剧。", "head": false, "audio": "audio/11/s002.mp3", "audio_zh": "audio/11/zs002.mp3"}, {"pid": "s003", "sec": 1, "it": "Ci siamo sempre opposti a una federazione di province autonome perché di fatto essa non sarebbe una federazione di province autonome, ma una federazione di governatori militari di feudi privati; ci siamo sempre opposti al furto del nome di Costituzione provinciale  da parte di signori della guerra e politicanti corrotti perché queste “costituzioni provinciali” non danno alcuna garanzia al popolo, mascherano solo la lotta per il potere e il privilegio tra signori della guerra e politicanti corrotti. La provincia dello Hunan è una delle prove migliori di ciò.", "zh": "我们一向反对联省自治，因为它实际上不会是什么联省自治，而只是军阀私有采邑的联合；我们一向反对军阀和腐败政客盗用省宪的名义，因为这些“省宪”不给人民任何保障，只是掩盖军阀和腐败政客之间争夺权力和特权的斗争。湖南省就是这方面最好的例证之一。", "head": false, "audio": "audio/11/s003.mp3", "audio_zh": "audio/11/zs003.mp3"}, {"pid": "s004", "sec": 1, "it": "Chao Heng-ti è ora diventato l’imponente “protettore della Costituzione”, ma negli ultimi due anni, vale a dire da quando abbiamo la Costituzione provinciale, egli ha continuato a massacrare i lavoratori (Huang Ai, Pang Jen-chuan e altri³), ha continuato a chiudere giornali (Ta Kung Pao, Chihchih Hsin Pao, Hsin Hsiang Pao), ha privato il popolo della libertà di stampa (i censori alla posta e al telegrafo non sono mai stati ritirati nemmeno per un giorno), ha privato il popolo della libertà di organizzazione e di riunione (egli ha chiuso il Sindacato dei tiratori di risciò, il Sindacato dei mugnai e la Società dei sostenitori della politica estera; egli ha proibito molte volte riunioni di studenti e lavoratori); ha coperto le malefatte delle sue truppe permettendo loro di coltivare e vendere oppio, ha comprato le elezioni (ha mandato i suoi sottoposti ad alterare i risultati elettorali nel voto sulla Costituzione provinciale), ha usato denaro per creare una sua Assemblea provinciale e per comprare il governatorato civile, ha estorto “contributi” ai commercianti (il capo della Camera generale di commercio è stato costretto a fuggire molte volte); ha incassato in anticipo le tasse dai contadini⁴ (in alcuni distretti ha già raccolto le tasse per il 1928); ha manipolato il bilancio legalmente approvato riducendo le spese per l’educazione e l’industria e aumentando quelle militari; si è alleato con Wu Pei-fu e Hsia Yao-nan⁵. Quale di queste cose non rappresenta l’azione di un nemico del popolo attuata nascondendosi dietro la Costituzione provinciale!", "zh": "赵恒惕如今俨然成了了不起的“省宪保护者”，但近两年来，自从我们有了省宪法，他继续屠杀工人（黄爱、庞人铨等人³），继续封闭报馆（《大公报》、《自治新报》、《新湘报》），剥夺人民的出版自由（邮电检查机关一天也没有撤消过），剥夺人民的集会结社自由（他封闭了人力车工会、磨坊工会以及外交后援会；他多次禁止学生集会与工人集会）；他庇护他的军队为非作歹，容许他们种植和贩卖鸦片；他操纵选举（派遣亲信在省宪投票时更改选举结果）；他花钱制造自己的省议会，又花钱购买省长公署；他向商人勒索“捐款”（总商会会长曾多次被迫逃亡）；他向农民预征钱粮⁴（有的县已预征到1928年）；他操纵法定预算，削减教育与实业经费，增加军费；他勾结吴佩孚、夏耀南⁵。这些事情，哪一件不是假借省宪名义干出来的残害人民的勾当！", "head": false, "audio": "audio/11/s004.mp3", "audio_zh": "audio/11/zs004.mp3"}, {"pid": "s005", "sec": 1, "it": "Adesso ha ritirato le truppe e ha mobilitato le masse, ma solo a causa della sua contesa con Tsai Chu-yu per i proventi della tassa dell’oppio (la cosiddetta “tassa speciale”).", "zh": "他现在撤走了军队，动员群众，但这只不过是因为他与蔡钜猷争夺鸦片税（所谓\"特税\"）收入的斗争所致。", "head": false, "audio": "audio/11/s005.mp3", "audio_zh": "audio/11/zs005.mp3"}, {"pid": "s006", "sec": 1, "it": "Chao Heng-ti, questa bestia crudele e portatrice di diecimila disgrazie, sta ancora, naturalmente, gridando “Proteggete la Costituzione” e sfruttando il nome della Costituzione. È veramente uno svergognato assassino degli abitanti dello Hunan!", "zh": "赵恒惕这头残忍万分、带来无穷灾难的野兽，自然还在打着\"拥护省宪\"的旗号，利用省宪的名义。他真是一个屠杀湖南人民的寡廉鲜耻的凶手！", "head": false, "audio": "audio/11/s006.mp3", "audio_zh": "audio/11/zs006.mp3"}, {"pid": "s007", "sec": 1, "it": "La Costituzione provinciale  sutra e Chao Heng-ti NOTE", "zh": "上述省宪与赵恒惕 注", "head": false, "audio": "audio/11/s007.mp3", "audio_zh": "audio/11/zs007.mp3"}, {"pid": "s008", "sec": 1, "it": "1. Lo Hunan occidentale era ancora dominato dal signore della guerra Tsai Chu-yu, agli", "zh": "1. 当时湖南西部仍由军阀蔡钜猷统治，他的军", "head": false, "audio": "audio/11/s008.mp3", "audio_zh": "audio/11/zs008.mp3"}, {"pid": "s009", "sec": 1, "it": "ordini del notabile Tan Yen-kai che Chao Heng-ti aveva spodestato nel novembre 1920.", "zh": "谭延闿1920年11月被赵恒惕推翻后发布的命令。", "head": false, "audio": "audio/11/s009.mp3", "audio_zh": "audio/11/zs009.mp3"}, {"pid": "s010", "sec": 1, "it": "Chao Heng-ti aveva cercato di sottometterlo, ma una parte dei suoi ufficiali si era rifiutata di obbedire sostenendo di non voler una nuova guerra civile.", "zh": "赵恒惕曾试图收服他，但他的一部分军官拒不服从，声称不愿再打内战。", "head": false, "audio": "audio/11/s010.mp3", "audio_zh": "audio/11/zs010.mp3"}, {"pid": "s011", "sec": 1, "it": "2. Nella letteratura buddista (e in generale indiana) molte opere sono composte da una", "zh": "2. 在佛教（以及一般的印度）典籍中，许多著作是由", "head": false, "audio": "audio/11/s011.mp3", "audio_zh": "audio/11/zs011.mp3"}, {"pid": "s012", "sec": 1, "it": "successione di aforismi o brevi sentenze dette sutra.", "zh": "一系列称为经文的格言或短句连缀而成的。", "head": false, "audio": "audio/11/s012.mp3", "audio_zh": "audio/11/zs012.mp3"}, {"pid": "s013", "sec": 1, "it": "3. Huang Ai e Pang Jen-chuan erano due diplomati dell’Istituto industriale Chiachung", "zh": "3. 黄爱和庞人铨两人是湖南甲种工业学校的毕业生。", "head": false, "audio": "audio/11/s013.mp3", "audio_zh": "audio/11/zs013.mp3"}, {"pid": "s014", "sec": 1, "it": "dello Hunan. Sotto l’influsso di idee anarchiche nel novembre 1920 organizzarono un sindacato, l’Associazione dei lavoratori. Nel 1921 si avvicinarono a Mao Tse-tung e al PCC. L’Associazione nel dicembre 1921 aveva un buon seguito tra i tessitori della filatura provinciale di cotone di Changsha che in occasione di uno sciopero delegarono Huang Ai e Pang Jen-chuan a trattare per loro con i proprietari. Questi corruppero il governo Chao Heng-ti con⁵⁰.000 yuan perché li facesse eliminare. Furono sequestrati la sera del¹⁶ gennaio 1922 appena usciti dalla sede delle trattative e uccisi la notte stessa. Il governatore sciolse anche l’Associazione e chiuse il suo periodico.", "zh": "他们在一九二〇年十一月受无政府主义思想的影响，组织了工会，名为劳工会。一九二一年，他们开始接近毛泽东和中国共产党。一九二一年十二月，劳工会在长沙的湖南第一纱厂工人中拥有相当的影响。当时纱厂工人举行罢工，推举黄爱和庞人铨为代表，同厂主进行谈判。厂主以五万元⁵贿赂了赵恒惕政府，要求将他们除掉。一九二二年一月十六日⁶晚，黄爱、庞人铨刚走出谈判地点，即遭逮捕，当夜被害。赵恒惕还解散了劳工会，查封了工会的刊物。", "head": false, "audio": "audio/11/s014.mp3", "audio_zh": "audio/11/zs014.mp3"}, {"pid": "s015", "sec": 1, "it": "4. Uno dei modi in cui i signori della guerra opprimevano e sfruttavano i contadini", "zh": "4. 军阀压迫和剥削农民的另一种方式，", "head": false, "audio": "audio/11/s015.mp3", "audio_zh": "audio/11/zs015.mp3"}, {"pid": "s016", "sec": 1, "it": "consisteva nell’esigere che pagassero subito oltre alle imposte relative all’anno in corso, anche le imposte relative a uno o più anni a venire. Si ha notizia di casi in cui furono riscosse le tasse relative ai dieci anni successivi, spogliando di fatto i contadini di tutto.", "zh": "是要求农民除缴纳当年的赋税外，立即预缴未来一年乃至数年的税款。据记载，有些地方甚至预收了往后十年的赋税，实际上把农民剥夺得一干二净。", "head": false, "audio": "audio/11/s016.mp3", "audio_zh": "audio/11/zs016.mp3"}, {"pid": "s017", "sec": 1, "it": "5. Signori della guerra della cricca del Fengtien. Wu Pei-fu si era da poco reso responsabile", "zh": "5. 奉系军阀。吴佩孚不久前制造了", "head": false, "audio": "audio/11/s017.mp3", "audio_zh": "audio/11/zs017.mp3"}, {"pid": "s018", "sec": 1, "it": "del massacro del⁷ febbraio: il⁷ febbraio 1923 aveva fatto sparare sui ferrovieri della Hankow-Chenchow in sciopero uccidendone trentacinque e ferendone molti altri.", "zh": "二七惨案：1923年⁷月7日，他下令向举行罢工的京汉铁路工人开枪，打死三十五人，打伤多人。", "head": false, "audio": "audio/11/s018.mp3", "audio_zh": "audio/11/zs018.mp3"}, {"pid": "s019", "sec": 1, "it": "Nell’ambito della lotta del popolo cinese per l’abolizione dei “trattati ineguali” i governi cinese (di Pechino) e britannico avevano aperto nel 1923 trattative sulla “concessione” di Weihaiwei nello Shantung che era scaduta.", "zh": "在中国人民废除“不平等条约”的斗争中，中国政府（北京政府）和英国政府于1923年就山东威海卫租借地（租期已满）问题进行谈判。", "head": false, "audio": "audio/11/s019.mp3", "audio_zh": "audio/11/zs019.mp3"}, {"pid": "s020", "sec": 1, "it": "Quello che segue è un articolo pubblicato sul numero³⁸ del periodico Settimanale guida, organo del PCC.", "zh": "以下是发表于《向导》周刊第³⁸期上的文章，该刊为中共中央机关刊物。", "head": false, "audio": "audio/11/s020.mp3", "audio_zh": "audio/11/zs020.mp3"}, {"pid": "s021", "sec": 1, "it": "I negoziati per la restituzione di Weihaiwei¹ sono arrivati al punto che presto verrà sottoscritto un trattato. Se si esclude il popolo dello Shantung, il popolo del resto del paese non si è ancora espresso in alcun modo su questa faccenda. Quale può essere la ragione di ciò? Può essere che il popolo della nazione è così preso dal movimento per la restituzione di Lushun e Talien² da avere dimenticato il movimento per la restituzione di Weihaiwei? O piuttosto è che il popolo sa molto bene come odiare il Giappone e invece non sa come odiare la Gran Bretagna? Può essere che conoscano soltanto l’aggressione dell’imperialismo giapponese contro la Cina ma non sappiano che l’aggressione conto la Cina dell’imperialismo britannico è stata ancora peggiore di quella dell’imperialismo giapponese?", "zh": "收回威海卫¹的谈判已经进行到即将签约的程度。除了山东人民之外，全国其余各地的人民对这件事情尚未发表任何意见。这是什么缘故呢？难道全国人民正忙于收回旅顺、大连²的运动，因而忘记了收回威海卫的运动吗？还是说人民深知如何仇恨日本，却不知如何仇恨英国呢？难道他们只知道日本帝国主义对中国的侵略，却不知道英国帝国主义对中国的侵略比日本帝国主义更甚吗？", "head": false, "audio": "audio/11/s021.mp3", "audio_zh": "audio/11/zs021.mp3"}, {"pid": "s022", "sec": 1, "it": "Gli uomini che portano avanti i negoziati su Weihaiwei sono: il commissario ispettore Liang Ju-hao e il suo assistente Chen Shao-tang. Durante un’assemblea dell’Associazione dei pechinesi residenti nello Shantung, Chen Shao-tang ha reso pubblica una lista dei crimini di Liang Ju-hao: “L’intenzione del commissario ispettore Liang è quella di strisciare davanti agli stranieri; ha  offerto loro un piano che permetterebbe ad essi di mantenere l’isola di Liukungtao. La restituzione di Weihaiwei è un problema di grandissima rilevanza dal punto di vista militare, ma il signor Liang ha intenzione di svendere il paese: egli è partito da una restituzione incondizionata, poi l’ha trasformata in un affitto e infine in un affitto permanente.", "zh": "办理威海卫交涉的人员，是督办梁如浩和他的助手陈绍唐。在北京山东同乡会的一次集会上，陈绍唐公布了梁如浩的罪状清单：“梁督办之意，在于向外国人卑躬屈膝；他向外国人提出了一项允许他们继续占据刘公岛的计划。收回威海卫在军事上是关系极其重大的问题，但梁先生却意图出卖国家：他起初主张无条件收回，后来变成租借，最后又变成永久租借。”", "head": false, "audio": "audio/11/s022.mp3", "audio_zh": "audio/11/zs022.mp3"}, {"pid": "s023", "sec": 1, "it": "Può essere una cosa sola, che egli sta ottenendo qualcosa in cambio, che egli ha in mente di ricavarne un tornaconto personale [...]. Il signor Liang non voleva che io sventassi il complotto da lui ordito per svendere il paese; prima tentò di arrivare a un accordo con me attraverso intermediari, offrendomi denaro per portarmi dalla sua parte; egli mi fece sapere che tutte le mie spese sarebbero state rimborsate con fondi pubblici e anche altro, che tutti gli svariati benefici che sarebbero stati ottenuti dopo la firma del trattato potevano anche essere divisi fra noi. A seguito dei miei ripetuti rifiuti e, ancora di più, alla mia minaccia di rivelare pubblicamente il suo piano, il signor Liang si rese conto che non avrei ceduto in cambio di benefici economici e passò quindi alle minacce. Quando lo scontro", "zh": "或许是唯一的一种，就是他从中得到了什么，就是他心里打着捞取个人好处的主意[……]。梁先生不愿我揭穿他密谋出卖国家的勾当；起初他通过中间人同我交涉，拿钱收买我，让我站到他一边；他让人告诉我，我的一切费用都将由公款偿付，此外还另有所得，签约后所得的各种利益也可以由我们分享。在我屡次拒绝之后，更在我威胁要公开揭露他的计划之后，梁先生才看出我不会为经济利益所收买，于是便转而进行威胁。当这场斗争", "head": false, "audio": "audio/11/s023.mp3", "audio_zh": "audio/11/zs023.mp3"}]};
+window.__GRIMM_STORIES__['11'] = {
+  "id": "11",
+  "title_it": "La costituzione provinciale Sutra e Chao Heng-ti (15 agosto 1923)",
+  "title_zh": "《省宪法》与赵恒惕（1923年8月15日）",
+  "paras": [
+    {
+      "pid": "s001",
+      "sec": 1,
+      "it": "(15 agosto 1923) un’organizzazione dei lavoratori, ma gli individui che a titolo personale vennero alla manifestazione non erano altro che alcuni loro intimi amici. Essi allora si agitarono molto e mandarono gente da tutte le parti, come per esempio all’Asso-ciazione dei lavoratori cinesi, che è stata sempre diretta da banditi, al Tempio della salvezza e al Tempio del “Budda che tiene un discorso”.",
+      "zh": "(1923年8月15日)一个工人组织，而以个人名义来参加游行的，不过是他们几个至亲密友而已。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s002",
+      "sec": 1,
+      "it": "Pagando⁵⁰ centesimi a testa e offrendo rinfreschi riuscirono a racimolare 120 o 130 persone e a mezzogiorno cominciarono la loro manifestazione. Prima di partire, tennero una riunione nella sala di proiezione dell’Associazione di educazione con un gruppo di circa 120 o 130 persone tra monaci buddisti e mendicanti.",
+      "zh": "于是他们大肆活动，四处派人拉人，例如到中国劳工协会——这个协会一向由流氓把持——到救世堂，又到\"讲经佛寺\"。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s003",
+      "sec": 1,
+      "it": "L’incontro si svolse nel modo seguente.",
+      "zh": "他们每人出五十分钱⁵⁰，并供应茶点，总算凑集了一百二三十人，中午时分开始了他们的游行。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s004",
+      "sec": 1,
+      "it": "Il monaco Chih-pei ringraziò i partecipanti e fece un discorso sul senso della riunione che potrebbe essere riassunto nel seguente modo: sarebbe meglio che la Costituzione provinciale venisse chiamata Costituzione provinciale  sutra², proprio come i buddisti hanno le loro sutra  buddiste...",
+      "zh": "出发前，他们在一百二三十名佛教徒和乞丐中召集了一次集会，地点在教育协会的电影厅内。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s005",
+      "sec": 1,
+      "it": "Le mani dei monaci e dei mendicanti si scatenarono in un applauso frenetico.",
+      "zh": "集会进行的情况如下：智培法师向与会者致谢，并就集会的意义发表演说，其大旨可归纳如下：省宪法最好叫作省宪经²，正如佛教徒有他们的佛经一样……众僧与乞丐的双手爆发出疯狂的掌声。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s006",
+      "sec": 1,
+      "it": "Quando la riunione finì, si prepararono per la manifestazione.",
+      "zh": "集会结束后，众人准备游行。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s007",
+      "sec": 1,
+      "it": "In testa posero due grossi striscioni, con scritto sul primo “Associazione per il mantenimento della Costitu-zione provinciale” e sull’altro “Grande riunione di petizione dei cittadini della provincia”.",
+      "zh": "队伍最前面打着两幅大横幅，一幅写着\"拥护省宪协会\"，另一幅写着\"全省公民请愿大会\"。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s008",
+      "sec": 1,
+      "it": "Seguivano un primo gruppo di manifestanti (la piccola nobiltà locale, sia quella con le vesti lunghe sia quella con le giacchette corte, come rappresentanti autorevoli del popolo della provincia), circa²⁰ o³⁰ persone in tutto; un secondo gruppo di manifestanti, l’Associazione dei lavoratori cinesi, circa⁵ o⁶ persone; un terzo gruppo di manifestanti, la delegazione del Tempio del “Budda che tiene un discorso” con le loro lucide teste pelate e ampi vestiti, circa⁴⁰ o⁵⁰ persone; un quarto gruppo di manifestanti, provenienti dal Tempio della salvezza, circa⁴⁰ persone.",
+      "zh": "随后是第一队游行者（当地的士绅，无论是穿长袍的还是穿短褂的，都算是本省民众的权威代表），总共约²⁰二³⁰三十人；第二队游行者是中国劳工协会，约⁵五⁶六人；第三队游行者是\"讲经佛寺\"的代表团，一个个光头锃亮，宽袍大袖，约⁴⁰四⁵⁰五十人；第四队游行者来自救世堂，约⁴⁰四十人。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s009",
+      "sec": 1,
+      "it": "Com’erano belli con tutti quei colori e quelle divise! ...",
+      "zh": "他们有那么多的色彩和制服，多么漂亮啊！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s010",
+      "sec": 1,
+      "it": "Quelli che hanno messo in piedi questa orribile sceneggiata sono veramente bravi a mettere in scena farse.",
+      "zh": "…… 搭起这座可怕舞台的人，实在善于上演丑剧。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s011",
+      "sec": 1,
+      "it": "Ci siamo sempre opposti a una federazione di province autonome perché di fatto essa non sarebbe una federazione di province autonome, ma una federazione di governatori militari di feudi privati; ci siamo sempre opposti al furto del nome di Costituzione provinciale  da parte di signori della guerra e politicanti corrotti perché queste “costituzioni provinciali” non danno alcuna garanzia al popolo, mascherano solo la lotta per il potere e il privilegio tra signori della guerra e politicanti corrotti.",
+      "zh": "我们一向反对联省自治，因为它实际上不会是什么联省自治，而只是军阀私有采邑的联合；我们一向反对军阀和腐败政客盗用省宪的名义，因为这些“省宪”不给人民任何保障，只是掩盖军阀和腐败政客之间争夺权力和特权的斗争。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s012",
+      "sec": 1,
+      "it": "La provincia dello Hunan è una delle prove migliori di ciò.",
+      "zh": "湖南省就是这方面最好的例证之一。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s013",
+      "sec": 1,
+      "it": "Chao Heng-ti è ora diventato l’imponente “protettore della Costituzione”, ma negli ultimi due anni, vale a dire da quando abbiamo la Costituzione provinciale, egli ha continuato a massacrare i lavoratori (Huang Ai, Pang Jen-chuan e altri³), ha continuato a chiudere giornali (Ta Kung Pao, Chihchih Hsin Pao, Hsin Hsiang Pao), ha privato il popolo della libertà di stampa (i censori alla posta e al telegrafo non sono mai stati ritirati nemmeno per un giorno), ha privato il popolo della libertà di organizzazione e di riunione (egli ha chiuso il Sindacato dei tiratori di risciò, il Sindacato dei mugnai e la Società dei sostenitori della politica estera; egli ha proibito molte volte riunioni di studenti e lavoratori); ha coperto le malefatte delle sue truppe permettendo loro di coltivare e vendere oppio, ha comprato le elezioni (ha mandato i suoi sottoposti ad alterare i risultati elettorali nel voto sulla Costituzione provinciale), ha usato denaro per creare una sua Assemblea provinciale e per comprare il governatorato civile, ha estorto “contributi” ai commercianti (il capo della Camera generale di commercio è stato costretto a fuggire molte volte); ha incassato in anticipo le tasse dai contadini⁴ (in alcuni distretti ha già raccolto le tasse per il 1928); ha manipolato il bilancio legalmente approvato riducendo le spese per l’educazione e l’industria e aumentando quelle militari; si è alleato con Wu Pei-fu e Hsia Yao-nan⁵.",
+      "zh": "赵恒惕如今俨然成了了不起的“省宪保护者”，但近两年来，自从我们有了省宪法，他继续屠杀工人（黄爱、庞人铨等人³），继续封闭报馆（《大公报》、《自治新报》、《新湘报》），剥夺人民的出版自由（邮电检查机关一天也没有撤消过），剥夺人民的集会结社自由（他封闭了人力车工会、磨坊工会以及外交后援会；他多次禁止学生集会与工人集会）；他庇护他的军队为非作歹，容许他们种植和贩卖鸦片；他操纵选举（派遣亲信在省宪投票时更改选举结果）；他花钱制造自己的省议会，又花钱购买省长公署；他向商人勒索“捐款”（总商会会长曾多次被迫逃亡）；他向农民预征钱粮⁴（有的县已预征到1928年）；他操纵法定预算，削减教育与实业经费，增加军费；他勾结吴佩孚、夏耀南⁵。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s014",
+      "sec": 1,
+      "it": "Quale di queste cose non rappresenta l’azione di un nemico del popolo attuata nascondendosi dietro la Costituzione provinciale!",
+      "zh": "这些事情，哪一件不是假借省宪名义干出来的残害人民的勾当！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s015",
+      "sec": 1,
+      "it": "Adesso ha ritirato le truppe e ha mobilitato le masse, ma solo a causa della sua contesa con Tsai Chu-yu per i proventi della tassa dell’oppio (la cosiddetta “tassa speciale”).",
+      "zh": "他现在撤走了军队，动员群众，但这只不过是因为他与蔡钜猷争夺鸦片税（所谓\"特税\"）收入的斗争所致。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s016",
+      "sec": 1,
+      "it": "Chao Heng-ti, questa bestia crudele e portatrice di diecimila disgrazie, sta ancora, naturalmente, gridando “Proteggete la Costituzione” e sfruttando il nome della Costituzione.",
+      "zh": "赵恒惕这头残忍万分、带来无穷灾难的野兽，自然还在打着\"拥护省宪\"的旗号，利用省宪的名义。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s017",
+      "sec": 1,
+      "it": "È veramente uno svergognato assassino degli abitanti dello Hunan!",
+      "zh": "他真是一个屠杀湖南人民的寡廉鲜耻的凶手！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s018",
+      "sec": 1,
+      "it": "La Costituzione provinciale  sutra e Chao Heng-ti NOTE",
+      "zh": "上述省宪与赵恒惕 注",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s019",
+      "sec": 1,
+      "it": "1..Lo Hunan occidentale era ancora dominato dal signore della guerra Tsai Chu-yu, agli",
+      "zh": "1. 当时湖南西部仍由军阀蔡钜猷统治，他的军",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s020",
+      "sec": 1,
+      "it": "ordini del notabile Tan Yen-kai che Chao Heng-ti aveva spodestato nel novembre 1920.",
+      "zh": "谭延闿1920年11月被赵恒惕推翻后发布的命令。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s021",
+      "sec": 1,
+      "it": "Chao Heng-ti aveva cercato di sottometterlo, ma una parte dei suoi ufficiali si era rifiutata di obbedire sostenendo di non voler una nuova guerra civile.",
+      "zh": "赵恒惕曾试图收服他，但他的一部分军官拒不服从，声称不愿再打内战。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s022",
+      "sec": 1,
+      "it": "2..Nella letteratura buddista (e in generale indiana) molte opere sono composte da una",
+      "zh": "2. 在佛教（以及一般的印度）典籍中，许多著作是由",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s023",
+      "sec": 1,
+      "it": "successione di aforismi o brevi sentenze dette sutra.",
+      "zh": "一系列称为经文的格言或短句连缀而成的。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s024",
+      "sec": 1,
+      "it": "3..Huang Ai e Pang Jen-chuan erano due diplomati dell’Istituto industriale Chiachung",
+      "zh": "3. 黄爱和庞人铨两人是湖南甲种工业学校的毕业生。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s025",
+      "sec": 1,
+      "it": "dello Hunan.",
+      "zh": "他们在一九二〇年十一月受无政府主义思想的影响，组织了工会，名为劳工会。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s026",
+      "sec": 1,
+      "it": "Sotto l’influsso di idee anarchiche nel novembre 1920 organizzarono un sindacato, l’Associazione dei lavoratori.",
+      "zh": "一九二一年，他们开始接近毛泽东和中国共产党。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s027",
+      "sec": 1,
+      "it": "Nel 1921 si avvicinarono a Mao Tse-tung e al PCC.",
+      "zh": "一九二一年十二月，劳工会在长沙的湖南第一纱厂工人中拥有相当的影响。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s028",
+      "sec": 1,
+      "it": "L’Associazione nel dicembre 1921 aveva un buon seguito tra i tessitori della filatura provinciale di cotone di Changsha che in occasione di uno sciopero delegarono Huang Ai e Pang Jen-chuan a trattare per loro con i proprietari.",
+      "zh": "当时纱厂工人举行罢工，推举黄爱和庞人铨为代表，同厂主进行谈判。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s029",
+      "sec": 1,
+      "it": "Questi corruppero il governo Chao Heng-ti con⁵⁰.000 yuan perché li facesse eliminare.",
+      "zh": "厂主以五万元⁵贿赂了赵恒惕政府，要求将他们除掉。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s030",
+      "sec": 1,
+      "it": "Furono sequestrati la sera del¹⁶ gennaio 1922 appena usciti dalla sede delle trattative e uccisi la notte stessa.",
+      "zh": "一九二二年一月十六日⁶晚，黄爱、庞人铨刚走出谈判地点，即遭逮捕，当夜被害。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s031",
+      "sec": 1,
+      "it": "Il governatore sciolse anche l’Associazione e chiuse il suo periodico.",
+      "zh": "赵恒惕还解散了劳工会，查封了工会的刊物。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s032",
+      "sec": 1,
+      "it": "4..Uno dei modi in cui i signori della guerra opprimevano e sfruttavano i contadini",
+      "zh": "4. 军阀压迫和剥削农民的另一种方式，",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s033",
+      "sec": 1,
+      "it": "consisteva nell’esigere che pagassero subito oltre alle imposte relative all’anno in corso, anche le imposte relative a uno o più anni a venire.",
+      "zh": "是要求农民除缴纳当年的赋税外，立即预缴未来一年乃至数年的税款。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s034",
+      "sec": 1,
+      "it": "Si ha notizia di casi in cui furono riscosse le tasse relative ai dieci anni successivi, spogliando di fatto i contadini di tutto.",
+      "zh": "据记载，有些地方甚至预收了往后十年的赋税，实际上把农民剥夺得一干二净。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s035",
+      "sec": 1,
+      "it": "5..Signori della guerra della cricca del Fengtien.",
+      "zh": "5. 奉系军阀。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s036",
+      "sec": 1,
+      "it": "Wu Pei-fu si era da poco reso responsabile",
+      "zh": "吴佩孚不久前制造了",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s037",
+      "sec": 1,
+      "it": "del massacro del⁷ febbraio: il⁷ febbraio 1923 aveva fatto sparare sui ferrovieri della Hankow-Chenchow in sciopero uccidendone trentacinque e ferendone molti altri.",
+      "zh": "二七惨案：1923年⁷月7日，他下令向举行罢工的京汉铁路工人开枪，打死三十五人，打伤多人。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s038",
+      "sec": 1,
+      "it": "Nell’ambito della lotta del popolo cinese per l’abolizione dei “trattati ineguali” i governi cinese (di Pechino) e britannico avevano aperto nel 1923 trattative sulla “concessione” di Weihaiwei nello Shantung che era scaduta.",
+      "zh": "在中国人民废除“不平等条约”的斗争中，中国政府（北京政府）和英国政府于1923年就山东威海卫租借地（租期已满）问题进行谈判。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s039",
+      "sec": 1,
+      "it": "Quello che segue è un articolo pubblicato sul numero³⁸ del periodico Settimanale guida, organo del PCC.",
+      "zh": "以下是发表于《向导》周刊第³⁸期上的文章，该刊为中共中央机关刊物。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s040",
+      "sec": 1,
+      "it": "I negoziati per la restituzione di Weihaiwei¹ sono arrivati al punto che presto verrà sottoscritto un trattato.",
+      "zh": "收回威海卫¹的谈判已经进行到即将签约的程度。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s041",
+      "sec": 1,
+      "it": "Se si esclude il popolo dello Shantung, il popolo del resto del paese non si è ancora espresso in alcun modo su questa faccenda.",
+      "zh": "除了山东人民之外，全国其余各地的人民对这件事情尚未发表任何意见。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s042",
+      "sec": 1,
+      "it": "Quale può essere la ragione di ciò?",
+      "zh": "这是什么缘故呢？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s043",
+      "sec": 1,
+      "it": "Può essere che il popolo della nazione è così preso dal movimento per la restituzione di Lushun e Talien² da avere dimenticato il movimento per la restituzione di Weihaiwei?",
+      "zh": "难道全国人民正忙于收回旅顺、大连²的运动，因而忘记了收回威海卫的运动吗？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s044",
+      "sec": 1,
+      "it": "O piuttosto è che il popolo sa molto bene come odiare il Giappone e invece non sa come odiare la Gran Bretagna?",
+      "zh": "还是说人民深知如何仇恨日本，却不知如何仇恨英国呢？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s045",
+      "sec": 1,
+      "it": "Può essere che conoscano soltanto l’aggressione dell’imperialismo giapponese contro la Cina ma non sappiano che l’aggressione conto la Cina dell’imperialismo britannico è stata ancora peggiore di quella dell’imperialismo giapponese?",
+      "zh": "难道他们只知道日本帝国主义对中国的侵略，却不知道英国帝国主义对中国的侵略比日本帝国主义更甚吗？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s046",
+      "sec": 1,
+      "it": "Gli uomini che portano avanti i negoziati su Weihaiwei sono: il commissario ispettore Liang Ju-hao e il suo assistente Chen Shao-tang.",
+      "zh": "办理威海卫交涉的人员，是督办梁如浩和他的助手陈绍唐。在北京山东同乡会的一次集会上，陈绍唐公布了梁如浩的罪状清单：“梁督办之意，在于向外国人卑躬屈膝；他向外国人提出了一项允许他们继续占据刘公岛的计划。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s047",
+      "sec": 1,
+      "it": "Durante un’assemblea dell’Associazione dei pechinesi residenti nello Shantung, Chen Shao-tang ha reso pubblica una lista dei crimini di Liang Ju-hao: “L’intenzione del commissario ispettore Liang è quella di strisciare davanti agli stranieri; ha  offerto loro un piano che permetterebbe ad essi di mantenere l’isola di Liukungtao.",
+      "zh": "收回威海卫在军事上是关系极其重大的问题，但梁先生却意图出卖国家：他起初主张无条件收回，后来变成租借，最后又变成永久租借。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s048",
+      "sec": 1,
+      "it": "La restituzione di Weihaiwei è un problema di grandissima rilevanza dal punto di vista militare, ma il signor Liang ha intenzione di svendere il paese: egli è partito da una restituzione incondizionata, poi l’ha trasformata in un affitto e infine in un affitto permanente.",
+      "zh": "”",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s049",
+      "sec": 1,
+      "it": "Può essere una cosa sola, che egli sta ottenendo qualcosa in cambio, che egli ha in mente di ricavarne un tornaconto personale [...].",
+      "zh": "或许是唯一的一种，就是他从中得到了什么，就是他心里打着捞取个人好处的主意[……]。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s050",
+      "sec": 1,
+      "it": "Il signor Liang non voleva che io sventassi il complotto da lui ordito per svendere il paese; prima tentò di arrivare a un accordo con me attraverso intermediari, offrendomi denaro per portarmi dalla sua parte; egli mi fece sapere che tutte le mie spese sarebbero state rimborsate con fondi pubblici e anche altro, che tutti gli svariati benefici che sarebbero stati ottenuti dopo la firma del trattato potevano anche essere divisi fra noi.",
+      "zh": "梁先生不愿我揭穿他密谋出卖国家的勾当；起初他通过中间人同我交涉，拿钱收买我，让我站到他一边；他让人告诉我，我的一切费用都将由公款偿付，此外还另有所得，签约后所得的各种利益也可以由我们分享。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s051",
+      "sec": 1,
+      "it": "A seguito dei miei ripetuti rifiuti e, ancora di più, alla mia minaccia di rivelare pubblicamente il suo piano, il signor Liang si rese conto che non avrei ceduto in cambio di benefici economici e passò quindi alle minacce.",
+      "zh": "在我屡次拒绝之后，更在我威胁要公开揭露他的计划之后，梁先生才看出我不会为经济利益所收买，于是便转而进行威胁。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s052",
+      "sec": 1,
+      "it": "Quando lo scontro",
+      "zh": "当这场斗争",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    }
+  ]
+};

@@ -1,1 +1,15217 @@
-window.__GRIMM_STORIES__['03'] = {"id": "03", "title_it": "Rivista del Fiume Hsiang (1919)", "title_zh": "《湘江评论》", "paras": [{"pid": "s001", "sec": 2, "it": "Presentazione", "zh": "《序言》", "head": true, "audio": "audio/03/s001.mp3", "audio_zh": "audio/03/zs001.mp3"}, {"pid": "s002", "sec": 2, "it": "Da quando è risuonato il grande appello alla rivoluzione mondiale¹, il movimento per l’emancipazione dell’umanità ha fatto enormi progressi. Problemi che la nostra gente non si era mai posta prima, metodi che non aveva mai usato, espressioni da cui era sempre rifuggita: oggi tutto questo sta cambiando dappertutto. L’indiscusso viene messo in discussione, ciò che non era mai stato impiegato viene impiegato, espressioni mai usate vengono proferite. Nessuna forza può fermare questa corrente. Nessuno può sottrarsi al suo influsso.", "zh": "自从世界革命的伟大号召发出¹以来，人类解放运动取得了巨大的进步。我国人民过去从未提出的问题，从未采用过的方法，一向回避的表达方式：今天这一切到处都在改变。毋庸置疑的事物受到了质疑，从未使用过的东西被使用起来，从未说过的言辞被说了出来。任何力量都无法阻挡这股潮流。任何人都无法逃避它的影响。", "head": false, "audio": "audio/03/s002.mp3", "audio_zh": "audio/03/zs002.mp3"}, {"pid": "s003", "sec": 2, "it": "Qual è al mondo il problema principale? Mangiare è senz’altro il problema", "zh": "世界上主要的问题是什么？吃饭无疑是问题\nRivista del Fiume Hsiang — numero 1 (14 luglio 1919)\n\nprincipale. Qual è la forza più potente? L’unione delle masse popolari è senz’altro la forza più potente. Di cosa non si deve avere paura? Non si deve avere paura del Cielo, dei diavoli, dei morti, dei burocrati, dei signori della guerra e dei capitalisti.\n\nNell’epoca del Rinascimento il pensiero si è liberato e da allora la questione “che genere di vita devono condurre gli uomini” si è posta come un problema centrale.\n\nIl problema è stato studiato e si è arrivati a varie conclusioni: uno dice che bisogna vivere in questo modo, un altro dice che bisogna vivere in quest’altro modo.\n\nUn certo numero di studiosi propugna una nuova strada e la gran massa della gente li segue: così siamo riusciti, o riusciremo in futuro, a cambiare il mondo in molti campi.\n\nIn campo religioso vi è stata la Riforma e come risultato abbiamo avuto la libertà di religione.\n\nNel campo della letteratura siamo passati da una letteratura dell’aristocrazia, una letteratura classica, una letteratura morta, alla letteratura della gente comune, una letteratura moderna, una letteratura viva. Nel campo della politica siamo passati da una politica autocratica al parlamentarismo, dalla rappresentanza di pochi alla rappresentanza di tutti. In campo sociale ci siamo mossi da una società tenebrosa dominata dal potere dispotico di classi minoritarie verso una società luminosa in cui tutta la gente può svilupparsi. Nel campo dell’istruzione siamo andati nella direzione dell’istruzione per la gente comune. In campo economico siamo andati nella direzione di un guadagno proporzionale al lavoro. Nel campo della filosofia siamo andati in direzione del metodo sperimentale. Nel campo delle relazioni internazionali siamo arrivati alla Lega delle Nazioni.\n\nTutti questi cambiamenti possono essere riassunti in un’unica espressione: “emancipazione dall’autorità”. La concezione base di queste varie forme di resistenza all’autorità è il democraticismo. L’autorità non può più resistere in nessun campo: nella religione, nell’educazione, nell’economia, in filosofia, nelle relazioni internazionali.\n\nTutti questi campi devono essere messi a soqquadro in nome del democraticismo.\n\nCi sono due teorie circa il metodo da seguire per rovesciare l’autorità, una radicale, l’altra moderata. Dobbiamo scegliere tra questi due metodi.\n湘江评论——第1号（1919年7月14日）\n主要之点。什么力量最强？民众的大联合，毫无疑问是最强的力量。什么不可怕？天不可怕，鬼不可怕，死人不可怕，官僚不可怕，军阀不可怕，资本家不可怕。\n\n文艺复兴时代，思想得到解放，自此以后，\"人生应当怎样生活\"的问题，便成为中心问题。\n\n这个问题经过研究，得出了种种结论：一个人说应当这样生活，另一个人说应当那样生活。\n\n若干学者倡导一条新路，广大群众追随他们：于是我们已经在许多方面改变了世界，或者将来会改变世界。\n\n在宗教领域发生了宗教改革，其结果是我们获得了宗教信仰自由。\n\n在文学领域，我们从贵族文学、古典文学、死文学，走向平民文学、现代文学、活文学。在政治领域，我们从专制政治走向议会制，从少数人的代表走向全体人的代表。在社会领域，我们从少数阶级专制统治下的黑暗社会，走向人人都能得到发展的光明社会。在教育领域，我们走向平民教育的方向。在经济领域，我们走向按劳取酬的方向。在哲学领域，我们走向实验方法的方向。在国际关系领域，我们达到了国际联盟。\n\n所有这些变化，可以用一个说法来概括：\"摆脱权威的束缚\"。这些反抗权威的种种形式的基本观念，就是民主主义。权威在任何一个领域都不能再站得住脚了：在宗教、教育、经济、哲学、国际关系，都是如此。\n\n所有这些领域，都必须以民主主义的名义彻底加以颠覆。\n\n关于推翻权威所应采取的方法，有两种理论，一种是激进的，一种是温和的。我们必须在这两种方法之间作出选择。", "head": false, "audio": "audio/03/s003.mp3", "audio_zh": "audio/03/zs003.mp3"}, {"pid": "s004", "sec": 2, "it": "1. Riconosciamo che le persone che esercitano l’autorità sono anche loro", "zh": "一、我们承认，掌权的人也是人，与我们同属一类；", "head": false, "audio": "audio/03/s004.mp3", "audio_zh": "audio/03/zs004.mp3"}, {"pid": "s005", "sec": 2, "it": "uomini, che sono del nostro stesso genere; che essi abusano dell’autorità perché non si rendono conto del male che fanno e così fanno del male anche a loro stessi; che il loro comportamento è il risultato dell’influenza e dei guasti della vecchia società e del vecchio modo di pensare.", "zh": "他们滥用权威，是因为他们意识不到自己行为的害处，因而也害了他们自己；他们的行为是旧社会和旧思想的影响与流弊造成的。", "head": false, "audio": "audio/03/s005.mp3", "audio_zh": "audio/03/zs005.mp3"}, {"pid": "s006", "sec": 2, "it": "2. Impieghiamo l’autorità per abbattere l’autorità. Il risultato è che ciò che", "zh": "二、我们以权威去推翻权威，结果所得到的仍然是权威。", "head": false, "audio": "audio/03/s006.mp3", "audio_zh": "audio/03/zs006.mp3"}, {"pid": "s007", "sec": 2, "it": "otteniamo è ancora autorità. Questo metodo non solo è contraddittorio in se stesso ma è anche privo di ogni efficacia.", "zh": "这种方法不但自相矛盾，而且毫无效力。", "head": false, "audio": "audio/03/s007.mp3", "audio_zh": "audio/03/zs007.mp3"}, {"pid": "s008", "sec": 2, "it": "La guerra tra gli Imperi Centrali e l’Intesa e, in Cina, la guerra tra il nord e il sud sono esempi di questo secondo metodo.", "zh": "协约国与中央帝国之间的战争，以及中国南北之间的战争，就是这种第二种方法的例子。", "head": false, "audio": "audio/03/s008.mp3", "audio_zh": "audio/03/zs008.mp3"}, {"pid": "s009", "sec": 2, "it": "Questo è il nostro parere. In campo accademico riteniamo che si debbano compiere studi più profondi. Bisogna cercare la verità superando i limiti rappresentati dalla tradizione e dalla superstizione. Per quanto concerne i rapporti tra gli uomini, riteniamo che sia necessaria l’unione delle masse per lanciare “campagne di messa in guardia” di lunga durata verso l’autorità, per portare avanti una “rivoluzione di grida” (grida per il pane, grida per l’uguaglianza), una rivoluzione incruenta, una rivoluzione che non arrivi a creare grandi disordini e non arrivi a inutili “rivoluzioni di bombe” e “rivoluzioni sanguinose”.", "zh": "这就是我们的主张。在学术方面，我们认为应当进行更深入的研究。必须冲破传统和迷信的束缚，寻求真理。就人与人之间的关系而言，我们认为必须联合群众，对权势者进行持久的“警告运动”，开展一场“呼声革命”（为面包而呼号，为平等而呼号）——一场不流血的革命，一场不造成大乱的革命，一场不至于酿成无谓的“炸弹革命”和“流血革命”的革命。", "head": false, "audio": "audio/03/s009.mp3", "audio_zh": "audio/03/zs009.mp3"}, {"pid": "s010", "sec": 2, "it": "Un problema particolarmente pressante per noi è costituito dai soprusi del Giappone. Il metodo più efficace, sia diretto che indiretto, per opporsi ai soprusi del Giappone sta nello sciopero degli studenti, nella chiusura dei negozi, negli scioperi operai, nel boicottaggio delle merci giapponesi.", "zh": "对我们来说，特别迫切的问题是日本的压迫。反对日本压迫的最有效方法，无论是直接的还是间接的，就是学生罢课、商店罢市、工人罢工和抵制日货。", "head": false, "audio": "audio/03/s010.mp3", "audio_zh": "audio/03/zs010.mp3"}, {"pid": "s011", "sec": 2, "it": "Il fiume Hsiang scorre nella parte orientale dell’emisfero orientale della terra.", "zh": "湘江流经地球东半球的东部。", "head": false, "audio": "audio/03/s011.mp3", "audio_zh": "audio/03/zs011.mp3"}, {"pid": "s012", "sec": 2, "it": "Le sue acque sono limpide, il suo corso è assai lungo. Coloro che abitano sulle terre bagnate da questo fiume sono ignoranti e non sono molto addentro alle cose del mondo. Essi non vivono in una società organizzata, ma vivono sparsi e isolati e ciascuno si occupa dei propri affari. Conoscono solo ciò che li riguarda personalmente, vedono soltanto ciò che è loro vicino nel senso più stretto della parola; si occupano solo dell’immediato, senza lungimiranza e prospettiva e non si sono mai neppure sognati di vivere assieme né di spingersi un po’ più in là con le proprie azioni. In politica non sanno affrontare i problemi in modo da arrivare a una composizione e a soluzioni definitive: si limitano a beghe personali. Un gruppo di insegnanti burocrati, sterili e rinsecchiti, domina stabilmente la scuola, la considera come una sorta di carcere e tratta gli studenti come dei prigionieri.", "zh": "河水清澈，流程绵长。居住在这条河流两岸土地上的人愚昧无知，对世事所知甚少。他们不是生活在有组织的社會之中，而是零散孤立，各自营生。他们只知道与自己切身相关的事情，只看得见最狭义的身边事物；只顾眼前，没有远见和眼光，甚至从未梦想过共同生活，也从未梦想过把自己的行动推进一步。在政治方面，他们不懂得如何着手处理问题以达成妥协和最终的解决：只是斤斤于个人间的琐屑纠纷。一群昏庸、干瘪、迂腐的学究，牢牢地支配着学校，把学校视为一种监狱，把学生当作囚犯。", "head": false, "audio": "audio/03/s012.mp3", "audio_zh": "audio/03/zs012.mp3"}, {"pid": "s013", "sec": 2, "it": "Gli hunanesi, nella loro grande maggioranza, hanno sviluppato poco o niente l’industria. Tra di loro ci sono persone capaci che hanno studiato all’estero e in diverse regioni del paese sia materie scientifiche che artistico-letterarie. Ma non hanno mai avuto l’occasione di mettere in pratica il loro talento. Ogni loro sforzo è stato completamente bloccato, come le acque del lago Tungting² sono bloccate dalle chiuse. Tra di loro è forte anche il regionalismo: si attengono alla linea “il riso dello Hunan deve restare agli hunanesi” e il mondo scolastico e industriale dello Hunan non assorbe molte persone che vengono da fuori provincia. Il loro pensiero è debole e corrotto.", "zh": "湖南人绝大多数几乎没有发展工业。其中有些人到国外和国内各地区学过科学以及艺术文学等科。但他们从来没有机会施展自己的才能。他们的一切努力都被完全堵死了，正如洞庭湖²的水被闸坝堵住一样。他们中间地方主义也很强烈：恪守“湖南的米应当归湖南人”这一信条，湖南的教育界和实业界不愿大量吸收外省来的人。他们的思想脆弱而腐败。", "head": false, "audio": "audio/03/s013.mp3", "audio_zh": "audio/03/zs013.mp3"}, {"pid": "s014", "sec": 2, "it": "C’è un bisogno bruciante di riforme ma nessuno prende l’iniziativa. I giovani che studiano sono numerosi e capaci, ma nessuno li stimola con un metodo efficace per apprendere cose nuove e utili sia in campo scientifico che artisticoletterario. Ahimè! Fiume Hsiang, fiume Hsiang! Che esistenza inutile conduci sulla terra!", "zh": "改革的迫切需要已经到了极点，却无人首先发起。求学青年众多且有才干，却无人以有效的方法来激励他们学习科学、文学艺术方面的新知和有用知识。唉！湘江！湘江！你在世上过着何等无用的生活！", "head": false, "audio": "audio/03/s014.mp3", "audio_zh": "audio/03/zs014.mp3"}, {"pid": "s015", "sec": 2, "it": "Ma il momento giusto è arrivato! La grande marea mondiale si è fatta più forte!", "zh": "但是时机已经成熟！世界的大潮已经变得更为强大！", "head": false, "audio": "audio/03/s015.mp3", "audio_zh": "audio/03/zs015.mp3"}, {"pid": "s016", "sec": 2, "it": "Le chiuse del lago Tungting cominciano ad aprirsi. Sono finalmente aperte! La vasta e ribollente corrente del nuovo pensiero si riversa in una sequenza inarrestabile di ondate sulle due rive del fiume Hsiang! Seguire questa corrente è la vita, opporvisi è la morte. Come accogliere questa corrente? Come propagarla?", "zh": "洞庭湖的闸门正在打开。终于打开了！新思想的广阔而汹涌的巨流，以不可阻挡的排山倒海之势，冲向湘江两岸！顺这潮流而生，逆这潮流而死。如何迎接这潮流？如何传播这潮流？", "head": false, "audio": "audio/03/s016.mp3", "audio_zh": "audio/03/zs016.mp3"}, {"pid": "s017", "sec": 2, "it": "Come studiarla? Ecco il problema principale e più urgente di tutti noi che abitiamo lungo le rive del fiume Hsiang. Questi sono gli obiettivi che la Rivista del fiume Hsiang intende perseguire, iniziando la sua strada nel mondo.", "zh": "如何研究这潮流？这便是我们所有居住在湘江两岸的人们面临的最主要、最迫切的问题。这正是《湘江评论》将要努力追求的目标，它由此开始走上世间的道路。", "head": false, "audio": "audio/03/s017.mp3", "audio_zh": "audio/03/zs017.mp3"}, {"pid": "s018", "sec": 3, "it": "COMMENTO DEI PRINCIPALI AVVENIMENTI DELL’OCCIDENTE", "zh": "《西方大事记评》", "head": true, "audio": "audio/03/s018.mp3", "audio_zh": "audio/03/zs018.mp3"}, {"pid": "s019", "sec": 3, "it": "L’ondata di scioperi nei vari paesi Governanti e finanzieri francesi, inglesi e americani sono attualmente impegnati, nel corso della Conferenza di pace di Parigi, ad affrontare pesantemente la Germania e l’Austria già sconfitte. Nel momento in cui essi sono incredibilmente soddisfatti, nei loro paesi ha luogo un’ondata di scioperi. Nei loro paesi è cosa che si verifica di frequente. I governi e le oligarchie finanziarie non osano non tenere in alcun conto i lavoratori. Ogni qualvolta i lavoratori ricevono un salario che non corrisponde al lavoro effettivamente svolto o hanno un orario di lavoro troppo lungo o non dispongono di abitazioni decenti o una volta disoccupati non hanno dove andare o si trovano di fronte a problemi che suscitano rabbia e insoddisfazione, allora si uniscono con chi ha i loro stessi problemi, scendono in sciopero e in quel momento i governi e le oligarchie finanziarie non possono fare a meno di mostrare nei loro confronti un po’ di considerazione. Proprio come quando i bambini piangono per la fame e gli adulti, di fronte alla loro disperazione, non possono fare a meno di dare loro una focaccina con il viso atteggiato a un sorriso.", "zh": "各国罢工浪潮", "head": false, "audio": "audio/03/s019.mp3", "audio_zh": "audio/03/zs019.mp3"}, {"pid": "s020", "sec": 3, "it": "目前，法国、英国的统治者和金融家，正在巴黎和会上，对已经战败的德国和奥地利加以沉重的压迫。正当他们得意忘形的时候，他们国内却发生了罢工浪潮。这种事在他们国内原是常有的。政府和金融寡头不敢不理会工人。每逢工人所得的工资同实际所做的工作不相称，或者工作时间过长，或者没有适当的住所，或者一旦失业便没有去处，或者遇到令人愤怒和不满的问题，便同有着同样问题的人联合起来，举行罢工；到了这个时候，政府和金融寡头就不能不对他们表示一点照顾。正如小孩子因为饥饿而啼哭的时候，大人面对着他们的哭脸，不能不给一点饼食，装出一点笑容一样。", "zh": "", "head": false, "audio": "audio/03/s020.mp3", "audio_zh": "audio/03/zs020.mp3"}, {"pid": "s021", "sec": 3, "it": "Tuttavia, ciò non è altro che cercare di spegnere con un bicchier d’acqua un carro di fieno che brucia e naturalmente è un metodo che non funziona affatto. D’altra parte ci sono i rivoluzionari che sgridano gli operai inglesi e francesi perché non vedono al di là del proprio naso. Infatti non è certo possibile prendere un pezzo di carne dalla bocca della tigre.", "zh": "然而，这不过是想用一杯水去扑灭一整车燃烧的干草，自然是一种毫无效验的方法。另一方面，有些革命家却呵斥英国和法国的工人，说他们鼠目寸光。其实要叫工人从老虎嘴里取下一块肉来，自然是做不到的。", "head": false, "audio": "audio/03/s021.mp3", "audio_zh": "audio/03/zs021.mp3"}, {"pid": "s022", "sec": 3, "it": "Questa volta, l’ondata di scioperi che si è verificata in diversi paesi non ha interessato l’Inghilterra per il semplice fatto che subito dopo la fine della guerra (nel dicembre dello scorso anno) proprio in Inghilterra e in Scozia si erano avuti scioperi nei settori dei trasporti, dei combustibili, delle miniere e marittimo. Per questo motivo non si sono avuti ora scioperi in Inghilterra. La situazione in Francia, per quanto riguarda gli scioperi, all’inizio era grave. Il tutto si è risolto con la concessione di piccoli benefici e lo sciopero non ha sortito risultati apprezzabili.", "zh": "这一次，在几个国家掀起的罢工浪潮没有波及英国，其原因很简单：正是在去年十二月战争刚结束的时候，英国本土和苏格兰的运输、燃料、矿业和海运等部门就举行过罢工。所以现在英国没有发生罢工。法国的罢工形势，起初很严重，最后以给予些微小的好处而告解决，没有取得任何显著的结果。", "head": false, "audio": "audio/03/s022.mp3", "audio_zh": "audio/03/zs022.mp3"}, {"pid": "s023", "sec": 3, "it": "Si dice che i rivoluzionari, approfittando di quest’occasione, abbiano messo in piedi un movimento politico, ma non si riesce a vedere nulla di concreto.", "zh": "据说革命者趁此机会进行了一场政治运动，但实际上看不到什么具体的东西。", "head": false, "audio": "audio/03/s023.mp3", "audio_zh": "audio/03/zs023.mp3"}, {"pid": "s024", "sec": 3, "it": "In America gli scioperi del personale dei telegrafi e dei telefoni hanno l’obiettivo di appoggiare quei parlamentari, che sono la maggioranza, che al Congresso si oppongono all’entrata dell’America nella Società delle Nazioni. Il fine è dunque diverso rispetto a ciò che si propongono di raggiungere gli scioperi in Francia e in Inghilterra. In Italia gli scioperi vengono usati dal partito socialista per andare contro il governo. In Germania, lo scorso inverno, la minoranza del partito socialista ha subito una grave sconfitta in seguito alla quale gli scioperi verificatisi in diversi posti non hanno ottenuto risultati apprezzabili. La maggioranza del partito socialista, da quando ha in mano il potere, fa come la cicala che quando è autunno inoltrato non osa più cantare. Questa volta sulla questione della firma del trattato di pace esisteva una concreta possibilità di dare vita a uno sciopero.", "zh": "在美国，电报和电话职工的罢工，其目的是支持那些在国会中反对美国加入国际联盟的占多数的议员。所以美国罢工的目的与法国、英国不同。在意大利，社会党利用罢工来反对政府。在德国，社会党少数派在去年冬天遭到严重失败，此后各地发生的罢工没有取得显著成绩。社会党多数派当政之后，犹如深秋的寒蝉，不敢再鸣了。这一次，在签订和约问题上，本来确实有可能发动一次罢工。", "head": false, "audio": "audio/03/s024.mp3", "audio_zh": "audio/03/zs024.mp3"}, {"pid": "s025", "sec": 3, "it": "Ma il Gabinetto Scheidemann è caduto e il suo successore Bauer dice le stesse cose; e se è vero che non ha forza sufficiente per opporsi alle vessazioni che vengono dall’estero, tuttavia la forza che ha è più che sufficiente per prevenire disordini interni e quindi chi avrà il coraggio di rivoltarsi? I rivoluzionari non hanno per ora la possibilità di dar vita a una strategia politica decisa. Non è pertanto strano che lo sciopero non abbia avuto modo di andare a buon fine. Gli scioperi hanno avuto grande importanza in Ungheria, a causa della scarsità dei generi alimentari. Ora affronteremo dettagliatamente la situazione degli scioperi verificatisi nei diversi paesi, da un mese a questa parte.", "zh": "但是谢德曼内阁已经垮台，继任的鲍尔也说着同样的话；如果说他确实没有足够的力量来反对来自外国的压迫，那么他现有的力量却绰绰有余，足以防止国内的骚乱，这样一来，谁还敢起来反抗呢？革命者目前还没有可能制定果断的政治策略。因此，罢工未能取得胜利也就不足为奇了。由于食品匮乏，罢工在匈牙利具有重要意义。下面我们将详细叙述近一个月来各国发生罢工的情况。", "head": false, "audio": "audio/03/s025.mp3", "audio_zh": "audio/03/zs025.mp3"}, {"pid": "s026", "sec": 3, "it": "Francia Il³ giugno ha inizio quest’ondata di scioperi che si diffonde rapidamente. In un quartiere parigino 200.000 operai e operaie hanno preso parte allo sciopero.", "zh": "法国 六月³日，这股罢工浪潮开始并迅速蔓延开来。在巴黎的一个区，有二十万男女工人参加了罢工。", "head": false, "audio": "audio/03/s026.mp3", "audio_zh": "audio/03/zs026.mp3"}, {"pid": "s027", "sec": 3, "it": "Le richieste sono diverse a seconda dei mestieri, ma la richiesta comune è la giornata lavorativa di otto ore. Il giorno⁴ i partecipanti allo sciopero sono ancora più numerosi; si calcola che il loro numero abbia raggiunto le 500.000 persone.", "zh": "要求因行业不同而各异，但共同的要求是八小时工作制。次日⁴，参加罢工的人数更多；估计其人数已达五十万人。", "head": false, "audio": "audio/03/s027.mp3", "audio_zh": "audio/03/zs027.mp3"}, {"pid": "s028", "sec": 3, "it": "Il giorno⁵ scendono in sciopero le lavandaie. I partecipanti sono via via sempre più numerosi. Il personale del metrò, dei tram, dei taxi decide di continuare lo sciopero. Gli operai del metrò chiedono un salario minimo di 450 franchi al mese (un franco corrisponde a⁴ tsiao, quindi 450 franchi corrispondono a 180 yuan); la pensione a cinquant’anni; il diritto dopo quindici anni di lavoro a ricevere una pensione. Il giorno⁷ a Parigi la situazione dello sciopero vede qualche miglioramento: nei settori metallurgico e dell’industria di macchinari tra operai e padroni si è raggiunto un accordo su alcuni punti. Il giorno¹¹ gli operai del settore metallurgico e del metrò riprendono il lavoro. Le autorità hanno già trovato il mezzo per far fronte allo sciopero dei ferrovieri. Tuttavia si intravede la possibilità per gli operai del settore minerario di dar vita a uno sciopero generale. Il giorno¹² il parlamento ha approvato la richiesta della giornata lavorativa di otto ore. Ma tale decisione non soddisfa l’assemblea dei minatori che ha deciso lo sciopero generale a partire dal giorno¹⁶. Anche l’Unione dei marittimi ha deciso di entrare in sciopero il¹⁶. L’Unione degli operai afferma che il costo della vita è troppo alto (un giornalista riporta quanto ha sentito dire da una persona rientrata da Parigi: uno spazzolino da denti costa² franchi, un paio di scarpe di cuoio⁶⁰ franchi).", "zh": "那一天⁵，洗衣妇举行罢工。参加者越来越多。地铁、电车、出租汽车职工决定继续罢工。地铁工人要求每月最低工资450法郎（1法郎合⁴角，故450法郎合180元）；五十岁领取养老金；工作十五年后有权领取养老金。那一天⁷，巴黎罢工形势略有好转：在冶金和机械工业部门中，劳资双方已在某些问题上达成协议。那一天¹¹，冶金和地铁工人复工。当局已找到对付铁路工人罢工的办法。然而，矿业工人掀起总罢工的可能已见端倪。那一天¹²，议会通过了八小时工作日的要求。但此项决定不能满足矿工大会，大会决定自那一天¹⁶起举行总罢工。海员工会也决定于¹⁶日举行罢工。工人联合会称生活费用过高（一名记者转述一位自巴黎归来者的话：一把牙刷值²法郎，一双皮鞋⁶⁰法郎）。", "head": false, "audio": "audio/03/s028.mp3", "audio_zh": "audio/03/zs028.mp3"}, {"pid": "s029", "sec": 3, "it": "L’Unione degli operai afferma che in alcuni porti africani centinaia di migliaia di tonnellate di grano e di riso sono marcite senza che nessuno se ne sia preoccupato. Sulle banchine giacciono merci ammassate come montagne ma navi e treni non si muovono, non fanno servizio di trasporto. Bisogna farla finita con un governo di tal genere che si fonda su spreco, inganno e monopolio. Il giorno¹⁴, a poco a poco, quest’ondata di scioperi comincia a perdere vigore. Gli estremisti hanno intenzione in questa occasione di rovesciare il governo prevaricatore di Clemenceau. L’Unione degli stradini non ha opposto un rifiuto.", "zh": "工人联合会声称，在非洲某些港口，几十万吨大米和粮食腐烂变质，却无人过问。码头上货物堆积如山，但船只和火车却不动弹，不从事运输工作。必须结束这种建立在浪费、欺骗和垄断基础上的政府。一天¹⁴，罢工浪潮开始逐渐失去声势。极端主义者打算借此机会推翻克列孟梭的专制政府。街道工会没有表示反对。", "head": false, "audio": "audio/03/s029.mp3", "audio_zh": "audio/03/zs029.mp3"}, {"pid": "s030", "sec": 3, "it": "Tuttavia i minatori non sono soddisfatti della spiegazione che il governo ha dato sulla decisione presa riguardo alla giornata lavorativa di otto ore, per cui hanno deciso di fare uno sciopero generale lo stesso giorno. È possibile che i lavoratori del settore trasporti scendano anch’essi in sciopero per solidarietà con i minatori.", "zh": "然而，矿工们对政府关于八小时工作制决定的解释并不满意，因此决定在同一天举行总罢工。运输部门的工人也有可能为了声援矿工而举行罢工。", "head": false, "audio": "audio/03/s030.mp3", "audio_zh": "audio/03/zs030.mp3"}, {"pid": "s031", "sec": 3, "it": "Il vecchio Clemenceau è preoccupato e, in un incontro che ha avuto con i rappresentanti degli operai dei trasporti e con i rappresentanti del personale della Compagnia dei trasporti, li ha pregati di mostrare un po’ di patriottismo in un momento tanto critico quale è quello che il paese si trova attualmente ad attraversare. Gli operai “hanno mangiato il loro brodo di riso” e hanno deciso spontaneamente di riprendere il lavoro.", "zh": "老克列孟梭十分着急，在一次同运输工人代表及运输公司职员代表的会面中，他请求他们在国家目前正处于如此危急的时刻表现出一点爱国精神。工人们\"已经喝完了他们的米汤\"，便自发地决定复工。", "head": false, "audio": "audio/03/s031.mp3", "audio_zh": "audio/03/zs031.mp3"}, {"pid": "s032", "sec": 3, "it": "Inghilterra Il³⁰ maggio, a Londra, i poliziotti di tutto il paese si preparano a fare uno sciopero generale per il giorno³ giugno; il governo è già d’accordo per l’aumento dei salari e il miglioramento delle loro condizioni di vita. Tuttavia non vuole riconoscere l’associazione dei poliziotti e ha richiamato in servizio quei poliziotti che erano stati destituiti. L’ondata di scioperi interessa anche le colonie inglesi quali Australia, Canada e zona del Canale di Suez. Il⁴ giugno gli operai della fabbrica d’armi canadese Vickers sono scesi in sciopero per avere la settimana lavorativa di quaranta ore. Il¹⁵ giugno gli operai del Canale di Suez sono scesi in sciopero e la situazione è particolarmente drammatica. Il⁹ giugno i lavoratori della Compagnia di trasporti marittimi australiana sono scesi in sciopero, riuscendo a fermare, come una corrente impetuosa, i settori industriali in blocco.", "zh": "英国³⁰5月30日，在伦敦，全国各地警察正准备于6月3日举行总罢工；政府已同意增加工资和改善他们的生活条件。然而它不愿承认警察协会，并召回了已被免职的警察。罢工浪潮也波及英国殖民地，如澳大利亚、加拿大和苏伊士运河区。6月⁴4日，加拿大维克斯军工厂工人为争取四十小时工作周举行罢工。6月¹⁵15日，苏伊士运河工人举行罢工，局势特别严重。6月⁹9日，澳大利亚海运公司工人举行罢工，如汹涌洪流般使各工业部门陷于瘫痪。", "head": false, "audio": "audio/03/s032.mp3", "audio_zh": "audio/03/zs032.mp3"}, {"pid": "s033", "sec": 3, "it": "Il¹⁰ la situazione è ancora grave e anche gli operai di altri settori giorno dopo giorno conoscono la disoccupazione.", "zh": "¹⁰局势仍然严重，其他部门的工人也日复一日地面临失业。", "head": false, "audio": "audio/03/s033.mp3", "audio_zh": "audio/03/zs033.mp3"}, {"pid": "s034", "sec": 3, "it": "Stati Uniti d’America Il⁷ giugno gli impiegati dei telegrafi di Chicago hanno deciso uno sciopero generale, per le ore¹¹, a cui prenderanno parte più di⁶⁰.000 persone. Di queste, 25.000 appartengono al Sindacato degli impiegati dei telegrafi. Il presidente di questo Sindacato, Cannigan, sta elaborando un piano per uno sciopero nazionale.", "zh": "美国⁷6月7日，芝加哥电报职员决定于¹¹11时举行总罢工，将有⁶⁰60,000多人参加。其中25,000人属于电报职员工会。该工会主席坎尼根正在拟订举行全国罢工的计划。", "head": false, "audio": "audio/03/s034.mp3", "audio_zh": "audio/03/zs034.mp3"}, {"pid": "s035", "sec": 3, "it": "Lo stesso giorno gli impiegati dei telefoni di tutto il paese hanno ricevuto l’ordine di scendere in sciopero dal giorno¹⁶ per solidarietà con gli impiegati dei telegrafi.", "zh": "同日，全国电话职员接到命令，自¹⁶16日起为声援电报职员举行罢工。", "head": false, "audio": "audio/03/s035.mp3", "audio_zh": "audio/03/zs035.mp3"}, {"pid": "s036", "sec": 3, "it": "Il giorno⁸, un funzionario del Sindacato degli impiegati dei telegrafi proclama uno sciopero generale esteso anche ai telegrafisti. Lo scopo è di bloccare i telegrammi che il presidente Wilson invia quotidianamente da Parigi in America, in modo da attirare l’attenzione del presidente sul fatto che la popolazione non condivide le opinioni da lui espresse nel corso della Conferenza di pace. Il giorno¹², stando a un rapporto della Compagnia dei telegrafi, lo sciopero non è riuscito.", "zh": "八日，电报雇员工会的一名职员宣布举行大罢工，电报员也参加进来。其目的是阻止威尔逊总统每天从巴黎发往美国的电报，以便引起总统对如下事实的注意：人民不同意他在和会上所发表的意见。十二日，据电报公司报告称，罢工未能成功。", "head": false, "audio": "audio/03/s036.mp3", "audio_zh": "audio/03/zs036.mp3"}, {"pid": "s037", "sec": 3, "it": "Italia Il¹³ giugno, a causa dell’alto prezzo dei cereali, è scoppiata un’insurrezione che ha portato al saccheggio di negozi nella zona di La Spezia. Il giorno¹⁴ gli operai dei settori industriali di Genova danno vita a una manifestazione e oltre un centinaio vengono arrestati. Banche e negozi rimangono chiusi, i tram non fanno servizio. Gli operai di Torino lo stesso giorno si astengono dal lavoro per commemorare Rosa Luxemburg, capo della Lega spartachista tedesca. Gli operai di Milano sono entrati in sciopero per protestare contro le azioni delle autorità di Genova e La Spezia.", "zh": "意大利 十三日，由于粮价高昂，爆发了一场暴动，拉斯佩齐亚地区一些商店遭到抢劫。十四日，热那亚工业各部门的工人举行示威，一百余人被捕。银行和商店关门，电车停驶。都灵工人同一天停工，纪念德国斯巴达克同盟领袖罗莎·卢森堡。米兰工人则举行罢工，抗议热那亚和拉斯佩齐亚当局的行为。", "head": false, "audio": "audio/03/s037.mp3", "audio_zh": "audio/03/zs037.mp3"}, {"pid": "s038", "sec": 3, "it": "Germania Il¹³ giugno, l’assemblea generale dei cittadini di Berlino tiene una riunione segreta, in cui viene deciso lo sciopero. Persone appartenenti a tutti i settori e i circoli militari sono d’accordo nel bloccare il piano dell’industria e del commercio.", "zh": "德国 十三日，柏林市民大会召开秘密会议，决定举行罢工。各界人士及军事界人士一致同意，要挫败工商业界的计划。", "head": false, "audio": "audio/03/s038.mp3", "audio_zh": "audio/03/zs038.mp3"}, {"pid": "s039", "sec": 3, "it": "C’è chi ritiene che tutto ciò porterà alla guerra civile. Gli elementi moderati della società otterranno il potere.", "zh": "有人认为，这一切将导致内战。社会中的温和派将取得政权。", "head": false, "audio": "audio/03/s039.mp3", "audio_zh": "audio/03/zs039.mp3"}, {"pid": "s040", "sec": 3, "it": "Ungheria Il³¹ maggio gli operai affamati della capitale fanno un’insurrezione. Secondo l’ordine del governo comunista l’esercito della bandiera rossa va in diverse fabbriche per cercare di sistemare le cose. Nella capitale non ci sono più cereali.", "zh": "匈牙利³¹ 五月三十一日，首都饥饿的工人举行起义。根据共产党政府的命令，红旗军开赴各个工厂，试图平息事态。首都的粮食已经告罄。", "head": false, "audio": "audio/03/s040.mp3", "audio_zh": "audio/03/zs040.mp3"}, {"pid": "s041", "sec": 4, "it": "COMMENTO DEI PRINCIPALI AVVENIMENTI DELL’ORIENTE", "zh": "《东方主要事态评论》", "head": true, "audio": "audio/03/s041.mp3", "audio_zh": "audio/03/zs041.mp3"}, {"pid": "s042", "sec": 4, "it": "L’arresto di Chen Tu-hsiu e come intervenire per salvarlo L’ex preside della facoltà di lettere dell’Università di Pechino, Chen Tu-hsiu, è stato arrestato l’¹¹ giugno al Nuovo mondo di Pechino³. Le ragioni dell’arresto, secondo il comunicato della polizia, stanno nel fatto che quella sera alcune persone distribuivano al Nuovo mondo dei volantini di propaganda e agenti in borghese li hanno arrestati. Arrivati in questura scoprirono che si trattava del signor Chen. Secondo quanto riportato dall’agenzia di stampa sino-americana, i volantini di propaganda distribuiti ai cittadini di Pechino chiedevano quanto segue: 1.annullare tutti gli accordi segreti cino-giapponesi stipulati in tempo di guerra. 2.Dimettere dai loro incarichi Hsu Hsu-cheng, Tsao Ju-lin, Chang Tsung-hsiang, Lu Tsung-yu, Tuan Chih-chan e Wang Huai-chin⁴ ed espellerli dalla capitale. 3.Sciogliere il quartier generale della fanteria e il quartier generale di emergenza. 4.Sostituire le squadre popolari di sicurezza di Pechino con quelle organizzate dai commercianti. 5.Iniziare i colloqui di pace tra sud e nord. 6.Proclamare il diritto del popolo all’assoluta libertà di opinione, stampa e riunione.", "zh": "陈独秀被捕与营救办法 北京大学前文科学长陈独秀于¹¹六月三日在北京新世界被逮捕³。据警察局的公报说，逮捕的缘由是该晚有人在新世界散发宣传传单，穿便衣的侦缉人员将他们逮捕，带到警察局后才发现是陈先生。据中美通讯社报道，散发给北京市民的宣传传单要求如下：一、废除战时缔结的一切中日秘密条约。二、罢免徐树铮、曹汝霖、章宗祥、陆宗舆、段芝贵、王怀庆⁴诸人职务并驱逐出京。三、解散步兵统领衙门与警备总司令部。四、以商人所组织的保安队取代北京的市民保安队。五、南北开始和平谈判。六、宣布人民享有言论、出版、集会的绝对自由权利。", "head": false, "audio": "audio/03/s042.mp3", "audio_zh": "audio/03/zs042.mp3"}, {"pid": "s043", "sec": 4, "it": "Questi sei punti sono le richieste minime del popolo al governo e si spera che saranno ottenute in modo pacifico. Qualora il governo non risponda alle richieste del popolo, allora i cittadini di Pechino prenderanno le misure necessarie al fine di ottenere una fondamentale riforma.", "zh": "这六条是人民对政府的最低要求，希望能以和平方式获得。倘政府不应人民的请求，则北京市民将采取必要的措施，以求获得根本的改革。", "head": false, "audio": "audio/03/s043.mp3", "audio_zh": "audio/03/zs043.mp3"}, {"pid": "s044", "sec": 4, "it": "Questo era il testo dei volantini di propaganda; come si vede, non c’era nulla di speciale. Il governo ha arrestato il signor Chen riservandogli un trattamento nefando. L’intero corpo studentesco di Pechino ha portato una lettera di protesta collettiva in questura. Qui di seguito diamo il testo della lettera collettiva: “Alla gentile attenzione dell’ispettore generale di polizia. Abbiamo l’onore di informarla che abbiamo recentemente saputo che la polizia militare ha arrestato l’ex preside della facoltà di lettere dell’Università di Pechino, Chen Tu-hsiu, rispettato e stimato; gli studenti e altre persone ritengono che ciò non sia lecito soprattutto per due motivi: l. l’alto senso di responsabilità del signor Chen è tenuto in grande considerazione nel mondo degli studiosi; le sue opinioni e i suoi pensieri sono tutti assai noti in Cina e all’estero. Se in questa occasione egli verrà ritenuto colpevole di un gravissimo crimine, temiamo che ciò muoverà il mondo accademico di tutto il paese a una rivolta. L’attuale potente agitazione studentesca raggiungerà il suo culmine e allora non sarà più possibile arrestarla. 2.Il signor Chen è un sostenitore del pensiero moderno, della nuova letteratura ed è pertanto odiato dai conservatori. Questo suo improvviso arresto desta preoccupazioni sia in Cina che all’estero e noi abbiamo il sospetto che le autorità della polizia militare abbiano agito di proposito contro di lui. Già adesso questo tipo di problema è assai complicato; come lo si può risolvere?", "zh": "这便是宣传传单的内容，看来也没有什么特别之处。政府逮捕了陈先生，给予他极其恶劣的待遇。北京大学全体学生向警察局递交了一封集体抗议信。现将该集体信的全文录下：“谨呈警察总监钧鉴。我们谨向您报告：我们近日获悉，军警已逮捕北京大学文科学长陈独秀先生，中外敬仰；学生及各界人士认为此举实属非法，主要理由有二：一、陈先生之高度的责任感素为学界所推重，其见解与思想早已广为中国及海外所知。倘此次竟以重大罪名加其身，恐将激起全国学界之反抗，目前汹涌澎湃之学生运动将臻于顶点，届时恐再难遏止。二、陈先生为现代思想、新文学之倡导者，故为保守派所仇视。其突遭逮捕，中外同深忧虑，我们怀疑军警当局系蓄意与其为难。此类问题现已极为复杂，又将如何解决？", "head": false, "audio": "audio/03/s044.mp3", "audio_zh": "audio/03/zs044.mp3"}, {"pid": "s045", "sec": 4, "it": "Questi sono i due motivi per cui tutti gli studenti chiedono rispettosamente alla polizia di liberare il signor Chen Tu-hsiu”.", "zh": "以上二点，即全体学生恭请警察当局释放陈独秀先生之理由。”", "head": false, "audio": "audio/03/s045.mp3", "audio_zh": "audio/03/zs045.mp3"}, {"pid": "s046", "sec": 4, "it": "Gli studenti di Pechino hanno poi inviato il telegramma che segue a tutti i giornali, a tutte le scuole, a tutti i circoli di Shanghai: “Il signor Chen Tu-hsiu è colui che con maggiore vigore ha diffuso in Cina il nuovo pensiero ed è la personalità di maggior peso in campo culturale. E tuttavia è stato arrestato. La sua abitazione è stata perquisita da cima a fondo. Le masse provano grande sdegno di fronte a tutto ciò. Non solo bisogna trovare il modo di liberarlo, ma speriamo anche che tutti prestino la massima attenzione a questo avvenimento”.", "zh": "北京学生随后向各报馆、各学校、上海各团体发出如下电报：“陈独秀先生是在中国传播新思想最有力者，文化界举足轻重之人。然竟遭逮捕，其住所亦被彻底查抄。广大群众对此极为愤慨。不仅须设法营救，且望各方对此事件给予最大关注。”", "head": false, "audio": "audio/03/s046.mp3", "audio_zh": "audio/03/zs046.mp3"}, {"pid": "s047", "sec": 4, "it": "Anche l’Associazione commercianti di Shanghai ha inviato un telegramma, in cui chiede rispettosamente la liberazione del signor Chen: “Considerare responsabile della sollevazione degli studenti di Pechino soltanto una persona, il signor Chen Tu-hsiu, sarà la causa principale di futuri grandi disordini”.", "zh": "上海商团联合会亦发来一电，恭请释放陈先生，电文称：“若仅以陈独秀先生一人为北京学生骚乱之责任人，将成为未来大动乱之主要原因。”", "head": false, "audio": "audio/03/s047.mp3", "audio_zh": "audio/03/zs047.mp3"}, {"pid": "s048", "sec": 4, "it": "Io ritengo che il governo non sia tanto addormentato da non conoscere i fatti importanti che succedono fuori e probabilmente tra non molto la situazione esploderà. Se il governo arresta il signor Chen Tu-hsiu per un articolo, ciò significa che dichiara guerra a tutto il nuovo pensiero e io credo che non abbia tanto coraggio.", "zh": "我以为政府还不至于昏睡到连外界发生之重大事件都一无所知，或许不久局势必将爆发。若政府因一篇文章而逮捕陈独秀先生，即等于向整个新思想宣战，我以为政府尚无如此胆量。", "head": false, "audio": "audio/03/s048.mp3", "audio_zh": "audio/03/zs048.mp3"}, {"pid": "s049", "sec": 4, "it": "Chang Hsin-yen, collega di vecchia data del signor Chen, direttore della biblioteca dell’Università di Pechino, professore di logica, ha inviato un telegramma a Wang Ke-min⁵ in cui esprime il desiderio che lui chieda alla questura di liberare immediatamente il signor Chen. Il contenuto del telegramma è questo: “Il signor Chen si occupa prevalentemente dell’insegnamento e non ha mai avuto a che fare con partiti e gruppi politici. Questa volta, per un articolo forse inadeguato è stato messo in una grande prigione e gli viene impedito di ricevere visite. Proprio nel momento in cui la sollevazione studentesca a poco a poco si smorza, voi trovate il modo di farle riprendere vigore. Ciò è una cosa che voi signori non dovete fare [...]”.", "zh": "张歆海⁵是陈独秀先生的旧同事，现任北京大学图书馆主任、逻辑学教授，他给王克敏发去一份电报，希望王克敏请求警察局立即释放陈独秀先生。电文内容如下：“陈独秀先生平日主要从事教学活动，从未与任何党派团体发生关系。此次或因一文措辞不当，竟被投入大狱，且不准接见探视。值此学生运动渐趋平息之际，诸君却设法使其重新高涨。此非诸君所应为也……”", "head": false, "audio": "audio/03/s049.mp3", "audio_zh": "audio/03/zs049.mp3"}, {"pid": "s050", "sec": 4, "it": "Il signor Chang ha scritto anche, e con ancor più vigore, al presidente incaricato Hsian Hsin-chan una lettera: “Signor Hsian, mi rincresce di non aver chiesto a lei consiglio ed è da molto tempo che volevo scriverle. Di una cosa vi prego con grande sincerità. Ho sentito che la polizia, con il pretesto che l’ex preside della facoltà di lettere della Università di Pechino, Chen Tu-hsiu, abbia a che fare con un volantino, lo ha arrestato e che si trova ancora in prigione. Ma se sia vero o no, non lo si sa con certezza. Per quanto concerne l’attività usuale del signor Chen essa riguarda prevalentemente l’insegnamento. Sebbene egli abbia diffuso nuove idee, scritto libri e forse usato espressioni un po’ forti, tuttavia si tratta di articoli culturali e non politici, tutto ciò lo si può vedere chiaramente nei suoi scritti. In questo momento il nostro paese si trova a dover fronteggiare parecchi problemi; la sollevazione studentesca si sta appena placando, come è possibile che facciate una cosa che produce tanta indignazione? Io ritengo che voi signori non dobbiate fare una cosa del genere.", "zh": "张先生还给代总统徐新占先生写了一封信，措辞更为强烈：“徐先生，我很遗憾没有向您请教，早就想给您写信了。有一件事我恳切相求。我听说警察以北京大学文科学长陈独秀与传单有牵连为借口，把他逮捕了，现在还关在监狱里。但究竟属实与否，尚不得而知。至于陈先生的日常活动，主要是从事教学。他虽然传播新思想，著书立说，或许言辞稍有过激，但所涉都是文化文章，而非政治文章，这一切在他的著作中都可以看得清清楚楚。此刻我们国家正面临许多问题，学生运动刚刚平息，你们怎么能做出这种激起公愤的事情呢？我认为诸位先生不应该干这种事。", "head": false, "audio": "audio/03/s050.mp3", "audio_zh": "audio/03/zs050.mp3"}, {"pid": "s051", "sec": 4, "it": "Inoltre se guardiamo alla storia vediamo che chi ha il potere e crea difficoltà a uno scrittore per una sciocchezza e per un articolo lo mette in prigione, è fortunato perché lo vince senza ricorrere alle armi, ma se non conquista il cuore della gente il potere si sgretola e anche se ci sono persone capaci e preparate non c’è comunque più nulla da fare. Se osserviamo la storia antica e moderna, cinese e straniera, vediamo che ogni qualvolta la politica culturale raggiunge l’autunno più inoltrato, quello è il momento in cui il paese decade. L’esempio della fine dei Ming ci può più che bastare. Oggi le dicerie prive di fondamento sono tante quanto le lucciole ed è una corrente pericolosa. Quando poi si incolpa qualcuno per uno scritto, ciò è veramente una sciagura per il paese e un grande disordine ha inizio nel mondo.", "zh": "再者，我们若看历史，便可知道，凡掌权者，因一件琐事、一篇文章而为难作家，把他投入监狱，还算侥幸，因为不必动用武力便制服了他；然而若不能赢得人心，权力便分崩离析，纵然有人才、有干才，也终究无济于事。我们若考察古今中外历史，便会看到，凡文化政策走到深秋时节，便是国家衰亡之期。明朝末年的事例，就足以使我们引以为戒。今日无稽之谈之多，如萤火虫般遍地皆是，实为一股危险的潮流。至于因一篇文章而加罪于人，那真真是国家之祸，天下大乱的起点了。", "head": false, "audio": "audio/03/s051.mp3", "audio_zh": "audio/03/zs051.mp3"}, {"pid": "s052", "sec": 4, "it": "Io mi auguro che voi signori con coraggio prestiate attenzione a cose più grandi.", "zh": "我希望诸位先生以勇气，关注更为重大之事。", "head": false, "audio": "audio/03/s052.mp3", "audio_zh": "audio/03/zs052.mp3"}, {"pid": "s053", "sec": 4, "it": "Il signor Chen è persona rispettabile, studioso di cose cinesi e occidentali. È difficile trovare una persona come lui, anche se la provincia dell’Anhwei, che collega sud e nord, ha dato i natali a tante personalità sia militari che culturali. Lei dovrebbe avere particolare cura dei suoi conterranei e sono certo che anche lei prova lo stesso sentimento. È difficile formare persone di talento sia in un paese lontano sia in una provincia vicina! E una volta che abbiamo queste persone di talento è mai pensabile distruggerle? È proprio per la particolarità del caso che con rispetto le scrivo questa lettera per pregarla di intervenire presso la questura affinché liberino al più presto il signor Chen. Io, un vecchio amico del signor Chen, sono stato con lui all’università, conosco assai bene il suo carattere e il suo modo di comportarsi, perciò ho scritto questa lettera. Con coraggio lo difendo e posso testimoniare [...]”.", "zh": "陈先生是一位值得尊敬的人物，是通晓中西之学的学者。像他这样的人，实在难得，即使安徽一省地处南北之交，人文荟萃，出过许多军政界与文化界的人才。阁下应当特别关照同乡，我确信阁下也有同感。无论是一个远方的国度，还是邻近的一省，要培养人才都是不容易的！既已得到这样的人才，难道还忍心加以摧残吗？正因为情况特殊，我才恭恭敬敬地写这封信，恳请阁下出面关照警察厅，务请早日将陈先生释放。我作为陈先生的老友，曾与他同窗就读，深知其为人与品行，故写下此信。我敢于为他辩护，可以作证……”", "head": false, "audio": "audio/03/s053.mp3", "audio_zh": "audio/03/zs053.mp3"}, {"pid": "s054", "sec": 4, "it": "Noi riteniamo che il signor Chen sia una luminosa stella in campo culturale ed educativo. Quando il signor Chen parla, la sua chiarezza affascina tutti. Possiamo dire che la Cina d’oggi è in grande pericolo. La causa di ciò non è nella mancanza di armi, forza e denaro, né nel disordine e nello spezzettamento del paese, bensì nel fatto che il popolo dell’intero paese ha il cervello vuoto, devastato. I cinesi sono quattrocento milioni e all’incirca trecentonovanta milioni sono superstiziosi.", "zh": "我们认为陈先生是文化教育界一颗灿烂的明星。陈先生演说，词理明晰，听者无不倾倒。可以说今日中国危在旦夕。其危殆之因，并非在于缺乏武器、力量和金钱，亦非在于国家四分五裂、混乱无序，而在于全国人民头脑空虚、精神荒芜。中国人有四万万，其中约三亿九千万人都陷于迷信。", "head": false, "audio": "audio/03/s054.mp3", "audio_zh": "audio/03/zs054.mp3"}, {"pid": "s055", "sec": 4, "it": "Costoro credono ai fantasmi, ai diavoli e al fato e credono anche che chi ha forza comanda. Non sono neppure consapevoli di esistere, non conoscono se stessi, non conoscono la vera ragione. Tutto questo si verifica per il fatto che costoro non possiedono una conoscenza scientifica. La Cina si chiama repubblica, ma in realtà è un’autocrazia ed è sempre peggio, non si finisce mai e questo perché non sanno che esiste la democrazia, non sanno che cos’è la democrazia. Il signor Chen scrive sempre per svelare a costoro che cosa significano queste due cose. È lui che ha detto che noi irritiamo le persone importanti soprattutto perché siamo fautori della scienza e della democrazia. Ed è per questo che lo hanno arrestato. Forse il delitto e il castigo si compensano reciprocamente! Quando il pensiero non conosce restrizioni, ci si può amare l’un l’altro. L’anno scorso a dicembre la leader rivoluzionaria del partito socialista tedesco, Luxemburg, è stata uccisa dal governo democratico; a metà del mese scorso in una città italiana, Torino, il popolo ha commemorato la Luxemburg, eppure l’Italia è nemica della Germania; persino in Svizzera, a Zurigo, l’hanno commemorata. Essi hanno agito in tal modo pur essendo nemici. Noi non siamo nemici di noi stessi e apparteniamo alla stessa nazione.", "zh": "这些人相信鬼神和命运，也相信强权者统治。他们甚至不知道自己存在着，不了解自己，不了解真正的道理。这一切之所以发生，是因为这些人不掌握科学知识。中国号称共和，实际上却是专制，而且每况愈下，无有止境，这是因为他们不知道有民主，不知道民主是什么。陈先生写文章，正是为了向这些人揭示这两样东西的含义。正是他说过，我们之所以得罪那些要人，主要就是因为我们拥护科学与民主。他也正是因此被捕。或者可以说，罪行与惩罚相互抵偿了罢！思想不受拘束，人们便可以相亲相爱。去年十二月，德国社会党的革命领袖卢森堡被民主政府所杀；本月上旬，在意大利都灵城，人民为她举行了纪念，而意大利却是德国的敌国；甚至在瑞士苏黎世，人们也纪念了她。他们彼此为敌，尚且如此行事。我们不是自己的敌人，同属一个民族。", "head": false, "audio": "audio/03/s055.mp3", "audio_zh": "audio/03/zs055.mp3"}, {"pid": "s056", "sec": 4, "it": "Al signor Chen l’arresto non ha arrecato il benché minimo danno. Oltre tutto si è risolto in una grande propaganda della nuova corrente di pensiero, così che egli è ancora più famoso e rispettato. Se il governo uccidesse il signor Chen, al signor Chen non verrebbe certo meno il suo spirito di fermezza e di nobiltà. Il signor Chen ha detto che la vita è studio e lotta e che non bisogna temere la morte.", "zh": "陈先生被捕，没有受到丝毫损害。这反而成了新思潮的一次大宣传，使他更加声名远扬、受人敬重。即使政府杀害陈先生，陈先生的坚贞高尚精神也绝不会因此稍减。陈先生说过，生命就是学习和斗争，不必畏惧死亡。", "head": false, "audio": "audio/03/s056.mp3", "audio_zh": "audio/03/zs056.mp3"}, {"pid": "s057", "sec": 4, "it": "Io le auguro, signor Chen, una lunga vita! Io le auguro, signor Chen, di continuare a tenere alto il suo spirito di fermezza e di nobiltà per diecimila anni!", "zh": "陈先生，我祝愿您长寿！陈先生，我祝愿您万年长久地保持这种坚贞高尚的精神！", "head": false, "audio": "audio/03/s057.mp3", "audio_zh": "audio/03/zs057.mp3"}, {"pid": "s058", "sec": 5, "it": "MISCELLANEA INTERNAZIONALE", "zh": "《国际丛刊》", "head": true, "audio": "audio/03/s058.mp3", "audio_zh": "audio/03/zs058.mp3"}, {"pid": "s059", "sec": 5, "it": "I ladri mendicanti I primi del mese scorso in Giappone il riso era carissimo, per¹ tan di riso ci volevano più di⁴⁰ yuan. Il governo giapponese si trovava in un vicolo cieco.", "zh": "讨饭的盗贼　上月上旬，在日本米价极贵，一石米要四十多元¹。日本政府走投无路。", "head": false, "audio": "audio/03/s059.mp3", "audio_zh": "audio/03/zs059.mp3"}, {"pid": "s060", "sec": 5, "it": "Anche i giornali hanno parlato del pericolo della mancanza di cereali. Povero Giappone! Hai gli intestini fuori uso, eppure con la Cina che ti fa l’elemosina sei perfido. Dove c’è al mondo un così malvagio ladro mendicante?", "zh": "各报纸也谈到粮食缺乏的危险。可怜的日本！你的肠子已经瘫痪，中国给你施舍，你却还要使坏。世界上哪有这样恶毒的讨饭盗贼？", "head": false, "audio": "audio/03/s060.mp3", "audio_zh": "audio/03/zs060.mp3"}, {"pid": "s061", "sec": 5, "it": "Indagine sul “partito estremista”", "zh": "关于“过激派”问题的调查", "head": false, "audio": "audio/03/s061.mp3", "audio_zh": "audio/03/zs061.mp3"}, {"pid": "s062", "sec": 5, "it": "Si sente dire in giro che l’Afghanistan ha invaso l’India su istigazione del “partito estremista” russo⁶, che questo partito è arrivato nell’Asia meridionale, che la “rivoluzione fatta di grida” della Corea è assai potente, perché il “partito estremista” russo esercita una certa influenza in Asia. Come è forte il “partito estremista” russo! Dobbiamo studiare questo problema. Non dobbiamo chiudere gli occhi e lasciare dire a vuoto che si tratta di inondazioni e bestie feroci. “Resistenza”, “Rifiuto”, ecc.: in un attimo il paese è pieno di “estremisti” e anche se vuoi fuggire non ci sono più strade!", "zh": "听说阿富汗侵犯了印度⁶，是受俄国“过激派”的唆使；听说这个党已到了南亚，听说朝鲜的“呼声革命”非常强大，因为俄国“过激派”在亚洲有点势力。俄国“过激派”的力量多么大呀！我们应该研究这个问题。我们不应闭眼空说什么洪水猛兽。“抵制”、“拒绝”等等：霎时间全国布满“过激派”，你要逃跑也没有路了！", "head": false, "audio": "audio/03/s062.mp3", "audio_zh": "audio/03/zs062.mp3"}, {"pid": "s063", "sec": 5, "it": "L’applicazione del blocco Si è tenuta a Parigi, il mese scorso, una riunione di alti finanzieri che hanno deciso il blocco dell’Ungheria fin quando il governo ungherese⁷ non seguirà la volontà del popolo. Dividiamo il problema in due aspetti: l. l’Intesa ha sbagliato nel ritenere che il governo ungherese non corrispondesse alla volontà e alle aspirazioni del popolo. In realtà il governo ungherese è in disaccordo solo con una minoranza costituita dalla classe dei capitalisti e dalla nobiltà di campagna, mentre non c’è disaccordo alcuno con la maggioranza del popolo costituita dalla classe dei proletari e dalla classe dei più poveri, per il semplice fatto che il governo ungherese fin dall’inizio è stato messo in piedi da costoro. 2. L’applicazione del blocco aiuta proprio il partito comunista a rafforzarsi. Io ritengo che anche l’Intesa verrà presa in questo vortice. Di fatto, il blocco, una volta attuato, avrà come conseguenza, un grandissimo guazzabuglio.", "zh": "封锁的实施 上月，巴黎举行了一次高级金融家会议，决定对匈牙利实行封锁，直到匈牙利政府⁷顺从人民的意志为止。我们把这个问题分为两个方面来看：1．协约国错误地认为匈牙利政府不符合人民的意志和愿望。实际上，匈牙利政府只是同一个由资产阶级和乡村贵族构成的少数派意见不合，而同由无产阶级和最贫苦阶级构成的人民多数派则毫无分歧，原因很简单：匈牙利政府从一开始就是由这些人建立起来的。2．封锁的实施恰恰有助于共产党壮大。我认为，协约国也将被卷入这一漩涡之中。事实上，封锁一旦实行，其结果必将是极大的混乱。", "head": false, "audio": "audio/03/s063.mp3", "audio_zh": "audio/03/zs063.mp3"}, {"pid": "s064", "sec": 5, "it": "La prova che l’Intesa è giusta ed egualitaria La Germania ha risposto all’Intesa con un dispaccio in cui si dichiara disposta a ridurre gradualmente gli effettivi della fanteria qualora l’Intesa decida di fare altrettanto. Se questa è stata la risposta, chi può dire che è sbagliata? L’Intesa si riempie sempre la bocca di parole come eguaglianza e giustizia, adesso vedremo quali saranno i suoi armamenti. Soltanto allora si saprà come stanno le cose.", "zh": "协约国公正平等的证明 德国以一份照会答复协约国，声明只要协约国决定同样削减步兵员额，德国也愿意逐步裁减。如果这就是答复，谁又能说这是错误的呢？协约国总是把平等、正义之类的字眼挂在嘴边，现在且看看它自己的军备会如何。到那时，事情的真相才会大白。", "head": false, "audio": "audio/03/s064.mp3", "audio_zh": "audio/03/zs064.mp3"}, {"pid": "s065", "sec": 5, "it": "L’Afghanistan si leva in piedi con la spada in pugno Se un piccolo paese come l’Afghanistan fa la guerra a una grande potenza navale come l’Inghilterra⁸ ci dev’essere un motivo molto importante. Tuttavia non se ne può avere la certezza soltanto basandosi su un telegramma di parte inglese.", "zh": "阿富汗执剑而起 像阿富汗这样的小国竟同英国⁸这样的海军大国作战，其中必有重大缘故。然而仅凭英国方面的一纸电报，尚不能确知其详。", "head": false, "audio": "audio/03/s065.mp3", "audio_zh": "audio/03/zs065.mp3"}, {"pid": "s066", "sec": 5, "it": "Attualmente la Turchia corre il rischio di essere divorata da tigri e lupi. L’India ha aiutato a fondo l’Inghilterra e ci ha guadagnato un pezzo rotto di stoffa rossa e la brutta figura di fare il rappresentante alla Conferenza di pace⁹. Le aspirazioni del popolo indiano non sono state ascoltate e il suo movimento politico corre il rischio di essere represso con la forza. L’Afghanistan è un paese islamico: “quando muore la lepre la volpe piange”, come può non impugnare la spada?", "zh": "当今土耳其正面临被虎狼吞食之险。印度大力援助英国，得到的回报不过是一块破烂的红布头，以及充当和会代表⁹的丑态。印度人民的愿望无人理睬，其政治运动且有遭武力镇压之虞。阿富汗是伊斯兰国家：\"兔死狐悲\"，怎能不执剑而起？", "head": false, "audio": "audio/03/s066.mp3", "audio_zh": "audio/03/zs066.mp3"}, {"pid": "s067", "sec": 5, "it": "La repubblica renana è un brutto paese L’Intesa vuole che il Reno diventi una grande muraglia per tenere a bada i suoi nemici. Tuttavia per prima cosa deve rompere le relazioni con la Germania e creare un altro paese. Abbiamo sentito dire che a Wiesbaden è stato già costituito un governo provvisorio di cui è presidente il dottor Dorten. Non so proprio quanto il dottor Dorten possa essere felice. Anche da noi in Cina abbiamo avuto Stati del genere, per esempio la popolazione Chin mise in piedi il regno fantoccio di Liu Yu e i kitan misero in piedi il regno fantoccio Shihchingtang.", "zh": "莱茵共和国是个坏东西 协约国想要把莱茵河变成一道阻挡其敌人的大墙。然而首先必须同德国断绝关系，另造一个国家。听说威斯巴登已经成立了一个临时政府，由多尔滕博士出任总统。我实在不知道这位多尔滕博士能有几多快意。我们中国也有这类先例，例如秦人扶起刘豫的伪齐，契丹扶起石敬瑭的伪晋。", "head": false, "audio": "audio/03/s067.mp3", "audio_zh": "audio/03/zs067.mp3"}, {"pid": "s068", "sec": 5, "it": "Ecco che cos’è l’autodeterminazione delle nazioni!", "zh": "原来这就是民族自决！", "head": false, "audio": "audio/03/s068.mp3", "audio_zh": "audio/03/zs068.mp3"}, {"pid": "s069", "sec": 5, "it": "Polacchi e cechi vogliono formare una loro propria nazione, cosa questa che può arrecare un danno mortale alla Germania e perciò l’Intesa l’appoggia con risolutezza: questo significa “autodeterminazione delle nazioni”. Che gli arabi si separino dai turchi per i governi dell’Intesa è una cosa positiva e allora l’Intesa promette loro una mezza autonomia. Gli ebrei vogliono tornare in Palestina per formare la loro nazione, ma poiché non hanno un grosso legame con l’Intesa, allora non possono farlo. Il governo della Siberia ha attaccato con successo il “partito estremista” e allora l’Intesa fa promesse. Il Giappone vuole mettere piede in Siberia, non può certo fare una brutta figura, pertanto è stato il primo a dare il proprio assenso. Anche la Corea¹⁰ grida con forza che vuole l’indipendenza, tanta gente è morta, tanti luoghi sono stati distrutti, ma all’Intesa non importa nulla. Ecco che cos’è l’autodeterminazione delle nazioni! Io credo che bisogna proprio essere privi di qualsiasi senso di vergogna!", "zh": "波兰人和捷克人要成立他们自己的民族国家，这件事会给德国带来致命的损害，因此协约国便坚决予以支持：这就是所谓的\"民族自决\"。阿拉伯人脱离土耳其，对协约国政府说来是一件好事，于是协约国便许诺给他们半个自治。犹太人要回到巴勒斯坦成立他们的民族国家，因为他们同协约国没有很大的联系，所以就不能如愿。西伯利亚政府成功地打击了\"过激党\"¹⁰，于是协约国就许愿。日本想插足西伯利亚，当然不能示弱，所以首先表示赞同。朝鲜人¹⁰大声疾呼要求独立，死了许多人，烧毁了许多地方，而协约国却满不在乎。这就是民族自决！我看简直是不要脸！", "head": false, "audio": "audio/03/s069.mp3", "audio_zh": "audio/03/zs069.mp3"}, {"pid": "s070", "sec": 5, "it": "Povero Wilson Wilson¹¹ si trova a Parigi e sembra una formica sui carboni ardenti, non sa bene cosa fare, mostra il proprio talento nel pascolare il gregge, circondato da ogni parte dai vari Clemenceau, Lloyd George e Orlando che non sono altro che banditi. Egli non sente parlar d’altro che di quanto territorio è stato preso, di quanto denaro è stato riscosso dai debitori. Non fa altro che partecipare a riunioni non riuscendo tuttavia a dire ciò che pensa. Un giorno la Reuter ha scritto: “Il presidente Wilson finalmente è d’accordo con Clemenceau che la Germania non entri a far parte della Lega delle Nazioni”. Quando ho letto le parole “finalmente d’accordo” sono rimasto mezza giornata adirato con lui. Povero Wilson!", "zh": "可怜的威尔逊¹¹身在巴黎，犹如热锅上的蚂蚁，不知究竟怎么办才好；他显露出来的本领只是放牧羊群，而四周却被克列孟梭、劳合·乔治、奥兰多之流团团围住，这些人无非是强盗而已。他所听到的，无非是占领了多少领土，从债务人那里勒索了多少金钱。他不过是参加一些会议，却始终说不出自己心里的话。有一天路透社写道：“威尔逊总统终于同意克列孟梭的意见，不让德国加入国际联盟。”当我读到“终于同意”几个字时，竟生了他半天的气。可怜的威尔逊！", "head": false, "audio": "audio/03/s070.mp3", "audio_zh": "audio/03/zs070.mp3"}, {"pid": "s071", "sec": 5, "it": "L’improvviso e violento scoppio di una bomba Tutti sanno che gli Stati Uniti d’America sono paesi prosperi e di grande civiltà.", "zh": "炸弹的突然猛烈爆炸 谁都知道，美利坚合众国是繁荣昌盛、文明程度很高的国家。", "head": false, "audio": "audio/03/s071.mp3", "audio_zh": "audio/03/zs071.mp3"}, {"pid": "s072", "sec": 5, "it": "In otto città contemporaneamente si è avuto un “improvviso e violento scoppio di bombe”¹². Il partito anarchico si propaga dappertutto. Accanto ai luoghi in cui sono esplose le bombe, sono stati trovati attaccati dei manifesti anonimi con su scritto: “La guerra di classe è già scoppiata e durerà fino a che la classe operaia non raggiungerà la vittoria finale”. Queste bombe sono state collocate presso le abitazioni di funzionari governativi e in cima alle case sono state ritrovate alcune teste di persone. Terribile, terribile! A me dispiace soltanto per le famiglie; per le donne, per i bambini di quei funzionari governativi e mi chiedo come potranno dormire la notte. I membri del parlamento che vengono eletti lo debbono al loro denaro e accusano e reprimono con violenza i ribelli. Io dico formalmente a tutti voi signori, il giorno del vostro giudizio è arrivato! Voi volete che vi sia risparmiata la vita, volete mangiare, volete avere vestiti. Avrete tutto questo solo quando avrete fatto una grande pulizia nel vostro cervello. Dovete gettare via cilindro e frac. Andate nelle fabbriche, in campagna assieme al vostro popolo.", "zh": "在八座城市同时发生了“突然的、猛烈的炸弹爆炸”¹²。无政府党到处蔓延。在炸弹爆炸的地方，还发现了张贴的匿名传单，上面写着：“阶级斗争已经爆发，并将持续到工人阶级取得最后胜利为止。”这些炸弹被放置在政府官员的住宅附近，房顶上还发现了一些人头。可怕，真可怕！我只是为那些官员的家属感到难过，为他们的女人、孩子感到难过，我不知道他们夜里怎么能够睡得着。那些被选出来的国会议员靠的是他们的金钱，他们凶狠地指控、镇压造反者。我正式对你们诸位先生说，你们的审判日已经到了！你们想要活命，想要吃饭，想要穿衣。只有当你们把自己的脑袋好好清洗一番之后，这一切才会有。你们应当扔掉礼帽和燕尾服，到工厂去，到农村去，和人民大众在一起。", "head": false, "audio": "audio/03/s072.mp3", "audio_zh": "audio/03/zs072.mp3"}, {"pid": "s073", "sec": 5, "it": "Non si possono creare industrie e commercio con l’autocrazia Il capo del partito laburista americano, Gompers¹³, ha dichiarato: “Il partito laburista ha deciso di avere tutto il diritto di esprimere le proprie opinioni nelle imprese del futuro perché non si può praticare l’autocrazia nelle industrie e nel commercio”. Gli Stati Uniti d’America sono la prima nazione industriale e commerciale del mondo, la tirannia dei trust ha inizio da qui. Soltanto pochi sono felici, mentre milioni di persone soffrono. Più l’industria e il commercio si sviluppano, più gente soffre. Dice no! e come si fa? Io ancora non lo so. Dal momento che c’è gente che dice no!  ciò è un fatto positivo. Se la bocca di un uomo dice no! questo spinge migliaia di persone a dire no!; una voce sommessa che sussurra no! porta a una voce potente che urla no! e questo è veramente il momento in cui la gente viene liberata.", "zh": "不能以专制来兴办工商业 美国劳工党领袖龚帕斯¹³宣称：“劳工党已决定，在未来的企业中完全有权表达自己的意见，因为工商业中不能实行专制。”美国是世界上第一工商业大国，托拉斯的暴政即肇始于此。得享幸福的只是少数人，而数百万人民在受苦。工商业越发展，受苦的人就越多。说不！可是怎么办？我还不知道。既然有人说不！这就是一桩积极的事实。一个人的嘴巴说不！会推动成千上万的人说不！；一声低语喃喃的“不”，终将汇成一声怒吼的“不”，这正是人民获得解放的时刻。", "head": false, "audio": "audio/03/s073.mp3", "audio_zh": "audio/03/zs073.mp3"}, {"pid": "s074", "sec": 5, "it": "Cedere territori e pagare i danni di guerra sono due cose talmente perfette che non possono coesistere La Germania ha detto all’Intesa che se perde le miniere di carbone della Slesia e della Saar non sarà più in grado di pagare i danni di guerra. Io ritenevo che, sentito ciò, l’Intesa si sarebbe dovuta preoccupare molto. Perché? Per il semplice fatto che cedere territori e pagare i danni di guerra sono due cose entrambe perfette e quindi irrealizzabili assieme. La Germania afferma che queste due cose sono inversamente proporzionali. Stando così le cose, come può l’Intesa non essere preoccupata? Pertanto esorto i signori dell’Intesa a riflettere: esistono al mondo insieme due cose entrambe perfette?", "zh": "割让领土与支付赔款，二者皆美，不能兼得 德国对协约国说，如果失去西里西亚和萨尔煤矿，它就将无力支付战争赔款。我以为，协约国听了这话，应当大为担忧。为什么？道理很简单：割让领土与支付赔款是两桩都完美的事情，因此不能同时实现。德国声称，这两件事成反比。既然如此，协约国怎能不担忧呢？因此，我奉劝协约国的先生们深思：世界上果真有两桩都完美的事情并存吗？", "head": false, "audio": "audio/03/s074.mp3", "audio_zh": "audio/03/zs074.mp3"}, {"pid": "s075", "sec": 5, "it": "Il partito socialista va incontro a un bagno di sangue Il rappresentante del presidente austriaco dottor Renner ha detto all’Intesa: “L’Austria ha un capitale assai diminuito rispetto a prima e se essa subirà altre distruzioni sicuramente il partito socialista andrà incontro a un bagno di sangue”.", "zh": "社会党将遭到一场血洗 奥地利总统代表伦纳博士对协约国说：“奥地利的资本已比从前大为减少，如果它再遭受别的破坏，社会党必将遭到一场血洗”。", "head": false, "audio": "audio/03/s075.mp3", "audio_zh": "audio/03/zs075.mp3"}, {"pid": "s076", "sec": 5, "it": "Dottor Renner quanto sei stupido! Tu non conosci ancora la vera faccia dell’Intesa.", "zh": "伦纳博士，你是何等愚蠢！你还不认识协约国的真面目。", "head": false, "audio": "audio/03/s076.mp3", "audio_zh": "audio/03/zs076.mp3"}, {"pid": "s077", "sec": 5, "it": "Da un anno a questa parte loro vogliono proprio che il partito socialista vada incontro a un bagno di sangue.", "zh": "一年以来，他们正是要社会党遭到一场血洗。", "head": false, "audio": "audio/03/s077.mp3", "audio_zh": "audio/03/zs077.mp3"}, {"pid": "s078", "sec": 5, "it": "Bernstein Il dottor Bernstein, tedesco, ha dichiarato: “Le condizioni di pace sono la conseguenza di una guerra tra barbari, la Germania si deve ritenere responsabile di tutto. L’articolo¹⁹ del trattato di pace è necessario”. Noi siamo senza esitazione contro le costrizioni contenute nel trattato di pace dell’Intesa. Non a caso il dottor Bernstein ha fatto questa dichiarazione sulla guerra tra barbari. La cosa mi ha fatto un grande piacere.", "zh": "伯恩斯坦 德国籍的伯恩斯坦博士宣称：“和约的条件是野蛮人之间一场战争的后果，德国应当为一切负责。和约第十九条¹⁹是必要的。”我们毫不犹豫地反对协约国和约中所包含的种种强制条款。伯恩斯坦博士作出这种关于野蛮人之间战争的声明，绝不是偶然的。这件事使我大为高兴。", "head": false, "audio": "audio/03/s078.mp3", "audio_zh": "audio/03/zs078.mp3"}, {"pid": "s079", "sec": 5, "it": "In tutto il mondo non esiste un tempio dedicato al culto degli antenati Kang Yu-wei¹⁴ è assai adirato per il fatto che a Canton hanno intenzione di riparare una strada e abbattere un tempio dedicato al culto degli antenati. Telefona allora a Chen Chun-hsuan¹⁵ e lo insulta dicendo: “Non solo non rispetti il Santo, ma distruggi anche gli antenati”. E inoltre: “Se viaggi in tutto il mondo non troverai nessuno che agisce in tal modo”. Il signor Kang parla veramente bene, perché in realtà in tutto il mondo dove trovi mai un altro Confucio? E poi dove diavolo c’è un tempio dedicato al culto degli antenati?", "zh": "全世界都没有一座专门祭祀祖先的庙宇，康有为¹⁴却因为广州打算修一条路要拆除一座祭祀祖先的庙宇而大发脾气。于是打电话给陈炯明¹⁵，骂他道：“不敬圣人，又毁祖宗。”又说：“游遍全球，都找不到这样做的人。”康先生说得真好，因为实在世界上哪里还找得到第二个孔夫子呢？又究竟哪里有什么祭祀祖先的庙宇？", "head": false, "audio": "audio/03/s079.mp3", "audio_zh": "audio/03/zs079.mp3"}, {"pid": "s080", "sec": 5, "it": "Che cosa è conveniente per la repubblica cinese Il signor Kang¹⁶ afferma inoltre: “Distruggerlo per forza non è cosa conveniente per la repubblica”. Che cosa davvero strana! È mai possibile che debba ancora esistere la pratica: “Che il principe faccia il principe, che il ministro faccia il ministro”? Ed è questo conveniente per la repubblica?", "zh": "什么对中华民国合适 康先生¹⁶又说：“强毁之，于共和国为不适宜。”真奇怪！难道还应当保存“君为君、臣为臣”的那一套做法吗？难道这就对共和国合适？", "head": false, "audio": "audio/03/s080.mp3", "audio_zh": "audio/03/zs080.mp3"}, {"pid": "s081", "sec": 5, "it": "Forse non è un uomo Teng Jung nel corso di una riunione al nuovo parlamento ha detto: “Per rendere omaggio a Confucio non c’è alcun bisogno di un addetto speciale: bisogna risparmiare il denaro”. Mentre Chang Yuan-chi ha detto: “Nel ministero degli interni le devozioni a Confucio vengono fatte da un semplice inserviente e viceministri e sottosegretari non se ne curano affatto; ciò non va bene, ci deve essere un addetto speciale”. Forse un semplice inserviente del ministero degli interni non è un uomo. Se invece diciamo che è un uomo, come mai allora non può fare le devozioni? Io penso che quell’aria da burocrate dei secoli passati del vecchio padre Confucio stia perdendo via via il suo peso, diventando sempre minore.", "zh": "莫非不是人 邓铿在新议会的会议上说：“祀孔无须特设专员，应该节省经费。”而张元济却说：“内务部祀孔，由一个普通差役承办，次长、佥事一概不管，这不好，应当设特派员。”莫非内务部的一个普通差役就不是人。如果说他是人，那么为什么不能行礼呢？我想孔老夫子那种旧官僚的架子，正在逐渐失去分量，变得越来越小了。", "head": false, "audio": "audio/03/s081.mp3", "audio_zh": "audio/03/zs081.mp3"}, {"pid": "s082", "sec": 5, "it": "Dalla montagna Kunlun in Europa Chang Yuan-chi ha dichiarato: “Ma che diavolo è questo ricercare il nuovo studio, questo seguire la corrente, io credo fermamente che bisogna essere devoti a Confucio contro la corrente”. Niente male, niente male! Il signor Chang ha davvero una forza straordinaria, no? Ma come? La corrente dello Yangtse è in grado di superare la montagna Kunlun? Bene! Allora noi andremo sulla cima della montagna Kunlun a prendere la nave per andare in Europa.", "zh": "欧洲昆仑山的张元济宣称：“什么研究新学、顺应潮流，我坚信必须尊孔反潮流。”不错，不错！张先生真有非凡的力量，不是吗？可是怎么？扬子江的激流能够越过昆仑山吗？好！那我们就到昆仑山顶上去乘船到欧洲去。", "head": false, "audio": "audio/03/s082.mp3", "audio_zh": "audio/03/zs082.mp3"}, {"pid": "s083", "sec": 6, "it": "MISCELLANEA DEL FIUME HSIANG", "zh": "湘江杂记", "head": true, "audio": "audio/03/s083.mp3", "audio_zh": "audio/03/zs083.mp3"}, {"pid": "s084", "sec": 6, "it": "Una buona idea Un compagno di scuola mi ha detto che impiegati e insegnanti, per il timore che noi apprendiamo le nuove teorie culturali mentre loro non se ne sono ancora impossessati, hanno chiuso la biblioteca. Non possiamo quindi più leggere libri, giornali e riviste che vengono da fuori e non possiamo essere aggiornati. Ho sentito dire che ciò ha riscosso grande ammirazione. La loro è davvero una buona idea! Ma ciò avviene solo nella scuola X? Nemmeno per sogno! Sembra quasi che tutte le scuole dello Hunan si siano alleate.", "zh": "好主意 一位同学告诉我，职员和教员生怕我们学习了新的文化理论，而他们自己还没有掌握，便把图书馆关闭了。这样一来，我们再也读不到外来的书籍、报纸和杂志，也就无法获得新的知识。据说这件事博得了一片喝彩。他们这个主意实在好得很！但这只是某一所学校如此吗？做梦也休想！湖南所有的学校简直像是结成了同盟。", "head": false, "audio": "audio/03/s084.mp3", "audio_zh": "audio/03/zs084.mp3"}, {"pid": "s085", "sec": 6, "it": "Un’improvvisa metamorfosi Alcuni insegnanti burocrati, di fronte a questa grande corrente mondiale, se non stanno attenti rischiano di perdere la loro scodella di riso. Ecco allora l’improvvisa metamorfosi. Essi si danno un po’ meno arie da burocrati. Per coloro che sono veramente cambiati io ho molto rispetto, invece quelli che fingono di cambiare non riescono a nascondere a lungo la loro zampa di cavallo. Provo soltanto vergogna di fronte a questo genere di persone! E non sto affatto tranquillo!", "zh": "突然的转变 某些官僚教员面对着这股世界的大潮流，稍不留神，就有丢掉自己饭碗的危险。于是便来了这个突然的转变，他们的官僚架子多少收敛了一些。对于真正转变的人，我是十分尊敬的；至于那些假装转变的人，他们的马脚终究掩藏不了多久。面对这等人，我只有羞耻！而且我决不能安之若素！", "head": false, "audio": "audio/03/s085.mp3", "audio_zh": "audio/03/zs085.mp3"}, {"pid": "s086", "sec": 6, "it": "Abbiamo molta fame Noi giovani siamo prigionieri del lago Tungting e abbiamo molta fame! Le nostre pance hanno davvero fame. I nostri cervelli hanno ancora più fame! Il fatto è che i nostri cuochi non hanno nulla da cucinare, non hanno nulla da fare. Noi non sappiamo che fare! L’unica cosa è alzarsi in piedi e fare da sé. Questo è il grido di disperazione della nostra grande fame! Per favore, non ci guardate male!", "zh": "肚子饿得很 我们青年被囚在东洞庭湖，肚子饿得很！我们的肚皮实在饿了，我们的头脑更是饿得慌！无奈我们的厨子不会做菜，不会做事，我们也不知道怎么办！唯一的办法就是站起来自己动手。这就是我们大饥饿的绝叫！请诸位不要见怪！", "head": false, "audio": "audio/03/s086.mp3", "audio_zh": "audio/03/zs086.mp3"}, {"pid": "s087", "sec": 6, "it": "È mai possibile che solo i ragazzi possano camminare?", "zh": "难道只有小孩子才可以走路吗？", "head": false, "audio": "audio/03/s087.mp3", "audio_zh": "audio/03/zs087.mp3"}, {"pid": "s088", "sec": 6, "it": "Gli amministratori di una scuola femminile considerano le studentesse come fossero documenti preziosi, le tengono quindi nascoste e hanno paura che, se escono fuori, vedano i diavoli. Non permettono loro di leggere pubblicazioni diaboliche come Gioventù nuova¹⁷. A Pechino c’è stata una grande manifestazione studentesca e le studentesse si sono recate a Hsin Hua Men a protestare. Le ragazzine di un orfanotrofio sono andate di loro spontanea volontà in prigione per essere punite al posto degli studenti. Soltanto le studentesse della scuola femminile di cui parlavamo all’inizio sono tenute chiuse tra quattro mura e non viene loro permesso di fare un passo fuori della scuola. È mai possibile che solo i ragazzi possano camminare?", "zh": "某女校的管理者把女学生当作珍贵的东西看待，所以将她们藏起来，生怕她们走出校门看见魔鬼。不准她们阅读《新青年》¹⁷之类的邪说出版物。北京发生了大规模的学生游行，女学生们到新华门去请愿。孤儿院里的小姑娘们还自愿入监，代替学生受罚。唯独我们开头所说的那所女校的学生，被关在四堵墙内，连校门一步也不许迈出。难道只许男孩子在外面走动吗？", "head": false, "audio": "audio/03/s088.mp3", "audio_zh": "audio/03/zs088.mp3"}, {"pid": "s089", "sec": 6, "it": "Ah! Ah!", "zh": "哈！哈！", "head": false, "audio": "audio/03/s089.mp3", "audio_zh": "audio/03/zs089.mp3"}, {"pid": "s090", "sec": 6, "it": "I fatti di Tsingtao si sono verificati¹⁸. Gli studenti dello Hunan sono in grande fermento, mettono in scena nuovi spettacoli, fanno discorsi, circola dappertutto una ventata nuova. Un amico mi ha detto che un signore si è arrabbiato moltissimo perché suo figlio ha preso parte tutto truccato a uno spettacolo. Allora si è recato alla scuola e ha detto al professore: “Perché la mia vita è così disgraziata? Io ho dato tutto a mio figlio e lui mi ha fatto una cosa tanto vergognosa!”. Io, sentite queste parole, non sono riuscito a trattenere il riso: Ah, Ah!", "zh": "青岛的事变¹⁸发生了。湖南的学生大为振奋，排演新剧，发表演说，到处吹起一股新风。有位朋友告诉我：一位先生大为恼火，因为他的儿子化了妆参加演戏。于是他跑到学校对教师说：“为什么我的命这么苦？我把我的一切都给了儿子，他却给我干了这么一件丢脸的事！”我听了这话，忍不住大笑起来：哈，哈！", "head": false, "audio": "audio/03/s090.mp3", "audio_zh": "audio/03/zs090.mp3"}, {"pid": "s091", "sec": 6, "it": "L’esercito rivoluzionario delle donne La testa degli uomini e delle donne è uguale, come pure uguale è il loro giro di vita. Perché allora le donne portano sulla testa una grande, alta treccia mossa dal vento? Perché il giro di vita delle donne viene stretto dalla cintura di una gonna che struscia per terra? Io ritengo che le donne siano per loro natura innocenti e che le pettinature alte, le gonne lunghe fino a terra siano mezzi con cui gli uomini le tengono prigioniere. Poi ci sono i vari tipi di belletti per il viso che non sono altro che un marchio d’infamia. I gioielli, che altro non sono che catene. I buchi nelle orecchie e la fasciatura dei piedi, che altro non sono che terribili punizioni.", "zh": "女子革命军 男人和女人的头是一样的，腰也一样粗。那为什么女人头上要顶着一根风吹得飘动的大辫子？为什么女人的腰要被拖到地上的裙子束紧？我认为女人天生是无辜的，高耸的发式、拖地的长裙，都是男人用来囚禁她们的手段。还有那各式各样的脂粉，不过是耻辱的印记。首饰，不过是锁链。耳朵上的孔和缠足，更是可怕的刑罚。", "head": false, "audio": "audio/03/s091.mp3", "audio_zh": "audio/03/zs091.mp3"}, {"pid": "s092", "sec": 6, "it": "La scuola e la famiglia, che altro non sono che prigioni. La sofferenza è talmente grande che non la si può esprimere a parole. Una volta chiuse dentro non è più possibile uscirne. Come possono dunque sfuggire da tutti questi tipi di oppressione dolorosa? Secondo me, l’unico modo è organizzare l’esercito rivoluzionario delle donne.", "zh": "学校和家庭，无异于监狱。痛苦之深，非言语所能表达。一旦关进去，便再也无法出来。那么，怎样才能摆脱这一切痛苦的压迫呢？依我看，唯一的办法就是组织女子革命军。", "head": false, "audio": "audio/03/s092.mp3", "audio_zh": "audio/03/zs092.mp3"}, {"pid": "s093", "sec": 6, "it": "NOTE", "zh": "注", "head": false, "audio": "audio/03/s093.mp3", "audio_zh": "audio/03/zs093.mp3"}, {"pid": "s094", "sec": 6, "it": "1. Il riferimento è alla Rivoluzione d’Ottobre e agli altri movimenti rivoluzionari che", "zh": "1. 此处指的是十月革命以及第一次世界大战结束后相继发生的其他革命运动。²", "head": false, "audio": "audio/03/s094.mp3", "audio_zh": "audio/03/zs094.mp3"}, {"pid": "s095", "sec": 6, "it": "seguirono la conclusione della Prima guerra mondiale.", "zh": "²（续）……", "head": false, "audio": "audio/03/s095.mp3", "audio_zh": "audio/03/zs095.mp3"}, {"pid": "s096", "sec": 6, "it": "2. Il lago Tungting è il più grande dello Hunan. Il fiume Hsiang è il più lungo e attraversa", "zh": "2. 洞庭湖是湖南最大的湖泊。湘江是最长的河流，贯穿湖南全省，最终注入洞庭湖。因此，它们（湖与河）常被作为该省的象征。⁴", "head": false, "audio": "audio/03/s096.mp3", "audio_zh": "audio/03/zs096.mp3"}, {"pid": "s097", "sec": 6, "it": "l’intera provincia dello Hunan per finire nel lago Tungting. Perciò essi (lago e fiume) vengono presi spesso come simbolo della provincia.", "zh": "⁴（续）……", "head": false, "audio": "audio/03/s097.mp3", "audio_zh": "audio/03/zs097.mp3"}, {"pid": "s098", "sec": 6, "it": "3. Chen Tu-hsiu, nato nella provincia dell’Anhwei nel 1879, dopo aver studiato all’estero", "zh": "3．陈独秀，1879年生于安徽省，曾留学国外，", "head": false, "audio": "audio/03/s098.mp3", "audio_zh": "audio/03/zs098.mp3"}, {"pid": "s099", "sec": 6, "it": "rientrò in Cina e aderì al movimento repubblicano. Divenne celebre in tutto il paese come animatore del rinnovamento culturale della Cina, in particolare per mezzo della rivista Gioventù nuova che fondò a Shanghai nel 1915. Fu uno dei promotori della fondazione del PCC e suo primo segretario generale. In tale carica divenne esponente della linea opportunista di destra e, dopo il 1927, del liquidazionismo e del trotzkismo.", "zh": "回国后参加了共和运动。他以中国新文化运动的倡导者而闻名全国，特别是通过1915年在上海创办的《新青年》杂志。他是中国共产党成立的倡导者之一，并担任党的第一任总书记。在任此职期间，他成为右倾机会主义路线的代表人物，1927年以后又成为取消主义和托洛茨基主义的代表人物。", "head": false, "audio": "audio/03/s099.mp3", "audio_zh": "audio/03/zs099.mp3"}, {"pid": "s100", "sec": 6, "it": "Fu espulso dal PCC nel 1929 e morì nel 1942.", "zh": "1929年他被中国共产党开除，1942年去世。", "head": false, "audio": "audio/03/s100.mp3", "audio_zh": "audio/03/zs100.mp3"}, {"pid": "s101", "sec": 6, "it": "Nel 1919 Chen Tu-hsiu era docente all’Università di Pechino.", "zh": "1919年，陈独秀任北京大学教授。", "head": false, "audio": "audio/03/s101.mp3", "audio_zh": "audio/03/zs101.mp3"}, {"pid": "s102", "sec": 6, "it": "4. I sei personaggi richiamati erano tutti alti esponenti del Governo di Pechino che", "zh": "4. 被传讯的六人都是北京政府的高级官员，他们", "head": false, "audio": "audio/03/s102.mp3", "audio_zh": "audio/03/zs102.mp3"}, {"pid": "s103", "sec": 6, "it": "avevano avuto un ruolo di rilievo nell’accettazione della penetrazione dell’imperialismo giapponese in Cina nel corso e immediatamente dopo la Prima guerra mondiale.", "zh": "它们在日本帝国主义于第一次世界大战期间及战后立即对中国进行渗透的过程中，扮演了重要的角色。", "head": false, "audio": "audio/03/s103.mp3", "audio_zh": "audio/03/zs103.mp3"}, {"pid": "s104", "sec": 6, "it": "5. Wang Ke-min nel 1919 era Ministro delle finanze del Governo di Pechino e autorevole", "zh": "5. 王克敏一九一九年曾任北京政府财政部长，颇有势力。", "head": false, "audio": "audio/03/s104.mp3", "audio_zh": "audio/03/zs104.mp3"}, {"pid": "s105", "sec": 6, "it": "esponente del mondo finanziario (era stato e sarebbe ridiventato direttore della Banca di Cina).", "zh": "金融界要人（他曾任中国银行行长，后来还再度担任此职）。", "head": false, "audio": "audio/03/s105.mp3", "audio_zh": "audio/03/zs105.mp3"}, {"pid": "s106", "sec": 6, "it": "6. Nella stampa di reazionari e conservatori cinesi ci si riferiva al partito comunista con", "zh": "6. 中国反动派和保守派的报刊提及共产党时，用", "head": false, "audio": "audio/03/s106.mp3", "audio_zh": "audio/03/zs106.mp3"}, {"pid": "s107", "sec": 6, "it": "l’espressione di “partito estremista” per screditarlo. Qui e in altri scritti Mao Tse-tung usa polemicamente l’espressione.", "zh": "“极端派”这一提法来诋毁它。毛泽东在这里和其他著作中都是带论战性地使用这一提法。", "head": false, "audio": "audio/03/s107.mp3", "audio_zh": "audio/03/zs107.mp3"}, {"pid": "s108", "sec": 6, "it": "7. Lo scritto si riferisce all’aggressione commerciale, finanziaria e infine militare dei", "zh": "7. 这篇著作论述的，是对中国的商业侵略、金融侵略，直至军事侵略", "head": false, "audio": "audio/03/s108.mp3", "audio_zh": "audio/03/zs108.mp3"}, {"pid": "s109", "sec": 6, "it": "governi imperialisti contro la Repubblica dei consigli instaurata in Ungheria nel marzo 1919 con a capo Bela Kun e soffocata nel sangue nell’agosto dello stesso anno.", "zh": "帝国主义各国政府反对1919年3月在匈牙利建立的苏维埃共和国，该共和国由库恩·贝拉¹领导，同年8月被血腥镇压。", "head": false, "audio": "audio/03/s109.mp3", "audio_zh": "audio/03/zs109.mp3"}, {"pid": "s110", "sec": 6, "it": "8. Lo scritto si riferisce alla terza guerra anglo-afghana (maggio-giugno 1919).", "zh": "8. 本文指的是第三次英阿战争（1919年5月至6月）。", "head": false, "audio": "audio/03/s110.mp3", "audio_zh": "audio/03/zs110.mp3"}, {"pid": "s111", "sec": 6, "it": "9. La classe dirigente indiana aveva accettato in definitiva di collaborare con il governo", "zh": "9. 印度统治阶级最终同意同政府", "head": false, "audio": "audio/03/s111.mp3", "audio_zh": "audio/03/zs111.mp3"}, {"pid": "s112", "sec": 6, "it": "britannico alla Prima guerra mondiale. Quasi a scherno, uno dei membri della delegazione britannica alla Conferenza di pace di Versailles era indiano. Da ricordare che in Cina, quando il Governo di Pechino aderì alle pressioni dell’Intesa di mandare “carne da cannone” in suo aiuto, Sun Yat-sen si ribellò e creò un governo dissidente.", "zh": "英国在第一次世界大战中合作。颇具讽刺意味的是，英国出席凡尔赛和谈的代表团中有一名成员竟是印度人。应当记得，在中国，当北京政府屈从于协约国的压力、派出“炮灰”前去援助时，孙中山奋起反抗，另立了一个政府。", "head": false, "audio": "audio/03/s112.mp3", "audio_zh": "audio/03/zs112.mp3"}, {"pid": "s113", "sec": 6, "it": "10. Nel 1905 il governo giapponese aveva sottoposto la Corea a protettorato e nel 1910", "zh": "10. 1905年，日本政府把朝鲜置于保护国地位，1910年", "head": false, "audio": "audio/03/s113.mp3", "audio_zh": "audio/03/zs113.mp3"}, {"pid": "s114", "sec": 6, "it": "l’aveva annessa al Giappone.", "zh": "已将其并入日本。", "head": false, "audio": "audio/03/s114.mp3", "audio_zh": "audio/03/zs114.mp3"}, {"pid": "s115", "sec": 6, "it": "11. W. Wilson, presidente degli Stati Uniti d’America e apparentemente il personaggio più", "zh": "11．美国总统威尔逊，表面上似乎是", "head": false, "audio": "audio/03/s115.mp3", "audio_zh": "audio/03/zs115.mp3"}, {"pid": "s116", "sec": 6, "it": "importante alla Conferenza della pace di Versailles. Qui e in altri scritti che seguono W. Wilson è fatto particolare oggetto di scherno per la contraddizione eclatante tra i programmi da lui proclamati e la sua reale attività. Nel 1916 fu rieletto presidente degli USA su un programma pacifista e nel 1917 fece entrare gli USA in guerra con un programma di autodeterminazione delle nazioni e nel 1919 sanzionò i trattati di pace di rapina.", "zh": "凡尔赛和会上最重要的人物。在这里及此后的一些著作中，特别以威尔逊为嘲讽对象，因为其所宣扬的纲领与他实际的活动之间存在极其显眼的矛盾。1916年，他以和平主义的纲领再度当选美国总统；1917年，又以民族自决的纲领使美国参加战争；到1919年，他认可了掠夺性的和约。", "head": false, "audio": "audio/03/s116.mp3", "audio_zh": "audio/03/zs116.mp3"}, {"pid": "s117", "sec": 6, "it": "12. Gli attentati dinamitardi (maggio-giugno 1919) a cui l’articolo si riferisce diedero modo", "zh": "12．本文所提及的1919年5月至6月的炸弹袭击事件，使……得以发生", "head": false, "audio": "audio/03/s117.mp3", "audio_zh": "audio/03/zs117.mp3"}, {"pid": "s118", "sec": 6, "it": "al governo del presidente Wilson di ampliare la grande “caccia alle streghe” in corso allora negli Stati Uniti d’America (Sacco e Vanzetti ne furono le vittime più celebri).", "zh": "威尔逊总统政府试图扩大当时在美利坚合众国进行的大规模\"搜捕女巫\"行动（萨科和万泽蒂是其中最著名的受害者）。", "head": false, "audio": "audio/03/s118.mp3", "audio_zh": "audio/03/zs118.mp3"}, {"pid": "s119", "sec": 6, "it": "Migliaia di “estremisti” vennero arrestati in pochi giorni in tutto il paese e internati in campi di concentramento, nel tentativo di arginare il “pericolo rosso”.", "zh": "几天之内，全国有数千名\"极端分子\"被捕，并被关进集中营，以图遏制\"赤色危险\"。", "head": false, "audio": "audio/03/s119.mp3", "audio_zh": "audio/03/zs119.mp3"}, {"pid": "s120", "sec": 6, "it": "13. Samuel Gompers (1850-1924) era il presidente dell’American Federation of Labour", "zh": "13. 塞缪尔·冈帕斯（1850-1924）是美国劳工联合会的", "head": false, "audio": "audio/03/s120.mp3", "audio_zh": "audio/03/zs120.mp3"}, {"pid": "s121", "sec": 6, "it": "(AFL), allora la maggiore confederazione sindacale negli USA.", "zh": "主席，美国劳工联合会是当时美国最大的工会联合会。", "head": false, "audio": "audio/03/s121.mp3", "audio_zh": "audio/03/zs121.mp3"}, {"pid": "s122", "sec": 6, "it": "14. Kang Yu-wei era un intellettuale confuciano esponente del “movimento di", "zh": "14. 康有为是儒家知识分子、\"自强运动\"的代表人物，参加了1898年的\"百日维新\"。维新运动被政变终止后，他在国外和中国之间往来，密谋复辟清朝。", "head": false, "audio": "audio/03/s122.mp3", "audio_zh": "audio/03/zs122.mp3"}, {"pid": "s123", "sec": 6, "it": "autorafforzamento” e partecipò alla “Riforma dei cento giorni” nel 1898. Dopo il colpo di Stato che pose fine al tentativo riformista, visse un po’ all’estero e un po’ in Cina tramando per la restaurazione della dinastia dei Ching.", "zh": "（无对应段落）", "head": false, "audio": "audio/03/s123.mp3", "audio_zh": "audio/03/zs123.mp3"}, {"pid": "s124", "sec": 6, "it": "15. Chen Chun-hsuan (o anche Chen Wu) era un ex funzionario di alto livello della corte", "zh": "15. 陈春煊（又名陈武）是中国朝廷的前高级官员。", "head": false, "audio": "audio/03/s124.mp3", "audio_zh": "audio/03/zs124.mp3"}, {"pid": "s125", "sec": 6, "it": "imperiale cinese. Dopo il 1911 si avvicinò a Sun Yat-sen e nel 1918-1919 fu a capo del Governo repubblicano di Canton.", "zh": "1911年后，他接近孙中山，1918—1919年间任广州军政府首脑。", "head": false, "audio": "audio/03/s125.mp3", "audio_zh": "audio/03/zs125.mp3"}, {"pid": "s126", "sec": 6, "it": "16. Si tratta di Kang Yu-wei (vedasi nota¹⁴).", "zh": "16. 这是康有为（见注¹⁴）。", "head": false, "audio": "audio/03/s126.mp3", "audio_zh": "audio/03/zs126.mp3"}, {"pid": "s127", "sec": 6, "it": "17. La grande rivista del movimento di rinnovamento culturale pubblicata a Shanghai dal", "zh": "17. 新文化运动的大型杂志，在上海出版，自", "head": false, "audio": "audio/03/s127.mp3", "audio_zh": "audio/03/zs127.mp3"}, {"pid": "s128", "sec": 6, "it": "1915 e a circolazione nazionale.", "zh": "1915年，具有全国性的影响范围。", "head": false, "audio": "audio/03/s128.mp3", "audio_zh": "audio/03/zs128.mp3"}, {"pid": "s129", "sec": 6, "it": "18. Tsingtao, capoluogo della provincia dello Shantung, venne assegnata dalla Conferenza", "zh": "18. 青岛是山东省省会，由会议决定划归……", "head": false, "audio": "audio/03/s129.mp3", "audio_zh": "audio/03/zs129.mp3"}, {"pid": "s130", "sec": 6, "it": "di Versailles al governo giapponese. Il³ maggio 1919 la stampa di Pechino diede notizia del fatto e il⁴ maggio una grande manifestazione di studenti diede inizio a Pechino al Movimento del⁴ maggio.", "zh": "尔的赛和约转交给日本政府。³一九一九年五月一日，北京报纸报道了此事，五月⁴四日，北京学生举行大规模示威游行，由此揭开了五四⁴运动的序幕。", "head": false, "audio": "audio/03/s130.mp3", "audio_zh": "audio/03/zs130.mp3"}, {"pid": "s131", "sec": 6, "it": "Il numero² della Rivista del fiume Hsiang uscì il²¹ luglio 1919 con due annunci: “1. Questa rivista si interessa specificatamente dello studio e della ricerca di teorie culturali e di critica sociale. Non interviene su fatti di attualità politica.", "zh": "《湘江评论》第二²期于一九一九年七月二¹日出版，刊登了两则启事：“一、本刊专门研究学术理论，进行社会批评。不议论当前的政治时事。", "head": false, "audio": "audio/03/s131.mp3", "audio_zh": "audio/03/zs131.mp3"}, {"pid": "s132", "sec": 6, "it": "19. Duemila copie del primo numero della nostra rivista sono andate esaurite nel primo", "zh": "十九、本刊创刊号两千份，第一天公开发售即告售罄。", "head": false, "audio": "audio/03/s132.mp3", "audio_zh": "audio/03/zs132.mp3"}, {"pid": "s133", "sec": 6, "it": "giorno di vendita al pubblico. Avevamo intenzione di ristamparne altre duemila copie ma, poiché la tipografia ha troppo lavoro, è necessario attendere alcuni giorni per la ristampa.", "zh": "本拟再加印两千份，但因印刷厂业务繁忙，加印需等数日。", "head": false, "audio": "audio/03/s133.mp3", "audio_zh": "audio/03/zs133.mp3"}, {"pid": "s134", "sec": 6, "it": "Di ciò chiediamo scusa ai lettori”.", "zh": "对此谨向读者致歉”。", "head": false, "audio": "audio/03/s134.mp3", "audio_zh": "audio/03/zs134.mp3"}, {"pid": "s135", "sec": 6, "it": "Come annunciato, vennero stampate altre².000 copie del numero¹, ma del numero² ne vennero stampate⁵.000 copie. La rivista ebbe ampia diffusione non solo nello Hunan, ma anche nel Kwangtung, nel Szechwan e a Wuhan.", "zh": "如前所述，第一期又重印了².000份，而第二期则重印了⁵.000份。该刊不仅行销湖南，还流传到广东、四川和武汉。", "head": false, "audio": "audio/03/s135.mp3", "audio_zh": "audio/03/zs135.mp3"}, {"pid": "s136", "sec": 6, "it": "L’articolo editoriale del numero² era costituito dalla prima puntata di La grande unione delle masse popolari che pubblichiamo assieme alle puntate successive dopo il numero⁴.", "zh": "第二期的社论为《民众的大联合》的第一部分，现将该文连同第四期以后刊载的各部分一并发表。", "head": false, "audio": "audio/03/s136.mp3", "audio_zh": "audio/03/zs136.mp3"}, {"pid": "s137", "sec": 7, "it": "COMMENTO DEI PRINCIPALI AVVENIMENTI DELL’OCCIDENTE", "zh": "《西方大事记评》", "head": true, "audio": "audio/03/s137.mp3", "audio_zh": "audio/03/zs137.mp3"}, {"pid": "s138", "sec": 7, "it": "L’odiata firma del trattato da parte dei tedeschi Prima della firma del trattato.", "zh": "德国人在条约上签字前，对条约的憎恨签字", "head": false, "audio": "audio/03/s138.mp3", "audio_zh": "audio/03/zs138.mp3"}, {"pid": "s139", "sec": 7, "it": "I rappresentanti della Germania sconfitta ma non prostrata, il conte Brockdorff- Rantzau e altri, sono giunti a Parigi nella prima decade di maggio. Il⁷ maggio ha avuto luogo la solenne cerimonia della consegna del trattato di pace. Il comportamento dei rappresentanti tedeschi è stato molto dignitoso. Alla riunione, Clemenceau si è alzato in piedi per pronunciare il discorso di apertura. Invece il rappresentante della Germania, Brockdorff-Rantzau, ha pronunciato il suo discorso rimanendo seduto. Eccolo qui di seguito: “L’esercito tedesco è stato sconfitto e siamo ben consapevoli fino a che punto siamo stati sconfitti. Tuttavia questa volta non è la Germania la sola responsabile della guerra, bensì tutta l’Europa. Il fatto è che in questi ultimi cinquant’anni l’imperialismo di ciascuna nazione europea ha costituito una sorta di veleno internazionale. Non si possono certo nascondere le colpe della Germania nel corso della guerra, ma tutti sanno che in guerra la coscienza dei popoli è ingannata dai sentimenti e questa è la colpa. Non bisogna tuttavia dimenticare che dopo l’¹¹ novembre dello scorso anno, moltissimi tedeschi che non hanno nulla a che fare con la guerra, sono morti a causa del blocco e l’Intesa guarda a ciò con freddezza.", "zh": "战败但未屈服的德国代表——布洛克多夫-伦佐伯爵等人——于5月上旬抵达巴黎。5月7日⁷举行了和平条约交付的隆重仪式。德国代表的表现十分庄重。在会议上，克列孟梭起立致开幕词。而德国代表布洛克多夫-伦佐却坐着发表讲话。其讲话内容如下：\"德军已被击败，我们深知自己失败到了何等程度。然而这次对战争负有责任的并非德国一国，而是整个欧洲。事实是，近五十年来欧洲各国的帝国主义构成了一种国际性的毒素。德国在战争中的罪责固然无法掩盖，但众所周知，在战争中各国人民的良知被感情所蒙蔽，而这正是罪过所在。然而不应忘记，去年11月11日¹¹以后，许许多多与战争毫无关系的德国人因封锁而死亡，而协约国对此却冷眼旁观。\nRivista del Fiume Hsiang — numero 2 (21 luglio 1919)\n\nTutto il mondo è d’accordo con i¹⁴ punti del presidente Wilson, anche l’Intesa ha dichiarato di voler preparare il trattato di pace basandosi su quel programma, così che si darebbe la possibilità alla Germania di risollevarsi. Ogni paese pertanto deve poter aderire alla Società delle Nazioni, non è dunque possibile lasciare la Germania fuori della porta. La Germania vorrebbe che le si mostrasse uno spirito di buona volontà nello studiare e preparare il trattato di pace”.\n\nIl segretario della Conferenza di pace, Dolfmann, ha consegnato a Brockdorff- Rantzau un grosso volume rilegato con una stoffa grigia e gialla e cioè il trattato di pace. Brockdorff-Rantzau, rientrato nella sua residenza, durante la cena non pronuncia neppure una parola. Dopo la cena, chiede che venga subito tradotto il trattato di pace, lavoro questo che, terminato alle tre del mattino, è subito portato nella stanza da letto di Brockdorff-Rantzau. Egli lo legge fino a mattino inoltrato e, fattene fare parecchie copie, le invia tramite un corriere speciale a Berlino. Il giorno⁸ il Gabinetto tedesco tiene una lunga riunione. Il primo ministro Scheidemann pronuncia un discorso davanti alla commissione incaricata del trattato di pace. Lo riportiamo qui di seguito: “Le condizioni del trattato di pace condannano a morte la Germania. Il governo deve tenere un comportamento politico calmo nel discutere questo disgustoso e folle documento ufficiale [...]”.\n\nLe condizioni del trattato di pace vengono immediatamente telegrafate a tutti i governi federali, con la preghiera di esprimere i loro pareri. A causa delle profonde sofferenze subite, viene ingiunto al pubblico di astenersi per una settimana dal frequentare i locali di divertimento. A teatro si possono rappresentare solo tragedie che abbiano riferimento alle sofferenze della patria. Persino la Borsa viene chiusa per tre giorni a causa del dolore nazionale. Famose personalità, sentito che la Conferenza di pace vuole costringere la Germania alla firma, sono furibonde e discutono delle conseguenze del rifiuto della firma. Nessuno è dell’idea che si debbano accettare le condizioni. Tutti i giornali di Berlino lanciano insulti, uno dice: “La durezza del trattato di pace è peggio di quanto potessimo immaginare, è il prodotto di pazzi e ignoranti; se non viene cambiato l’unica cosa è di rispondere no!”. Un altro dice: “Se noi firmassimo questo trattato di pace, significherebbe nient’altro che prostrarsi di fronte alla forza militare. I nostri cuori devono con risolutezza rifiutare”. Soltanto l’organo del partito socialdemocratico si dichiara d’accordo alla firma del trattato, dicendo: “In base all’esperienza passata, rifiutare significherebbe andare incontro a guai peggiori”.\n\nIn questo momento la cosa su cui bisogna prestare maggiore attenzione è il comportamento dei partiti politici tedeschi. I membri della maggioranza del partito socialista che partecipano al governo non vogliono la firma. Anche il partito popolare e il partito moderato hanno la stessa posizione. Il partito socialista indipendente invece non la pensa allo stesso modo. Questo, il giorno¹², in una riunione decide di accettare il trattato di pace e afferma inoltre che “se il governo tedesco seguiterà a conservare il suo atteggiamento militarista ciò produrrà negli altri sfiducia e paura. La Germania, per quanto la cosa sia ingiusta, non può fare altro che firmare. I trattati di pace tra Germania e Russia e tra Germania e Romania avranno vita breve, verranno tra poco annullati. Inoltre il trattato di pace di Versailles potrebbe essere cancellato dallo sviluppo della rivoluzione”.\n\nNoi riteniamo che se la Germania non vuole accettare il trattato di pace, deve prendere esempio dalla Russia e dall’Ungheria, cioè fare una grande rivoluzione sociale. Questo è ciò che più teme l’Intesa. I russi e gli ungheresi non inviano rappresentanti, non parlano di pace, combattono apertamente l’Intesa e l’Intesa fino a oggi non ha saputo cosa fare contro di loro. L’inverno scorso i rivoluzionari del partito socialista tedesco hanno fatto con successo la rivoluzione sociale, unendosi a est con i russi, a sud con gli austriaci e con gli ungheresi e i cecoslovacchi, per diffondere l’ideale della rivoluzione mondiale. Inaspettata-mente i partiti socialisti inglese, francese e americano, da molto tempo tranquilli, hanno fatto eco e i governi dei paesi dell’Intesa come possono tollerare questa situazione? Il partito socialista indipendente e i rivoluzionari del partito socialista sono fondamentalmente uno stesso partito diviso in due, non è quindi strano che abbia fatto questo discorso. Utilizzare il propagarsi della rivoluzione per cancellare il trattato di pace, sono intenzioni che non vanno prese alla leggera. Lo stesso giorno l’assemblea nazionale ha discusso le condizioni del trattato di pace.\n\nScheidemann ha detto: “Oggi i tedeschi si trovano di fronte a una decisione di vita o di morte! Dobbiamo assolutamente essere uniti! Noi cerchiamo soltanto di far sopravvivere il nostro paese, non abbiamo altri obiettivi. Noi non ci sognamo di applicare lo statalismo.\n\nNon abbiamo il problema di darci da fare per la gloria, usurpando il potere. Oggi la gola di ciascuno di noi è stretta da una mano che ci impedisce di respirare. La dignità del popolo è nelle vostre mani!”.\n\nIl giorno¹⁴ Brockdorff-Rantzau ha inviato a Clemenceau una nota ufficiale, i cui punti salienti sono: “Le condizioni di pace contenute nel trattato riguardo alla cessione di territori obbligano la Germania alla perdita di un importante settore produttivo. Il raccolto di patate e cereali diminuirà del²⁰ per cento. La produzione di carbone diminuirà del³⁰ per cento. L’acciaio del⁷⁵ per cento. Lo zinco del⁶⁰ per cento. La Germania ha già perduto le colonie e la flotta commerciale e ciò porta l’economia alla stagnazione. Già oggi non possiamo avere materie prime e sicuramente in seguito sarà ancora peggio. Allo stesso tempo le importazioni di cereali sicuramente diminuiranno in modo notevole. La vita di alcuni milioni di persone dipende dai commerci e dai trasporti marittimi, il governo tedesco non sarà in grado in seguito di garantire lavoro e cereali e si sarà allora costretti a emigrare in altri paesi per vivere. Ma i paesi più importanti non permettono ai tedeschi di emigrare. Pertanto firmare il trattato di pace significa condannare a morte milioni di tedeschi”.\n\nBrockdorff-Rantzau oltre a questa nota ufficiale ne ha inviate altre due a Clemenceau. La prima dice all’incirca: “L’Intesa vuole impossessarsi dei nostri territori, ma ciò non corrisponde a quanto ha dichiarato il presidente Wilson”. La seconda concerne il rigetto della clausola del risarcimento. Egli dice: “La Germania intende risarcire, ma non perché è responsabile della guerra”.\n\nAnalizziamo ora il rifiuto della Germania. Probabilmente i punti principali sono: l. non intende essere considerata come l’unica responsabile della guerra. 2. Non intende perdere i territori perché danno materie prime. Rifiutano anche altre clausole, ma meno importanti.\n\nLa sera del giorno¹³ a Berlino si è svolta una grande manifestazione e la maggioranza del partito socialista ha innalzato una tribuna e fatto un comizio dicendo che: “Le condizioni del trattato di pace sono più gravose e vergognose di quelle che Roma impose alle popolazioni sottomesse della Palestina”.\n\nMoltissime persone hanno manifestato per le strade e si sono fermate davanti all’Adlon Hotel, in cui erano scesi i membri del comitato dell’Intesa. Alcuni hanno tenuto discorsi, l’atmosfera si è fatta incandescente e hanno tentato di fare irruzione nell’albergo, ma la polizia lo ha impedito. Allora si sono recati davanti all’abitazione del primo ministro tedesco Scheidemann che ha fatto un discorso dalla finestra. La mattina presto ancora moltissime persone si trovavano davanti all’Adlon Hotel a cantare canzoni e a gridare: “Abbasso questo brutale trattato di pace! A morte Clemenceau! A morte l’Inghilterra!”. Altri vanno di nuovo davanti alla abitazione di Scheidemann e lo invitano a fare un discorso. Allora mentre Scheidemann parla dei¹⁴ punti di Wilson, la gente immediatamente grida: “A morte Wilson!”. Lo stesso giorno il partito socialista indipendente ha tenuto riunioni a Berlino e nelle campagne, in quaranta luoghi diversi.\n\nIl giorno¹⁹ i giornali di Berlino riportano il discorso del leader del partito socialdemocratico dottor Bernstein, in cui dice: “Le condizioni del trattato di pace sono durissime, tuttavia non nascono soltanto da odio esasperato. In realtà la politica portata avanti dalla Germania non dà alcun affidamento, perciò ora essa deve accettare questo trattamento. La Germania è responsabile di quanto è stato distrutto. Adesso la Germania deve far fronte a quanto le viene chiesto, non deve far altro che pagare dei debiti a chi ha derubato in passato. Io non sono d’accordo con tutta quella gente che fa discorsi esasperati. Io li avverto che non si possono dare più tante arie come il¹⁴ agosto 1914!”. Queste parole sono state per gli scalmanati tedeschi un vero e proprio secchio d’acqua gelida sulla testa.\n\nIl giorno²⁰ Brockdorff-Rantzau invia alla Conferenza di pace una nota in cui si chiede di modificare, attraverso una discussione, le condizioni di pace e l’ultimatum. Il giorno²² Clemenceau risponde promettendo di spostare l’ultimatum al²⁹ maggio. La sera del giorno²³ l’ambasciatore plenipotenziario tedesco, assieme ai ministri venuti da Berlino, si reca a Spa per avere un colloquio sulla decisione da prendere. Il giorno²⁴ Stresemann ed Erzberger sono arrivati in treno da Berlino a Spa, come pure Brockdorff-Rantzau e altri sedici membri della delegazione, per tenere un consulto, presieduto da Stresemann, per far passare la mozione contraria della Germania. Finito il consulto, i membri del governo rientrano a Berlino, mentre Brockdorff-Rantzau e gli altri tornano a Versailles.\n\nIl²⁷ maggio la Germania risponde alla Conferenza di pace. La prima parte della risposta, piuttosto importante, è come segue: l. la Germania è d’accordo nel ridurre l’esercito a centomila effettivi.\n《湘江评论》——第二期（1919年7月21日）", "head": false, "audio": "audio/03/s139.mp3", "audio_zh": "audio/03/zs139.mp3"}, {"pid": "s140", "sec": 7, "it": "全世界都赞成威尔逊总统的十四点¹⁴，协约国也已宣布愿意依据这一纲领筹备和约，从而使德国获得重新振兴的可能。因此每个国家都应能够加入国际联盟，把德国拒之门外是不可能的。德国希望在和约的审议与筹备中，能表现出善意精神。", "zh": "", "head": false, "audio": "audio/03/s140.mp3", "audio_zh": "audio/03/zs140.mp3"}, {"pid": "s141", "sec": 7, "it": "和平会议秘书长多尔曼交给布罗克多夫-兰曹一个用灰黄两色布面装帧的大册子，即和约。布罗克多夫-兰曹回到住所后，晚餐时一言不发。饭后，他立即要求和约的译文，这项工作在凌晨三点完成，随即送到布罗克多夫-兰曹的卧室。他一直读到天光大亮，并让人誊写多份，由特别信使送往柏林。八日⁸，德国内阁举行了长时间的会议。总理谢德曼向负责和约的委员会发表讲话，现照录如下：“和约的条件置德国于死地。政府在讨论这一丑恶而疯狂的官方文件时，必须保持冷静的政治态度〔……〕。”", "zh": "", "head": false, "audio": "audio/03/s141.mp3", "audio_zh": "audio/03/zs141.mp3"}, {"pid": "s142", "sec": 7, "it": "和约的条件立即电告各联邦政府，请其发表意见。由于遭受深重苦难，当局责令公众一周内不得进入娱乐场所。剧院只能上演与祖国苦难有关的悲剧。甚至连证券交易所也因举国悲痛而停市三天。闻悉和平会议要强迫德国签字，著名人士无不义愤填膺，纷纷讨论拒绝签字的后果。没有人主张接受这些条件。柏林各报纷纷痛骂，一家报纸说：“和约的苛刻程度超乎我们的想象，它是疯子和无知之徒的产物；若不修改，唯一的回答就是不！”另一家说：“倘若我们签署这一和约，那就无非是向武力屈服。我们的心必须坚决拒绝。”只有社会民主党的机关报表示赞同签字，说：“根据过去的经验，拒绝签字只会招致更大的灾难。”", "zh": "", "head": false, "audio": "audio/03/s142.mp3", "audio_zh": "audio/03/zs142.mp3"}, {"pid": "s143", "sec": 7, "it": "此时此刻最值得注意的是德国各政党的态度。参加政府的社会党多数派成员不愿签字。人民党和温和党也持同样立场。独立社会党则不然。该党十二日¹²开会决定接受和约，并声称：“如果德国政府继续保持其军国主义姿态，这将在别国引起不信任和恐惧。德国纵然觉得不公正，也别无选择，只能签字。德国同俄国、德国同罗马尼亚之间的和约寿命不长，不久即会被废除。此外，凡尔赛和约也可能被革命的发展所取消。”", "zh": "", "head": false, "audio": "audio/03/s143.mp3", "audio_zh": "audio/03/zs143.mp3"}, {"pid": "s144", "sec": 7, "it": "我们认为，倘若德国不愿接受和约，就应当效法俄国和匈牙利，即举行伟大的社会革命。这正是协约国最害怕的。俄国人和匈牙利人不派代表，不谈和平，公开同协约国作战，而协约国至今对他们束手无策。去年冬天，德国社会党的革命家们成功地进行了社会革命，东联俄国，南结奥国、匈牙利人和捷克斯洛伐克人，传播世界革命的理想。出乎意外，久已沉寂的英国、法国、美国社会党竟发出呼应之声，协约国诸国的政府怎能容忍这种局面？独立社会党和社会党革命家本来就是一个党分成的两半，所以发表这种言论不足为奇。利用革命的传播来取消和约，此等用心不可等闲视之。同日，国民会议讨论了和约的条件。", "zh": "", "head": false, "audio": "audio/03/s144.mp3", "audio_zh": "audio/03/zs144.mp3"}, {"pid": "s145", "sec": 7, "it": "谢德曼说：“今天德国人面临生死存亡的抉择！我们必须绝对团结！我们只图国家的生存，别无他求。我们丝毫不想实行国家主义。", "zh": "", "head": false, "audio": "audio/03/s145.mp3", "audio_zh": "audio/03/zs145.mp3"}, {"pid": "s146", "sec": 7, "it": "我们不求为争虚名而钻营夺权。今天我们每个人的咽喉都被一只扼住我们呼吸的手紧紧卡住。人民的尊严就在你们手中！”", "zh": "", "head": false, "audio": "audio/03/s146.mp3", "audio_zh": "audio/03/zs146.mp3"}, {"pid": "s147", "sec": 7, "it": "十四日¹⁴，布罗克多夫-兰曹向克列孟梭递交一份照会，其要点是：“和约中关于割让领土的和平条件，迫使德国丧失重要的生产部门。马铃薯和谷物的收获将减少百分之二十²⁰。煤的产量将减少百分之三十³⁰。钢铁减少百分之七十五⁷⁵。锌减少百分之六十⁶⁰。德国已经失去殖民地和商船队，这使经济陷于停滞。今天我们已得不到原料，今后势必更糟。同时谷物的进口必然大幅减少。数百万人的生计仰赖海上贸易和运输，德国政府今后将无法保障工作和口粮，届时人们将被迫移居他国谋生。但各主要国家不允许德国人移居。因此签署和约，就意味着宣判数百万德国人的死刑。”", "zh": "", "head": false, "audio": "audio/03/s147.mp3", "audio_zh": "audio/03/zs147.mp3"}, {"pid": "s148", "sec": 7, "it": "除这份照会外，布罗克多夫-兰曹还向克列孟梭另发了两份。第一份大意是：“协约国想霸占我们的领土，但这同威尔逊总统的声明不符。”第二份涉及拒绝赔偿条款。他说：“德国愿意赔偿，但不是因为德国对战争负有责任。”", "zh": "", "head": false, "audio": "audio/03/s148.mp3", "audio_zh": "audio/03/zs148.mp3"}, {"pid": "s149", "sec": 7, "it": "现在来分析德国的拒绝。大概其要点是：一、不愿被视为对战争负唯一责任者。二、不愿丧失产原料的领土。其他条款他们也有反对的，但都是次要的。", "zh": "", "head": false, "audio": "audio/03/s149.mp3", "audio_zh": "audio/03/zs149.mp3"}, {"pid": "s150", "sec": 7, "it": "十三日¹³晚，柏林举行了大规模示威，社会党多数派搭起讲坛，举行集会，说：“和约的条件比罗马强加于被征服的巴勒斯坦各民族的更为苛刻、更为耻辱。”", "zh": "", "head": false, "audio": "audio/03/s150.mp3", "audio_zh": "audio/03/zs150.mp3"}, {"pid": "s151", "sec": 7, "it": "极多的人上街示威，在协约国委员会下榻的阿德隆饭店前停留。有人发表演说，气氛白热化，有人试图冲入饭店，被警察阻止。于是人群来到德国总理谢德曼住所前，他从窗口发表演说。次日清晨，仍有极多的人在阿德隆饭店前唱歌喊口号：“打倒这个残暴的和约！克列孟梭该死！英国该死！”另一些人又来到谢德曼住所前，请他演说。当谢德曼谈到威尔逊的十四点¹⁴时，群众立即高喊：“威尔逊该死！”同日，独立社会党在柏林和各地农村举行了集会，共达四十处。", "zh": "", "head": false, "audio": "audio/03/s151.mp3", "audio_zh": "audio/03/zs151.mp3"}, {"pid": "s152", "sec": 7, "it": "十九日¹⁹，柏林各报刊载社会民主党领袖伯恩斯坦博士的演说，他说：“和约的条件极其苛刻，但并不仅仅是出于狂暴的仇恨。实际上德国推行的政策毫无信誉可言，因此现在它必须接受这种待遇。德国对被摧毁的一切负有责任。现在德国必须承受对它的要求，无非是偿还过去劫掠所得。我不同意那些说激烈话的人。我警告他们，不能像1914年8月十四日¹⁴那样再趾高气扬了！”这番话对于发狂的德国人，无异于一桶冰水浇在头上。", "zh": "", "head": false, "audio": "audio/03/s152.mp3", "audio_zh": "audio/03/zs152.mp3"}, {"pid": "s153", "sec": 7, "it": "二十日²⁰，布罗克多夫-兰曹致函和平会议，请求通过讨论修改和平条件及最后通牒。二十二日²²，克列孟梭答复允诺把最后通牒期限推迟至五月二十九日²⁹。二十三日²³晚，德国全权大使同从柏林赶来的各位部长前往斯帕，会商应采取的决策。二十四日²⁴，施特雷泽曼和埃茨贝格尔乘火车从柏林抵达斯帕，布罗克多夫-兰曹及其他十六名代表团成员也来到斯帕，由施特雷泽曼主持举行协商会议，以使德国的反建议案获得通过。协商结束后，政府成员返回柏林，布罗克多夫-兰曹等人则返回凡尔赛。", "zh": "", "head": false, "audio": "audio/03/s153.mp3", "audio_zh": "audio/03/zs153.mp3"}, {"pid": "s154", "sec": 7, "it": "五月二十七日²⁷，德国答复和平会议。答复的第一部分颇为重要，内容如下：一、德国同意将军队裁减至十万人。", "zh": "", "head": false, "audio": "audio/03/s154.mp3", "audio_zh": "audio/03/zs154.mp3"}, {"pid": "s155", "sec": 7, "it": "1. È d’accordo a consegnare le sue corazzate, ma conservando le navi", "zh": "1. 他同意交出他的战列舰，但保留着舰船", "head": false, "audio": "audio/03/s155.mp3", "audio_zh": "audio/03/zs155.mp3"}, {"pid": "s156", "sec": 7, "it": "commerciali.", "zh": "商业的。", "head": false, "audio": "audio/03/s156.mp3", "audio_zh": "audio/03/zs156.mp3"}, {"pid": "s157", "sec": 7, "it": "2. È contro la decisione per quanto concerne i territori orientali. Chiede che le", "zh": "2. 反对关于东方领土的决议。要求……", "head": false, "audio": "audio/03/s157.mp3", "audio_zh": "audio/03/zs157.mp3"}, {"pid": "s158", "sec": 7, "it": "popolazioni della Prussia orientale tengano un plebiscito.", "zh": "东普鲁士各居民点举行公民投票。", "head": false, "audio": "audio/03/s158.mp3", "audio_zh": "audio/03/zs158.mp3"}, {"pid": "s159", "sec": 7, "it": "3. È d’accordo che Danzica diventi un porto aperto.", "zh": "3. 同意但泽成为开放港口。", "head": false, "audio": "audio/03/s159.mp3", "audio_zh": "audio/03/zs159.mp3"}, {"pid": "s160", "sec": 7, "it": "4. Chiede che le truppe dell’Intesa vengano ritirate dopo quattro mesi dalla", "zh": "4．要求协约国军队于四个月之后撤回", "head": false, "audio": "audio/03/s160.mp3", "audio_zh": "audio/03/zs160.mp3"}, {"pid": "s161", "sec": 7, "it": "firma del trattato.", "zh": "条约的签订。", "head": false, "audio": "audio/03/s161.mp3", "audio_zh": "audio/03/zs161.mp3"}, {"pid": "s162", "sec": 7, "it": "5. Chiede di entrare a far parte della Società delle Nazioni.", "zh": "5. 请求加入国际联盟。", "head": false, "audio": "audio/03/s162.mp3", "audio_zh": "audio/03/zs162.mp3"}, {"pid": "s163", "sec": 7, "it": "6. Chiede con risolutezza di poter esercitare il protettorato sulle colonie.", "zh": "6. 坚决要求对殖民地行使保护权。", "head": false, "audio": "audio/03/s163.mp3", "audio_zh": "audio/03/zs163.mp3"}, {"pid": "s164", "sec": 7, "it": "7. Per la questione del pagamento dei danni di guerra, non può pagare più di", "zh": "7. 关于战争赔款问题，付款不得超过", "head": false, "audio": "audio/03/s164.mp3", "audio_zh": "audio/03/zs164.mp3"}, {"pid": "s165", "sec": 7, "it": "un miliardo di marchi.", "zh": "十亿马克。", "head": false, "audio": "audio/03/s165.mp3", "audio_zh": "audio/03/zs165.mp3"}, {"pid": "s166", "sec": 7, "it": "8. Rifiuta di estradare il kaiser e altre personalità.", "zh": "8. 拒绝引渡德皇及其他重要人物。", "head": false, "audio": "audio/03/s166.mp3", "audio_zh": "audio/03/zs166.mp3"}, {"pid": "s167", "sec": 7, "it": "9. La Germania deve avere ancora la possibilità di svolgere il commercio con", "zh": "9．德国还应当有可能同", "head": false, "audio": "audio/03/s167.mp3", "audio_zh": "audio/03/zs167.mp3"}, {"pid": "s168", "sec": 7, "it": "l’estero.", "zh": "外国进行贸易。", "head": false, "audio": "audio/03/s168.mp3", "audio_zh": "audio/03/zs168.mp3"}, {"pid": "s169", "sec": 7, "it": "La seconda parte della risposta comprende alcuni punti importanti che sono: l. nel periodo di transizione la Germania deve conservare tutto l’esercito per garantire la pace.", "zh": "答复的第二部分包括一些要点，它们是：一、在过渡时期，德国应当保留全部军队，以保障和平。", "head": false, "audio": "audio/03/s169.mp3", "audio_zh": "audio/03/zs169.mp3"}, {"pid": "s170", "sec": 7, "it": "10. Si deve garantire ai tedeschi la possibilità di riunire l’assemblea dei cittadini,", "zh": "10．应当保证德国人有召集公民大会的可能，", "head": false, "audio": "audio/03/s170.mp3", "audio_zh": "audio/03/zs170.mp3"}, {"pid": "s171", "sec": 7, "it": "per discutere il problema della cessione dei territori. Si deve inoltre garantire agli austriaci di potersi unire liberamente alla Germania.", "zh": "以讨论领土割让问题。此外，还应当保证奥地利人可以自由地与德国联合。", "head": false, "audio": "audio/03/s171.mp3", "audio_zh": "audio/03/zs171.mp3"}, {"pid": "s172", "sec": 7, "it": "11. Rifiuta di cedere l’Alta Slesia.", "zh": "十一、拒绝割让上西里西亚。", "head": false, "audio": "audio/03/s172.mp3", "audio_zh": "audio/03/zs172.mp3"}, {"pid": "s173", "sec": 7, "it": "12. Rifiuta di concedere alla Russia il diritto a indennità.", "zh": "十二、拒绝给予俄国取得赔款的权利。", "head": false, "audio": "audio/03/s173.mp3", "audio_zh": "audio/03/zs173.mp3"}, {"pid": "s174", "sec": 7, "it": "13. Non sente il dovere di indennizzare l’Italia, la Romania, la Polonia e altri paesi.", "zh": "十三、认为自己没有赔偿意大利、罗马尼亚、波兰及其他国家的义务。", "head": false, "audio": "audio/03/s174.mp3", "audio_zh": "audio/03/zs174.mp3"}, {"pid": "s175", "sec": 7, "it": "Questa la risposta della Germania. I rappresentanti delle quattro grandi potenze, dopo una lunga discussione, rispondono a loro volta con un documento in cui rigettano ogni punto delle richieste tedesche. Il documento è molto lungo. In esso si afferma che la Germania non può disconoscere la propria grande responsabilità nella guerra; che la Germania deve pagare tutti i danni di guerra; che il comandante in capo delle forze armate deve essere consegnato assieme a quei personaggi che durante la guerra hanno commesso delle atrocità e che tutti costoro vanno puniti secondo la legge; che per parecchi anni debbono essere sorvegliati in modo particolare; che i principi fondamentali del trattato di pace dell’Intesa non possono in alcun modo essere modificati; che tuttavia si possono fare delle piccole concessioni in base alle proposte pratiche della Germania, ecc.", "zh": "这就是德国的答复。四大强国的代表经过长时间的讨论，也提出一份文件作为答复，驳回了德国要求的每一条。这份文件很长。其中宣称：德国无法推卸自身在战争中的重大责任；德国必须偿付全部战争损失；武装部队总司令连同那些在战争期间犯下暴行的人物必须交出，所有这些人都要依法惩处；今后若干年内必须受到特别监视；协约国和约的根本原则绝不容许修改；不过，根据德国提出的实际可行的建议，可以作一些小的让步，等等。", "head": false, "audio": "audio/03/s175.mp3", "audio_zh": "audio/03/zs175.mp3"}, {"pid": "s176", "sec": 7, "it": "Dopo il²⁸ maggio il rappresentante tedesco avanza nuove richieste, per cui il giorno della firma viene spostato parecchie volte. Il giorno ultimo per la firma viene fissato al²⁸ giugno. La prima metà di giugno è un susseguirsi di riunioni.", "zh": "5月²⁸日之后，德国代表又提出新的要求，因而签字日期一再推迟。最后的签字日期定在6月²⁸日。6月上半月，会议接连不断。", "head": false, "audio": "audio/03/s176.mp3", "audio_zh": "audio/03/zs176.mp3"}, {"pid": "s177", "sec": 7, "it": "Si arriva al¹⁸ giugno e la delegazione tedesca rientra in Germania dalla capitale francese e sono tutti d’accordo nell’esortare il Gabinetto tedesco a rifiutare la firma del trattato. Il Gabinetto tedesco prepara a Weimar una conferenza di tutti i gruppi, per deliberare su questo importante problema. Nello stesso momento, l’Intesa ha già mobilitato gli eserciti perché intervengano immediatamente qualora la Germania rifiuti la firma del trattato. Adesso, di fronte a tale situazione, la Germania non può fare a meno di firmare.", "zh": "到了6月¹⁸日，德国代表团从法国首都返回德国，一致敦促德国内阁拒绝在和约上签字。德国内阁在魏玛筹备召开各党团会议，商讨这一重大问题。与此同时，协约国已经动员了军队，一旦德国拒绝签字，便立即出兵干涉。现在，面对这种形势，德国不得不签字。", "head": false, "audio": "audio/03/s177.mp3", "audio_zh": "audio/03/zs177.mp3"}, {"pid": "s178", "sec": 7, "it": "Il²² giugno l’Intesa presenta alla Germania il suo ultimatum, che viene consegnato al rappresentante tedesco: entro cinque giorni la Germania deve accettare il trattato di pace. Il contenuto dell’ultimatum dice che è possibile fare delle piccole concessioni riguardo alle condizioni, come segue: l. l’Alta Slesia deve tenere un referendum popolare.", "zh": "6月22²²日，协约国向德国递交最后通牒，并将其交给德国代表：德国必须在五日内接受和平条约。通牒内容称，可在条件方面作出若干小的让步，如下：一、上西里西亚应举行公民投票。", "head": false, "audio": "audio/03/s178.mp3", "audio_zh": "audio/03/zs178.mp3"}, {"pid": "s179", "sec": 7, "it": "14. La linea di confine della Prussia occidentale deve essere ridefinita.", "zh": "一四、西普鲁士的边界线应重新划定。", "head": false, "audio": "audio/03/s179.mp3", "audio_zh": "audio/03/zs179.mp3"}, {"pid": "s180", "sec": 7, "it": "15. L’esercito tedesco può temporaneamente ammontare a due milioni di", "zh": "一五、德国军队可暂时增至二百万人", "head": false, "audio": "audio/03/s180.mp3", "audio_zh": "audio/03/zs180.mp3"}, {"pid": "s181", "sec": 7, "it": "effettivi.", "zh": "员。", "head": false, "audio": "audio/03/s181.mp3", "audio_zh": "audio/03/zs181.mp3"}, {"pid": "s182", "sec": 7, "it": "16. La Germania deve rendere noti, entro un mese, i nomi di coloro che durante", "zh": "16. 德国必须在一月之内公布战争期间", "head": false, "audio": "audio/03/s182.mp3", "audio_zh": "audio/03/zs182.mp3"}, {"pid": "s183", "sec": 7, "it": "la guerra hanno agito contro le leggi.", "zh": "违反法律者的姓名。", "head": false, "audio": "audio/03/s183.mp3", "audio_zh": "audio/03/zs183.mp3"}, {"pid": "s184", "sec": 7, "it": "17. La Germania deve mettere a punto le clausole del problema finanziario.", "zh": "17. 德国必须制定出财政问题各条款的细则。", "head": false, "audio": "audio/03/s184.mp3", "audio_zh": "audio/03/zs184.mp3"}, {"pid": "s185", "sec": 7, "it": "18. Una volta soddisfatte tutte le condizioni, alla Germania sarà garantito in", "zh": "18. 在所有条件都得到满足之后，将保证德国在", "head": false, "audio": "audio/03/s185.mp3", "audio_zh": "audio/03/zs185.mp3"}, {"pid": "s186", "sec": 7, "it": "futuro di poter entrare a far parte della Società delle Nazioni.", "zh": "将来可能加入国际联盟。", "head": false, "audio": "audio/03/s186.mp3", "audio_zh": "audio/03/zs186.mp3"}, {"pid": "s187", "sec": 7, "it": "Il Gabinetto Scheidemann è consapevole di non avere alcuna possibilità di sottrarsi al trattato di pace, pertanto decide di dare le dimissioni. Il giorno²² viene formato un nuovo Gabinetto: il primo ministro di Stato è Bauer, ministro degli esteri Muller, ministro delle finanze Erzberger, ministro degli interni David, ministro delle colonie Bell, ministro delle poste e comunicazioni Giesberts, ministro del lavoro Schnicke, ministro dell’ingegneria Schlike, ministro dell’economia pubblica Vissel, ministro del tesoro Schiele, ministro degli approvvigionamenti Schmidt. Bauer e la maggior parte dei membri del Gabinetto appartengono alla maggioranza del partito socialista e sono colleghi di partito dei membri del Gabinetto precedente; nell’attuale urgente situazione diplomatica, si trovano a dover affrontare il difficile problema della firma del trattato. Un Gabinetto formato in tal modo è probabile che sia già pronto a firmare il trattato. Scheidemann si è dimesso e naturalmente tutti gli inviati alla Conferenza di pace nominati dal suo Gabinetto hanno fatto lo stesso. Pertanto la Germania ha cambiato gli inviati ai negoziati di pace. La nuova delegazione è formata dal ministro degli esteri del nuovo Gabinetto, Muller, dal ministro delle poste e comunicazioni Giesberts e altri.", "zh": "沙伊德曼内阁深知自己已无任何可能摆脱和约，遂决定辞职。当天²²组成了新内阁：国务总理为鲍尔，外交部长为米勒，财政部长为艾兹伯格，内政部长为达维德，殖民部长为贝尔，邮电部长为吉斯贝茨，劳动部长为施尼克，工程部长为施利克，公共经济部长为维塞尔，国库部长为希勒，供应部长为施密特。鲍尔和内阁多数成员均属社会党多数派，与上届内阁成员同属一党；在当前紧急的外交形势下，他们面临着签署和约这一棘手问题。以这种方式组成内阁，很可能已准备好在和约上签字。沙伊德曼既已辞职，自然由他内阁所派的出席和平会议的全部代表亦已辞职。因此德国更换了参加和平谈判的代表。新代表团由新内阁外交部长米勒、邮电部长吉斯贝茨等人组成。", "head": false, "audio": "audio/03/s187.mp3", "audio_zh": "audio/03/zs187.mp3"}, {"pid": "s188", "sec": 7, "it": "Contemporaneamente il parlamento ha tenuto a Weimar un’assemblea e Bauer vi si è subito recato e ha fatto un discorso pieno di angosciato rimorso. Ha spiegato con quanto dolore sia entrato a far parte del nuovo governo; ha pregato il parlamento di prendere una decisione sul da fare altrimenti sarà di nuovo la guerra.", "zh": "与此同时，议会在魏玛召开了会议，鲍尔随即赶赴会场，发表了一篇充满痛苦悔恨的演说。他说明自己是怀着何等沉痛的心情参加新政府的；他请求议会对何去何从作出决定，否则战事将再起。", "head": false, "audio": "audio/03/s188.mp3", "audio_zh": "audio/03/zs188.mp3"}, {"pid": "s189", "sec": 7, "it": "Bauer ha detto inoltre: “Io, nel momento estremo in cui la Germania è libera, mi oppongo a un trattato di pace distruttivo e violento! Mi oppongo alla maschera dell’autodeterminazione! Mi oppongo a questi nuovi strumenti che mettono a repentaglio la pace del mondo!”. Il parlamento ha tuttavia approvato la decisione di firmare il trattato, in un coro di: “Siamo d’accordo!”, “Ci opponiamo!”.", "zh": "鲍尔还说道：\"在德国获得解放的紧要关头，我反对这个破坏性和暴力的和平条约！我反对自决这个面具！我反对这些危害世界和平的新工具！\"然而，议会在一片\"赞成！\"\"反对！\"的喧哗声中，通过了签署条约的决定。", "head": false, "audio": "audio/03/s189.mp3", "audio_zh": "audio/03/zs189.mp3"}, {"pid": "s190", "sec": 7, "it": "Una volta approvata la decisione di firmare il trattato, il giorno²³ Bauer si reca di nuovo in parlamento per spiegare la necessità di firmare il trattato senza condizioni, dicendo quanto segue: “Un paese che ha perso la guerra, viene umiliato nell’animo e violentato nel corpo dal mondo! Noi per il momento firmiamo il trattato di pace. Abbiamo ancora un po’ di respiro e speriamo di vedere il giorno in cui coloro che hanno distrutto il nostro onore la pagheranno”.", "zh": "签署条约的决定一经通过，鲍尔于²³日再次前往议会，解释无条件签署条约的必要性，他说了如下的话：\"一个战败的国家，在精神上受到世界的凌辱，在肉体上受到世界的摧残！我们暂时签署和平条约。我们还有一口气，我们希望看到摧毁我们荣誉的人付出代价的那一天。\"", "head": false, "audio": "audio/03/s190.mp3", "audio_zh": "audio/03/zs190.mp3"}, {"pid": "s191", "sec": 7, "it": "In questo momento la destra protesta violentemente. Si procede tuttavia alla votazione. Finalmente l’accordo sulla firma è raggiunto. Il presidente del parlamento Fehrenbach si alza per fare un breve discorso: “Affidiamo la nostra sfortunata patria alla misericordia di Dio!” e seguita: “Signori dirigenti di tutti i partiti, promettete di dichiarare ai circoli militari che tutto il paese si augura che fanteria e marina siano pronte a fornire un eccellente esempio di spirito di sacrificio, siano pronte ad aiutare i lavoratori a ricostruire la patria!”. La firma del trattato di pace della Germania, motivo di pace o di pericolo per tutto il mondo, viene decisa definitivamente in una baraonda di comizi e discorsi tristi e amari.", "zh": "这时，右派激烈抗议。然而还是进行了表决。终于就签署达成了协议。议长费伦巴赫起身作简短演说：\"我们把多灾多难的祖国托付给上帝的慈悲！\"他接着说：\"各党的领袖先生们，请你们向军方人士声明，全国都希望步兵和海军做好准备，树立自我牺牲精神的榜样，准备帮助工人重建祖国！\"德国的和平条约的签署——它是全世界的和平还是危险——就在一片混乱的集会和悲哀苦涩的演说中最后决定了。", "head": false, "audio": "audio/03/s191.mp3", "audio_zh": "audio/03/zs191.mp3"}, {"pid": "s192", "sec": 7, "it": "In tutta la storia tedesca non si trova una ricorrenza come questa!", "zh": "在全部德国历史上，找不到这样的一次事件！", "head": false, "audio": "audio/03/s192.mp3", "audio_zh": "audio/03/zs192.mp3"}, {"pid": "s193", "sec": 7, "it": "Passata in parlamento la mozione della firma, la nuova delegazione dei rappresentanti tedeschi si reca a Parigi per presentare alla Conferenza di pace il documento con cui la Germania si impegna a firmare il trattato di pace. Il contenuto del documento è riassunto in quanto segue: “Il governo della Repubblica tedesca sa che l’Intesa aveva deciso di ricorrere alla forza per costringere la Germania a subire le condizioni del trattato di pace.", "zh": "缔结条约的动议在国会通过后，德国新的代表代表团前往巴黎，向和平会议递交德国承诺签署和平条约的文件。文件内容概述如下：“德意志共和国的政府知道，协约国已决定使用武力，迫使德国接受和平条约的条件。", "head": false, "audio": "audio/03/s193.mp3", "audio_zh": "audio/03/zs193.mp3"}, {"pid": "s194", "sec": 7, "it": "Queste condizioni, sebbene non abbiano un significato molto importante, tuttavia defraudano la Germania del proprio onore. Il governo tedesco, sebbene sia stato messo in ginocchio da una forza superiore alla sua e condizioni di pace tanto ingiuste siano qualcosa che non si è mai visto fin dai tempi più antichi, tuttavia nei confronti di tali condizioni non è disposto a ritornare sulle proprie idee! Oggi rilascia una dichiarazione speciale in cui si dice pronto ad accettare le condizioni proposte dall’Intesa”.", "zh": "这些条件虽然并无十分重大的意义，然而却剥夺了德国的荣誉。德国政府虽然被比自己强大的武力所压倒，而且自古以来从未见过如此不公正的和平条件，然而对于这些条件，它却不愿意放弃自己的主张！今天它发表了一项特别声明，表示准备接受协约国所提出的条件”。", "head": false, "audio": "audio/03/s194.mp3", "audio_zh": "audio/03/zs194.mp3"}, {"pid": "s195", "sec": 7, "it": "Una volta fatta la dichiarazione che abbiamo appena riportato, i diversi paesi sono talmente sollevati che non è possibile esprimerlo a parole. Il giorno²⁸ è l’ultimo giorno per la firma del trattato di pace. Nella reggia di Versailles non si era mai tenuta una riunione simile per la firma di un trattato di pace.", "zh": "发表了我们刚刚转述的声明之后，各国都感到如此如释重负，简直无法用言语来表达。这一天²⁸是签署和平条约的最后一天。在凡尔赛宫里，从未举行过类似的和平条约签字仪式。", "head": false, "audio": "audio/03/s195.mp3", "audio_zh": "audio/03/zs195.mp3"}, {"pid": "s196", "sec": 7, "it": "Il momento in cui viene firmato il trattato.", "zh": "条约签署的时刻。", "head": false, "audio": "audio/03/s196.mp3", "audio_zh": "audio/03/zs196.mp3"}, {"pid": "s197", "sec": 7, "it": "Il giorno²⁸ giugno 1919 alle ore³,05 del pomeriggio, nella reggia di Versailles si tiene la riunione. Una grande tribuna, assai imponente, è stata allestita nella Sala degli specchi. I primi ad arrivare nella sala sono i plenipotenziari dell’Intesa.", "zh": "1919年6月²⁸日下午3时³,05分，凡尔赛宫举行会议。在镜厅内设有一座十分宏伟的大台。最先进人会场的是协约国的全权代表。", "head": false, "audio": "audio/03/s197.mp3", "audio_zh": "audio/03/zs197.mp3"}, {"pid": "s198", "sec": 7, "it": "Successivamente è la volta dei plenipotenziari tedeschi. Entrano soltanto il ministro degli esteri Muller e il ministro dei trasporti e comunicazioni Bell, essendosi gli altri rifiutati di partecipare. Per prima cosa, il presidente Clemenceau rilascia una breve dichiarazione in cui dice: “L’Intesa e i governi dei paesi che hanno preso parte alla guerra sono tutti d’accordo sulle condizioni del trattato di pace. La firma di oggi sta a dimostrare quanto la nostra comprensione si basi su onestà e serietà”. Subito dopo invita il rappresentante della repubblica germanica a firmare. All’improvviso il rappresentante tedesco che gli siede accanto grida: “Tedesca! Tedesca!”. Clemenceau si corregge e dice: “Tedesca”. A quel punto i rappresentanti tedeschi si alzano per apporre la firma sul trattato, Bell è il primo a firmare. Sono le³,12 del pomeriggio, in questo preciso momento le fontane del parco zampillano e vengono sparate alcune salve di cannone. Mentre i rappresentanti tedeschi ritornano ai loro posti, tutta l’assemblea è visibilmente contenta.", "zh": "随后进来的是德国全权代表。由于其他代表拒绝参加，到会的只有外交部长缪勒和交通、通讯部长贝尔。首先，克列孟梭主席发表简短声明，说道：“协约国以及参战国各政府，对和平条约的条件意见完全一致。今天的签字，足以证明我们的谅解是建立在诚实和严肃的基础之上的。”接着，他请德意志共和国的代表签字。突然，坐在他旁边的德国代表喊道：“德国！德国！”克列孟梭随即改口说道：“德国。”于是德国代表起身到条约上签字，贝尔第一个签署。此时是下午3时³,12分，就在这一刻，公园的喷泉喷起水柱，并鸣放了数响礼炮。当德国代表回到座位时，全场明显流露出喜悦之情。", "head": false, "audio": "audio/03/s198.mp3", "audio_zh": "audio/03/zs198.mp3"}, {"pid": "s199", "sec": 7, "it": "Il secondo a firmare è il rappresentante americano, seguito dall’inglese, francese, italiano, giapponese e per ultimo dal cecoslovacco. Alle³,35 pomeridiane tutti avevano finito di firmare. Clemenceau dichiara allora chiusa la riunione.", "zh": "第二个签字的是美国代表，随后依次是英国、法国、意大利、日本代表，最后签字的是捷克斯洛伐克代表。下午3时³,35分，全体签字完毕。克列孟梭随即宣布会议结束。", "head": false, "audio": "audio/03/s199.mp3", "audio_zh": "audio/03/zs199.mp3"}, {"pid": "s200", "sec": 7, "it": "Dopo la firma.", "zh": "签字之后。", "head": false, "audio": "audio/03/s200.mp3", "audio_zh": "audio/03/zs200.mp3"}, {"pid": "s201", "sec": 7, "it": "Quando il parlamento tedesco diffonde la notizia che ha dato il permesso di firmare il trattato di pace, immediatamente in tutta la Germania hanno luogo manifestazioni patriottiche. Il popolo canta in corteo canzoni di guerra e l’inno nazionale, festeggiando con grida di gioia e saluti i vecchi ufficiali. Tutti i giornali mostrano una grande indignazione riguardo al problema del processo all’imperatore. Un giornale arriva a dichiarare che se l’imperatore della Germania accetterà il processo dell’Intesa, allora dovranno fare altrettanto gli ufficiali dell’esercito del 1914. Inoltre invita a formare un contingente che si rechi in Olanda al fine di proteggere l’imperatore tedesco. In tutto il paese hanno luogo manifestazioni e scioperi in continuazione. Il giorno²⁸ arriva a Berlino la notizia dell’avvenuta firma del trattato di pace. Un giornale berlinese pubblica immediatamente un articolo che dice: “I tedeschi risponderanno sicuramente alla vergogna del 1919!”.", "zh": "当德国议会公布已准许签署和平条约的消息后，整个德国立即举行了爱国示威。人民列队高唱战歌和国歌，以欢呼和致敬向旧军官们表示庆贺。所有报纸对审判皇帝问题表现出极大的愤慨。有一家报纸甚至宣称，如果德国皇帝接受协约国的审判，那么1914年的陆军军官们也应当同样受审。它还号召组织一支志愿队伍前往荷兰，以保护德国皇帝。全国各地不断发生示威和罢工。这一天²⁸，和约业已签署的消息传到柏林。一家柏林报纸立即发表文章说：“德国人必将回敬1919年的耻辱！”", "head": false, "audio": "audio/03/s201.mp3", "audio_zh": "audio/03/zs201.mp3"}, {"pid": "s202", "sec": 7, "it": "Ma il governo ne vieta la distribuzione. Il giorno²⁹ tutti i giornali tedeschi escono listati a lutto in segno di dolore e di tristezza. Tutti i giornali riportano che i commenti sono pessimistici. A Berlino e in tutto il paese, i lavoratori delle ferrovie e dei tram scendono in sciopero. Nella città di Berlino tutto il settore dei trasporti rimane fermo. Ad Amburgo si verificano disordini in diversi posti. Gli scioperi in tutto il paese diventano sempre più numerosi.", "zh": "但是政府禁止散发该报。这一天²⁹，所有德国报纸都出了黑边版，以示悲痛和哀伤。各报报道，舆论评论悲观。柏林及全国铁路工人和电车工人举行罢工。柏林市整个运输部门陷于停顿。汉堡多处发生骚乱。全国各地的罢工日益增多。", "head": false, "audio": "audio/03/s202.mp3", "audio_zh": "audio/03/zs202.mp3"}, {"pid": "s203", "sec": 7, "it": "Commento.", "zh": "评论。", "head": false, "audio": "audio/03/s203.mp3", "audio_zh": "audio/03/zs203.mp3"}, {"pid": "s204", "sec": 7, "it": "Queste sono le notizie. Ho riportato soltanto le notizie sulla firma del trattato di pace da parte della Germania. Per quanto concerne questa firma, ho riportato soprattutto notizie riguardanti la reazione addolorata del popolo. Che cosa significa? Con questo trattato di pace, oltre alla Società delle Nazioni, tutti sono contro la Germania. La Germania è formata dalle nazionalità germaniche. Se si guarda alla storia, vediamo che già da molto tempo esse godevano di una grande reputazione e che il loro carattere era particolarmente deciso. Se in un solo giorno la vecchia spada viene spezzata, allora una nuova spada la sostituirà immediatamente e in quel momento la razza umana del mondo intero non sarà in grado di far nulla per opporvisi. Non dobbiamo ritenere che il militarismo e l’aggressività della Germania siano stati messi in moto soltanto dall’imperatore tedesco.", "zh": "这些就是报道。我只引述了关于德国签订和约的报道。关于这一签订，我引述的主要是关于人民悲痛反应的报道。这意味着什么？根据这项和约，除国际联盟外，人人都是反对德国的。德国是由日耳曼民族组成的。只要看一看历史，就知道他们早已享有很大的声誉，而且他们的性格特别刚强。如果旧剑有朝一日被折断，那么立即就会有一把新剑取而代之，那时全世界人类将无力加以抵抗。我们不要以为德国的军国主义和侵略性只是由德皇发动起来的。", "head": false, "audio": "audio/03/s204.mp3", "audio_zh": "audio/03/zs204.mp3"}, {"pid": "s205", "sec": 7, "it": "L’imperatore della Germania è la cristallizzazione della nazionalità tedesca. Se esiste la nazionalità tedesca allora esiste l’imperatore tedesco. La nazionalità tedesca di oggi è stata plasmata dal pensiero filosofico elaborato da Leibniz, Fichte, Goethe, Paulsen, ecc. È così che i tedeschi sono diventati potenti e hanno atteso il momento per uscire allo scoperto. Fino a oggi seguitano ad affermare: “Non abbiamo perduto la guerra, la colpa della guerra non è nostra. Il popolo tedesco è al mondo il più ricco spiritualmente. Questa alta spiritualità da sola è in grado di eliminare tutte le nostre difficoltà e siamo capaci di mettere in pratica questa alta spiritualità”. Nei confronti dell’imperatore tedesco, da una parte proviamo odio per il suo militarismo aggressivo, per il suo abuso della forza, dall’altra non possiamo non compatirlo e versare per lui un po’ di lacrime di simpatia, proprio perché la sua “alta” spiritualità ci commuove. Il popolo tedesco ha perso ed è stato fermato. Pure essendo le condizioni di resa così umilianti, esso sopporta questo dolore con pazienza. Per la prima volta ha cambiato faccia e si è trasformato da impero in repubblica. Il suo secondo cambiamento forse lo porterà a compimento rifiutando anche la repubblica. Quanto ho detto corrisponde a ciò che penso in via preliminare. Proviamo a prendere in considerazione il fatto che Inghilterra e Francia formino una sorta di muraglia in occidente; non significa forse che sono nemici dei tedeschi? Inghilterra e Francia sono i loro nemici, dunque i loro buoni amici non sono forse la Russia, l’Austria, l’Ungheria, la Cecoslovacchia e la Polonia che formano una sorta di paravento a est e a sud?", "zh": "德国的皇帝是德意志民族性的结晶。既然存在德意志民族性，那么就存在德意志皇帝。今天的德意志民族性，是由莱布尼茨、费希特、歌德、泡尔生等人所阐发的哲学思想塑造而成的。德国人也正是由此变得强大起来，并等待着出头露面的时机。直至今天，他们仍在不断宣称：“我们没有输掉战争，战争的罪责不在我们。德意志民族是世界上精神上最富有的民族。单凭这种崇高的精神，就足以消除我们的一切困难，而我们也有能力把这种崇高的精神付诸实践。”对于德国皇帝，我们一方面憎恨其侵略性的军国主义，憎恨其滥用武力；另一方面，又不得不对他寄予同情，为他洒一掬同情之泪，因为他那“崇高”的精神确实感动了我们。德国人民吃了败仗，被阻挡住了。尽管投降的条件如此屈辱，他们却忍耐着这种痛苦。第一次他们换了一副面孔，由帝国变成了共和国。这第二次的变化，也许会使他们连共和国也不要，而趋于完成。我上面所说的，是我初步的想法。我们不妨想一想，英国和法国在西部构成了一道什么样的墙，这难道不意味着它们是德国人的敌人吗？英国和法国是德国人的敌人，那么，在东部和南部构成一道屏障的俄国、奥地利、匈牙利、捷克斯洛伐和波兰，难道不是他们的好朋友吗？", "head": false, "audio": "audio/03/s205.mp3", "audio_zh": "audio/03/zs205.mp3"}, {"pid": "s206", "sec": 7, "it": "Se non fanno riferimento a Russia, Austria, Ungheria, Cecoslovacchia e altri paesi, a chi devono fare riferimento? Se vogliono fare riferimento a Russia, Austria, Ungheria, Cecoslovacchia dovranno inevitabilmente mutare il loro sistema in uno uguale a quello della Russia, Austria, Ungheria e Cecoslovacchia. Inutile ricordare che Russia e Ungheria hanno già fatto con successo la rivoluzione sociale. Anche Ungheria e Cecoslovacchia hanno questa tendenza, infatti, l’altro ieri un telegramma ha diffuso la notizia che la Cecoslovacchia ha dato vita a una repubblica di operai e soldati. Il gruppo spartachista dei rivoluzionari tedeschi ha dato vita a una rivolta che per un soffio non ha avuto successo. Il governo Ebert è in mano alla maggioranza del partito socialista e costoro tengono sotto controllo i rivoluzionari e per far ciò si appoggiano alla forza armata. Ma una volta concluso il trattato di pace, i soldati saranno smobilitati e i fucili riconsegnati. In quel momento, su cosa farà affidamento il governo? In Germania industria e commercio sono completamente distrutti, devono ancora essere rimessi in piedi, pertanto il governo non potrà fare a meno di affidarsi alla forza dei lavoratori. In seguito dovrà affrontare problemi della massima importanza e quindi dovrà inchinarsi di fronte ai lavoratori. Ma le armi dei rivoluzionari non sono altro che i lavoratori stessi. Stando a come vanno le cose a livello diplomatico, sono certo che sicuramente la Germania non potrà fare altro che allearsi a Russia, Austria, Ungheria e Cecoslovacchia per trasformare il paese in una repubblica comunista. Stando a come vanno le cose all’interno del governo, mi sento autorizzato a dare il medesimo giudizio.", "zh": "他们如果不学俄国、奥地利、匈牙利、捷克斯洛伐克等国的榜样，又应当学谁呢？他们如果要学俄国、奥地利、匈牙利、捷克斯洛伐克，就非把他们的制度改变成与俄国、奥地利、匈牙利、捷克斯洛伐克相同不可。无庸讳言，俄国和匈牙利已经成功地进行了社会革命。匈牙利和捷克斯洛伐克也有这种趋势，前天的电报就传播了捷克斯洛伐克成立了工人士兵共和国的消息。德国革命者的斯巴达克派举行了一次暴动，几乎获得成功。埃伯特政府掌握在社会党多数派手中，他们控制着革命者，为此他们依靠武装力量。但是一旦和约缔结，士兵就要复员，枪支就要交还。到那时候，政府将依靠什么呢？德国的工商业完全破坏了，还有待恢复，所以政府不能不依靠工人的力量。以后它将面临极其重大的问题，因此它不得不在工人面前低头。而革命者的武器无非就是工人本身。就外交上的情形来看，我敢断定德国非与俄国、奥地利、匈牙利、捷克斯洛伐克联合，把国家变为共产主义共和国不可。就政府内部的情形来看，我同样有权作出这样的判断。", "head": false, "audio": "audio/03/s206.mp3", "audio_zh": "audio/03/zs206.mp3"}, {"pid": "s207", "sec": 7, "it": "Prima del 1919 la Germania era la nazione più potente del mondo. Dopo il 1919 Francia, Inghilterra e Stati Uniti d’America saranno le nazioni più potenti del mondo. La potenza tedesca era una potenza a livello internazionale. Questa volta, la conseguenza della grande guerra ha significato che la forza politica internazionale dell’Intesa è riuscita a rovesciare la potenza politica internazionale della Germania e dell’Austria. Dopo il 1919 la potenza della Francia, dell’Inghilterra e degli Stati Uniti d’America sarà una potenza sociale e finanziaria. Dopo il 1919, se ci saranno guerre, saranno guerre di classe. La fine della guerra di classe consisterà proprio nel successo degli ideali dei paesi dell’Europa orientale. Vale a dire nel successo dei socialisti. Noi non dovremo disprezzare i tedeschi per ciò che faranno in seguito. Noi non dobbiamo affatto tenere in considerazione questi grandi signori della Conferenza di pace che si danno un sacco di arie. Costoro hanno i giorni contati per continuare a mangiar bene! Verrà sicuramente il giorno in cui costoro sapranno cos’è il mal di testa!", "zh": "1919年以前，德国是世界上最强大的国家。1919年以后，法国、英国和美国将成为世界上最强大的国家。德国的势力是国际性的势力。这次大战的结果，意味着协约国的国际政治势力推翻了德国和奥地利的国际政治势力。1919年以后，法国、英国和美国的势力将是一种社会势力和金融势力。1919年以后，如果还有战争，那将是阶级战争。阶级斗争的终结，恰恰在于东欧各国理想的胜利。也就是说，在于社会主义者的胜利。我们不应该因为德国人日后的所作所为而鄙视他们。我们完全不必要理会那些在和平会议上摆足架子的老爷们。这些人好吃好喝的日子屈指可数了！总有一天，这些人也会尝到头痛的滋味！", "head": false, "audio": "audio/03/s207.mp3", "audio_zh": "audio/03/zs207.mp3"}, {"pid": "s208", "sec": 7, "it": "Sappiamo bene che questo trattato di pace non è per niente sicuro. Se prendiamo ad esempio il trattato di pace tra Germania e Russia, il trattato di pace tra Germania e Romania, io temo che prima o poi costituiranno un problema.", "zh": "我们很清楚，这个和约一点也不牢靠。拿德国同俄国之间的和约、德国同罗马尼亚之间的和约来说，我担心迟早会成为一个问题。", "head": false, "audio": "audio/03/s208.mp3", "audio_zh": "audio/03/zs208.mp3"}, {"pid": "s209", "sec": 7, "it": "Questo vecchio ignorante di Clemenceau si tiene stretto tra le braccia il volume grigio e giallo del trattato di pace, pensa solo alle firme che ci sono dentro e se ne sta tutto tranquillo e fermo come le Alpi. Povero illuso!", "zh": "克列孟梭这个老糊涂，把那本灰黄色的和约文本紧紧搂在怀里，满脑子只想着上面签的那些名字，安安稳稳、像阿尔卑斯山一样岿然不动。可怜的痴人！", "head": false, "audio": "audio/03/s209.mp3", "audio_zh": "audio/03/zs209.mp3"}, {"pid": "s210", "sec": 8, "it": "MISCELLANEA INTERNAZIONALE", "zh": "《国际杂谈》", "head": true, "audio": "audio/03/s210.mp3", "audio_zh": "audio/03/zs210.mp3"}, {"pid": "s211", "sec": 8, "it": "Gioia e dolore Clemenceau, saputo per telefono che la Germania ha accettato il trattato di pace, ne è molto felice. Si alza in piedi, stringe la mano ai membri del Gabinetto e ai colleghi presenti nell’ufficio e dice: “Signori! Aspetto questo istante da quarantanove anni!”. Quanta gioia in queste parole. Per quanto esse siano parole di gioia, racchiudono tuttavia tanto dolore. Nel 1871 Guglielmo I e Bismarck a Versailles nel momento in cui ricevettero il documento della resa della Francia furono enormemente felici. Ecco il risultato di aver provocato la guerra. Sebbene Guglielmo I e Bismarck non potessero che essere felici, tuttavia non poterono neppure esimersi dal provare un senso di dolore. Dal 1800 al 1805 Napoleone mise a ferro e fuoco la Germania, spezzettando tutto il paese, occupandone i territori e obbligando la Germania a smobilitare l’esercito. L’imperatore di Prussia fu costretto ad arrendersi e a diventare un vassallo. Napoleone ne fu enormemente felice. Il risultato fu poi la guerra del 1871. Napoleone non poteva fare a meno di essere felice, tuttavia non potè neppure esimersi dal provare un senso di dolore.", "zh": "喜悦与悲痛 克列孟梭从电话中得知德国已接受和平条约，非常高兴。他站起身来，与在场的内阁成员及办公室的同事们一一握手，说道：“先生们！我等待这一时刻已经四十九年了！”这话语中蕴含着多么巨大的喜悦。然而，尽管这些话是喜悦之词，其中却又包含着多少悲痛。一八七一年，威廉一世和俾斯麦在凡尔赛收到法国投降书的时刻，高兴极了。这就是发动战争的后果。威廉一世和俾斯麦固然不能不感到喜悦，然而他们也不能不感到悲痛。一八〇〇年至一八〇五年，拿破仑对德国实行烧杀掳掠，把整个国家搞得四分五裂，占领其领土，并迫使德国解散军队。普鲁士皇帝被迫投降，沦为附庸。拿破仑对此高兴极了。其后果便是一八七一年的战争。拿破仑固然不能不感到喜悦，然而他也不能不感到悲痛。", "head": false, "audio": "audio/03/s211.mp3", "audio_zh": "audio/03/zs211.mp3"}, {"pid": "s212", "sec": 8, "it": "Tra il 1789 e il 1790 Germania e Austria si erano unite in un sacro e grandioso patto militare, perché avevano in odio le libertà dei diritti civili della Francia e più di una volta misero a ferro e fuoco la Francia e assediarono Parigi. Il risultato di tutto ciò fu che l’unica forza politica a emergere fu Napoleone, che a sua volta mise a ferro e fuoco la Germania, cosa questa che provocò ai tedeschi non poche noie.", "zh": "一七八九年至一七九〇年间，德国和奥国结成了神圣而宏伟的军事同盟，因为它们仇恨法国的公民权利自由，并且不止一次地烧杀掳掠法国，围攻巴黎。这一切的后果是，唯一崛起的政治力量便是拿破仑，而拿破仑又反过来对德国实行烧杀掳掠，这件事给德国人造成了不少的祸害。", "head": false, "audio": "audio/03/s212.mp3", "audio_zh": "audio/03/zs212.mp3"}, {"pid": "s213", "sec": 8, "it": "Quando guardiamo alla storia dobbiamo tener presente causa ed effetto, gioie e dolori, che sempre sono legati gli uni agli altri e non si possono scindere. Se da un lato la gioia raggiunge il suo culmine, dall’altro anche il dolore non può che raggiungere inevitabilmente il suo culmine. Se ci proviamo a confrontare cosa c’è scritto sul trattato di pace di oggi con il modo in cui Napoleone si comportò con la Germania, qual è la differenza?", "zh": "我们观察历史时，必须注意到因果相连、悲喜相生，二者始终相互依存，不可分割。一方面欢乐达到了顶点，另一方面悲痛也必然达到顶点。试把今天和约上的条文同当年拿破仑对待德国的做法比较一下，区别在哪里呢？", "head": false, "audio": "audio/03/s213.mp3", "audio_zh": "audio/03/zs213.mp3"}, {"pid": "s214", "sec": 8, "it": "Spezzettare la Germania oggi, occuparne i territori, smobilitarne l’esercito, qual è la differenza? Clemenceau ha toccato il culmine della gioia, proprio come la Germania ha toccato il culmine del dolore. Sono certo che voi francesi tra dieci o vent’anni avrete a che fare con parecchi problemi. Vorrei che vi ricordaste di queste parole.", "zh": "今日分割德国，占领其领土，解除其军队武装，区别又在哪里呢？克列孟梭达到了欢乐的顶点，德国也达到了悲痛的顶点。我相信你们法国人过十年二十年以后，将会遇到许多问题。希望你们记住我这些话。", "head": false, "audio": "audio/03/s214.mp3", "audio_zh": "audio/03/zs214.mp3"}, {"pid": "s215", "sec": 8, "it": "Karl e Pu Yi L’imperatore d’Austria Karl si è rifugiato in Svizzera. Un giornalista ha chiesto di incontrarlo, ma gli è stato permesso solo di incontrare i suoi attendenti. Costoro gli hanno detto: “L’imperatore ha abdicato contro la sua volontà. Tuttavia spera di poter ristabilire il sistema imperiale. Ma in questo momento si è ritirato a vita privata e non vuole sentir parlare di politica”. Chi è stato imperatore, vuole inevitabilmente esserlo di nuovo. Chi è stato funzionario, vuole inevitabilmente esserlo di nuovo. L’atteggiamento psicologico rimane sempre lo stesso. Agli europei, quando fanno qualcosa, piace andare sino in fondo; nella storia parecchie volte si è verificato che i re siano stati condannati a morte. Gli inglesi giustiziarono (nel 1648) Carlo I. I francesi (nel 1793) hanno giustiziato Luigi XVI.", "zh": "卡尔和溥仪 奥地利皇帝卡尔逃到了瑞士。有位记者要求会见他，但只被允许会见他的侍从人员。侍从人员对记者说：“皇帝是不愿意退位的。不过他希望恢复帝制。目前他已退居民间，不愿过问政治。”做过皇帝的人，总想再做皇帝。做过官的人，总想再做官。心理状态总是如此。欧洲人做事喜欢做绝。历史上国王被判处死刑的事已经有过多次。英国人处死（一六四八年）了查理一世。法国人（一七九三年）处死了路易十六。", "head": false, "audio": "audio/03/s215.mp3", "audio_zh": "audio/03/zs215.mp3"}, {"pid": "s216", "sec": 8, "it": "I russi hanno giustiziato (nel 1918) Nicola II. Hanno cercato di eliminare il male alla radice. Rispetto a Napoleone che venne esiliato a S. Elena, oggi potrebbe sembrare che Guglielmo I, com’è stato giudicato dall’Intesa, se la sia cavata a buon mercato. Karl che è scappato in Svizzera e Pu Yi¹ che si nasconde a Pechino prima o poi saranno di nuovo radici velenose se il popolo non vi presterà particolare attenzione.", "zh": "俄国人在一九一八年枪毙了尼古拉二世²。他们是想斩草除根。拿拿破仑被流放到圣赫勒拿相比，被协约国宣判的威廉二世³，如今看来倒算是占了便宜。卡尔躲到瑞士去了，溥仪¹躲在北京，如果人民不加注意，他们迟早还是会成为毒根。", "head": false, "audio": "audio/03/s216.mp3", "audio_zh": "audio/03/zs216.mp3"}, {"pid": "s217", "sec": 9, "it": "MISCELLANEA DEL FIUME HSIANG", "zh": "湘江杂记", "head": true, "audio": "audio/03/s217.mp3", "audio_zh": "audio/03/zs217.mp3"}, {"pid": "s218", "sec": 9, "it": "La professione di insegnante “La professione di insegnante” è diventata l’espressione favorita di insegnanti burocrati e insegnanti di vecchio tipo nel nostro Hunan. Essi da sempre se hanno orecchi non hanno occhi, se hanno la testa non hanno il cervello. Se sentono dire da altri che la ginnastica è importante allora mettono più ore di ginnastica; se sentono dire da altri che è bene organizzare un gruppo di boy-scout allora organizzano subito i boy-scout. Ma in realtà sanno che cos’è la ginnastica? Sanno cosa sono i boy-scout? Non gliene importa proprio nulla.", "zh": "教师职业 “教师职业”已经成为我们湖南官僚教师和旧式教师爱用的口头禅。他们历来是有耳朵没有眼睛，有头没有脑。听别人说体育重要，便多排几小时体操；听别人说应当组织童子军，便马上组织童子军。可是他们实在知道体育是什么吗？实在知道童子军是什么吗？他们简直毫不关心。", "head": false, "audio": "audio/03/s218.mp3", "audio_zh": "audio/03/zs218.mp3"}, {"pid": "s219", "sec": 9, "it": "In questi ultimi due anni hanno sentito dire da altri che la professione di insegnante è una cosa buona, allora non fanno altro che parlare della professione di insegnante. In realtà queste due parole, “professione di insegnante”, sono davvero delle brutte parole, perché insegnare è proprio una professione e una professione serve solo per vivere². A parte ciò cosa c’è mai da dire sull’insegnamento? Se c’è chi parla della “professione di insegnante”, c’è anche chi dice che “non esiste la professione di insegnante”. Se si invertono le parole abbiamo che l’insegnamento non serve a vivere e quindi è un mestiere da vagabondi. Allora vorrei chiedere: l’insegnamento è questo tipo di mestiere?", "zh": "这两年他们又听别人说教师职业是一件好事，于是满口不离教师职业。其实“教师职业”这两个字真是难听的话，因为教书本来就是一种职业，而职业只为谋生²。除此之外，教书还有什么可说的呢？既有人说“有教师职业”，也就有人说“没有教师职业”。倒转来说，便是教书不能谋生，因此是流氓的勾当。那么我就要问：教书难道是这种勾当吗？", "head": false, "audio": "audio/03/s219.mp3", "audio_zh": "audio/03/zs219.mp3"}, {"pid": "s220", "sec": 10, "it": "TRIBUNA APERTA", "zh": "《自由论坛》", "head": true, "audio": "audio/03/s220.mp3", "audio_zh": "audio/03/zs220.mp3"}, {"pid": "s221", "sec": 10, "it": "Questo va bene Oggi nel mondo è venuto fuori un santo dei lavoratori il cui nome è “bolscevico”. Costui ha detto che gli eruditi e i signori del nostro paese guardano con disprezzo chi impara a coltivare la terra e chi impara a tenere un orto; che essi provano fastidio quando guardano il comportamento di chi mangia grazie al risultato della propria fatica e affermano che gli “anziani eroi” dei lavoratori non sono altro che bestiacce. Ecco dunque che eruditi e signori ci costringono con la forza a considerare chi lavora con la mente un signore, mentre chi lavora con le mani è un povero disgraziato. Il bolscevico di fronte a tutto ciò prova un grandissimo odio e decide quindi di venire qui da noi per discutere con eruditi e signori. Allo stesso tempo prepara un sacco di cose pericolose, terrificanti e paurose. Gli eruditi e i signori del nostro paese, sentita questa notizia, non fanno altro che andare avanti e indietro, come se stesse per capitare una grande disgrazia, e anch’io faccio lo stesso. Un amico mi ha detto: “Non ti preoccupare.", "zh": "这就好 今日世界上出来一位劳动者的圣人，名叫\"布尔什维克\"。他说：我们国家的读书人和老爷看不起学种田、学种菜圃的人，看见自食其力者的一举一动就感到厌恶，还说劳动者中的\"老英雄\"不过是些蠢物。于是，读书人和老爷们就强迫我们认定：用脑工作的是老爷，用手工作的是可怜的倒霉鬼。布尔什维克面对这一切，心中怀着极大的仇恨，因此决定到我们这里来，同读书人和老爷们理论。同时，他还准备了许多危险的、可怕的、令人恐惧的东西。我国的读书人和老爷们听到这个消息，只是来回奔走，好像大祸即将临头，我也一样。一个朋友对我说：\"不必担忧。", "head": false, "audio": "audio/03/s221.mp3", "audio_zh": "audio/03/zs221.mp3"}, {"pid": "s222", "sec": 10, "it": "Ho sentito dire che il bolscevico vuole solo costringerci a lavorare. Noi abbiamo sempre il vecchio metodo di usare un nemico per attaccarne un altro. Noi tutti dobbiamo cominciare a lavorare e allora che ci potrà mai dire?”. Io dico: “Questo va bene”.", "zh": "听说布尔什维克只是要强迫我们劳动。我们一贯有以敌制敌的老办法。我们大家都要开始劳动，那他又还能对我们说什么呢？\"我说：\"这就好\"。", "head": false, "audio": "audio/03/s222.mp3", "audio_zh": "audio/03/zs222.mp3"}, {"pid": "s223", "sec": 10, "it": "Il sig. Dewey ci ha annoiato La dottrina del signor Dewey³ è arrivata nello Hunan e coloro che monopolizzano l’istruzione hanno sentito di colpo che la scuola di prima non era aperta alla società, che l’insegnamento di prima non aveva vitalità; ma poiché costoro dopo tutto non sanno come operare cambiamenti radicali, allora sussurrano di nascosto: “Il signor Dewey ci ha annoiato”.", "zh": "杜威先生使我们厌烦了 杜威先生³的学说传到了湖南，垄断教育的人突然觉得从前的学校不对社会开放，从前的教学没有生命力；但是这些人毕竟不知道如何进行彻底的变革，于是偷偷嘀咕说：\"杜威先生使我们厌烦了。\"", "head": false, "audio": "audio/03/s223.mp3", "audio_zh": "audio/03/zs223.mp3"}, {"pid": "s224", "sec": 10, "it": "Se è un po’ meglio, allora facciamolo C’è chi dice: “Il nostro lavoro dev’essere senz’altro perfetto”. Queste parole sono assolutamente sbagliate. Noi pensiamo che se siamo in grado di farlo soltanto un po’ meglio, allora lo dobbiamo fare. Chi vuole che tutto sia senz’altro perfetto, temo che giunto in punto di morte non avrà combinato proprio nulla.", "zh": "稍好一点，就做它 有人说：\"我们的工作必须绝对完善。\"这些话是完全错误的。我们认为，只要能够使事情稍微好一点，我们就应当去做。凡要求一切都必须绝对完善的人，恐怕到死也不会做出任何事情来。", "head": false, "audio": "audio/03/s224.mp3", "audio_zh": "audio/03/zs224.mp3"}, {"pid": "s225", "sec": 10, "it": "Non c’è niente di male a non mettere su famiglia C’è chi dice: “Se le donne si liberano, c’è il rischio che non vogliano più mettere su famiglia”. Io affermo che la famiglia di oggi, priva com’è di organizzazione, distrugge la personalità, la famiglia si preoccupa solo di darti da mangiare e da vestire, pertanto quale vantaggi porta mettere su famiglia? Non c’è dunque niente di male a non mettere su famiglia.", "zh": "不结婚没有什么不好 有人说：\"如果妇女解放了，恐怕她们就不愿意再成家了。\"我认为，今天这种没有组织、摧残个性的家庭，只负责给你吃穿，那么成家又有什么好处呢？所以不结婚没有什么不好。", "head": false, "audio": "audio/03/s225.mp3", "audio_zh": "audio/03/zs225.mp3"}, {"pid": "s226", "sec": 10, "it": "Lasciamolo morire di fame C’è chi pensa che l’eliminazione del sistema della proprietà privata porterebbe a una mancanza di competizione, per cui nessuno vorrà più lavorare. Io rispondo che Confucio non è mai rimasto a casa tanto a lungo da scaldare la sua sedia, Mozi⁴ non si è mai trattenuto in casa fino a che il fuoco nel camino fosse completamente consumato e forse costoro erano per la proprietà privata? A chi non vorrà lavorare non verrà dato da mangiare, lo lasceremo morire di fame.", "zh": "让他饿死 有人认为，废除私有制度会导致缺乏竞争，因而谁也不愿意再劳动。我回答说，孔子从来没有安坐家中久烤他的椅子，墨子⁴也从来没有守在家里等到灶火完全熄灭，难道这些人是赞成私有制度的吗？谁不愿劳动，就不给他饭吃，让他饿死。", "head": false, "audio": "audio/03/s226.mp3", "audio_zh": "audio/03/zs226.mp3"}, {"pid": "s227", "sec": 11, "it": "LA NUOVA LETTERATURA E ARTE", "zh": "新文艺运动的方向", "head": true, "audio": "audio/03/s227.mp3", "audio_zh": "audio/03/zs227.mp3"}, {"pid": "s228", "sec": 11, "it": "Il viaggio l. Quando il sole scende sott’acqua, me ne sto dentro una barca come su una foglia, seguendo la corrente del fiume Zi.", "zh": "旅程 l。当太阳沉入水下，我如同乘着一片树叶，独坐小舟之中，顺资江之水漂流而去。", "head": false, "audio": "audio/03/s228.mp3", "audio_zh": "audio/03/zs228.mp3"}, {"pid": "s229", "sec": 11, "it": "La luna crescente, le stelle come puntini sospesi sulle cime degli alberi delle due rive del fiume.", "zh": "一弯新月，点点繁星，悬浮在河两岸的树梢之上。", "head": false, "audio": "audio/03/s229.mp3", "audio_zh": "audio/03/zs229.mp3"}, {"pid": "s230", "sec": 11, "it": "Ah! Che cos’è mai?", "zh": "啊！这究竟是什么？", "head": false, "audio": "audio/03/s230.mp3", "audio_zh": "audio/03/zs230.mp3"}, {"pid": "s231", "sec": 11, "it": "Pesci bianchi a coppie danzano senza sosta.", "zh": "白鱼成双成对，不停地游舞。", "head": false, "audio": "audio/03/s231.mp3", "audio_zh": "audio/03/zs231.mp3"}, {"pid": "s232", "sec": 11, "it": "2\\. Da molto lontano un nuovo villaggio si intravede in mezzo ai moltissimi", "zh": "2. 远远望去，一个新村庄在茂密的树林中隐约可见。", "head": false, "audio": "audio/03/s232.mp3", "audio_zh": "audio/03/zs232.mp3"}, {"pid": "s233", "sec": 11, "it": "alberi.", "zh": "树影重重。", "head": false, "audio": "audio/03/s233.mp3", "audio_zh": "audio/03/zs233.mp3"}, {"pid": "s234", "sec": 11, "it": "I cani non abbaiano, le galline e i grilli non cantano, solo si vedono l’uno dopo l’altro i peschi, e laggiù le fronde ondeggiano al vento.", "zh": "犬不吠，鸡与蟋蟀不鸣，只看见桃树一棵接一棵，那边树叶在风中摇曳。", "head": false, "audio": "audio/03/s234.mp3", "audio_zh": "audio/03/zs234.mp3"}, {"pid": "s235", "sec": 11, "it": "I fiori dei peschi sono già caduti, i frutti sono ormai maturi, perché allora nel corso dell’anno, per quattro stagioni, la chiami sempre “la collina dei fiori di pesco”? Una casa dopo l’altra, vecchi e giovani, uomini e donne, suoni di risa, suoni di canti, suoni di pianto confusi si sentono e non si sentono. Il nuovo villaggio! “La collina dei fiori di pesco”.", "zh": "桃花已经落尽，果实已经成熟，为何一年四季，总叫它\"桃花山\"？一家接着一家，老的少的，男的女的，笑声、歌声、哭声，时隐时现。新村！\"桃花山\"。", "head": false, "audio": "audio/03/s235.mp3", "audio_zh": "audio/03/zs235.mp3"}, {"pid": "s236", "sec": 11, "it": "3\\. Alberi vecchi di migliaia d’anni, case vecchie di centinaia d’anni, tutto il", "zh": "3. 千年古树，百年老屋，终日", "head": false, "audio": "audio/03/s236.mp3", "audio_zh": "audio/03/zs236.mp3"}, {"pid": "s237", "sec": 11, "it": "giorno completamente sprangate. Solo le fredde onde vanno e vengono in mezzo al fiume, solo i corvi volano su e giù attorno alle cime degli alberi, il vento della montagna va e viene. Sopra la porta d’ingresso al villaggio sta scritto: “Civiltà”, lungo la strada sulla porta di pietra ci sono incise due parole: “Frontiera della cultura”.", "zh": "全部紧紧地关闭着。只有冰冷的江水在河中来来去去，只有乌鸦在树梢上飞来飞去，山风一阵又一阵地吹。村子的正门上写着“文明”二字，路旁的石门上刻着两个字：“文化边疆”。", "head": false, "audio": "audio/03/s237.mp3", "audio_zh": "audio/03/zs237.mp3"}, {"pid": "s238", "sec": 11, "it": "Proviamo ad ammirare la bocca spalancata del lago Tungting, le onde in mezzo al fiume aumentano, il vento della montagna si fa sempre più forte.", "zh": "请看那洞庭湖大张着的口，江中的波浪越来越高，山风越吹越紧。", "head": false, "audio": "audio/03/s238.mp3", "audio_zh": "audio/03/zs238.mp3"}, {"pid": "s239", "sec": 11, "it": "Ah! Vecchi corvi che venite a coppie, andatevene altrove a cercare la vostra strada.", "zh": "啊！成双成对的老乌鸦啊，请到别处去寻找你们的出路吧。", "head": false, "audio": "audio/03/s239.mp3", "audio_zh": "audio/03/zs239.mp3"}, {"pid": "s240", "sec": 11, "it": "NOTE", "zh": "请提供需要翻译的意大利语原文。", "head": false, "audio": "audio/03/s240.mp3", "audio_zh": "audio/03/zs240.mp3"}, {"pid": "s241", "sec": 11, "it": "1. Pu Yi (1906-1967) fu l’ultimo imperatore cinese. Incoronato ancora bambino nel 1908", "zh": "¹爱新觉罗·溥仪（1906—1967）是中国末代皇帝，1908年尚幼时即被立为帝。", "head": false, "audio": "audio/03/s241.mp3", "audio_zh": "audio/03/zs241.mp3"}, {"pid": "s242", "sec": 11, "it": "e spodestato dalla rivoluzione repubblicana del 1911, collaborò con gli occupanti giapponesi come imperatore dello stato fantoccio del Manciukuo. Processato nel 1949 dopo la Liberazione, venne graziato nel 1959.", "zh": "后于1911年辛亥革命中被废黜；日本占领期间，充任伪满洲国傀儡皇帝。1949年解放后被审判，1959年获特赦。", "head": false, "audio": "audio/03/s242.mp3", "audio_zh": "audio/03/zs242.mp3"}, {"pid": "s243", "sec": 11, "it": "2. Il significato di queste affermazioni è illustrato per esteso nel Discorso di inaugurazione dell’Università di autoapprendimento dello Hunan dell’agosto 1921, in cui Mao Tse-tung mette in evidenza gli aspetti negativi del rapporto “commerciale” insegnantestudente che predomina nella scuola dei paesi capitalisti.", "zh": "²毛泽东1921年8月在《湖南自修大学创办宣言》中，对上述言论的含义作了详尽阐述，指出资本主义国家学校中占主导地位的师生“交易”关系具有种种弊端。", "head": false, "audio": "audio/03/s243.mp3", "audio_zh": "audio/03/zs243.mp3"}, {"pid": "s244", "sec": 11, "it": "3. Il filosofo americano John Dewey (il cui pensiero di filosofia sociale e sull’educazione", "zh": "³美国哲学家约翰·杜威（其社会哲学与教育思想", "head": false, "audio": "audio/03/s244.mp3", "audio_zh": "audio/03/zs244.mp3"}, {"pid": "s245", "sec": 11, "it": "aveva da molti anni esercitato una notevole influenza nel mondo intellettuale cinese) si recò in Cina nel 1919 e vi si trattenne per oltre due anni. Nel corso di questa sua lunga visita tenne nelle maggiori università cinesi molte conferenze che lo resero popolare tra studenti e intellettuali.", "zh": "多年在中国知识界颇有影响），于一九一九年来到中国，逗留了两年多。在访问期间，他在中国各主要大学作了许多讲演，受到学生与知识分子的欢迎。", "head": false, "audio": "audio/03/s245.mp3", "audio_zh": "audio/03/zs245.mp3"}, {"pid": "s246", "sec": 11, "it": "4. Mozi (480-390 a.C. circa) fu in Cina il fondatore di una setta che predicava l’uguaglianza,", "zh": "4. 墨子（约公元前四八○年至三九○年）在中国创立了一个宣扬平等、", "head": false, "audio": "audio/03/s246.mp3", "audio_zh": "audio/03/zs246.mp3"}, {"pid": "s247", "sec": 11, "it": "l’altruismo, la non-violenza, ecc.", "zh": "兼爱、非攻等的学派。", "head": false, "audio": "audio/03/s247.mp3", "audio_zh": "audio/03/zs247.mp3"}, {"pid": "s248", "sec": 11, "it": "Il²¹ luglio 1919 assieme al numero² della Rivista del Fiume Hsiang uscì anche il Supplemento al numero¹. Oltre al testo che pubblichiamo, esso conteneva per la prima volta la rubrica Corrispondenza dalla Francia a cura degli studenti rivoluzionari cinesi che erano andati in Francia durante la Prima guerra mondiale nell’ambito dello Schema lavorostudio e la prima puntata di Comunicato pubblico sul movimento per salvare la patria.", "zh": "一九一九年七月²¹日，《湘江评论》第²期出版的同时，也出版了第¹期增刊。除本刊载的这篇外，它还首次刊出了由第一次世界大战期间按照勤工俭学计划赴法国的中国革命学生主编的《法国通信》专栏和《救国运动公共通告》第一期。", "head": false, "audio": "audio/03/s248.mp3", "audio_zh": "audio/03/zs248.mp3"}, {"pid": "s249", "sec": 12, "it": "LA FONDAZIONE E L’ANDAMENTO DELL’ASSOCIAZIONE PER IL PERFEZIONAMENTO NELLO STUDIO", "zh": "《新民学会的发起与进展》", "head": true, "audio": "audio/03/s249.mp3", "audio_zh": "audio/03/zs249.mp3"}, {"pid": "s250", "sec": 12, "it": "I circoli intellettuali dello Hunan prima della fondazione dell’Associazione per il perfezionamento nello studio I circoli intellettuali dello Hunan da vent’anni a questa parte si trovano nel buio più assoluto. Vent’anni fa Tan Ssu-tung¹ fondò nello Hunan l’Associazione meridionale per lo studio e chiamò a farvi parte Liang Chi-chao, Mai Men-hua e altri personaggi famosi; a Changsha aprirono la Scuola di storia contemporanea e pubblicarono il Giornale del fiume Hsiang e il Giornale di storia contemporanea. Queste iniziative ebbero enorme successo, come una ventata impetuosa in un cielo pieno di nuvole, come la corsa verso la cima di un monte per gridare.", "zh": "湖南成立学会以前之思想界湖南二十年来的思想界，极端黑暗。二十年前，谭嗣同¹在湖南组织南学会，招揽梁启超、麦孟华诸名流加入，在长沙创办时务学堂，出版《湘报》和《时务报》。这些事业搞得轰轰烈烈，如同满天的乌云里刮起一阵狂风，如同奔上山头大声疾呼。", "head": false, "audio": "audio/03/s250.mp3", "audio_zh": "audio/03/zs250.mp3"}, {"pid": "s251", "sec": 12, "it": "Dato che il grande impero millenario cinese aveva più volte subito l’attacco delle potenze straniere, avendo costoro provato dolore e indignazione, decisero di mettersi al lavoro con grande energia. Erano inoltre consapevoli che la Grande Muraglia e il Mar Giallo da soli non avrebbero potuto arrestare i cannoni e le grandi navi da guerra. Il vecchio metodo cinese non era più praticabile. La voce della grande proposta delle riforme e dell’autorafforzamento risuonò attraverso il cielo.", "zh": "中国这个千年大帝国既然多次遭到外国列强的攻击，他们便感到痛苦和愤慨，决心奋发努力。他们又深知，单凭长城和黄河挡不住大炮和军舰。中国旧有的办法再也行不通了。变法自强的伟大号召响彻云霄。", "head": false, "audio": "audio/03/s251.mp3", "audio_zh": "audio/03/zs251.mp3"}, {"pid": "s252", "sec": 12, "it": "La questione centrale in quel momento era cambiare la situazione della Cina.", "zh": "当时问题的中心在于改变中国的现状。", "head": false, "audio": "audio/03/s252.mp3", "audio_zh": "audio/03/zs252.mp3"}, {"pid": "s253", "sec": 12, "it": "Anche lo Hunan seguì quel cambiamento, diventando in quel momento un centro assai importante.", "zh": "湖南也随着这个变化，成为当时一个十分重要的中心。", "head": false, "audio": "audio/03/s253.mp3", "audio_zh": "audio/03/zs253.mp3"}, {"pid": "s254", "sec": 12, "it": "Cambiato modo di pensare, quale era in quel momento il modo di pensare? E nei circoli intellettuali quale era il centro del dibattito? Queste sono domande a cui bisogna rispondere.", "zh": "改变了思想方法，那么当时是什么思想方法呢？在知识界中争论的中心问题又是什么呢？这些都是必须回答的问题。", "head": false, "audio": "audio/03/s254.mp3", "audio_zh": "audio/03/zs254.mp3"}, {"pid": "s255", "sec": 12, "it": "1. Il modo di pensare di allora era arrogante. Che cosa voleva dire “imparare", "zh": "1. 当时的思想作风是傲慢的。什么叫“学习”", "head": false, "audio": "audio/03/s255.mp3", "audio_zh": "audio/03/zs255.mp3"}, {"pid": "s256", "sec": 13, "it": "SUPPLEMENTO", "zh": "补遗", "head": true, "audio": "audio/03/s256.mp3", "audio_zh": "audio/03/zs256.mp3"}, {"pid": "s257", "sec": 13, "it": "(21 luglio 1919) dall’occidente”, “esaminare con modestia”, se non “apprendere per poi restituire con rispetto”? Tutti erano intimamente convinti che in dieci o vent’anni avrebbero potuto imparare i nuovi metodi occidentali e una volta che se ne fossero impossessati si sarebbero autorafforzati. Raggiunto l’obiettivo dell’autorafforzamento, sarebbero stati finalmente più forti dei diavoli stranieri e sarebbe stato possibile annientarli tutti. Come un bambino che, avendo subito una umiliazione da parte del bambino di un vicino, di notte va a rubare un bastone e pensa di andare l’indomani a picchiare l’altro. Che altro significa “imparare dall’occidente i nuovi metodi”, se non proprio il bambino che prende il bastone?", "zh": "（1919年7月21日）向西方学习”，要“虚心考察”，甚至不是“学了再恭恭敬敬地归还”吗？他们内心都确信，只要十年二十年，就能学会西方的新方法；一旦掌握了这些方法，便会自我强大起来。实现了自我强大的目标以后，最终就能比外国鬼子更强，因而可以把他们一举消灭。这好比一个小孩子受了邻家孩子的侮辱，夜里便去偷来一根棍子，心想第二天拿去打那个孩子。所谓“向西方学习新方法”，不正是这个小孩拿棍子吗？", "head": false, "audio": "audio/03/s257.mp3", "audio_zh": "audio/03/zs257.mp3"}, {"pid": "s258", "sec": 13, "it": "2. Il modo di pensare di allora era un modo di pensare vuoto. La cosa è evidente", "zh": "2．当时的思想方式，是一种空虚的思想方式。这是显而易见的，", "head": false, "audio": "audio/03/s258.mp3", "audio_zh": "audio/03/zs258.mp3"}, {"pid": "s259", "sec": 13, "it": "se proviamo a leggere gli incitamenti a cambiar metodo contenuti nelle pubblicazioni di allora. L’unica cosa è lo spreco di Ah! Eh! che doveva servire a provocare emozioni nella gente. Il contenuto era completamente vuoto, raramente rifletteva i problemi reali della società umana. In quel momento ci fu la moda di “fondare scuole”, “occuparsi dell’autogoverno”, “fare riunioni”, ma se analizziamo a fondo questo fenomeno vediamo che la maggior parte di tutto ciò serviva tanto per fare qualcosa. Con la moda di fare riunioni tanto per fare qualcosa, è difficile portare la gente a studiare, con un modo di pensare corretto, la realtà e a ricercare la verità nella pratica.", "zh": "只要我们读一读当时出版物中那些鼓吹改变方法的号召就可以明白。其中唯一的本钱，无非是“啊！”“唉！”一类叹词，用来激起人们的感情。内容则空空洞洞，很少反映人类社会中的实际问题。那时正风行“办学”“办理自治”“开会”等等，但若把这种现象深加分析，就可以看出，其中绝大多数都是为做事而做事。既然把开会当作为做事而做事的风气，就很难引导人们以正确的思想方法去研究现实，并在实践中寻求真理。", "head": false, "audio": "audio/03/s259.mp3", "audio_zh": "audio/03/zs259.mp3"}, {"pid": "s260", "sec": 13, "it": "3. Il modo di pensare di allora era del tipo: “La cultura cinese come fondamento,", "zh": "3. 那时的思想方法是：\"以中国文化为本，", "head": false, "audio": "audio/03/s260.mp3", "audio_zh": "audio/03/zs260.mp3"}, {"pid": "s261", "sec": 13, "it": "la cultura occidentale come strumento”. “La Cina è un paese famoso per i suoi beni culturali, il codice morale della Cina è il primo in tutti i paesi, gli occidentali sono forti solo perché hanno cannoni e pistole e sarà pertanto sufficiente studiare soltanto questo”. Se la discussione si allontanava anche di poco da quanto detto prima, allora la gente ti guardava come “una persona col cuore ubriaco di moda europea” meritevole quindi di essere insultata per tutta la vita.", "zh": "以西方文化为用\"。\"中国是文明古国，中国的道德规范为各国之首，西方人只是因为有枪炮才强大，所以只需学这个就够了\"。如果讨论稍有超出上述范围，人们就把你当作\"醉心欧化之人\"，一辈子该受辱骂。", "head": false, "audio": "audio/03/s261.mp3", "audio_zh": "audio/03/zs261.mp3"}, {"pid": "s262", "sec": 13, "it": "4. Il modo di pensare di allora era un modo di pensare il cui perno era costituito", "zh": "4. 那时的思想方法，是以孔子为中心的思想方法。", "head": false, "audio": "audio/03/s262.mp3", "audio_zh": "audio/03/zs262.mp3"}, {"pid": "s263", "sec": 13, "it": "da Confucio. In quel momento i movimenti politici erano il movimento per scacciare i mancesi e il movimento politico che chiedeva un sistema di governo di tipo rappresentativo. In campo accademico venne abolito il sistema degli esami imperiali², vennero create numerose scuole e adottato un metodo scientifico.", "zh": "当时的政治运动，有排满运动和主张建立代议制政府的政治运动。在学术方面，废除了科举制度²，兴办了许多学校，采用了科学方法。", "head": false, "audio": "audio/03/s263.mp3", "audio_zh": "audio/03/zs263.mp3"}, {"pid": "s264", "sec": 13, "it": "Tuttavia, per quanto riguardava Confucio non era ancora possibile dire no! Si consigliava persino di praticare la teoria assurda “La cultura deve essere nuova, la morale deve essere antica”, dove “la morale deve essere antica” non era altro che un modo diverso per dire “la morale deve seguire gli insegnamenti di Confucio”.", "zh": "然而，对于孔子却还不能说个\"不\"字！甚至有人提倡实行\"文化要新，道德要旧\"这种荒谬的理论，所谓\"道德要旧\"，不过是\"道德要遵孔子之道\"的另一种说法罢了。", "head": false, "audio": "audio/03/s264.mp3", "audio_zh": "audio/03/zs264.mp3"}, {"pid": "s265", "sec": 13, "it": "Quanto è stato sopra detto rifletteva la situazione di tutta la Cina e lo Hunan si trovò al centro di questa situazione con un suo posto preciso. Se è pur vero che il modo di pensare cambiò con una certa rapidità, tuttavia non si trattò di un mutamento profondo. Si può soltanto parlare di cambiamento superficiale, di cambiamento cieco, di cambiamento temporaneo. Dal 1898 fino a oggi i circoli intellettuali dello Hunan sono stati pertanto soggetti a cambiamenti superficiali, ciechi e temporanei.", "zh": "上面所说的，反映了全中国的情况，湖南正处于这种情况的中心，占有确定的位置。思想固然变化得相当迅速，但终究不是深刻的变化。只能说是表面的变化、盲目的变化、暂时的变化。因此，自1898年迄今，湖南知识界一直经历着表面的、盲目的和暂时的变化。", "head": false, "audio": "audio/03/s265.mp3", "audio_zh": "audio/03/zs265.mp3"}, {"pid": "s266", "sec": 13, "it": "Da una ventina d’anni nello Hunan si è alla ricerca di una nuova cultura, ma non si ha uno stile di studio veramente nuovo. I vecchi circoli culturali dello Hunan si dividono in due gruppi: la scuola di filologia classica Han e la scuola di filologia classica Sung; vent’anni fa questa situazione regnava incontrastata. Da vent’anni a questa parte la situazione non è ancora completamente mutata. Le nuove scuole hanno preso il posto delle accademie per lo studio dei classici e gli studenti, pur essendo attirati dalle scienze, annegano nello stagno della società.", "zh": "二十年来，湖南在寻求新文化，却没有真正新的学风。湖南旧的文化界分为两派：汉学的古典文献学派和宋学的古典文献学派；二十年前，这种局面曾占绝对的统治地位。二十年来，这一局面尚未完全改变。新学校取代了经学书院，学生们虽然被科学所吸引，却淹没在社会的大染缸之中。", "head": false, "audio": "audio/03/s266.mp3", "audio_zh": "audio/03/zs266.mp3"}, {"pid": "s267", "sec": 13, "it": "Il motivo per cui la nuova cultura non ha ancora trovato un suo spazio incontrastato, va ricercato nel fatto che essa non offre un centro di pensiero ben definito. Il motivo per cui questo centro di pensiero non è mai ben definito, sta nelle ragioni che do qui di seguito:", "zh": "新文化之所以至今尚未取得独占的地位，原因在于它没有提供一个明确的中心思想。而这个中心思想之所以始终不明确，其原因如下：", "head": false, "audio": "audio/03/s267.mp3", "audio_zh": "audio/03/zs267.mp3"}, {"pid": "s268", "sec": 13, "it": "1. un’associazione di studio con un suo carattere assolutamente incontaminato", "zh": "1. 一个具有绝对纯洁性的学习团体", "head": false, "audio": "audio/03/s268.mp3", "audio_zh": "audio/03/zs268.mp3"}, {"pid": "s269", "sec": 13, "it": "non esiste.", "zh": "并不存在。", "head": false, "audio": "audio/03/s269.mp3", "audio_zh": "audio/03/zs269.mp3"}, {"pid": "s270", "sec": 13, "it": "2. Non ci sono università.", "zh": "2. 没有大学。", "head": false, "audio": "audio/03/s270.mp3", "audio_zh": "audio/03/zs270.mp3"}, {"pid": "s271", "sec": 13, "it": "3. Pochi sono gli studenti che si sono recati in occidente. Quando ci vanno il", "zh": "3. 到过西方的学生为数很少。他们到那里去的时候，这", "head": false, "audio": "audio/03/s271.mp3", "audio_zh": "audio/03/zs271.mp3"}, {"pid": "s272", "sec": 13, "it": "problema di mangiare e la vanità di competere rendono inutile qualsiasi tipo di studio e non è loro possibile seguire studi specialistici. Gli studenti che sono andati in Giappone venivano attirati da Huang Hsing³ per partecipare a movimenti politici.", "zh": "吃饭问题和争面子的虚荣使他们无法专心任何学业，也不可能接受专门的教育。去日本留学的学生则受黄兴³的吸引而参加政治运动。", "head": false, "audio": "audio/03/s272.mp3", "audio_zh": "audio/03/zs272.mp3"}, {"pid": "s273", "sec": 13, "it": "4. Essendo poi la situazione politica assai confusa non ci sono le premesse per", "zh": "4. 再者，由于政治局势十分混乱，没有安心从事研究的前提条件，", "head": false, "audio": "audio/03/s273.mp3", "audio_zh": "audio/03/zs273.mp3"}, {"pid": "s274", "sec": 13, "it": "compiere le ricerche in tranquillità.", "zh": "因而无法专心致志地进行研究。", "head": false, "audio": "audio/03/s274.mp3", "audio_zh": "audio/03/zs274.mp3"}, {"pid": "s275", "sec": 13, "it": "Questi sono i motivi per cui i nuovi circoli culturali non sono ancora riusciti a stabilire un centro di pensiero ben definito. Questi sono i motivi per cui manca uno stile di studio. Dal 1911 in poi, coloro che si sono impossessati dell’istruzione non sono altro che sordidi mercanti. Le opinioni di costoro sono il risultato di una infarinatura culturale, cosa questa che crea una situazione assolutamente ambigua. Per cui non sono in alcun modo affrontati i problemi concernenti lo studio e il centro del pensiero.", "zh": "这些就是新文化团体之所以至今尚未能确立一个明确的思想中心的原因。这也就是缺少研究风气的原因。1911年以来，那些把教育据为己有的人，无非是些卑鄙的商人。这些人的所谓见解，不过是一点肤浅的文化皮毛，因而造成了极其暧昧的局面。关于研究和思想中心的问题，他们根本没有触及。", "head": false, "audio": "audio/03/s275.mp3", "audio_zh": "audio/03/zs275.mp3"}, {"pid": "s276", "sec": 13, "it": "In anni recenti, in Cina la situazione generale è mutata. Tsai Yuan-pei, Chiang Kang-hu, Wu Ching-heng, Liu Shih-fu, Chen Tu-hsiu e altri sono stati i primi a promuovere la riforma. La dottrina della riforma non tocca un solo punto. Essa comprende ogni sorta di teorie di rinnovamento, dal pensiero alla letteratura, alla politica, dalla religione, all’arte. Stiamo oggi affrontando lo studio di problemi quali: vogliamo o no lo Stato, vogliamo o no la famiglia, vogliamo o no il matrimonio, se la proprietà debba essere privata o pubblica. Inoltre, a causa della grande guerra in Europa, in Russia è scoppiata la rivoluzione che come una marea Supplemento montante dall’occidente si riversa in oriente; ad essa gli studiosi dell’Università statale di Pechino sono stati i primi a dare il benvenuto e i giovani delle scuole delle province dell’intero paese hanno fatto eco. Essa come una gigantesca onda del mare è arrivata nello Hunan e perciò è stata fondata l’Associazione per il perfezionamento nello studio.", "zh": "近年来，中国的整个形势发生了变化。蔡元培、江亢虎、吴敬恒、刘师复、陈独秀等最先倡导改良。改良的学说所涉及的不止一点。它包罗万象，从思想到文学，从政治到宗教、艺术，各种革新理论皆在其中。我们今天正在研究诸如要不要国家、要不要家庭、要不要婚姻、财产应当私有还是公有等问题。此外，由于欧洲大战，俄国爆发了革命，它像一股自西方涌向东方的涨潮；国立北京大学的学者最先表示欢迎，全国各省学校的青年群起响应。它像大海的巨浪涌到了湖南，因此便成立了学习改造协会。", "head": false, "audio": "audio/03/s276.mp3", "audio_zh": "audio/03/zs276.mp3"}, {"pid": "s277", "sec": 13, "it": "La fondazione dell’Associazione per il perfezionamento nello studio Il⁵ giugno, Chen Jun-lin, presidente dell’Associazione provinciale per l’istruzione, ha invitato gli insegnanti delle diverse scuole della capitale della provincia, Hsu Te-li, Chu Chien-fang, Tang Sung, Tsai Hsiang, Chung Kuo-tao, Yang Shu-ta, Li Yun-han, Hsiang Shao-hsuan, Peng Kuo-chun, Fang Ke-kang, Ou Yang-ting, He Ping-lin, Li Chin-chiao, Chao Yi e altri a tenere a battesimo l’Associazione per il perfezionamento nello studio. La riunione si è tenuta nella scuola Chuyi. Riporto qui di seguito quanto scritto dai giornali riguardo alla conferenza di Chen Jun-lin su ciò che si prefigge l’Associazione: “L’ultima volta che sono stato a Pechino, ho visto qualcosa che mi ha profondamente commosso. Quattro anni fa gli studenti dell’Università di Pechino si prefiggevano come unico scopo di diventare funzionari. Non solo gli studenti universitari, ma anche gli altri studenti avevano la medesima aspirazione. Invece, l’ultima volta che sono stato a Pechino, ho notato una grande differenza. Il modo di pensare degli studenti universitari è notevolmente cambiato, tutti oggi sono consapevoli che il fatto più importante è prestare attenzione alla vita. Questo risulta evidente dalle loro riviste e giornali. Pertanto gli studenti dei diversi istituti della capitale hanno cambiato le loro vecchie opinioni e questa volta hanno dato vita al movimento per la salvezza nazionale⁴. Come mai ciò è avvenuto? Perché da quando il signor Tsai Yuan-pei è rettore dell’Università di Pechino, ha riempito la mente degli studenti di pensiero filosofico, di concezione della vita e in questo modo è riuscito a far cambiare il vecchio modo di pensare. Si è ritenuto erroneamente che il movimento studentesco per la salvezza nazionale fosse opera di uomini politici e non si sa che invece si tratta di un movimento messo in piedi autonomamente dagli studenti, della lotta tra il vecchio e il nuovo modo di pensare. Da quando in Russia è stato cambiato sistema politico, il socialismo è arrivato passo dopo passo in oriente. Per quanto ci siano parecchi gruppi politici, tuttavia questa marea è inarrestabile. Per esempio il governo giapponese in passato ha trattato in modo crudele coloro che difendevano il partito socialista, in tempi recenti invece ha permesso inaspettatamente ai socialisti di svolgere attività politica. Ad esempio, il dottor Yoshino Sakuzo e altri hanno proposto di mitigare l’estremismo con una sorta di socialismo di Stato, per seguire la corrente mondiale, per fare in modo che il sistema politico giapponese cambi e diventi simile alla monarchia inglese in cui il re è privo di potere reale. Da ciò si comprende quanto sia cambiata rapidamente la corrente di pensiero mondiale e quanta influenza abbia. Nel nostro paese si sta sviluppando una nuova corrente di pensiero e non è più possibile arrestarla, i nostri connazionali devono in questo momento compiere ricerche con rapidità e seguire la giusta strada. Noi colleghi siamo qui per organizzare quest’Associazione di studio, e, adottando queste dottrine giuste e salutari, dobbiamo studiare in modo preciso e profondo [...]”.", "zh": "学问进修会的成立⁵六月，省教育会会长陈俊林邀请省会各校教师徐特立、朱剑帆、唐松、蔡翔、钟国陶、杨树达、李云汉、向绍轩、彭国钧、方克刚、欧阳亭、何炳麟、李金翘、赵毅等人，为学问进修会举行成立大会。会议在楚怡学校召开。现将报纸所载陈俊林关于本会宗旨的讲话转录如下：“我上次在北京，见到了一件使我深受感动的事。四年前，北京大学的学生唯一的目标是当官。不仅大学生如此，其他学生也抱有同样的志愿。而这次我到了北京，却发现大不相同。大学生的思想有了显著的变化，现在大家都有一个觉悟，认为最要紧的是留心人生问题。这一点从他们的杂志和报纸上就可以看得出来。因此，京城各校的学生改变了他们旧的观念，这一次发起了救国运动⁴。为什么会发生这种变化呢？这是因为蔡元培先生担任北京大学校长以来，以哲学思想、人生观灌输了学生的头脑，从而使他们改变了旧的思维方式。过去人们误以为学生救国运动是政客所操纵，殊不知这实在是学生自动发起的运动，是新思想与旧思想的斗争。俄国自从改变政治制度之后，社会主义便一步一步传到东方。尽管有种种政治派别，但这股潮流是不可阻挡的。例如日本政府过去残酷迫害社会主义党的拥护者，近来却出人意料地允许社会主义者开展政治活动。又如吉野作造博士等人主张以某种国家社会主义来缓和极端主义，以顺应世界潮流，使日本的政治制度发生变化，变成像英国那样国王没有实权的君主制。由此可见，世界思潮变化之迅速及其影响之大。我国正在兴起一股新的思潮，已不可能再加以阻挡，我国同胞必须趁此迅速进行研究，走上正确的道路。我们同人在这里组织这个学习会，就是要采取这些正确而有益的学说，进行精密而深入的研究[……]”。", "head": false, "audio": "audio/03/s277.mp3", "audio_zh": "audio/03/zs277.mp3"}, {"pid": "s278", "sec": 13, "it": "Nella riunione di quel giorno, ho sentito dire che anche il signor Chu Chien-fang ha tenuto un discorso sulla necessità che tutti abbandonino i pregiudizi, studino il nuovo pensiero mondiale e obbediscano alla verità; anche il signor Hsiang Shao-hsuan ha sostenuto la necessità di adottare il “socialismo di Stato”. Non si può dunque dire che nello Hunan il pensiero mondiale sia qualcosa di cui si sente parlare per la prima volta.", "zh": "当日会上，据我听说，朱剑凡先生也发表演说，主张大家抛弃成见，研究世界新思潮，服从真理；向绍轩先生也主张实行“国家社会主义”。可见世界思潮在湖南并非闻所未闻之物。", "head": false, "audio": "audio/03/s278.mp3", "audio_zh": "audio/03/zs278.mp3"}, {"pid": "s279", "sec": 13, "it": "Riporto qui di seguito lo statuto dell’Associazione com’è stato pubblicato:", "zh": "兹将会章照刊如下：", "head": false, "audio": "audio/03/s279.mp3", "audio_zh": "audio/03/zs279.mp3"}, {"pid": "s280", "sec": 13, "it": "1. questa nostra Associazione è stata fondata da un gruppo di soci per importare", "zh": "一、本会由一群会员发起成立，以输入", "head": false, "audio": "audio/03/s280.mp3", "audio_zh": "audio/03/zs280.mp3"}, {"pid": "s281", "sec": 13, "it": "la nuova corrente di pensiero mondiale, per studiare insieme, sceglierne e diffonderne le cose più importanti.", "zh": "世界思想新潮流，共同研究，选择其最重要者加以传播为宗旨。", "head": false, "audio": "audio/03/s281.mp3", "audio_zh": "audio/03/zs281.mp3"}, {"pid": "s282", "sec": 13, "it": "2. Il nome di quest’Associazione è: “Associazione per il perfezionamento nello", "zh": "2. 本会名称为：“学习促进会”。", "head": false, "audio": "audio/03/s282.mp3", "audio_zh": "audio/03/zs282.mp3"}, {"pid": "s283", "sec": 13, "it": "studio”.", "zh": "（此句并入上文）", "head": false, "audio": "audio/03/s283.mp3", "audio_zh": "audio/03/zs283.mp3"}, {"pid": "s284", "sec": 13, "it": "3. L’indirizzo della Associazione in questo momento è presso la scuola", "zh": "3. 本会现址暂设长沙楚盈苑区楚一小学内。", "head": false, "audio": "audio/03/s284.mp3", "audio_zh": "audio/03/zs284.mp3"}, {"pid": "s285", "sec": 13, "it": "elementare Chuyi nel quartiere Chuyingyuan di Changsha.", "zh": "（此句并入上文）", "head": false, "audio": "audio/03/s285.mp3", "audio_zh": "audio/03/zs285.mp3"}, {"pid": "s286", "sec": 13, "it": "4. Chi vuole entrare a far parte dell’Associazione, deve essere presentato da un", "zh": "4. 凡欲加入本会者，须经本会会员一人介绍，方为会员。", "head": false, "audio": "audio/03/s286.mp3", "audio_zh": "audio/03/zs286.mp3"}, {"pid": "s287", "sec": 13, "it": "membro dell’Associazione e in tal modo diventa a sua volta membro.", "zh": "（由会员介绍后）即成为会员。", "head": false, "audio": "audio/03/s287.mp3", "audio_zh": "audio/03/zs287.mp3"}, {"pid": "s288", "sec": 13, "it": "5. Sul modo in cui importare la nuova corrente di pensiero:", "zh": "5. 关于输入新思潮之方法：", "head": false, "audio": "audio/03/s288.mp3", "audio_zh": "audio/03/zs288.mp3"}, {"pid": "s289", "sec": 13, "it": "5.1. l’Associazione raccoglie ogni tipo di riviste e libri e li dà in lettura ai suoi membri. I membri che possiedono libri e riviste sono tenuti a darli in prestito agli altri membri dell’Associazione. Donazioni di libri e riviste saranno bene accolti; 5.2. i membri che si trovano sia in Cina che all’estero sono tenuti a fare inchieste e inviare rapporti; 5.3. si è tenuti a rendere noti i discorsi di uomini importanti.", "zh": "5.1. 本会搜集各种杂志书籍，供会员阅读。会员藏有书籍杂志者，有义务借予本会其他会员借阅。捐赠书籍杂志者，概受欢迎；5.2. 凡会员在国内及国外者，均有义务进行调查并寄送报告；5.3. 有义务传播重要人物之演说。", "head": false, "audio": "audio/03/s289.mp3", "audio_zh": "audio/03/zs289.mp3"}, {"pid": "s290", "sec": 13, "it": "6. Per quanto concerne il metodo di studio:", "zh": "六、关于学习方法：", "head": false, "audio": "audio/03/s290.mp3", "audio_zh": "audio/03/zs290.mp3"}, {"pid": "s291", "sec": 13, "it": "6.1. i campi di studio saranno grosso modo: filosofia, pedagogia, psicologia, etica, letteratura, estetica, sociologia, politica, economia; tutti i membri della Associazione dovranno occuparsi di tali problemi separatamente, uno dopo l’altro; 6.2. il problema principale è che i membri dell’Associazione studino insieme; 6.3. i membri che desiderano studiare le lingue straniere, verranno aiutati dai membri che già le conoscono.", "zh": "6.1. 学习领域大体为：哲学、教育学、心理学、伦理学、文学、美学、社会学、政治学、经济学；本会全体成员均应分别研究上述各项问题，逐一进行；6.2. 主要问题在于本会成员共同研究；6.3. 愿学习外国语之成员，由已通晓该语言之成员予以帮助。", "head": false, "audio": "audio/03/s291.mp3", "audio_zh": "audio/03/zs291.mp3"}, {"pid": "s292", "sec": 13, "it": "7. Per quanto concerne il metodo di diffusione:", "zh": "七、关于传播方法：", "head": false, "audio": "audio/03/s292.mp3", "audio_zh": "audio/03/zs292.mp3"}, {"pid": "s293", "sec": 13, "it": "7.1. fare conferenze sia in date fisse che no. La conferenza in data fissa si terrà ogni domenica mattina dalle ore⁸ alle¹⁰ e vi parleranno a turno i membri dell’Associazione. L’oratore e il tema della conferenza dovranno essere stabiliti con una settimana di anticipo. L’oratore è tenuto a preparare la conferenza per iscritto, l’Associazione si fa carico della stampa. La conferenza Supplemento fuori programma verterà su temi di particolare rilievo e sarà tenuta o da membri dell’Associazione o, su invito, da personaggi famosi. Bisognerà allora cercare un luogo diverso e fissare una data diversa; 7.2. pubblicazioni.", "zh": "7.1. 定期与不定期举行讲演。定期讲演定于每星期日上午⁸时¹⁰至举行，由本会成员轮流讲演。讲演人及题目须提前一周确定。讲演人应将讲演内容写成书面文稿，本会负责付印。临时增刊之讲演，内容以特别重要之问题为限，由本会成员担任，或应邀由知名人士担任。届时须另觅场所，另定日期；7.2. 出版物。", "head": false, "audio": "audio/03/s293.mp3", "audio_zh": "audio/03/zs293.mp3"}, {"pid": "s294", "sec": 13, "it": "8. L’Associazione ha un economo e un bibliotecario. Delle altre cose, tutti i", "zh": "8. 协会有一个司务长和一个图书管理员。其他各项事务，全体……", "head": false, "audio": "audio/03/s294.mp3", "audio_zh": "audio/03/zs294.mp3"}, {"pid": "s295", "sec": 13, "it": "membri sono responsabili. Ogni volta che si tiene una riunione verrà eletto un presidente.", "zh": "各位成员均须负责。每次开会均须选举一名主席。", "head": false, "audio": "audio/03/s295.mp3", "audio_zh": "audio/03/zs295.mp3"}, {"pid": "s296", "sec": 13, "it": "9. I membri dell’Associazione devono osservare le seguenti regole comuni:", "zh": "9. 协会会员须遵守下列共同规则：", "head": false, "audio": "audio/03/s296.mp3", "audio_zh": "audio/03/zs296.mp3"}, {"pid": "s297", "sec": 13, "it": "9.1. essere puntuali; 9.2. impegnarsi molto nello studio; 9.3. aiutarsi reciprocamente nello studio; 9.4. discutere liberamente ciò che si studia; 9.5. la cosa principale è essere sinceri e non falsamente gentili.", "zh": "9.1. 要守时；", "head": false, "audio": "audio/03/s297.mp3", "audio_zh": "audio/03/zs297.mp3"}, {"pid": "s298", "sec": 13, "it": "9.2. 学习要努力；", "zh": "", "head": false, "audio": "audio/03/s298.mp3", "audio_zh": "audio/03/zs298.mp3"}, {"pid": "s299", "sec": 13, "it": "9.3. 学习上互相帮助；", "zh": "", "head": false, "audio": "audio/03/s299.mp3", "audio_zh": "audio/03/zs299.mp3"}, {"pid": "s300", "sec": 13, "it": "9.4. 对所学习的东西自由讨论；", "zh": "", "head": false, "audio": "audio/03/s300.mp3", "audio_zh": "audio/03/zs300.mp3"}, {"pid": "s301", "sec": 13, "it": "9.5. 最主要的是要真诚，而不要虚假客套。", "zh": "", "head": false, "audio": "audio/03/s301.mp3", "audio_zh": "audio/03/zs301.mp3"}, {"pid": "s302", "sec": 13, "it": "10. I membri dell’Associazione pagano² yuan all’anno per le spese dell’Asso-ciazione. Saranno bene accette offerte maggiori da parte di chi ne ha la possibilità.", "zh": "十、本会会员每年缴纳会费²元，经济条件许可者可自愿多捐，多多益善。", "head": false, "audio": "audio/03/s302.mp3", "audio_zh": "audio/03/zs302.mp3"}, {"pid": "s303", "sec": 13, "it": "11. Se l’Associazione si trova di fronte a problemi particolarmente importanti,", "zh": "十一、本会遇有特别重要问题，", "head": false, "audio": "audio/03/s303.mp3", "audio_zh": "audio/03/zs303.mp3"}, {"pid": "s304", "sec": 13, "it": "deve discuterne dopo la conferenza in data fissa e quando ciò si verifica deve darne pubblica notizia e tenere una riunione.", "zh": "须由定期会议加以讨论；如情况需要，则应公之于众，并召集会议。", "head": false, "audio": "audio/03/s304.mp3", "audio_zh": "audio/03/zs304.mp3"}, {"pid": "s305", "sec": 13, "it": "I punti più importanti di questo statuto sono il⁵, 6, 7 e⁹. Il punto⁹ è particolarmente importante per lo studio, per sbarazzarsi del pregiudizio di essere convinti di avere ragione, e costituisce un approccio eccellente. Mi auguro che oltre a questo spirito per lo studio, in seguito ci sia anche uno spirito critico. Lo sviluppo delle dottrine moderne è per la maggior parte creazione e risultato di singole persone. La cosa più importante, assieme alle abitudini cinesi, è l’“Io”, è la “Personalità”; si discute soltanto di morti, se si scrivono libri non si riportano i discorsi degli uomini di oggi; bisogna invertire questa tendenza. Noi svolgiamo attività usando sempre un modo di pensare individuale. Come il sole che dà luce a tutto il mondo, come un faro che proietta luce verso l’esterno. Non ci si deve preoccupare se ciò fa piacere o meno alla gente. L’unica cosa che si desidera è che la tranquillità del cuore corrisponda alla ragione reale. Ciò che i vecchi signori detestano è l’arroganza. Ma costoro non sanno che dai tempi antichi fino a oggi le verità della teoria, le grandi imprese, sono state create proprio da coloro che vengono definiti arroganti. Noi ci troviamo a vivere in una società complicata, in un mondo sleale e se si manca di spirito critico è facile allora diventare schiavi degli altri. C’è chi dice che la maggior parte dei cinesi è schiava e io credo che questa opinione non sia del tutto errata. Il punto⁹, discutere liberamente ciò che si studia, è il principio stesso della libertà di pensiero e della libertà di parola.", "zh": "这个章程最重要的几条是第五、第六、第七⁵和第九⁹条。第九条⁹对于学习、对于去掉自以为是的偏见特别重要，是一个极好的方法。我希望除这种学习精神外，还加上一种批评精神。近代学理的发达，大半为个人的创造与结果。中国的事，最要紧的是“我”，是“个人”；只讲死者，著书不引今人言论，这种风气应当倒转过来。我们行事，总是采取个人的思想。如太阳之普照世界，如灯塔之放射光芒。不管人们喜不喜欢，只求心安理得。老先生们所讨厌的，是傲慢。他们不知道自古至今的学理真理、伟大事业，正是这些被称为傲慢的人所创造的。我们生活在一个复杂的社会、一个不忠实的世界里，缺乏批评精神，很容易变成别人的奴隶。有人说大多数中国人是奴隶，我以为这话不无道理。第九条⁹，自由讨论所学，正是思想自由、言论自由的原则。", "head": false, "audio": "audio/03/s305.mp3", "audio_zh": "audio/03/zs305.mp3"}, {"pid": "s306", "sec": 13, "it": "Questo punto rappresenta per il genere umano la cosa più preziosa, che dà maggiore felicità. Nella ricerca accademica ciò che bisogna evitare è l’atteggiamento arbitrario rappresentato dal metodo deduttivo. In Cina quei modi di dire come “Se il maestro è severo, gli scolari sono rispettosi”, “Il Saggio dice”, “Ortodossia morale”, “Le diverse sette” sono una vera e propria calamità, sono la grande malattia prodotta dall’atteggiamento arbitrario del metodo deduttivo.", "zh": "这一点对人类来说是最宝贵、最能带来幸福的东西。在学术研究中，必须避免的正是演绎法所代表的那种武断态度。在中国，“师严而后道尊”“子曰诗云”“道德正统”“异端邪说”之类的说法，实在是一场灾祸，是演绎法的武断态度造成的重疾。", "head": false, "audio": "audio/03/s306.mp3", "audio_zh": "audio/03/zs306.mp3"}, {"pid": "s307", "sec": 13, "it": "Tutte queste cose sono assai potenti nel mondo del pensiero e bisogna in ogni modo infrangerle. Chi come noi si oppone a Confucio ha anche altre ragioni per farlo. Ma occorre opporsi non fosse altro che per una ragione sola: il suo dominio incontrastato del mondo del pensiero cinese ha portato alla mancanza di qualsiasi libertà e reso la gente schiava silenziosa degli idoli per duemila anni. Per tutto ciò non possiamo fare a meno di ribellarci.", "zh": "这些东西在思想界中势力极大，无论如何必须将其打破。像我们这样反对孔子的人，还有别的理由。但哪怕只为一条理由，也必须反对：他对中国思想界两千年的独霸统治，造成了毫无自由的局面，使人们两千年来成为偶像的沉默奴隶。凡此种种，我们不能不奋起反抗。", "head": false, "audio": "audio/03/s307.mp3", "audio_zh": "audio/03/zs307.mp3"}, {"pid": "s308", "sec": 13, "it": "L’andamento dell’Associazione per il perfezionamento nello studio Ciò che l’Associazione per il perfezionamento nello studio ha intrapreso, ciò che con la sua fondazione intende fare è studiare e diffondere le nuove dottrine.", "zh": "修学励进会的宗旨 修学励进会正在从事的事业，以及它创立时所打算做的，是研究和传播新的学说。", "head": false, "audio": "audio/03/s308.mp3", "audio_zh": "audio/03/zs308.mp3"}, {"pid": "s309", "sec": 13, "it": "Prendiamo adesso in esame un aspetto importante di questo studio. Abbiamo già mandato alcune persone a Pechino e a Shanghai allo scopo di acquistare nuovi libri, riviste e giornali. Nel capoluogo della nostra provincia è stata messa in piedi una classe di inglese per permettere ai membri della nostra Associazione di studiare l’inglese allo scopo di prepararsi allo studio della cultura occidentale. Tra costoro ci sono membri dell’Associazione che hanno quaranta e cinquant’anni e tutti sono desiderosi di studiare. Abbiamo anche costituito una classe in cui i membri dell’Associazione esprimono a turno le proprie opinioni, per praticare una sorta di scambio culturale. Quei signori che si davano arie da burocrati sono diventati improvvisamente umili e modesti e vengono a studiare. Tuttavia alcuni non sono troppo contenti, perché c’è ancora chi si dà arie da burocrate e quando fanno delle conferenze usano un tono di comando come se parlassero a dei subordinati. Alcuni dicono di costoro che sono come vermi verdi su foglie verdi.", "zh": "现在我们来考察这项研究的一个重要方面。我们已经派了一些人到北京和上海去购买新书、杂志和报纸。在本省省会开办了一所英语班，使我们学会的会员能够学习英语，为研究西方文化作准备。其中有些会员年已四、五十岁，然而个个都渴望学习。我们还组织了一个班级，学会会员轮流发表意见，以实行一种文化交流。那些摆官僚架子的先生们忽然变得谦逊了，也来学习。不过有些人不太满意，因为仍有人摆官僚架子，演说时使用命令的口吻，好像在对下级讲话。有人说这些人像青菜叶上的青虫。", "head": false, "audio": "audio/03/s309.mp3", "audio_zh": "audio/03/zs309.mp3"}, {"pid": "s310", "sec": 13, "it": "Io invece non sono d’accordo con chi pretende da costoro la perfezione. Lo Hunan assomigliava a una donna dall’aspetto delicato e apatica. Ora, con uno schiocco di dita, è come un prigioniero appena uscito di prigione senza preoccupazioni. Alle prime luci dell’alba, una vallata vuota risuona del rumore di passi, noi dobbiamo applaudire e dare il benvenuto e mi auguro che ciò sia il preannuncio del cambiamento dello Hunan. Io li ho osservati quando hanno tenuto ben quattro conferenze, come: I nostri connazionali hanno un’idea sbagliata della vita e della morte , Come essere uomini , Istruzione e uso della lingua parlata, Usare la pedagogia di Dewey e debbo dire che sono state buone; se riusciranno a togliersi di dosso le cattive abitudini e a fare conferenze aperte a tutti, che tutti possano ascoltare, la diffusione sarà rapida e i benefici grandi e incalcolabili.", "zh": "然而，我并不同意那种苛求这些人臻于至善的论调。从前的湖南，宛如一位面容娇嫩而神情倦怠的女子。如今，弹指之间，她恰似一名甫出牢笼的囚徒，了无挂碍。黎明破晓，空旷的山谷响起脚步声，我们应当鼓掌欢迎，并祝愿此举成为湖南变局的先声。我曾聆听他们先后举行的四次演讲，如《吾人对生死之误解》《如何做人》《口语之教授与应用》《采用杜威教学法》¹，我认为这些都很好；倘若他们亦能革除陋习，举办面向大众的公开演讲，使人人都能聆听，则传播必然迅速，而其益处必将广大而无可限量。", "head": false, "audio": "audio/03/s310.mp3", "audio_zh": "audio/03/zs310.mp3"}, {"pid": "s311", "sec": 13, "it": "Supplemento NOTE", "zh": "补充注释", "head": false, "audio": "audio/03/s311.mp3", "audio_zh": "audio/03/zs311.mp3"}, {"pid": "s312", "sec": 13, "it": "1. Tan Ssu-tung (1865-1898) proveniva da una famiglia di mandarini dello Hunan.", "zh": "¹ 谭嗣同（1865-1898），出身于湖南官宦之家。", "head": false, "audio": "audio/03/s312.mp3", "audio_zh": "audio/03/zs312.mp3"}, {"pid": "s313", "sec": 13, "it": "Esponente del “movimento di autorafforzamento” e protagonista della “Riforma dei cento giorni” nel 1898, dopo il colpo di Stato dell’imperatrice vedova Tzu Hsi, venne decapitato.", "zh": "他是“自强运动”的代表人物，1898年“百日维新”的主要参与者，在慈禧太后发动政变后遭斩首。", "head": false, "audio": "audio/03/s313.mp3", "audio_zh": "audio/03/zs313.mp3"}, {"pid": "s314", "sec": 13, "it": "2. Il sistema degli esami imperiali venne abolito nel 1905.", "zh": "2. 科举制度于1905年废除。", "head": false, "audio": "audio/03/s314.mp3", "audio_zh": "audio/03/zs314.mp3"}, {"pid": "s315", "sec": 13, "it": "3. Huang Hsing (1874-1916) fu un rivoluzionario repubblicano molto noto ai suoi tempi,", "zh": "3. 黄兴（1874-1916）是当时非常著名的共和派革命家，", "head": false, "audio": "audio/03/s315.mp3", "audio_zh": "audio/03/zs315.mp3"}, {"pid": "s316", "sec": 13, "it": "che soggiornò frequentemente in Giappone da dove fece varie spedizioni in Corea per organizzare attentati e insurrezioni (1904, 1905, 1907, 1911). Dopo il 1911 fu un esponente di spicco del gruppo dirigente repubblicano. Aveva insegnato per vari mesi (a cavallo tra il 1903 e il 1904) in una scuola di Changsha.", "zh": "他常住日本，并从那里多次前往朝鲜组织暗杀和起义（1904、1905、1907、1911）。1911年以后，他是共和派领导集团中的杰出人物。他曾在1903年至1904年之交在长沙一所学校任教数月。", "head": false, "audio": "audio/03/s316.mp3", "audio_zh": "audio/03/zs316.mp3"}, {"pid": "s317", "sec": 13, "it": "4. Il riferimento è al Movimento del⁴ maggio.", "zh": "4. 这里指的是五四运动⁴。", "head": false, "audio": "audio/03/s317.mp3", "audio_zh": "audio/03/zs317.mp3"}, {"pid": "s318", "sec": 13, "it": "Il numero³ della Rivista del fiume Hsiang uscì il²⁸ luglio 1919. L’articolo di apertura era costituito dalla seconda puntata dello scritto La grande unione delle masse popolari  (qui viene pubblicato a sé dopo il numero⁴). Il secondo scritto era, nell’ambito della rubrica Commento dei principali avvenimenti dell’oriente, la prima puntata de Il movimento popolare in Giappone (che parimenti pubblichiamo a sé dopo il numero⁴). Il numero³ conteneva inoltre gli scritti di Mao Tse-tung pubblicati qui di seguito.", "zh": "《湘江评论》第³期于1919年7月²⁸日出版。刊首文章为《民众的大联合》一文的续篇（该文单独刊于第⁴期之后）。第二篇文章为《东方大事述评》专栏中《日本民众运动》的第一篇（该文同样单独刊于第⁴期之后）。第³期还载有毛泽东发表于下文的几篇文章。", "head": false, "audio": "audio/03/s318.mp3", "audio_zh": "audio/03/zs318.mp3"}, {"pid": "s319", "sec": 14, "it": "MISCELLANEA INTERNAZIONALE", "zh": "国际杂评", "head": true, "audio": "audio/03/s319.mp3", "audio_zh": "audio/03/zs319.mp3"}, {"pid": "s320", "sec": 14, "it": "La Francia teme la Germania come se si trattasse di una tigre La Francia è spaventata dalla Germania come se si trovasse di fronte a tigri e lupi.", "zh": "法国怕德国就像怕老虎 法国面对德国，犹如面对虎狼，胆战心惊。", "head": false, "audio": "audio/03/s320.mp3", "audio_zh": "audio/03/zs320.mp3"}, {"pid": "s321", "sec": 14, "it": "Sebbene sia la Germania ad aver subito una grande sconfitta, la Francia nutre un vero e proprio terrore nei confronti della Germania: eppure è la Francia che ha preso i bacini carboniferi della Saar, ha dichiarato indipendente la riva sinistra del Reno, ha distrutto le fortificazioni dell’isola di Heligoland, ha appoggiato l’indipendenza della Polonia in modo che essa costituisca una sorta di scudo nei confronti dell’est, ha appoggiato l’indipendenza della Cecoslovacchia, in modo da ostacolare alla Germania lo sbocco meridionale. La Francia ha fatto di tutto per impedire l’unione dell’Austria tedesca alla Germania, non risparmiando mezzi per distruggere il concetto stesso di autodeterminazione dei popoli. Ha fatto di tutto per ridurre gli armamenti di terra, cielo e mare della Germania e le sue colonie.", "zh": "虽然吃大败仗的是德国，法国对德国却怀有一种真正的恐惧：然而正是法国夺取了萨尔煤矿区，宣布莱茵河左岸独立，摧毁了赫利戈兰岛的工事，支持波兰独立，使其成为对付东方的屏障，又支持捷克斯洛伐克独立，以阻碍德国向南方的出路。法国竭尽一切手段，阻挠德意志奥地利并入德国，不惜用尽办法来摧毁民族自决这一概念本身。它还竭尽全力削减德国在陆上、空中和海上的军备，并剥夺其殖民地。", "head": false, "audio": "audio/03/s321.mp3", "audio_zh": "audio/03/zs321.mp3"}, {"pid": "s322", "sec": 14, "it": "Ha costretto la Germania a consegnare gran parte della sua marina mercantile in modo da renderle impossibile la ripresa del commercio con l’estero. Tutto ciò dovrebbe essere più che sufficiente e invece no. Ha anche chiesto all’Inghilterra e agli Stati Uniti d’America di fare da garanti.", "zh": "法国还迫使德国交出大部分商船队，使其不可能恢复对外贸易。这一切本该绰绰有余了，然而不然。法国还要求英国和美国作担保。", "head": false, "audio": "audio/03/s322.mp3", "audio_zh": "audio/03/zs322.mp3"}, {"pid": "s323", "sec": 14, "it": "È di ieri la notizia che Wilson, prima di lasciare la Francia, ha firmato un patto in base al quale, se la Francia venisse attaccata, gli Stati Uniti si impegnano a intervenire immediatamente al suo fianco. Nel frattempo, Lloyd George, a nome del governo inglese, ha firmato un patto il cui contenuto è simile a quello or ora riportato. Che significato profondo! Che significato oscuro!", "zh": "昨日消息，威尔逊在离开法国之前签署了一项协定，规定如果法国遭到攻击，美国承诺立即站在法国一边进行干预。与此同时，劳合·乔治代表英国政府签署了一项内容与此相似的协定。真是意味深长！真是意味深长！", "head": false, "audio": "audio/03/s323.mp3", "audio_zh": "audio/03/zs323.mp3"}, {"pid": "s324", "sec": 14, "it": "Come mai la Francia ha tanta paura? Forse nasconde intenzioni talmente vergognose che non possono essere rivelate ad alcuno?", "zh": "法国何以如此害怕？莫非它隐藏着什么见不得人、不能向任何人透露的意图？\nRivista del Fiume Hsiang — numero 3 (28 luglio 1919)\n《湘江评论》第3期", "head": false, "audio": "audio/03/s324.mp3", "audio_zh": "audio/03/zs324.mp3"}, {"pid": "s325", "sec": 14, "it": "La nazione francese ha sempre dimostrato un grande coraggio morale, ma oggi si comporta come una donnicciola, come un bimbetto e va mendicando garanzie da tutti. Io ritengo che tale fenomeno non sia per niente positivo per la Francia!", "zh": "法兰西民族历来表现出极大的道德勇气，但今日却表现得像个婆娘、像个小孩子，到处乞求保障。我认为这种现象对法国毫无益处！", "head": false, "audio": "audio/03/s325.mp3", "audio_zh": "audio/03/zs325.mp3"}, {"pid": "s326", "sec": 14, "it": "Il contenuto del trattato di pace Il generale Smuts¹ ha dichiarato: “Anche se ho firmato il trattato di pace, ciò non significa che esso sia perfetto. Per mettere fine alla guerra non ho potuto fare a meno di firmarlo” e ha continuato: “Naturalmente non sono state incluse nel trattato di pace, come era stato promesso, le nuove condizioni di vita, la vittoria dell’umanitarismo, l’aspirazione dei popoli a un nuovo sistema internazionale, a un mondo pacifico e onesto, l’attuazione pratica delle speranze. Attualmente, ciò che può risolvere il difficile problema che i politici si sono trovati ad affrontare alla Conferenza di pace, sta nel dare nuovo e reale significato all’umanitarismo e al senso di giustizia espressi dal cuore dei popoli”. Ha detto inoltre: “Ciò che più mi rincresce è che sia stato cancellato il militarismo soltanto nei paesi nemici”.", "zh": "和平条约的内容 斯穆茨¹将军宣称：“虽然我签署了和平条约，但这并不意味着它是完善的。为了结束战争，我不得不签署它。”他接着说道：“和平条约中自然没有包含原先所许诺的新的生活条件、人道主义的胜利、各族人民对新国际制度、对和平而诚实的世界的渴望，以及对愿望的实际兑现。目前，能够解决政治家们在和平会议上所面临的难题的，在于赋予各族人民内心所表达的人道主义和正义感以新的、真实的意义。”他还说：“最使我感到遗憾的是，军国主义只在敌国被清除了。”", "head": false, "audio": "audio/03/s326.mp3", "audio_zh": "audio/03/zs326.mp3"}, {"pid": "s327", "sec": 14, "it": "Smuts è un militare inglese, è tra i firmatari del trattato di pace e ha rilasciato questa dichiarazione dopo la firma del trattato. Da ciò siamo in grado di indovinare il contenuto di questo trattato di pace.", "zh": "斯穆茨是一名英国军人，是和平条约的签署人之一，他在条约签署后发表了这一声明。由此可见，我们便能猜出这个和平条约的内容了。", "head": false, "audio": "audio/03/s327.mp3", "audio_zh": "audio/03/zs327.mp3"}, {"pid": "s328", "sec": 14, "it": "Il patto segreto tra Giappone e Germania La dichiarazione di Parigi di Lloyd George² dice: “Recentemente si è sentito parlare di un patto segreto tra Giappone e Germania”.", "zh": "日本和德国之间的秘密条约 劳合·乔治²的巴黎声明说：“最近人们听到了关于日本和德国之间秘密条约的传闻。”", "head": false, "audio": "audio/03/s328.mp3", "audio_zh": "audio/03/zs328.mp3"}, {"pid": "s329", "sec": 14, "it": "Che cosa sarà mai un patto segreto? Chi sarà mai quella persona ignorante e presuntuosa che si proverà a scoprire ciò che ci riserva un patto segreto tra Giappone e Germania? Il patto segreto tra Giappone e Russia, reso pubblico dal governo di Lenin, non ha avuto per niente successo e il Giappone ha perso così la faccia. È invece in vigore il patto tra Giappone, Inghilterra e Francia e pertanto il nostro Shantung è in pericolo. Per cosa mai sarà stato fatto il patto segreto tra Giappone e Germania, di cui già da due anni si sente parlare in parecchie occasioni? Si dice che nel 1917 la Germania avesse promesso al Giappone di disporre liberamente delle colonie olandesi, inclusa Sumatra, ma la manovra venne sventata per il fatto che il governo inglese, venutone a conoscenza, avvertì l’Olanda. Noi dobbiamo essere assolutamente consapevoli che Giappone e Germania già in numerose occasioni si sono comportati come stupratori di donne e sebbene non abbiano avuto successo, tuttavia hanno ancora in testa le loro malvagie intenzioni di stupratori.", "zh": "秘密条约究竟是什么东西？那个妄自尊大、无知的人，他何曾想到去揭露日本和德国之间的秘密条约给我们带来了什么？列宁政府所公布的日俄秘密条约，根本就没有得逞，日本因此大丢脸面。然而日、英、法之间的条约却在生效，因此我们的山东正处在危险之中。两年来多次传闻的日德秘密条约，究竟是为了什么而订立的？据说1917年德国曾答应日本自由处置荷兰的殖民地，包括苏门答腊在内，但英国政府得知后警告了荷兰，这一阴谋才被挫败。我们必须充分认识，日本和德国早已屡次扮演强奸妇女的歹徒，虽然未能得逞，但他们歹徒的恶毒企图仍然盘踞在脑际。", "head": false, "audio": "audio/03/s329.mp3", "audio_zh": "audio/03/zs329.mp3"}, {"pid": "s330", "sec": 14, "it": "Il potente governo giapponese, i signori della guerra, i mascalzoni non verranno eliminati se il governo tedesco Ebert non potrà fare la rivoluzione, se non verranno separati gli stupratori dalle donne. In tale caso sì che si correranno non pochi pericoli.", "zh": "如果德国的艾伯特政府不能进行革命，如果不把这些强奸妇女的歹徒同妇女们分隔开来，那么强大的日本政府、军阀先生们、恶棍们就不会被消灭。果真如此，那就确实会招致不少危险。", "head": false, "audio": "audio/03/s330.mp3", "audio_zh": "audio/03/zs330.mp3"}, {"pid": "s331", "sec": 14, "it": "I politici Smuts³ ha dichiarato: “Solo i nuovi reali desideri dei popoli possono risolvere i difficili problemi che i politici si sono trovati ad affrontare alla Conferenza di pace”. Perché dunque c’è tanta discrepanza tra i reali desideri dei popoli e il punto di vista dei politici? Perché i popoli non temono le difficoltà? Quale spiegazione possiamo dare? Io ho sempre diffidato dei cosiddetti politici e temuto che non fossero proprio niente di buono. Adesso ne ho le prove. Dopo la firma del trattato di pace di Parigi, Lloyd George, una volta rientrato in Inghilterra, ha tenuto un discorso alla Camera dei Comuni in cui ha detto: “I numerosi successi riscossi dalla nostra Inghilterra sono il risultato della solidarietà del nostro grande popolo. Oggi giubiliamo, ma non dobbiamo ritenere che le calamità siano tutte passate.", "zh": "斯穆茨³之类的政治家宣称：\"唯有人民的真实愿望，才能解决政治家们在和会上所面临的种种难题。\"既然如此，为什么人民的真正愿望同政治家的观点之间会有这么大的差距呢？为什么人民不害怕困难呢？对此我们能作何解释？我一向不信任所谓的政治家，总疑心他们实在不是什么好东西。现在我有了证据。巴黎和约签字之后，劳合·乔治回到英国，在下议院发表演说，他说：\"我们大不列颠所取得的众多成就，是我们伟大人民团结一致的结果。今天我们欢庆，但切不可认为灾难已经全部过去。", "head": false, "audio": "audio/03/s331.mp3", "audio_zh": "audio/03/zs331.mp3"}, {"pid": "s332", "sec": 14, "it": "Dobbiamo ancora conservare il nostro spirito combattivo, in modo da essere preparati ad affrontare gli avvenimenti futuri. Non dobbiamo sprecare energie in controversie tra di noi”.", "zh": "我们仍须保持斗志，以便准备应付未来的事变。我们不应把精力浪费在彼此之间的争论上。\"", "head": false, "audio": "audio/03/s332.mp3", "audio_zh": "audio/03/zs332.mp3"}, {"pid": "s333", "sec": 14, "it": "Proprio questa è la grande abilità dei politici. Proprio questo è il fascino incantatore dei politici. “Non bisogna sprecare energie in controversie tra di noi” non significa altro che voi popolo non dovete rendere difficili le cose al nostro governo col pretesto delle penose condizioni di vita, con ciò che il popolo realmente desidera, con tanti noiosi problemi. Tutti questi problemi sono cosucce da nulla, sono cose senza alcuna importanza. Quando in futuro si verificheranno incidenti, dovremo di nuovo fare guerra contro altri paesi, le cose veramente importanti saranno patriottismo, mobilitazione, solidarietà, prontezza a contrattaccare.", "zh": "这正是政治家的高明之处，这正是政治家迷人的魅力所在。\"不应把精力浪费在彼此之间的争论上\"，说穿了就是：你们人民不要以生活困苦、以人民的真正愿望、以许许多多讨厌的问题为借口，给我们的政府制造困难。所有这些问题都是微不足道的小事，都是无关紧要的东西。将来一旦发生事端，我们又要同别的国家打仗，那时真正重要的东西就是爱国主义、动员、团结、奋起反击的准备。", "head": false, "audio": "audio/03/s333.mp3", "audio_zh": "audio/03/zs333.mp3"}, {"pid": "s334", "sec": 14, "it": "Io desidero a questo punto dire apertamente ai politici del tipo di Lloyd George: i vostri discorsi sono un ammasso di “bugie”, un ammasso di “stupidaggini”. Ci siamo ormai svegliati. Non siamo più come prima. La dovete piantare, la dovete smettere una volta per tutte.", "zh": "现在我要公开对劳合·乔治之流的老爷们说：你们的言论是一堆“谎言”，一堆“蠢话”。我们已经觉醒了，不再是从前的样子。你们必须停止，必须从此彻底停止。", "head": false, "audio": "audio/03/s334.mp3", "audio_zh": "audio/03/zs334.mp3"}, {"pid": "s335", "sec": 14, "it": "Le caratteristiche della Cina Lo starsene tranquillamente seduti era originariamente un modo di fare dello sport, un’attività anche se statica! Non c’è niente di strano e di straordinario.", "zh": "中国的特点 安坐不动原本是一种运动的方式，一种虽然是静态的活动！这没有什么奇怪和特别之处。", "head": false, "audio": "audio/03/s335.mp3", "audio_zh": "audio/03/zs335.mp3"}, {"pid": "s336", "sec": 14, "it": "Oggigiorno, invece, le persone che se ne stanno tranquillamente sedute sono convinte di “fare qualcosa di miracoloso”. Queste persone possono essere divise in sedici tipi ed essere arrivati a dividerle è stata una fatica non da poco; con le orecchie sono in grado di sentire voci da oltre¹⁰ li di distanza, con gli occhi di distinguere i colori da molto lontano, con le gambe di percorrere strade lunghe parecchi li, non muoiono né di fame né di freddo, diventano semplicemente degli “esseri soprannaturali”. Ah! Ah! Oggigiorno, la scienza del XX secolo è straordinariamente avanzata. La nostra Cina invece ha questo tipo di scorciatoia per diventare “esseri soprannaturali”. È mai possibile che siano queste le caratteristiche della Cina?", "zh": "可是如今，安坐不动的人自以为在“做神奇的事情”。这些人可以分为十六种类型，能把他们分得如此细致，实在费了一番功夫；他们耳朵能听到十里之外¹⁰的声音，眼睛能分辨很远地方的颜色，双腿能走好几里长的路，既不饿死也不冻死，简直成了“神仙”。啊！啊！如今二十世纪科学非常发达，我们中国却有这种成为“神仙”的捷径。难道这就是中国的特点吗？", "head": false, "audio": "audio/03/s336.mp3", "audio_zh": "audio/03/zs336.mp3"}, {"pid": "s337", "sec": 14, "it": "I cinesi ciechi I contemporanei definiscono coloro che tentano con le parole e i fatti di far piazza pulita del vecchio modo di pensare e delle vecchie abitudini come “partito estremista”. In realtà non si trova in nessuna lingua occidentale questo termine “partito estremista”. Per quanto riguarda il termine russo “bolsevichi” esso indica il partito della maggioranza; dal punto di vista ideologico significa che ha intenzione di costruire una vera repubblica popolare operaia, in modo che gli operai abbiano il diritto di occuparsi degli affari dello Stato, con un governo e una costituzione. Non si tratta per niente, dunque, di “anarchia”. Gli aristocratici e i signori della guerra giapponesi temono questa corrente di pensiero e non vogliono farla penetrare nel loro paese, perché farebbe vacillare il sistema di classe ed è per questo che hanno tradotto il termine con “partito estremista”.", "zh": "当代的盲人中国人，把那些以言论和行动力图扫除旧思想和旧习惯的人称为“过激党”。其实，西方任何语言中都没有“过激党”这个名词。就俄文“布尔什维克”一词而言，它指的是多数派；从思想上说，它是要建设一个真正的劳农平民共和国，使工人有权参与国家事务，并有政府和宪法。因此，它完全不是什么“无政府主义”。日本的贵族和军阀害怕这种思想潮流，不愿让它传入自己的国家，因为它会动摇阶级制度，所以他们把这个名词译成了“过激党”。", "head": false, "audio": "audio/03/s337.mp3", "audio_zh": "audio/03/zs337.mp3"}, {"pid": "s338", "sec": 14, "it": "Tuttavia c’è chi, non conoscendone il significato, ha sempre sulla bocca l’espressione “partito estremista” e il solo pronunciarla è già un reato. Ciò che in realtà si verifica è che costoro non capendo cosa si intenda con “partito estremista” si domandano se si tratti o meno dei “bolscevichi” e non vi prestano troppa attenzione. Ricordandomi poi che un uomo importante ha detto che socialismo significa prendere con la forza le terre ai ricchi e farle proprie, allora tutto mi è immediatamente chiaro, so bene che noi cinesi siamo sempre ciechi.", "zh": "然而有些人不懂得它的含义，却把“过激党”一词时时挂在嘴上，仿佛仅仅说出这个词就已经是一种罪过。实际发生的情形是：这些人不明白“过激党”指的是什么，便寻思它是不是“布尔什维克”，却并不十分留意。后来我想起一位要人说过，社会主义就是用强力夺取富人的土地并据为己有，于是我立刻明白了一切，深知我们中国人总是盲目的。", "head": false, "audio": "audio/03/s338.mp3", "audio_zh": "audio/03/zs338.mp3"}, {"pid": "s339", "sec": 14, "it": "È veramente una cosa assurda Di recente tutti i giornali hanno riportato la notizia che i giapponesi a Chinan hanno picchiato senza ragione i nostri commercianti, arrestato i nostri studenti, distrutto i nostri negozi: hanno perquisito chi si trovava per strada, hanno compiuto ogni sorta di brutalità. La cosa veramente assurda è che gli ospiti hanno preso il posto del padrone di casa.", "zh": "真是岂有此理 近来各报都登载消息，说日本人在济南无故殴打我国商人，逮捕我国学生，捣毁我国商店；他们搜查行人，干尽了种种暴行。真正岂有此理的是：客人竟然喧宾夺主，取而代之。", "head": false, "audio": "audio/03/s339.mp3", "audio_zh": "audio/03/zs339.mp3"}, {"pid": "s340", "sec": 14, "it": "Il nostro governo non se la sente di affrontare il problema, chiede soltanto ai diplomatici di ogni paese di intervenire in qualità di mediatori, comportandosi alla fine come un uomo a cui abbiano violentato la moglie e che, non avendo il coraggio di denunciare il crimine, implora gli altri di intervenire al suo posto.", "zh": "我们政府不敢出面交涉，只请各国公使出来调停，结局就如同一个妻子被人强奸的丈夫，自己没有胆量告发罪行，反倒央求别人代他出头。", "head": false, "audio": "audio/03/s340.mp3", "audio_zh": "audio/03/zs340.mp3"}, {"pid": "s341", "sec": 14, "it": "Secondo voi è o no una vergogna?", "zh": "你们说这是不是可耻？", "head": false, "audio": "audio/03/s341.mp3", "audio_zh": "audio/03/zs341.mp3"}, {"pid": "s342", "sec": 14, "it": "Confucio e Avalokitesvara Tre settimane fa ho partecipato a una riunione e ho detto: “È nell’aver impedito ad altri di criticare la dottrina di Confucio, avendolo considerato per tanti secoli personaggio di esemplare virtù, la radice della schiavitù in cui ci troviamo”. Pur non avendo strappato neppure un pelo a Confucio, c’è stata una certa persona che, pur essendo nata più di duemila anni dopo la morte di Confucio, se ne è avuta a male e ha scritto un bagu⁴ per prendere le difese di Confucio. Ah! Ah! Tanto potente è ancora il fascino incantatore di Confucio!", "zh": "孔子与观音 三个星期以前我参加了一次会议，在会上说：“我们几千年把孔子当作大圣人，不准人家批评他，这正是我们深陷奴隶状态的总根源。”我并没有拔掉孔子一根毛，可是有个人，生在孔子死后两千多年，却为此抱不平，写了一篇八股⁴来为孔子辩护。哈哈！孔子的魔力真大呀！", "head": false, "audio": "audio/03/s342.mp3", "audio_zh": "audio/03/zs342.mp3"}, {"pid": "s343", "sec": 14, "it": "Ieri era il¹⁶ e mi sono recato sulla montagna Yuchun dove ho incontrato molte persone (uomini e donne, vecchi e bambini) che portavano ogni sorta di offerte: candele, bastoncini d’incenso, denaro finto e immagini di carta; erano tutti bagnati di sudore e stavano andando al tempio che sta sulla cima della montagna Yuchun.", "zh": "昨天是十六日¹⁶，我上了玉泉山，遇见许多人（男女老少都有），他们带着各种各样的供品：蜡烛、香、纸钱和纸像。他们个个汗流浃背，正往玉泉山顶的庙里去。", "head": false, "audio": "audio/03/s343.mp3", "audio_zh": "audio/03/zs343.mp3"}, {"pid": "s344", "sec": 14, "it": "In quel momento non mi resi conto di cosa stessero facendo. A un certo punto ho incontrato un amico che mi ha detto: “Oggi la montagna Yuchun è piena di animazione perché ricorre l’anniversario della nascita di Avalokitesvara⁵ e un sacco di gente vi si reca per celebrare la ricorrenza”. Ah! Ah! Avalokitesvara non pronuncia parola, ha gli occhi privi di luce, eppure guardate quanto è grande il suo fascino incantatore!", "zh": "当时我并不知道他们在做什么。后来遇见一位朋友，他对我说：“今天玉泉山十分热闹，因为正是观音菩萨⁵的诞辰，许多人都赶去庆祝。”啊！啊！观音菩萨不言不语，双目无光，可是他迷人的魅力多么大啊！", "head": false, "audio": "audio/03/s344.mp3", "audio_zh": "audio/03/zs344.mp3"}, {"pid": "s345", "sec": 14, "it": "Se non si ha fiducia nella scienza è la morte Due settimane fa, sulla città di Changsha si sono abbattuti fulmini che hanno causato la morte di parecchie persone. In una casa sotto un vecchio albero sulla montagna Yalu molte persone hanno trovato la morte a causa di un fulmine. La città è piena di strade e canali di scarico malsani, di impianti elettrici, per cui è necessario costruire una grande torre di collegamento. È inoltre necessario installare parafulmini in più luoghi. I vecchi alberi attirano molti fulmini e non bisogna quindi costruirvi sotto abitazioni. Tutti devono avere una almeno minima informazione scientifica. La città di Changsha conta circa trecentomila abitanti, eppure nessuno tra le forze dell’ordine si preoccupa minimamente di fatti tanto importanti. Alcuni hanno detto: “cinquecento fulmini non sono altro che la punizione del cielo”.", "zh": "如果不相信科学，便是死亡", "head": false, "audio": "audio/03/s345.mp3", "audio_zh": "audio/03/zs345.mp3"}, {"pid": "s346", "sec": 14, "it": "两个星期以前，长沙市遭到雷击，死了好几个人。岳麓山一棵古树底下的一所房子里，许多人被雷击死。城内到处是沟渠陋巷，又有电气设备，因此必须修建一座高大的接线塔。此外，还必须在多处安装避雷设备。古树容易招引雷电，所以不可在它下面建造房屋。人人都至少应当具备最低限度的科学知识。长沙市约有三十万居民，可是警察方面竟无一人关心如此重要的事情。有人说：“五百个雷，不过是天降的惩罚。”", "zh": "", "head": false, "audio": "audio/03/s346.mp3", "audio_zh": "audio/03/zs346.mp3"}, {"pid": "s347", "sec": 14, "it": "Nessuno capisce di che morte è morta la gente. Poveri noi!", "zh": "没有人知道这些人是怎么死的。我们真可怜啊！", "head": false, "audio": "audio/03/s347.mp3", "audio_zh": "audio/03/zs347.mp3"}, {"pid": "s348", "sec": 14, "it": "Topi morti I topi sono portatori di pestilenze, eppure nella città di Changsha si possono vedere ovunque topi morti. La gente guarda con gli occhi spalancati i poliziotti, i quali se ne stanno tranquillamente in piedi accanto ai topi morti. In anni passati la città di Changsha non conosceva questo fenomeno. Signori poliziotti, per cortesia, prestatevi almeno un po’ di attenzione!", "zh": "死老鼠 老鼠是瘟疫的携带者，然而在长沙城里，到处可以看到死老鼠。人们睁大眼睛看着那些警察，他们却若无其事地站在死老鼠旁边。往年长沙城并没有这种现象。警察先生们，请你们还是稍微注意一下吧！", "head": false, "audio": "audio/03/s348.mp3", "audio_zh": "audio/03/zs348.mp3"}, {"pid": "s349", "sec": 14, "it": "Chi è un “estremista”", "zh": "谁是“极端分子”", "head": false, "audio": "audio/03/s349.mp3", "audio_zh": "audio/03/zs349.mp3"}, {"pid": "s350", "sec": 14, "it": "Se osservo la situazione attuale, noto che la maggior parte della gente è letteralmente terrorizzata e si dice che la situazione della provincia dello Hunan sia disastrosa poiché sta per arrivare il “partito estremista”; ma tutto questo gran parlare non è forse andare a caccia di fantasmi? Io vi domando, che cos’è mai il “partito estremista”? Qual è l’ideologia del “partito estremista”? Che tipo di persone sono i membri del “partito estremista”? Coloro che affermano che sta per arrivare il “partito estremista”, sono o no in grado di rispondere a queste domande?", "zh": "我看现在的情形，大多数人都吓得要命，据说湖南省的形势很糟糕，因为“极端派”就要来了；但这一切喧嚣，岂不都是捕风捉影吗？我问你们，“极端派”究竟是什么？“极端派”的意识形态是什么？“极端派”是些什么样的人？那些声称“极端派”就要来的人，能不能回答这些问题？", "head": false, "audio": "audio/03/s350.mp3", "audio_zh": "audio/03/zs350.mp3"}, {"pid": "s351", "sec": 14, "it": "Oggigiorno chi veramente è “estremista”? Se il “partito estremista” arriva nello Hunan, io credo che si tratterà di una provocazione proprio di coloro che dicono che il “partito estremista” sta per arrivare. Se si dice che sono “estremiste” quelle persone di animo nobile pronte a dare la vita per salvare la patria, quelle persone di animo nobile pronte a conquistare con la propria coscienza il diritto per il paese di liberarsi dai potenti (di costringere i potenti a restituire la libertà), allora ritengo necessario che lor signori si puliscano bene gli occhi per meglio distinguere! Che lor signori abbassino un tantino la testa!", "zh": "如今谁才是真正的“极端分子”？如果“极端派”来到湖南，我相信这正是那些说“极端派”就要来的人所挑起的。如果说，那些心地高尚、甘愿献出生命以拯救祖国的人，那些心地高尚、决心凭自己的觉悟为国家争得摆脱强权者的权利（迫使强权者归还自由）的人，就是“极端分子”，那么我认为诸位先生必须把眼睛擦得更亮一些，以便更好地分辨清楚！请诸位先生把头稍微放低一点！", "head": false, "audio": "audio/03/s351.mp3", "audio_zh": "audio/03/zs351.mp3"}, {"pid": "s352", "sec": 14, "it": "La volontà del popolo e il denaro Il parlamento è un organismo che rappresenta la volontà del popolo, è un luogo che dà dignità a chi vi siede e grandi responsabilità, pertanto nel momento delle elezioni è necessario avere molta prudenza, in modo tale che si sia in grado di esprimere la vera volontà del popolo. Di recente tutto questo è cambiato. Infatti, se è in atto un movimento, allora non c’è bisogno di elezioni. Se c’è denaro, allora non c’è bisogno della volontà popolare. Eccetto pochi, la maggior parte dei membri del parlamento sono stati eletti attraverso un movimento di denaro.", "zh": "人民的意志与金钱 议会是一个代表人民意志的机构，是一个赋予在座者以尊严和重大责任的场所，因此在选举之时必须十分谨慎，务使人民的真实意志得以表达。近来这一切都已改变。事实上，只要有运动，就无需选举。只要有金钱，就无需人民的意志。除极少数人外，议会中的大多数议员都是借金钱运动当选的。", "head": false, "audio": "audio/03/s352.mp3", "audio_zh": "audio/03/zs352.mp3"}, {"pid": "s353", "sec": 14, "it": "Ahimè! Denaro, denaro, quante colpe hai commesso! Davvero troppe!", "zh": "唉！金钱，金钱，你犯下了多少罪过！实在太多了！", "head": false, "audio": "audio/03/s353.mp3", "audio_zh": "audio/03/zs353.mp3"}, {"pid": "s354", "sec": 14, "it": "I lasciti dannosi In Cina ci sono antichissimi lasciti dannosi, vale a dire gli ornamenti delle donne, che hanno indebolito la loro salute, arrecato sofferenze, limitato la loro libertà; per esempio i capelli acconciati come un serpente boa, le ciglia da farfalla, la bocca dipinta di rosso, la vita sottilissima, i piedi minuscoli fasciati, le dita sottilissime delle mani. Tutto ciò non è che un ammasso di inutili assurdità. Molte donne non hanno esitato a far proprio un cattivo gusto innaturale, rinunciando a una vita libera e felice pur di far divertire gli uomini. Questi fatti sono legati alle sofferenze delle donne. Sono legati alla razza umana e alla potenza e debolezza di un paese: questo problema è assai importante e bisogna fare di tutto per eliminare queste tradizioni. E le donne che cosa ne pensano?", "zh": "有害的旧俗 中国有极其有害的旧俗，即妇女的装饰，这些装饰损害了她们的健康，造成了痛苦，限制了她们的自由；例如盘成蟒蛇般的发髻、蝴蝶般的睫毛、涂红的嘴唇、极细的腰、裹缠的小脚、纤细的手指。这一切都不过是堆砌的无用荒谬之物。许多妇女不惜以这种不自然的恶趣味为时尚，宁可放弃自由幸福的生活，也要供男人取乐。这些事实与妇女的痛苦息息相关。它们又与人类和国家的强弱息息相关：这个问题十分重要，必须竭尽全力消除这些旧俗。妇女们对此又作何感想呢？", "head": false, "audio": "audio/03/s354.mp3", "audio_zh": "audio/03/zs354.mp3"}, {"pid": "s355", "sec": 14, "it": "Sarebbe meglio trasformarsi in plebe Il partito moderato imperiale giapponese teme di offendere il “signore del momento”, altrimenti sarebbe costretto a lasciare il proprio seggio. Allora fa di tutto per trovare un metodo per trasformare la democrazia occidentale in una democrazia giapponese che non è né carne né pesce. Giapponesi! Vi do un consiglio formale. Tre potenti imperi dell’Europa orientale sono stati già abbattuti.", "zh": "还是化为平民的好 日本温和的帝国主义政党怕得罪“当今”的主子，否则就得被迫让出座位。于是它想方设法，要把西方民主改造成一种非驴非马的日本式民主。日本人！我正式给你们一个劝告。东欧三个强大的帝国已经被推翻了。", "head": false, "audio": "audio/03/s355.mp3", "audio_zh": "audio/03/zs355.mp3"}, {"pid": "s356", "sec": 14, "it": "In America presto avrà luogo una rivoluzione sociale. I potenti verranno abbattuti.", "zh": "美国很快将发生社会革命。有权势的人将被推翻。", "head": false, "audio": "audio/03/s356.mp3", "audio_zh": "audio/03/zs356.mp3"}, {"pid": "s357", "sec": 14, "it": "Le maschere verranno strappate. Sarebbe meglio quindi che voi vi trasformaste in plebe.", "zh": "假面具将被撕掉。所以你们还是化为平民的好。", "head": false, "audio": "audio/03/s357.mp3", "audio_zh": "audio/03/zs357.mp3"}, {"pid": "s358", "sec": 14, "it": "Sarebbe uguale I miei compatrioti dicono spesso che il governo attuale è inutile, che è capace solo di vendere la patria, arraffare denaro, umiliare la povera gente. Io vorrei fare alcune precisazioni in merito al governo. Al mondo qualsiasi posizione prestigiosa può corrompere e annientare la natura degli uomini. Osservate una nobile famiglia: esclusi pochi, gli altri sono tutte persone tutt’altro che buone. Liu Pang⁶ era originariamente un plebeo, dopo pochi anni come imperatore ha voluto elaborare dei regolamenti governativi. Quando ha oltrepassato la Grande Muraglia aveva già una costituzione provvisoria, che ha voluto portare da tre a nove articoli. Mencio una volta ha detto: “Se si è ricchi non si è pietosi, se si è pietosi non si è ricchi”. I governi di qualsiasi tempo sono così. I governi di qualsiasi paese sono così. Se noi fossimo al governo, sarebbe uguale.", "zh": "也是一样 我的同胞们常说，现在的政府是无用的，只会卖国、抓钱、欺压穷苦百姓。关于政府，我倒想说几句澄清的话。世界上任何尊贵的地位都能腐蚀并毁灭人的本性。你们看那些贵族世家：除了极少数人之外，其余全不是什么好东西。刘邦⁶原本是个平民，当了几年皇帝之后，便要制定政府的规章。他越过长城时，已经有了临时宪法，还想把它从三条增加到九条。孟子说过：“为富不仁，为仁不富”。任何时代的政府都是如此。任何国家的政府都是如此。倘若我们掌了权，也是一样。", "head": false, "audio": "audio/03/s358.mp3", "audio_zh": "audio/03/zs358.mp3"}, {"pid": "s359", "sec": 14, "it": "La tendenza è buona Qualcuno dice: “Bene! Adesso nello Hunan c’è chi fa funzionare la scuola, costoro compiono ricerche sulla nuova corrente di pensiero”. C’è chi dice: “Non è necessariamente così; temo che non riescano a spezzare la tendenza”. Io ritengo che la lezione del “signore del momento” sia buona, l’unica cosa da fare è di non creare ostacoli.", "zh": "潮流是好的 有人说：“好！现在湖南有人办学，他们研究新思潮。”有人说：“未必如此，我怕他们搞不成潮流。”我认为这位“时先生”的教训是好的，唯一的办法就是不要制造障碍。", "head": false, "audio": "audio/03/s359.mp3", "audio_zh": "audio/03/zs359.mp3"}, {"pid": "s360", "sec": 14, "it": "Non temiamo che non si risolva Un amico mi ha detto: “Siamo sempre pieni di paure che tutto vada male, anche la repubblica non è una cosa buona. Non sappiamo cosa fare per risolvere il problema, a che serve avere tante parole sulla bocca?”. Io dico che se studiamo il problema riusciremo a risolverlo.", "zh": "不怕解决不了 一位朋友对我说：“我们总是怕这怕那，事事弄不好，连共和也不是好东西。我们不知道怎么办才能解决问题，满嘴空话有什么用？”我说，只要我们研究问题，就能把它解决。", "head": false, "audio": "audio/03/s360.mp3", "audio_zh": "audio/03/zs360.mp3"}, {"pid": "s361", "sec": 14, "it": "NOTE", "zh": "注释", "head": false, "audio": "audio/03/s361.mp3", "audio_zh": "audio/03/zs361.mp3"}, {"pid": "s362", "sec": 14, "it": "1. Il generale Smuts faceva parte della delegazione inglese presente alla Conferenza di", "zh": "1. 斯穆茨将军是英国出席会议的代表团成员", "head": false, "audio": "audio/03/s362.mp3", "audio_zh": "audio/03/zs362.mp3"}, {"pid": "s363", "sec": 14, "it": "pace di Parigi.", "zh": "巴黎和会。", "head": false, "audio": "audio/03/s363.mp3", "audio_zh": "audio/03/zs363.mp3"}, {"pid": "s364", "sec": 14, "it": "2. Lloyd George era il famoso statista inglese alle cui direttive si atteneva la delegazione", "zh": "2. 劳合·乔治是英国著名的政治家，英国出席巴黎和会的代表团", "head": false, "audio": "audio/03/s364.mp3", "audio_zh": "audio/03/zs364.mp3"}, {"pid": "s365", "sec": 14, "it": "del suo paese alla Conferenza di Parigi.", "zh": "受其指挥。", "head": false, "audio": "audio/03/s365.mp3", "audio_zh": "audio/03/zs365.mp3"}, {"pid": "s366", "sec": 14, "it": "3. Vedasi nota¹.", "zh": "3. 见注¹。", "head": false, "audio": "audio/03/s366.mp3", "audio_zh": "audio/03/zs366.mp3"}, {"pid": "s367", "sec": 14, "it": "4. Il bagu era una particolare forma di componimento che a partire dal XV secolo", "zh": "4. 八股是中国特有的一种文体，自十五世纪起", "head": false, "audio": "audio/03/s367.mp3", "audio_zh": "audio/03/zs367.mp3"}, {"pid": "s368", "sec": 14, "it": "dovevano svolgere coloro che in Cina sostenevano esami di Stato. Venne abolito nel 1905. Si teneva conto solo della forma e non si dava alcuna importanza al contenuto.", "zh": "便是中国应考国家考试者所必须写作的。八股文于一九〇五年被废止。这种文体只注重形式，而不顾内容。", "head": false, "audio": "audio/03/s368.mp3", "audio_zh": "audio/03/zs368.mp3"}, {"pid": "s369", "sec": 14, "it": "Il componimento era composto da un’enunciazione del tema, dalle tesi fondamentali, da una premessa allo svolgimento, dall’inizio dello svolgimento, dalla parte principale dello svolgimento, dalla fine dello svolgimento e da una conclusione. Ciascuna delle ultime quattro parti constava di una tesi e di un’antitesi e per questo tutto il componimento veniva chiamato “componimento classico in otto parti” o “saggio a otto gambe”.", "zh": "八股文由破题、承题、起讲、入手、起股、中股、后股和束股构成。最后四个部分各有两股，每股一正一反，因此全篇称为“八股文”或“八股”。", "head": false, "audio": "audio/03/s369.mp3", "audio_zh": "audio/03/zs369.mp3"}, {"pid": "s370", "sec": 14, "it": "5. Il “signor Avalokita” (Avalokitesvara) nella tradizione buddista (della corrente cinoindiana detta “Mahayana” o del “Grande veicolo”), era il santo (il Bodisattva) della", "zh": "5. “观音大士”（观世音）在佛教（中国—印度流派，即所谓“大乘”佛教）传统中，是慈悲的圣者（菩萨）之", "head": false, "audio": "audio/03/s370.mp3", "audio_zh": "audio/03/zs370.mp3"}, {"pid": "s371", "sec": 14, "it": "bontà e della compassione.", "zh": "仁善与慈悲。", "head": false, "audio": "audio/03/s371.mp3", "audio_zh": "audio/03/zs371.mp3"}, {"pid": "s372", "sec": 14, "it": "6. Liu Pang fu il fondatore della dinastia degli Han occidentali, che regnò dal 206 a.C.", "zh": "6. 刘邦是西汉王朝的开创者，该王朝自公元前206年", "head": false, "audio": "audio/03/s372.mp3", "audio_zh": "audio/03/zs372.mp3"}, {"pid": "s373", "sec": 14, "it": "all’anno⁹ d.C.", "zh": "延续至公元⁹年。", "head": false, "audio": "audio/03/s373.mp3", "audio_zh": "audio/03/zs373.mp3"}, {"pid": "s374", "sec": 14, "it": "Questa petizione dell’Associazione degli studenti dello Hunan, redatta il³⁰ luglio 1919, venne pubblicata sul numero⁴ della Rivista del fiume Hsiang. Il governatore Chang Ching-yao era un brutale signore della guerra impadronitosi dello Hunan nel 1918 a seguito della vittoria dei signori della guerra del Chihli-Anhwei sui signori della guerra dello Hunan- Kwangsi. Era filogiapponese e particolarmente oppressivo contro la popolazione. Nel-l’estate del 1919 l’opposizione a Chang Ching-yao raggiunse un punto di non ritorno.", "zh": "这篇湖南学生联合会的请愿书起草于1919年7月³⁰日，发表在《湘江评论》第⁴期上。省长张敬尧是一个残暴的军阀，1918年直皖军阀战胜湘桂军阀后，他攫取了湖南。他亲日，对人民压迫尤为残酷。1919年夏，反对张敬尧的斗争达到了顶点。", "head": false, "audio": "audio/03/s374.mp3", "audio_zh": "audio/03/zs374.mp3"}, {"pid": "s375", "sec": 14, "it": "Inutilmente soppresse vari periodici (tra cui la Rivista del fiume Hsiang in agosto e Nuovo Hunan in ottobre). Dal settembre 1919 l’Associazione degli studenti dello Hunan condusse una sistematica campagna contro di lui e, alleandosi ad altri signori della guerra, nel giugno 1920, riuscì a cacciarlo definitivamente dallo Hunan.", "zh": "他徒然查禁了多种报刊（其中有八月的《湘江评论》和十月的《新湖南》）。从一九一九年九月起，湖南学生联合会对展开了有系统的斗争，并联合其他军阀，终于在一九二〇年六月把他永远逐出湖南。", "head": false, "audio": "audio/03/s375.mp3", "audio_zh": "audio/03/zs375.mp3"}, {"pid": "s376", "sec": 14, "it": "A Chang, governatore generale e comandante in capo dello Hunan.", "zh": "致湖南督军兼总司令张。", "head": false, "audio": "audio/03/s376.mp3", "audio_zh": "audio/03/zs376.mp3"}, {"pid": "s377", "sec": 14, "it": "Con questa petizione chiediamo che vengano puniti i despoti locali e che il nostro giornale sia rimesso in circolazione. Questa volta di fronte al problema di Tsingtao, gli studenti di tutto il paese e diverse organizzazioni pubbliche non hanno esitato a fare ogni sorta di sacrifici, a gridare ad alta voce per svegliare i nostri compatrioti, per salvare il paese da mortali pericoli. Gli studenti del nostro Hunan tutti insieme si sono mobilitati, con la consapevolezza di amare la patria e allo scopo di salvare il proprio paese; parecchi mesi sono trascorsi e si sono fatti molti progressi. Da una parte gli studenti si sono mobilitati con entusiasmo, con la speranza che nord e sud possano riappacificarsi e uniti combattere lo straniero; dall’altra inaspettatamente i rifiuti del sistema imperiale hanno portato acqua al loro mulino e per arraffare un po’ di potere personale non hanno esitato a ricorrere a parole suadenti per ingannare lei governatore. Nell’inverno dello scorso anno sono in parte cessate le elezioni illegali, ma le ceneri spente si sono ravvivate e le elezioni primarie si sono dovute rifare. La nostra Associazione ritiene che il motivo per cui la Conferenza di pace è stata a lungo rimandata è da ricercare nel fatto che la provincia dello Hunan non è unita, che riguardo al problema dell’abolizione o meno dei parlamenti sia nuovi che vecchi non è stata ancora presa una decisione, che le autorità hanno discusso a lungo e per tutto questo la Conferenza di pace è stata a lungo rimandata.", "zh": "我们此次呈请，要求惩办地方上的土皇帝，并要求我们的报纸恢复发行。这次面对青岛问题，全国学生和各界团体不惜作出各种牺牲，大声疾呼，唤醒同胞，使国家免于危亡。我们湖南全体学生亦一致奋起，本着爱国之心，以救国为目的，数月已经过去，取得了许多进展。一方面学生热情动员起来，希望南北得以重新和好，联合一致对外；另一方面，不料帝制余孽乘机兴风作浪，为攫取一点个人权力，竟不惜用甜言蜜语欺骗您督军大人。去年冬天，非法选举曾一度停止，但死灰复燃，初选又不得不重新举行。本会认为，和平会议之所以长期拖延，其原因在于湖南全省未能统一，新旧议会应否废除的问题尚未作出决定，当局为此长期争论不休，和平会议遂因之而久悬不决。", "head": false, "audio": "audio/03/s377.mp3", "audio_zh": "audio/03/zs377.mp3"}, {"pid": "s378", "sec": 14, "it": "Se in un’epoca piena di tempeste si ricorre a elezioni illegali, il risultato non può che ostacolare la Conferenza di pace e aumentare il peso sulle sue spalle. Gli", "zh": "在风雨飘摇的时代，如果诉诸非法选举，其结果只会阻碍和平会议，增加它肩上的负担。那些", "head": false, "audio": "audio/03/s378.mp3", "audio_zh": "audio/03/zs378.mp3"}, {"pid": "s379", "sec": 15, "it": "PETIZIONE DELL’ASSOCIAZIONE DEGLI STUDENTI DELLO HUNAN AL GOVERNATORE GENERALE DELLA PROVINCIA", "zh": "湖南学生联合会呈省督军请愿书", "head": true, "audio": "audio/03/s379.mp3", "audio_zh": "audio/03/zs379.mp3"}, {"pid": "s380", "sec": 15, "it": "(30 luglio 1919) studenti, come altri, sono preoccupati per lei ed è per questo che vogliamo esprimere il nostro punto di vista con assoluta chiarezza.", "zh": "（1919年7月30日）我们学生同其他人一样，对您深为关切，因此愿把我们的意见明白陈述出来。", "head": false, "audio": "audio/03/s380.mp3", "audio_zh": "audio/03/zs380.mp3"}, {"pid": "s381", "sec": 15, "it": "I despoti locali, come Ku Tien-yu, Huang Chang, Li Fan-hsi e altri hanno manipolato la volontà del popolo e, approfittando del nome dell’Associazione per l’istruzione, hanno organizzato una conferenza generale dei cittadini fasulla. La nostra Associazione riteneva che loro avessero cattive intenzioni ed essendo il problema assai importante, abbiamo invitato i nostri rappresentanti a parteciparvi.", "zh": "顾天裕、黄昌、李藩熙等地方豪绅，操纵人民意志，借教育会之名，组织了一个冒牌的公民大会。本会认为他们居心不良，而问题又极关重要，故特派代表参加。", "head": false, "audio": "audio/03/s381.mp3", "audio_zh": "audio/03/zs381.mp3"}, {"pid": "s382", "sec": 15, "it": "In quel momento c’era un nugolo di poliziotti che presidiavano il luogo dentro e fuori. Sul palco, Ku e Huang non fecero altro che calunniare gli hunanesi perché si erano opposti alle elezioni illegali. Il presidente della nostra Associazione, Peng Huang, e il nostro rappresentante, Chun Wei-ching, a nome di tutti gli studenti, hanno espresso la vera volontà del popolo. Immediatamente vengono arrestati dalla polizia militare su istigazione di Ku, Huang e altri e minacciati di venire fucilati. Grazie all’intervento del comandante del reggimento, Chang, incaricato di sorvegliare la conferenza, non vennero uccisi. Lei questa volta ha appoggiato e aiutato gli studenti, la nostra Associazione la ringrazia vivamente. Ma i despoti locali Ku Tien-Yu, Huang Chang, Li Fan-hsi e altri sono i principali colpevoli, costoro guardano dall’alto in basso gli hunanesi. La ingannano, umiliano gli studenti; queste sono le ragioni per cui le chiediamo di punire questi despoti locali, in modo da dare loro una lezione. La nostra Associazione non conosce il suo parere, eppure il Ta Kung Pao  era una pubblicazione che esprimeva la volontà vera del popolo dello Hunan ed è sempre stato stimato e lodato sia nella nostra provincia che fuori. Ma a causa del fatto che ha riportato la dichiarazione dell’Unione delle varie organizzazioni contro le elezioni illegali, il Ta Kung Pao è stato chiuso, i redattori arrestati e fino a oggi, pur essendo passato parecchio tempo, non sono ancora stati rilasciati. Gli studenti, come pure altra gente, ritenevano che non fosse una sua idea, che in poco tempo la cosa si sarebbe risolta e per questo per molto tempo si sono astenuti dall’esprimere opinioni. Le diverse organizzazioni sono responsabili della dichiarazione riportata dal giornale, il popolo di tutta la provincia si è opposto alle elezioni illegali, tante bocche ma una sola la voce. Lei dovrebbe quindi agire secondo la volontà del popolo e creare le condizioni favorevoli a raggiungere il fine comune e allora gli hunanesi avrebbero nei suoi confronti un debito di gratitudine. Si parla tanto di sistema repubblicano, di libertà di parola, eppure si fa chiudere un giornale stimato e lodato da tutti. Ciò non può che significare che il governo tiene sotto chiave la libertà di parola, perché è più importante controllare una piccola falla della diga che tutto il fiume, perché se si vuole controllare l’acqua che bolle non si può far altro che buttare via l’acqua. Lei è senz’altro in grado di vedere a¹⁰.000 li di distanza, ma se ne sta del tutto indifferente. È una fortuna che lei, avendo dato ascolto all’opinione pubblica, abbia rinviato le elezioni, ma i redattori del Ta Kung Pao non sono stati ancora rilasciati; fino a quando non verrà risolto il problema di questo giornale, la gente sarà spaventata, non saprà cosa fare. Allora è la nostra Associazione che la prega di dare ascolto all’opinione pubblica, di liberare i redattori, di far riprendere le pubblicazioni del giornale. Da molto tempo si sa che lei odia le persone malvage come i banditi e che fa il bene con naturalezza e gioia, pertanto la preghiamo con tutto il cuore e la massima sincerità di far riprendere le pubblicazioni al giornale e di punire i despoti locali. La preghiamo ardentemente ancora una volta di concederci attenzione. Noi aspettiamo con impazienza.", "zh": "当时有大批警察在场内外守卫。台上，古、黄二人一味诬蔑湖南人，因为湖南人反对非法选举。本协会主席彭璜及代表魏振中代表全体学生，表达了人民的真实意愿，竟被古、黄等人唆使的军警当场逮捕，并扬言要处决他们。幸得负责监视集会的团长张君出面干预，才得以不死。张君此次拥护并帮助了学生，本协会深致谢意。然而土豪古天育、黄彰、李藩熙等人乃是罪魁祸首，他们蔑视湖南人，欺骗阁下，侮辱学生；我们因此请您惩办这些土豪，使他们得到应有的教训。本协会不知您的意见如何。大公报一向是表达湖南人民真实意愿的报纸，省内外素为民众所敬重。只因刊登了各界联合会反对非法选举的宣言，大公报竟被封禁，编辑人员被捕，至今时日已久，仍未获释。学生和其他人士都认为这并非您的本意，以为不久即可解决，因此久未发表意见。该宣言系各团体所发表，全省人民反对非法选举，人同此心，众口一辞。您应当顺乎人民的意愿，创造有利条件，以实现共同的目标，湖南人民必将对您感恩戴德。口头上大谈共和制度、言论自由，却将一份深受各界敬重推崇的报纸查封。这只能说明政府把言论自由锁在箱中，因为与其防大河之决，不如先塞小穴；要止住沸腾的水，唯有把水泼掉。您固然是明察秋毫、一望千里之人，却对此全然无动于衷。您顺应舆论，缓办选举，实乃幸事，但大公报编辑至今未获释放；若不解决该报问题，人们惶恐不安，不知所措。因此我们恳请您体察舆论，释放编辑，使该报复刊。久闻您嫉恶如仇，如同深恶土匪一般，行善乐善出自天性，故我们以最诚挚之心，恳求您使该报复刊，并惩办土豪。特此再三恳请，望予垂察。翘首以待。", "head": false, "audio": "audio/03/s382.mp3", "audio_zh": "audio/03/zs382.mp3"}, {"pid": "s383", "sec": 15, "it": "Petizione dell’Associazione  degli studenti dello Hunan Il numero⁴ della Rivista del fiume Hsiang uscì il⁴ agosto e fu l’ultimo numero. Quando il numero⁵ era già pronto, il governatore della provincia Chang Ching-yao fece chiudere manu militari la rivista e sequestrare il numero. Ma di lì a poco Mao Tse-tung assumerà la direzione del settimanale Nuovo Hunan e lo dirigerà fino alla sua soppressione in ottobre.", "zh": "湖南学生联合会请愿书 《湘江杂志》第⁴期于⁴八月出版，这是最后一期。当第⁵期已经印好的时候，湖南督军张敬尧以武力查封了该杂志，并将该期予以没收。但不久之后，毛泽东即接任《新湖南》周刊的主编，一直主持到同年十月该刊被取缔为止。", "head": false, "audio": "audio/03/s383.mp3", "audio_zh": "audio/03/zs383.mp3"}, {"pid": "s384", "sec": 15, "it": "Nel numero⁴ oltre alla Petizione dell’Associazione degli studenti dello Hunan al governatore della provincia (vedasi testo precedente) e alle puntate de La grande unione delle masse popolari e de Il movimento popolare in Giappone, comparvero gli articoli di Mao Tse-tung qui di seguito pubblicati.", "zh": "第⁴期除刊载《湖南学生联合会请愿书》（见前文）以及《民众的大联合》和《日本民众运动》两篇连载外，还发表了毛泽东撰写的下列文章，现予以刊载。", "head": false, "audio": "audio/03/s384.mp3", "audio_zh": "audio/03/zs384.mp3"}, {"pid": "s385", "sec": 16, "it": "TRASFORMARE LA FAMIGLIA E TRASFORMARE IL MODO DI PENSARE", "zh": "改造家庭与改造思想", "head": true, "audio": "audio/03/s385.mp3", "audio_zh": "audio/03/zs385.mp3"}, {"pid": "s386", "sec": 16, "it": "La maggior parte di noi cinesi si sacrifica per la famiglia. La vita di questi cinesi è una vita priva di consapevolezza, una vita da schiavi, una vita amorale. Perché?", "zh": "我们中国人大多数是为家庭而牺牲。这些中国人的生活，是无意识的生活，是奴隶的生活，是非道德的生活。为什么？", "head": false, "audio": "audio/03/s386.mp3", "audio_zh": "audio/03/zs386.mp3"}, {"pid": "s387", "sec": 16, "it": "Perché il fine di tutta la loro vita è la ricerca di cibo e vestiario per la famiglia: in una famiglia chi è in grado di garantire cibo e vestiario ha il dovere di procurare cibo e vestiario a genitori, zii, fratelli e sorelle.", "zh": "因为他们一生的目的，就是为家庭寻求衣食：在一个家庭里，谁有能保证衣食的能力，就有为父母、叔伯、兄弟姐妹供给衣食的责任。", "head": false, "audio": "audio/03/s387.mp3", "audio_zh": "audio/03/zs387.mp3"}, {"pid": "s388", "sec": 16, "it": "Se poi qualcuno è particolarmente capace nel garantire cibo e vestiario, allora i suoi doveri saranno moltiplicati: qualsiasi appartenente allo stesso clan familiare, qualsiasi parente, è autorizzato a vivere alle sue spalle poiché egli viene considerato come la montagna Tai. Se egli si preoccupa solo della propria esistenza, solo dei propri affari, allora gli pioveranno addosso parole come “vile”, “privo di affetto”, “senza pietà”, “ingiusto”.", "zh": "如果某人特别有能力保证衣食，那么他的责任就会成倍增加：凡是同族的人，凡是亲戚，都有权靠他生活，因为他被看作泰山。如果他只顾自己的生存，只顾自己的事情，那么“懦夫”“无情”“无义”“不仁”之类的话就会落到他的头上。", "head": false, "audio": "audio/03/s388.mp3", "audio_zh": "audio/03/zs388.mp3"}, {"pid": "s389", "sec": 16, "it": "Così, circondato da siffatte chiacchiere, costui non può fare a meno di sacrificare le proprie aspirazioni, per diventare un “vero uomo” (secondo il detto popolare che recita: un vero uomo può sfamare mille bocche, un poveraccio si trova in situazioni difficili), vale a dire che deve occuparsi solo di garantire cibo e vestiario alla propria famiglia. Di colui che ha intenzione di diventare questo tipo di “vero uomo”, possiamo forse dire che la sua vita sia consapevole? Costui sacrifica tutta la sua vita per la famiglia e diventa schiavo della famiglia: possiamo forse dire che la sua natura sia indipendente? Chi dunque procura cibo e vestiario ad altri, già non riconosce la natura umana degli altri, pertanto, non saremmo costretti a dire che non ha virtù? Non è certo mia intenzione combattere il “guadagnarsi da vivere”, né consigliare agli altri di farsi monaci. Io ritengo che la difficoltà dei miei", "zh": "这样，被这类空话所包围，此人便不得不牺牲自己的志向，去当一个“真男子”（俗话说：一个真男子可以养活千张嘴，一个穷光蛋则处境艰难），也就是说，他只需操心保证自己一家的衣食。对于那种打算成为这种“真男子”的人，我们难道能说他的生活是有觉悟的吗？此人把一生全部牺牲给家庭，成为家庭的奴隶：我们难道能说他的本性是独立的吗？那么，为他人谋取衣食的人，已经不承认他人的人性，因此，我们岂不是不得不说他没有道德？我决不是要反对“自食其力”，也不是劝别人都去当和尚。我认为我的难处……\nRivista del Fiume Hsiang — numero 4 (4 agosto 1919)\n湘江评论 第四号", "head": false, "audio": "audio/03/s389.mp3", "audio_zh": "audio/03/zs389.mp3"}, {"pid": "s390", "sec": 16, "it": "connazionali a guadagnarsi da vivere sia la conseguenza nefasta del sistema familiare.", "zh": "同胞被迫自谋生路，正是家族制度的恶果。", "head": false, "audio": "audio/03/s390.mp3", "audio_zh": "audio/03/zs390.mp3"}, {"pid": "s391", "sec": 16, "it": "Bene ha detto Yang Huai-chung¹: “I figli e i fratelli minori non devono dipendere dai genitori e dai fratelli maggiori”, “I genitori e i fratelli maggiori non devono dipendere dai figli e fratelli minori”, “I fratelli non devono dipendere gli uni dagli altri” (Gioventù nuova, volume II, n. 4). Ho pure apprezzato molto ciò che Chen Tu-hsiu ha detto in modo preciso e conciso: “Dal punto di vista economico le risorse personali sono indipendenti” ( ibidem). Queste due affermazioni sono assolutamente logiche e giuste. Una persona usa dunque la propria vitalità e abilità per sfamare più di dieci persone (questo avviene comunemente nel sistema familiare cinese). Quali che siano i principi soprannaturali, la umana solidarietà del mondo, ciò che importa è che di fatto non ci si riesce. Un tale mi ha chiesto: “Hai detto che non ci si riesce e che questo avviene comunemente nel sistema familiare cinese, eppure com’è che nella società ci sono parecchi veri uomini che ci riescono?”. Questo è un problema che vale la pena di studiare ed è proprio a causa di ciò che propongo di trasformare la famiglia. Se soffermiamo la nostra attenzione sulla gente che fa diversi mestieri, vediamo che la maggior parte di costoro oltre a usare la propria abilità per guadagnarsi da vivere, ricorre anche a metodi di lavoro per guadagnare denaro sporco. Oltre ai burocrati che praticano la corruzione in spregio alla legge, che saccheggiano le risorse del popolo, che percepiscono commissioni sulle vendite, ci sono anche i politicanti che giocano con le parole, gli avvocati che giocano con la legge, i grandi luminari della medicina che ingannano la gente per guadagnare denaro, i commercianti disonesti che imbrogliano, chi ruba alla luce del giorno e chi di nascosto: sono talmente tanti che è impossibile tenerne il conto. Che cos’è che produce una siffatta società di banditi? Per dirla francamente, coloro i quali sono malvagi di natura e commettono azioni spregevoli sono pochissimi; la maggioranza, a causa della famiglia numerosa, delle condizioni di vita difficili e perché incapace di tollerare le chiacchiere della gente, non ha altra scelta che diventare “veri uomini”. Se si fa tutto il possibile per diventare un “vero uomo”, mettendo a frutto la propria capacità per guadagnarsi da vivere, ricorrendo a metodi onesti, facendo il proprio mestiere, nei fatti ciò è assolutamente impossibile.", "zh": "杨怀中说得好¹：“子弟不能依赖父兄”，“父兄不能依赖子弟”，“兄弟不能相互依赖”（《新青年》第2卷第4号）。陈独秀说得很精确也很简括：“经济方面，个人财产独立”（同上）。这两段话是绝对合逻辑、绝对正确的。一个人用自己的精力和本事养活十几口人（这在中国家族制度下是常有的事），任凭什么天经地义、人类世谊的道理，事实上总是做不到的。有人曾问我：“你说做不到，说这是中国家族制度下常有的事，那么社会上何以又有许多堂堂的男子汉做得到呢？”这是一个值得研究的问题，我正是因为这个缘故才主张改造家族。我们留心观察操各种职业的人，就会看到这些人当中大多数除了用自己的本领谋生之外，还要采用不正当的手段来赚钱。除了那些违法舞弊、掠夺民财、拿回扣的官僚，还有那些玩弄文字的政治家、玩弄法律的律师、卖药骗人的医学名流、行奸使诈的奸商、明火执仗的盗贼、暗地偷窃的小贼，简直多得数不清。是什么样的社会造成了这般多强盗？坦率地说，生性恶劣、行为卑鄙的人是极少的；大多数人是因为家庭人口众多、生活困难，又受不了别人的闲言碎语，才不得不去做“堂堂男子汉”的。如果竭尽全力去做一个“堂堂男子汉”，凭自己的能力，用正当的方法，经营自己的职业，来谋取生计，事实上是绝对不可能的。", "head": false, "audio": "audio/03/s391.mp3", "audio_zh": "audio/03/zs391.mp3"}, {"pid": "s392", "sec": 16, "it": "Eppure nella nostra società sono in tanti a essere diventati “veri uomini”, per il semplice fatto che sono stati costretti dalle chiacchiere della gente a ricorrere a metodi da banditi.", "zh": "然而在我们的社会里，却有许多人因为受不了人言的逼迫，而采取土匪般的手段，仅仅为此就成了“真人”。", "head": false, "audio": "audio/03/s392.mp3", "audio_zh": "audio/03/zs392.mp3"}, {"pid": "s393", "sec": 16, "it": "È per questi motivi che il sistema familiare deve essere trasformato. Tuttavia le chiacchiere della gente costituiscono un vero e proprio scudo protettivo per questo tipo di sistema familiare e sono assai profondamente radicate nella mente del popolo; per esempio il toching² di Chang Chu-cheng è giustificabile, non ha arrecato danni alla sua reputazione. Eppure in quel momento fu oggetto di tante chiacchiere di rimprovero. Pertanto, se vogliamo trasformare la famiglia, dobbiamo prima di tutto trasformare le chiacchiere.", "zh": "正是由于这些缘故，家庭制度必须改造。然而人言却是这种家庭制度的真正护身盾牌，并且在人民的思想中根深蒂固；例如张居正的夺情²，本是情有可原的，并没有损害他的名誉。然而当时却遭到许多人言的责难。所以，我们要改造家庭，首先就必须改造人言。", "head": false, "audio": "audio/03/s393.mp3", "audio_zh": "audio/03/zs393.mp3"}, {"pid": "s394", "sec": 16, "it": "Oltre a ciò di cui abbiamo parlato fino ad ora, esiste l’altro problema che concerne il fatto che la mente della maggior parte dei miei compatrioti è piena di teorie e pensieri sbagliati, vecchi e da schiavi: quale sarà dunque il metodo a cui ricorrere per cambiare il loro punto di vista? Non bisogna far altro, se si vuole trasformare le chiacchiere, che trasformare prima di tutto il modo di pensare. Ecco qui di seguito, in breve, le mie proposte: se si vuole trasformare la famiglia allora bisogna prima trasformare le chiacchiere; se si vogliono trasformare le chiacchiere, bisogna prima di tutto trasformare il modo di pensare.", "zh": "除了以上所说的之外，还有一个问题，即我的大多数同胞的脑子里充满了错误的、陈旧的、奴隶性的理论和思想：那么究竟应当采取什么方法来改变他们的观点呢？要想改造人言，首先就要改造思想，舍此别无他法。现将我的主张简述如下：要改造家庭，必先改造人言；要改造人言，必先改造思想。", "head": false, "audio": "audio/03/s394.mp3", "audio_zh": "audio/03/zs394.mp3"}, {"pid": "s395", "sec": 16, "it": "Ancora a questo proposito, se non viene rinnovato il modo di pensare dei miei compatrioti, non solo non c’è speranza alcuna di riformare il sistema famigliare, ma non sarà neppure possibile far progredire la trasformazione di tutto il sistema sociale. Allora, compatrioti, volete seguitare a occupare sempre il posto degli schiavi? Compatrioti! Compatrioti! Ripulite subito le vostre menti! Ripulitele subito e bene!", "zh": "关于这一点，我的同胞若不更新思想，不仅改良家庭制度毫无希望，就是整个社会制度的改造也无从进步。同胞们！你们难道愿意继续做奴隶吗？同胞们！同胞们！赶快清理你们的头脑！赶快把它清理得干干净净！", "head": false, "audio": "audio/03/s395.mp3", "audio_zh": "audio/03/zs395.mp3"}, {"pid": "s396", "sec": 17, "it": "RAPPORTO SOMMARIO SULL’ASSOCIAZIONE DEGLI STUDENTI DELLO HUNAN", "zh": "湖南学生联合会简明报告", "head": true, "audio": "audio/03/s396.mp3", "audio_zh": "audio/03/zs396.mp3"}, {"pid": "s397", "sec": 17, "it": "Per quanto concerne la situazione della nostra Associazione, siamo in attesa di raccogliere materiale. Poiché come giornalisti non possiamo essere dappertutto, non possiamo essere a conoscenza di tutto, il presente articolo potrà contenere inesattezze e insufficienze. Speriamo dunque che coloro i quali conoscono bene la situazione ci inviino parecchio materiale, come pure preghiamo chi ha già scritto articoli per noi di correggere i nostri errori. La nostra Associazione vi sarà molto riconoscente.", "zh": "关于本会情形，我们正在收集材料。因为我们当记者不能到处都去，不能事事皆知，本文难免有不准确和不足之处。因此希望熟悉情况的人多给我们寄来材料，也请已经为本会撰稿的人指正我们的错误。本会不胜感谢。", "head": false, "audio": "audio/03/s397.mp3", "audio_zh": "audio/03/zs397.mp3"}, {"pid": "s398", "sec": 17, "it": "Il settore studentesco nello Hunan prima della fondazione della nostra Associa-zione. Nello Hunan ci sono state scuole fin dalla primavera del 1898, quando venne fondata la Scuola di storia contemporanea. Sebbene la vita della scuola sia stata breve, è riuscita a formare parecchi giovani coraggiosi e determinati. Nel corso della battaglia di Hankow guidata da Tang Tsai-chang³, tra gli studenti morti e feriti molti appartenevano a questa scuola. Nelle scuole di allora si respirava un’atmosfera rivoluzionaria, gli studenti discutevano di parecchi problemi, come ad esempio la corruzione dello Stato, il modo in cui rovesciare il governo mancese, come far avanzare l’esercito, come costruire il paese.", "zh": "本会成立以前湖南的学生界。湖南自1898年春创办时务学堂以来，就有了学校。该校虽历时不久，却培养了不少勇敢坚定的青年。在唐才常³领导的汉口战役中，死伤学生很多属于这所学校。当时的学校里洋溢着革命空气，学生们讨论种种问题，如国家腐败、如何推翻清政府、如何推进军队、如何建设国家。", "head": false, "audio": "audio/03/s398.mp3", "audio_zh": "audio/03/zs398.mp3"}, {"pid": "s399", "sec": 17, "it": "In seguito venne fondata la scuola “Luminosa virtù”, il cui fine era il medesimo e gli studenti di questa scuola godevano di grande stima presso i circoli studenteschi della capitale verso la fine del periodo di Kuang Hsu⁴. La peculiarità degli studenti di allora era di occuparsi degli affari politici e di non temere la morte, di manifestare apertamente la propria opposizione ai funzionari e di non lasciarsi inibire. Chen Pao-chien era governatore dello Hunan e aveva intenzione di far progredire e sviluppare lo Hunan, tant’è vero che fu Chen il fondatore della Scuola di storia contemporanea e di altre scuole. Con il colpo di stato del 1898, Chen Pao-chien se ne andò, Tan Ssu-tung venne giustiziato, Liang Chi-chao fu costretto a fuggire, Hsiung Hsi-lin fu destituito dalla carica di hanlin, i libri del saggio Kang vennero bruciati in un campo fuori della piccola porta orientale della città. Fu allora che la Scuola di storia contemporanea venne chiusa.", "zh": "后来又创办了“明德”学堂，其宗旨也是相同的，光绪末期，该校学生在首都学界享有很高声望。当时学生的特点，是关心国家政治，不怕死，公开与官府对抗，无所顾忌。陈宝箴任湖南巡抚，有意使湖南进步发展，他创办了时务学堂和其他学校，即是明证。戊戌政变发生后，陈宝箴去职，谭嗣同被杀，梁启超被迫逃走，熊希龄被革去翰林之职，康有为的著作在长沙东门外旷地被焚毁。时务学堂便是在那时被封闭的。", "head": false, "audio": "audio/03/s399.mp3", "audio_zh": "audio/03/zs399.mp3"}, {"pid": "s400", "sec": 17, "it": "Se la Scuola di storia contemporanea venne chiusa, la scuola “Luminosa virtù” invece prosperava. In quel tempo vennero fondate diverse scuole pubbliche come ad esempio la scuola media Chiu Chung, un istituto di pedagogia di primissimo ordine, istituti di istruzione superiore, ecc. Allo stesso tempo venivano fondate parecchie scuole private come ad esempio le scuole Chounan e Chuyi e le scuole di distretto con sede nel capoluogo provinciale.", "zh": "时务学堂虽被封闭，“明德”学堂却日益兴盛。当时创办了几所官办学校，如久中中学、第一流的师范学堂、高等学校等等。与此同时，还创办了若干私立学校，如周南、楚怡两校以及设于省城的区立学校。", "head": false, "audio": "audio/03/s400.mp3", "audio_zh": "audio/03/zs400.mp3"}, {"pid": "s401", "sec": 17, "it": "Le scuole pubbliche si può dire che erano impregnate di burocratismo. Queste scuole erano piene di Chien Tu e Chien Hsueh che portavano in testa il cappello rosso con le piume, indossavano la veste lunga con le maniche a zampa di cavallo, calzavano scarpe con la suola alta. Ogni primo e quindici del mese lunare costoro guidavano gli studenti (che a loro volta indossavano la veste lunga con la giacca da cavallo) a rendere omaggio prima davanti al pannello su cui era scritto “Lunga, lunga vita all’imperatore di oggi”, poi davanti al pannello con su scritto “Il Saggio, il Maestro”, omaggio che consisteva nell’inginocchiarsi tre volte e nel battere il capo a terra nove volte. Nella sala centrale di ogni scuola, nel mezzo, era sospeso un grande pannello con su un’iscrizione con un editto imperiale che diceva: “Prima essere fedeli, secondo essere onesti, terzo onorare Confucio...” e questo pannello era splendido, una cosa davvero magnifica!", "zh": "公立学校可以说是浸透了官僚主义。这些学校里尽是做\"荐头\"和\"荐学\"的人，他们头戴红顶翎帽，身穿马蹄袖长袍，足蹬厚底鞋。每逢阴历初一、十五，这些人便带领学生（学生也穿着长袍马褂），先向写着\"当今皇上万岁\"的牌位行礼，再向写着\"圣人先师\"的牌位行礼，所谓行礼，就是三跪九叩。每所学校的大堂正中，悬挂着一块大匾，匾上刻着一道圣旨，写道：\"第一要忠，第二要诚，第三要敬孔……\"这块匾真是金碧辉煌，壮观得很！", "head": false, "audio": "audio/03/s401.mp3", "audio_zh": "audio/03/zs401.mp3"}, {"pid": "s402", "sec": 17, "it": "Ogni giorno, al momento di mangiare, gli studenti dovevano indossare le vesti lunghe; se li si andava a visitare nel momento in cui consumavano i pasti, in un mese di giugno in cui faceva molto caldo, vi potete immaginare che splendido spettacolo da vedere! Quando gli studenti si diplomavano, i “messaggeri governativi” si recavano nelle scuole e chiedevano al controllore degli studenti o al bidello di copiare nomi e indirizzi degli studenti diplomati in modo tale da poter compilare in fretta parecchi diplomi, con su scritto: “Il signorino X del Chinchai Tachen, del Luchunpu Shihlan, dello Yufutu Yushih, dello Hsunfupu Yuan X dello Hunan, del Tihsuehshih Shih X dello Hunan, dello X Hunan Kuanli, dello X Hsuehhsiao Chientu ha ottenuto il primo posto riportando un grande successo”.", "zh": "每天吃饭的时候，学生们都必须穿上长袍。如果有人在他们吃饭的时候前去拜访，在酷暑的六月，大家可以想见那是一幅何等壮观的景象！学生毕业时，\"官府的差役\"就到学校来，请学监或校工抄录毕业学生的姓名和住址，以便赶制出许多份文凭。文凭上写道：\"湖南省候补府经历某、浏阳县训导某、御封翰林院某、钦赐翰林院某、湖南提学使司某、湖南省立某学校监某某，高中一等，成绩优异。\"", "head": false, "audio": "audio/03/s402.mp3", "audio_zh": "audio/03/zs402.mp3"}, {"pid": "s403", "sec": 17, "it": "Questi messaggeri governativi si recavano con grande slancio nelle campagne, nelle case degli studenti neodiplomati e, con gesti di saluto e di augurio, appendevano sopra il muro della stanza centrale della casa i diplomi. Quando i familiari degli studenti diplomati, uscendo di casa per accogliere i messaggeri governativi, vedevano il diploma con il suo fondo rosso, i bordi bianchi, i motivi decorativi a fiori, i caratteri in oro, ne rimanevano davvero entusiasti! A questo punto lo studente diplomato, saputa la notizia ufficiale, si recava in visita da parenti e amici con la portantina (se la famiglia non la possedeva, ne doveva costruire una nuova) su cui veniva sistemata una lampada con la scritta: “Certificato dell’Ufficio imperiale dei diplomi”. Dopo la visita dello studente diplomato, parenti e amici con fare orgoglioso si recavano presso la famiglia dello studente diplomato per complimentarsi. Inoltre sul portone principale della casa dello studente diplomato veniva appeso un pannello con il fondo rosso e i caratteri in oro con su scritto: “Costui ha ottenuto il secondo grado” oppure: “Costui ha ottenuto il terzo grado”. Quale splendido spettacolo da vedere! Veniva poi offerto un grande banchetto e quando gli ospiti se ne erano andati ciò che restava erano i diversi nomi che si danno al “banchetto”, chiamato anche tapashih o tachiufeng.", "zh": "这些报喜的官府人员兴致勃勃地跑到乡村，跑到新毕业学生的家中，作揖道贺，把毕业证书挂在正厅的墙壁上。毕业学生的家属听到报喜人来了，出门迎接，看见那张红底白边、饰有花纹、字迹烫金的毕业证书，真是喜出望外！这时候，毕业的学生得到官报，便坐着轿子（家中没有的，就得新做一乘）去亲友家拜谒，轿子上挂着写有\"钦授文凭\"字样的灯笼。毕业学生拜谒之后，亲友们又得意洋洋地到毕业学生家中道贺。此外，在毕业学生家的大门上，还要挂上一块红底金字的大匾，上面写着：\"某人中举\"或者\"某人出贡\"。这是何等壮观的一幕！随后大摆筵席，宾客散去之后，剩下的就是那被称做\"塌耙士\"或\"打秋风\"的各种名目了。", "head": false, "audio": "audio/03/s403.mp3", "audio_zh": "audio/03/zs403.mp3"}, {"pid": "s404", "sec": 17, "it": "Il settore studentesco pertanto era corrotto, se si volevano cercare vigore, coraggio e vivacità, essi si trovavano al di fuori degli insegnanti burocrati e degli amministratori burocrati, erano in quei numerosi studenti che tenevano nascoste nei mucchi di libri accanto ai letti e nei cassetti due cose: il Giornale dei nuovi cittadini scritto da Liang Chi-chao e altri e il Giornale del popolo scritto da Wang Ching-wei, Sung Chiao-jen e altri. Queste due cose erano vietate e non si sa come potessero arrivare dal Giappone nello Hunan. Nel frattempo, Huang Hsing e Yu Chih-mo, non intimiditi da morti e massacri, a Changsha organizzavano clandestinamente ogni sorta di attività politiche, fino a che nel 1904 la sollevazione da loro organizzata a Yehhsing e Pingti fallì. Ma Fu-i venne decapitato fuori delle porte della città di Liuyang, Huang Hsing fingendosi straniero fuggì su una portantina dalla porta occidentale. Tuttavia più si faceva violenta la repressione più aumentava lo spirito di lotta nello Hunan. In quel periodo, con Yu Chih-mo ancora a capo dei circoli studenteschi dello Hunan, si verificò un avvenimento di importanza tale da meritare di essere ricordato.", "zh": "因此，学界已经腐败；若说要寻找朝气、胆魄与活跃，那不在官僚教员和官僚办事员之中，而在那些众多的学生中间。他们床头书堆里、抽屉深处，藏着两样东西：梁启超等人撰的《新民丛报》，和汪精卫、宋教仁等人撰的《民报》。这两样都是禁物，不知怎的竟能从日本传到湖南。与此同时，黄兴、禹之谟不惧死亡与屠杀，在长沙秘密组织各种政治活动，直到1904年他们在浏阳、醴陵发动的起义失败。傅义在浏阳城门外被斩首，黄兴扮作洋人，乘轿从西门逃走。然而镇压越残酷，湖南的斗争精神越增长。那时，禹之谟仍主持湖南学界团体，发生了一件重要到值得记载的事。", "head": false, "audio": "audio/03/s404.mp3", "audio_zh": "audio/03/zs404.mp3"}, {"pid": "s405", "sec": 17, "it": "Chen Tien-hua e Yao Hung-yeh, il primo uno studente di Anhua, il secondo uno studente di Yuehyang, entrambi residenti in Giappone, mentre ritornavano al proprio paese, disgustati dalla corruzione della patria e angosciati dai pericoli mortali che correva, si suicidarono gettandosi in un fiume. Gli studenti dello Hunan venuti a conoscenza dell’accaduto, quando arrivarono le bare trasportate lungo il fiume Hsiang chiesero al governo di poterli seppellire sulla montagna Yuehlu. Ma Yu Chien-san governatore dello Hunan e il tixueshimu si mostrarono del tutto insensibili e non vollero dare il permesso, avendo evidentemente intenzione di tingere di rosso i loro cappelli da funzionari con il sangue dei membri del partito rivoluzionario e degli studenti. Visto che la loro richiesta era risultata inefficace, gli studenti decisero di ricorrere allo “spontaneismo”; il¹ ° aprile del 1907 gli studenti universitari e medi della città di Changsha si mobilitarono per attraversare il fiume tutti insieme in due punti, al traghetto chuchang e alla piccola porta occidentale. Agitando bandiere dai colori brillanti, indossando abiti bianchi, sotto la luce del sole rosso-fuoco, cantando in coro canzoni funebri, in fila per due o per tre, formarono un corteo lungo oltre¹⁰ li.", "zh": "陈天华和姚宏业，前者是安化学生，后者是岳阳学生，都住在日本，因痛恨祖国腐败、痛愤祖国面临致命危险，在回国途中投江自杀。湖南学生得知此事后，当灵柩沿湘江运抵时，请求政府准其葬于岳麓山。但湖南巡抚俞廉三和提学使却全然无动于衷，不肯批准，显然是想用革命党人和学生的鲜血染红自己的顶子。学生们见请愿无效，决定采取“自发行动”；1907年1月4日，长沙市各大学和中学学生全体动员，在小西门和渡船两处同时渡江。他们挥舞着色彩鲜艳的旗帜，身穿白衣，在火红的阳光下，齐声高唱挽歌，两人或三人一排，组成了长达十余¹⁰里的送葬队伍。", "head": false, "audio": "audio/03/s405.mp3", "audio_zh": "audio/03/zs405.mp3"}, {"pid": "s406", "sec": 17, "it": "I poliziotti immobili come pezzi di legno stavano a guardare, non avendo il coraggio di intervenire. In tal modo Chen e Yao vennero sepolti.", "zh": "警察呆若木鸡地站着旁观，不敢干预。于是陈、姚二人得以安葬。", "head": false, "audio": "audio/03/s406.mp3", "audio_zh": "audio/03/zs406.mp3"}, {"pid": "s407", "sec": 17, "it": "I funzionari governativi non poterono far altro che reprimere la loro rabbia e starsene buoni, non avendo neppure loro il coraggio di intervenire. Lo spirito di lotta dello Hunan in quella circostanza divenne ancora più forte, raggiungendo il culmine. Ma i funzionari governativi, avendo dovuto in quel momento cacciare il loro odio in fondo al cuore, poco tempo dopo colsero l’occasione, offerta loro da alcuni incidenti, per fucilare Yu Chih-mo! E successivamente fecero disseppellire i corpi di Chen e Yao!", "zh": "政府官员们也只能强压怒火，不敢作声，连干预的勇气也没有。当时湖南人民的斗争精神更加高涨，达到了顶点。但是那些政府官员，当时把仇恨埋藏在心底，不久便利用某些事件提供的机会，枪杀了禹之谟！随后又挖出了陈、姚两人的尸体！", "head": false, "audio": "audio/03/s407.mp3", "audio_zh": "audio/03/zs407.mp3"}, {"pid": "s408", "sec": 17, "it": "Per i circoli studenteschi dello Hunan l’avvenimento più importante, dopo la sepoltura di Chen e Yao, fu l’assemblea generale del movimento studentesco di tutte le scuole della città capoluogo della provincia, che si tenne nel mese di maggio del 1910.", "zh": "对湖南学生界来说，继陈、姚安葬之后最重要的事件，是1910年5月在省会长沙举行的全省各校学生运动联合大会。", "head": false, "audio": "audio/03/s408.mp3", "audio_zh": "audio/03/zs408.mp3"}, {"pid": "s409", "sec": 17, "it": "Siamo ormai abituati a vedere le assemblee precedenti del movimento studentesco e che cosa c’è di tanto particolare? Ma l’assemblea del movimento del 1910 è stata qualcosa di diverso. Quest’assemblea del movimento ebbe un carattere di protesta e un colore rivoluzionario. In quel momento i funzionari governativi ebbero una gran paura, e anche il tixueshi Wu X era morto di paura.", "zh": "我们早已看惯了以往的学生运动集会，这次又有什么特别之处呢？但1910年的那次运动集会确实不同。这次运动集会具有抗议的性质和革命的色彩。当时政府官员大为恐慌，连提学使吴某人也被吓死了。", "head": false, "audio": "audio/03/s409.mp3", "audio_zh": "audio/03/zs409.mp3"}, {"pid": "s410", "sec": 17, "it": "I promotori, con i loro discorsi in cui sottolineavano i pericoli mortali che correva il paese e l’umiliazione dell’invasione straniera, fecero una grande opera di propaganda e fu un grande successo. La sede del movimento si trovava nel campo di addestramento militare fuori della piccola porta Wu di Changsha. Tutti gli studenti furono mobilitati per fare un corteo. E quante volte hanno dato vita a manifestazioni, sfidando il vento freddo, alla luce chiara dell’alba! L’impressione più profonda lasciata sulla gente era costituita dagli studenti che mentre partecipavano alle manifestazioni cantavano a squarciagola l’inno del movimento studentesco. Sebbene nessuno ricordi chi lo abbia composto e siano trascorsi quasi dieci anni, tuttavia, gli studenti dello Hunan sono ancora in grado di recitarne i versi. Riporto qui di seguito i versi dell’inno: “Nello Hunan c’è battaglia, la montagna Hengyueh è alta come il cielo, sopra il lago Tungting nuvole e sogni. Il fiume Yuan ha la sua sorgente, l’acqua del fiume Li ha la sua storia, innumeri nascono i fiori. Si alza il vento, la volontà di lotta guida gli uomini, cento le battaglie combattute, cento volte più forti si diventa. Le coraggiose truppe del fiume Hsiang porteranno ovunque la pace, la nostra è una generazione di eroi. Si intonano inni militari, le bandiere sventolano al vento. Il campo di battaglia è come una foresta di fucili e una pioggia di proiettili. Lo spirito di un esercito nazionale, figli e fratelli dello Hunan, questa è la caratteristica nuova della civiltà”.", "zh": "倡导者们发表演说，痛陈国家危亡之险、外敌入侵之辱，做了大量的宣传工作，取得了极大的成功。运动的总部设在长沙小吴门外的军事训练场。全体学生被动员起来举行游行。多少次，他们冒着寒风，迎着黎明的曙光举行示威！给人们留下最深刻印象的，是学生们在参加示威时高唱学联会歌。虽然已没有人知道这首歌是谁作的，而且将近十年过去了，但湖南的学生至今还能背诵它的歌词。现将歌词录于下：", "head": false, "audio": "audio/03/s410.mp3", "audio_zh": "audio/03/zs410.mp3"}, {"pid": "s411", "sec": 17, "it": "\"衡山高耸入云霄，洞庭云梦起波涛。", "zh": "", "head": false, "audio": "audio/03/s411.mp3", "audio_zh": "audio/03/zs411.mp3"}, {"pid": "s412", "sec": 17, "it": "沅水有源澧有本，无数英豪竞折腰。", "zh": "", "head": false, "audio": "audio/03/s412.mp3", "audio_zh": "audio/03/zs412.mp3"}, {"pid": "s413", "sec": 17, "it": "风起潮涌斗志昂，百战归来气更豪。", "zh": "", "head": false, "audio": "audio/03/s413.mp3", "audio_zh": "audio/03/zs413.mp3"}, {"pid": "s414", "sec": 17, "it": "湘军子弟安天下，英雄一代看今朝。", "zh": "", "head": false, "audio": "audio/03/s414.mp3", "audio_zh": "audio/03/zs414.mp3"}, {"pid": "s415", "sec": 17, "it": "军歌高唱旗帜飘，弹雨枪林战场遥。", "zh": "", "head": false, "audio": "audio/03/s415.mp3", "audio_zh": "audio/03/zs415.mp3"}, {"pid": "s416", "sec": 17, "it": "国民军威昭日月，湖南子弟竞英豪，", "zh": "", "head": false, "audio": "audio/03/s416.mp3", "audio_zh": "audio/03/zs416.mp3"}, {"pid": "s417", "sec": 17, "it": "此是文明新气象。\"", "zh": "", "head": false, "audio": "audio/03/s417.mp3", "audio_zh": "audio/03/zs417.mp3"}, {"pid": "s418", "sec": 17, "it": "Per esempio, “lo spirito di un esercito nazionale” rappresentava in quel momento il fine dell’insegnamento e il fine per cui gli studenti studiavano. Tale fine da una parte riguardava i paesi stranieri, dall’altra serviva a rovesciare i mancesi. Appena scoppiata l’insurrezione di Wuhan, lo Hunan è stato il primo a fare eco e, trascorsi meno di quattro mesi, diciassette luoghi sia a sud che a nord facevano a loro volta eco, il despota venne rovesciato, fu fondata la repubblica e certo non si può fare a meno di riconoscere che tra i tanti motivi del successo uno sia da ricercare nel contributo dell’insegnamento e nella forza degli studenti.", "zh": "例如，“国民军的精神”在当时便是教育的目的和学生求学所要达到的目的。这个目的，一方面是针对外国列强，另一方面是为了推翻满人。武汉起义一爆发，湖南最先响应，不到四个月，南北十七个地方相继响应，推翻了专制暴君，建立了共和国。当然不能否认，在诸多成功的原因之中，有一个应当从教育的贡献和学生的力量中去寻找。", "head": false, "audio": "audio/03/s418.mp3", "audio_zh": "audio/03/zs418.mp3"}, {"pid": "s419", "sec": 17, "it": "Parliamo ora del movimento dei circoli studenteschi dello Hunan prima della rivoluzione, dal maggio all’agosto 1911, cioè del movimento di opposizione riguardo alla nazionalizzazione delle ferrovie.", "zh": "现在我们来谈谈革命前湖南学生社团的运动，即1911年5月至8月间反对铁路国有化的运动。", "head": false, "audio": "audio/03/s419.mp3", "audio_zh": "audio/03/zs419.mp3"}, {"pid": "s420", "sec": 17, "it": "Il¹⁹ marzo del 1911, Huang Hsing dette inizio alla ribellione di Canton. Tutto il paese venne sconvolto. Appena giunta la notizia nello Hunan, nei circoli studenteschi chi appoggiava la rivoluzione era pronto a intervenire. Il corrotto governo mancese, con il pretesto che il piano di Sheng Hsuan-huai non era conveniente, nazionalizzò le principali linee ferroviarie del paese (le ferrovie dovevano essere nazionalizzate, ma l’azione del governo mancese fu del tutto intempestiva rispetto alla situazione di allora) inclusa la linea Szechwan-Hupeh.", "zh": "1911年3月¹⁹，黄兴发动了广州起义。全国为之震动。消息传到湖南后，学生社团中拥护革命的人便准备采取行动。腐败的满清政府借口盛宣怀的方案不妥当，将全国主要铁路线收归国有（铁路本应国有化，但满清政府此举在当时的情况下完全是不得人心的），其中包括川汉铁路。", "head": false, "audio": "audio/03/s420.mp3", "audio_zh": "audio/03/zs420.mp3"}, {"pid": "s421", "sec": 17, "it": "Il Szechwan è stata la prima provincia a opporvisi e la situazione si è fatta sempre più grave. Subito dopo è stata la volta dello Hunan. In particolare i circoli studenteschi erano pieni di giusto sdegno e decisero di scendere in sciopero organizzando dappertutto comizi e dibattiti. Ma il governatore dello Hunan, Yang Wen-ting, uomo ignorante e stupido, fece numerosi interventi per impedire agli studenti i comizi alla luce del giorno, così che gli studenti furono costretti a organizzare segretamente i comizi, ma essendo impossibile organizzarli in città, allora li fecero sulla montagna Yuehlu. Chi scrive era tra i partecipanti. Nella nostra scuola si tenevano dibattiti ogni giorno e molti studenti proposero con grande veemenza di fare la rivoluzione; chi scrive ricorda che una volta nel corso di un dibattito ci fu un compagno di scuola che toltasi di dosso la veste lunga, disse: “Dobbiamo fare addestramento militare, dobbiamo essere sempre pronti a combattere”. Una sera parecchia gente venne risvegliata di soprassalto da grida, scese giù dai letti e venne a sapere che i rappresentanti della nostra e di altre scuole erano stati arrestati dalla polizia militare mentre tenevano un comizio clandestino.", "zh": "四川是起来反对的第一个省份，形势日益严重。接着湖南也行动起来。特别是学生界义愤填膺，决定罢课，到处组织集会和辩论。但湖南巡抚杨文鼎是个无知蠢人，多方阻挠学生白天集会，学生只好秘密集会；城里既无法举行，便改在岳麓山上举行。笔者也在参加者之列。我们学校每天举行辩论，许多学生激烈主张干革命；笔者记得有一次辩论中，有位同学脱下长衫说：“我们要受军事训练，要随时准备战斗。”一天夜里，许多人被呼喊声惊醒，跳下床来，才知道本校和其他学校的代表在开秘密集会时被军警逮捕了。", "head": false, "audio": "audio/03/s421.mp3", "audio_zh": "audio/03/zs421.mp3"}, {"pid": "s422", "sec": 17, "it": "Molti dissero che sarebbero stati senz’altro giustiziati. Il nostro rettore era terrorizzato e con la lingua lunga circa quattro metri disse: “Che disastro!”. Subito invitò i rettori degli altri istituti perché intercedessero presso i funzionari governativi. All’alba gli studenti vennero liberati sotto garanzia del rettore, allora noi ce ne andammo a letto felici. Quella volta lo scompiglio fu piuttosto grande.", "zh": "许多人说一定会被枪毙。我们的校长吓坏了，伸出约四米长的舌头说：“糟了！”他立即请其他学校的校长去向官府求情。黎明时，学生在校长担保下获释，我们才高高兴兴地上床睡觉。那一次闹得相当大。", "head": false, "audio": "audio/03/s422.mp3", "audio_zh": "audio/03/zs422.mp3"}, {"pid": "s423", "sec": 17, "it": "Il¹⁹ agosto lo Hupeh si dichiarò indipendente e lo Hunan gli fece immediatamente eco.", "zh": "八月¹⁹日，湖北宣布独立，湖南立即响应。", "head": false, "audio": "audio/03/s423.mp3", "audio_zh": "audio/03/zs423.mp3"}, {"pid": "s424", "sec": 17, "it": "Quindi nella nostra provincia dello Hunan facemmo uscire allo scoperto il nostro esercito studentesco. Adesso affronterò l’argomento principale, tralasciando quelli secondari vale a dire l’esercito degli studenti dello Hunan⁵.", "zh": "于是我们在湖南本省便公开打出了我们学生军的旗帜。现在我要讲主要的，附带讲次要的——即湖南的学生军⁵。", "head": false, "audio": "audio/03/s424.mp3", "audio_zh": "audio/03/zs424.mp3"}, {"pid": "s425", "sec": 17, "it": "NOTE", "zh": "注释", "head": false, "audio": "audio/03/s425.mp3", "audio_zh": "audio/03/zs425.mp3"}, {"pid": "s426", "sec": 17, "it": "1. Yang Huai-chung (1870-1920), nativo di Changsha, studiò in Giappone e in Europa e", "zh": "1. 杨怀中（1870—1920），长沙人，曾留学日本和欧洲，", "head": false, "audio": "audio/03/s426.mp3", "audio_zh": "audio/03/zs426.mp3"}, {"pid": "s427", "sec": 17, "it": "insegnò alla Scuola Normale di Changsha e all’Università di Pechino. Fu insegnante di Mao Tse-tung, che sposò sua figlia, Yang Kai-hui.", "zh": "曾在长沙师范学校及北京大学任教。他是毛泽东的老师，毛泽东娶了他的女儿杨开慧。", "head": false, "audio": "audio/03/s427.mp3", "audio_zh": "audio/03/zs427.mp3"}, {"pid": "s428", "sec": 17, "it": "2. Toching è il far violenza sui sentimenti. Per esempio l’imperatore aveva il potere di", "zh": "2. 投井是对感情施加暴力。例如皇帝拥有对", "head": false, "audio": "audio/03/s428.mp3", "audio_zh": "audio/03/zs428.mp3"}, {"pid": "s429", "sec": 17, "it": "esercitare toching sui propri sudditi e dipendenti.", "zh": "自己的臣民和属下实行投井的权力。", "head": false, "audio": "audio/03/s429.mp3", "audio_zh": "audio/03/zs429.mp3"}, {"pid": "s430", "sec": 17, "it": "3. Tang Tsai-chang (1867-1900), riformatore dello Hunan, dopo il colpo di Stato del 1898", "zh": "3. 唐才常（1867—1900），湖南改良派人士，在1898年政变之后", "head": false, "audio": "audio/03/s430.mp3", "audio_zh": "audio/03/zs430.mp3"}, {"pid": "s431", "sec": 17, "it": "che chiuse la “Riforma dei cento giorni” ritornò in Cina e si diede ad attività cospirative anti-mancesi, stabilendo legami anche con le società segrete. Organizzò un esercito (l’Armata indipendente) che doveva condurre un’insurrezione nello Hupeh. Ad Hankow fu fatto prigioniero e ucciso.", "zh": "结束了“百日维新”后回到中国，从事反满秘密活动，并同秘密会社建立了联系。他组织了一支军队（自立军），准备在湖南发动起义。在汉口被捕遇害。", "head": false, "audio": "audio/03/s431.mp3", "audio_zh": "audio/03/zs431.mp3"}, {"pid": "s432", "sec": 17, "it": "4. Kuang Hsu (1875-1908) fu il penultimo imperatore della dinastia Ching. Appoggiò la", "zh": "4. 光绪（1875—1908）是清朝倒数第二代皇帝。他支持1898年的", "head": false, "audio": "audio/03/s432.mp3", "audio_zh": "audio/03/zs432.mp3"}, {"pid": "s433", "sec": 17, "it": "“Riforma dei cento giorni” del 1898 ma venne emarginato dal colpo di Stato diretto dall’imperatrice vedova Tzu Hsi (1834-1908).", "zh": "“百日维新”，但遭到慈禧太后（1834—1908）发动的政变的排挤。", "head": false, "audio": "audio/03/s433.mp3", "audio_zh": "audio/03/zs433.mp3"}, {"pid": "s434", "sec": 17, "it": "5. Questo scritto sul sistema scolastico e lo sviluppo del movimento studentesco doveva", "zh": "5. 这篇关于学制的文章和学生运动的发展，本应", "head": false, "audio": "audio/03/s434.mp3", "audio_zh": "audio/03/zs434.mp3"}, {"pid": "s435", "sec": 17, "it": "continuare nel successivo numero⁵ della Rivista del fiume Hsiang, ma la rivista, come già detto, venne soppressa.", "zh": "在下期《湘江评论》⁵上续载，但如前文所述，该刊已被查封。", "head": false, "audio": "audio/03/s435.mp3", "audio_zh": "audio/03/zs435.mp3"}, {"pid": "s436", "sec": 17, "it": "Questo scritto venne pubblicato in due puntate nella rubrica Commento dei principali avvenimenti dell’oriente sui numeri³ (28 luglio 1919) e⁴ (4 agosto 1919) della Rivista del fiume Hsiang. Lo scritto doveva continuare nel numero⁵, che non uscì perché venne sequestrato e la rivista soppressa.", "zh": "本文分两部分刊载于《湘江评论》“东方大事述评”专栏第³期（1919年7月28日）和第⁴期（1919年8月4日）。本文原拟在第⁵期续载，但因刊物被没收、杂志遭查封而未能出版。", "head": false, "audio": "audio/03/s436.mp3", "audio_zh": "audio/03/zs436.mp3"}, {"pid": "s437", "sec": 17, "it": "La grande guerra in Europa è finita lo scorso anno ed è iniziata la conferenza di alcuni boss di ladroni per spartirsi la refurtiva; anche il Giappone ha subito inviato come rappresentanti degli aristocratici per la spartizione della refurtiva.", "zh": "去年欧洲大战告终，一群强盗头子们开始举行分赃会议；日本也赶忙派了几位分赃贵族做代表。", "head": false, "audio": "audio/03/s437.mp3", "audio_zh": "audio/03/zs437.mp3"}, {"pid": "s438", "sec": 17, "it": "Appena arrivati là, gli inviati imperiali si sono autoproclamati una delle cinque grandi potenze, dandosi un sacco di arie in ogni loro attività ed è inutile dire che il governo del loro paese ne è rimasto estremamente contento. In breve tempo la Conferenza di pace senz’altro esaudirà i suoi desideri. Noi credevamo che il vecchio millenario impero giapponese fosse sempre rimasto uguale, dal momento che esteriormente appariva “grosso e lungo come una balena”, mentre all’interno era “tranquillo come una grande pietra”. Ma se si osserva meglio non è proprio così. Oggi voglio parlare di alcuni importanti avvenimenti verificatisi questo mese all’interno del paese e il lettore dopo potrà vedere chiaramente che anche il vecchio impero millenario non può fare a meno di trovarsi di fronte a una situazione instabile.", "zh": "这几位帝国主义使者一到那里，便自封为五大强国之一，事事大摆其威风，他们的政府自然欢喜得了不得，不久和会一定要如他的意。我们一向以为千年古国日本，外观既“大而且长若鲸”，内观又“稳静若磐石”，当无变动。但仔细考察，实在不然。今天我要说说本月内该国国内发生几件大事，读者看后，便可明了这千年古国也不免要遇着不稳的局势。", "head": false, "audio": "audio/03/s438.mp3", "audio_zh": "audio/03/zs438.mp3"}, {"pid": "s439", "sec": 17, "it": "Il movimento per l’indipendenza della Corea La Corea, a partire dal 1905, è stata inghiottita dal Giappone un po’ con la forza e un po’ con metodi subdoli. Ma il popolo coreano non si è rassegnato e, sotto lo stimolo del principio dell’autodeterminazione dei popoli, sarà impossibile arrestarlo. Nel momento in cui in Europa si svolge la Conferenza di pace, i coreani inviano una petizione e organizzano a Los Angeles un ufficio di collegamento per raccogliere i coreani di ogni luogo. A Tokyo vengono tenute numerose riunioni segrete ma la polizia giapponese interviene regolarmente e non si ottengono quindi grandi risultati. Il¹ ° marzo in Corea viene proclamata l’indipendenza, viene fatta una dichiarazione ufficiale ed elaborato un patto d’alleanza. Do qui di seguito i tre punti del patto:", "zh": "朝鲜独立运动 朝鲜自1905年以来，一部分是被武力、一部分是用阴险手段，为日本所吞并。但朝鲜人民不甘屈服，在民族自决原则的激励下，必将无法阻挡。当欧洲举行和会之际，朝鲜人递交了请愿书，并在洛杉矶设立联络机关，以联络各地朝鲜人。在东京举行了多次秘密会议，但日本警察经常进行干涉，因而未取得重大成果。三月一日，朝鲜宣布独立，发表了正式宣言，并制定了同盟公约。现将公约三项条款转录如下：", "head": false, "audio": "audio/03/s439.mp3", "audio_zh": "audio/03/zs439.mp3"}, {"pid": "s440", "sec": 17, "it": "1. abbiamo dato vita al movimento per sostenere la Giustizia, l’Esistenza, l’Uma-nità e la Dignità, cose conformi alla volontà delle nazioni di mettere in pratica il", "zh": "1. 我们发起了这一运动，以伸张正义、生存、人道与尊严，此事符合各国实行", "head": false, "audio": "audio/03/s440.mp3", "audio_zh": "audio/03/zs440.mp3"}, {"pid": "s441", "sec": 17, "it": "principio dell’autodeterminazione. Ciò non è affatto espressione di xenofobia.", "zh": "自决原则的意愿。这决不是什么排外情绪的表现。", "head": false, "audio": "audio/03/s441.mp3", "audio_zh": "audio/03/zs441.mp3"}, {"pid": "s442", "sec": 18, "it": "IL MOVIMENTO POPOLARE IN GIAPPONE", "zh": "日本人民运动", "head": true, "audio": "audio/03/s442.mp3", "audio_zh": "audio/03/zs442.mp3"}, {"pid": "s443", "sec": 18, "it": "(28 luglio, 4 agosto 1919)", "zh": "（1919年7月28日、8月4日）", "head": false, "audio": "audio/03/s443.mp3", "audio_zh": "audio/03/zs443.mp3"}, {"pid": "s444", "sec": 18, "it": "2. La nostra nazione ritiene che, fino a quando esiste una sola persona, fino", "zh": "2. 我国人民认为，只要还有一个人还在，", "head": false, "audio": "audio/03/s444.mp3", "audio_zh": "audio/03/zs444.mp3"}, {"pid": "s445", "sec": 18, "it": "all’ultimo momento, sia assolutamente necessario esprimere le proprie opinioni.", "zh": "直到最后一刻，都有绝对必要表达自己的意见。", "head": false, "audio": "audio/03/s445.mp3", "audio_zh": "audio/03/zs445.mp3"}, {"pid": "s446", "sec": 18, "it": "3. Tutte le nostre azioni seguono un ordine. Riteniamo che la nostra posizione", "zh": "3．我们的一切行动都是有次序的。我们认为我们的立场", "head": false, "audio": "audio/03/s446.mp3", "audio_zh": "audio/03/zs446.mp3"}, {"pid": "s447", "sec": 18, "it": "sia corretta e il nostro comportamento onesto.", "zh": "是正确的，我们的行为是诚实的。", "head": false, "audio": "audio/03/s447.mp3", "audio_zh": "audio/03/zs447.mp3"}, {"pid": "s448", "sec": 18, "it": "La loro dichiarazione sulla situazione interna e internazionale corrisponde a quanto detto nei tre punti sopra riportati. Tale dichiarazione è intesa a rendere nota la loro storia, le sofferenze subite negli ultimi anni a causa del Giappone e la loro ferma determinazione. Inoltre è stato inviato un comunicato a tutti i quotidiani del nostro paese in cui si porta a conoscenza che questo movimento è una decisa testimonianza a favore dell’autodeterminazione dei popoli, indirizzata alla Conferenza di pace. Dopo il l° marzo a Hansong, Kaepyong, Pyongyang, Chunghwa, Hwangju, Suwon, Hanju e in altri luoghi della penisola coreana si sente ovunque risuonare la voce dell’indipendenza. Chi con il pugno alzato, chi sventolando la bandiera nazionale, tutti inveiscono contro il Cielo buio. L’intervento armato, gli arresti, i massacri e le stragi operati dal Giappone non verranno più tollerati. Da marzo a maggio la voce che grida indipendenza non si è mai affievolita. In seguito il movimento per l’indipendenza ha conosciuto apparentemente una battuta d’arresto a causa della forte repressione militare giapponese, ma l’indipendenza della Corea diventerà un giorno realtà perché essa è nello spirito di lotta del popolo.", "zh": "他们关于国内和国际形势的声明，与上面所引三点相符。这项声明意在公布他们的历史、近年因日本而遭受的苦难以及他们坚定的决心。此外，已向我国各报馆发出一项通告，告知这个运动是向和平会议发出的、拥护民族自决的坚决表示。三月一日以后，在汉城、开城、平壤、中和、黄州、水原、汉州以及朝鲜半岛其他地方，到处可以听到独立之声。有人高举拳头，有人挥舞国旗，人人都在痛斥这黑暗的苍天。日本的武装镇压、逮捕、屠杀和血腥暴行，将再也不能被容忍。从三月到五月，高呼独立的声音从未减弱。后来，独立运动因日本严厉军事镇压而表面上出现了停顿，但朝鲜的独立终将成为现实，因为它存在于人民的斗争精神之中。", "head": false, "audio": "audio/03/s448.mp3", "audio_zh": "audio/03/zs448.mp3"}, {"pid": "s449", "sec": 18, "it": "La campagna per le elezioni generali in Giappone Dopo la Riforma Meiji è stata promulgata la Costituzione. Ma esiste ancora un sistema classista, il potere è in mano a pochi padri fondatori, aristocratici della Camera alta e della Camera bassa, mentre la plebe non ha il diritto di far sentire la propria voce, anche se recentemente ha cominciato a farsi sentire. Il⁹ febbraio di quest’anno, in Giappone, ogni partito politico e ogni gruppo con nobili aspirazioni ha dato vita a un’assemblea a favore del suffragio universale, nella sede della Società di assicurazione marittima davanti alla stazione centrale di Tokyo. A questa conferenza hanno partecipato più di trecento persone. Hiratami ha tenuto un discorso in cui ha detto all’incirca: “Per quanto concerne il metodo elettivo, lo scopo di questa conferenza è di abolire l’attuale assegnazione del diritto di voto in base alle imposte pagate e migliorare la vita politica. La lezione della guerra mondiale ha fatto capire al popolo che un paese in cui il potere politico è concentrato nelle mani di poche persone non può che venire sconfitto e smembrato. Pertanto è necessario cambiare il metodo elettivo, la base del potere politico deve essere estesa a tutto il popolo. Questo è l’urgente compito che abbiamo di fronte”. L’¹¹ febbraio, l’Alleanza studentesca organizzata dagli studenti dell’Università imperiale di Tokyo e l’Alleanza per la promozione di elezioni generali hanno indetto una conferenza e una manifestazione per chiedere il suffragio universale. Tremila persone vi hanno preso parte. Inoltre a favore del suffragio universale sono stati organizzati comizi itineranti, dibattiti per le strade principali, una conferenza cittadina e altre attività. Questo tipo di movimenti, mediante i quali la plebe chiede libertà politiche, non sono affatto fuori del comune in Europa e in America, ma per noi orientali, per i giapponesi, è qualcosa che si verifica per la prima volta.", "zh": "日本普选运动", "head": false, "audio": "audio/03/s449.mp3", "audio_zh": "audio/03/zs449.mp3"}, {"pid": "s450", "sec": 18, "it": "明治维新之后，虽然颁布了宪法，但阶级制度依然存在，政权掌握在少数元老、贵族院和众议院的贵族手中，平民毫无发言权，尽管近来已开始发出自己的声音。本年二月九⁹日，日本各政党及有志团体，在东京中央车站前的海上保险会社内，召开了要求普选权的群众大会，到会者三百余人。平谷在会上演说，大意是：“关于选举方法，此次大会的目的，在于废除现行以纳税额决定选举权的办法，改善政治生活。世界大战的教训使人民认识到，政治权力集中于少数人之手的国家，必然遭到失败和瓜分。因此必须改变选举方法，将政治权力的基础扩展到全体人民。这是我们当前的迫切任务。”二月十一¹¹日，由东京帝国大学学生组织的“学生同盟”与“促进普选同盟”召开了要求普选权的大会和示威游行，参加者达三千人。此外，还组织了巡回演讲、街头辩论、市民大会等活动，宣传普选。平民要求政治自由的这类运动，在欧洲和美国原是司空见惯之事，但对东方人、对日本人来说，却是破天荒的第一次。", "zh": "", "head": false, "audio": "audio/03/s450.mp3", "audio_zh": "audio/03/zs450.mp3"}, {"pid": "s451", "sec": 18, "it": "Il movimento nel settore dei lavoratori in Giappone I lavoratori giapponesi, per chiedere al governo di elaborare uno statuto del lavoro, hanno fondato una Lega dei lavoratori. Il¹⁵ maggio nella sede dell’Asso-ciazione della gioventù di Kanda si è tenuta la prima assemblea di lavoratori. I partecipanti erano circa¹⁰.000. Il presidente di quest’assemblea era un operaio in carne e ossa e la segretaria una giovane operaia. Hanno discusso numerosi problemi, prestando particolare attenzione al salario e all’orario di lavoro. Il¹⁵ maggio gli operai di due stabilimenti tipografici giapponesi, Shueisha e Hakubum Toyo, assieme agli impiegati dell’Istituto di lingue occidentali hanno tenuto una assemblea generale dell’Associazione amici per corrispondenza, nel padiglione di Matsumoto a Kanda, prendendo la decisione di chiedere ai capitalisti un aumento salariale del³⁰ per cento. Il giorno²⁵ si è svolta un’assemblea provvisoria nel club Yayoi del quartiere Kashiba, in cui è stato eletto presidente l’impiegato Mizunuma. È intervenuta la polizia giapponese. Allora l’assemblea è stata spostata al padiglione Matsumoto a Kanda e la polizia è intervenuta di nuovo. I congressisti hanno discusso con la polizia per spiegare lo scopo dell’assemblea, sottolineando che essa riguardava i problemi concernenti le loro condizioni di vita. I giapponesi vivono da tempo sotto un sistema classista ed è ben noto il loro spirito di sottomissione. Da uno o due anni a questa parte, a causa delle difficili condizioni di vita, i lavoratori hanno cominciato a ribellarsi almeno un po’ ai capitalisti.", "zh": "日本工人运动", "head": false, "audio": "audio/03/s451.mp3", "audio_zh": "audio/03/zs451.mp3"}, {"pid": "s452", "sec": 18, "it": "日本工人为要求政府制定劳动法令，成立了工人同盟。5月15日¹⁵，在神田青年协会会所举行了工人第一次大会。参加者约一万人¹⁰。大会主席是一名真正的工人，书记则是一名年轻女工。他们讨论了各种问题，特别注意工资和工时问题。5月15日¹⁵，日本两家印刷厂——秋荣社和博文堂东洋——的工人，同外国语研究所的职员一起，在神田松本馆举行通信友协会全体会议，决定向资本家要求增加工资³⁰%。25日²⁵，在柏原区弥生俱乐部举行临时大会，推选举职员水沼为主席。日本警察到场干涉。于是大会改到神田松本馆举行，警察再次干涉。与会者同警察辩论，说明大会目的，强调这关系到他们的生活状况问题。日本人长期处于等级制度之下，其顺从精神是众所周知的。近一两年来，由于生活困难，工人至少已开始对资本家有所反抗。", "zh": "", "head": false, "audio": "audio/03/s452.mp3", "audio_zh": "audio/03/zs452.mp3"}, {"pid": "s453", "sec": 18, "it": "Questa è una tendenza naturale contro la quale è inutile opporsi. Se continueranno su questa strada, ritengo che ben presto questo sarà un problema che non riguarderà soltanto la società giapponese.", "zh": "这是一种自然的趋势，反对它是没有用的。如果他们继续沿着这条路走下去，我认为这个问题很快就会不再仅仅是日本社会的问题了。", "head": false, "audio": "audio/03/s453.mp3", "audio_zh": "audio/03/zs453.mp3"}, {"pid": "s454", "sec": 18, "it": "Quanto abbiamo detto è forse un po’ confuso, non siamo riusciti a centrare il problema fondamentale. Qual è il problema fondamentale? È la trasformazione in atto nel loro paese.", "zh": "我们所说的也许有些杂乱无章，没有抓住根本问题。根本问题是什么？是他们国家正在发生的变革。", "head": false, "audio": "audio/03/s454.mp3", "audio_zh": "audio/03/zs454.mp3"}, {"pid": "s455", "sec": 18, "it": "Il cambiamento del Giappone nel settore ideologico Per quanto concerne la penetrazione del pensiero russo in Estremo Oriente, ci sono persone che se ne occupano come materia di studio, ma non ci sono persone in grado di metterlo in pratica. Invece in Giappone ci sono questi due tipi di persone. Nel 1910 Mushakoji Saneatsu ha raccolto un gruppo di compagni con i quali a Tokyo ha dato vita alla rivista Betulla bianca¹. Nell’arco di tre o quattro anni l’influenza di questa rivista è diventata via via molto grande e hanno progettato la costruzione di un “nuovo villaggio”² in cui mettere in pratica i Il movimento popolare in Giappone principi della nuova corrente di pensiero. Io ritengo che ciò sia la realizzazione di un ideale. Nel novembre dello scorso anno, hanno mandato più di dieci persone nel distretto di ... dove vicino al fiume avevano acquistato un pezzo di terra e hanno dato vita al primo “nuovo villaggio”. Hanno iniziato a coltivare la terra. A Tokyo hanno iniziato la pubblicazione e distribuzione della rivista mensile Nuovo villaggio, per esprimere le loro opinioni e far conoscere la situazione. Di recente... e altri hanno organizzato l’Associazione Aurora, il cui scopo è di studiare le tendenze ideologiche della società e diffondere il nuovo pensiero. Hanno inoltre dato vita a una rivista dal titolo Liberazione, il cui primo numero è uscito il²⁵ maggio; il suo manifesto di fondazione è assai chiaro e penetrante. La rivista di Pechino Rivista settimanale³ ha già tradotto il manifesto di fondazione e ne riportiamo qui di seguito un paragrafo: “Bisogna trasformare il mondo. L’alba di un nuova civiltà comincia a brillare.", "zh": "日本在思想界的变动 关于俄国思想在远东的传播，有研究这种思想的人，却没有能够实行的人。日本却有这两种人。一九一〇年，武者小路实笃⁴聚集了一班同志，在东京创办了《白桦》¹杂志。经过三四年，这杂志的影响日渐扩大，他们便计划建设\"新村\"²，实行新思潮的原理。我认为这是理想的实现。去年十一月，他们派了十几个人到……地方，在河边购得一块土地，建立了第一个\"新村\"。他们开始耕种土地。在东京又开始出版发行月刊《新村》，发表他们的意见，介绍情况。近来，……等人组织了\"黎明会\"，其宗旨是研究社会思想潮流、传播新思想。他们又创办了一种杂志，名叫《解放》，其第一期已于五月²⁵日出版；其创刊宣言十分明白透彻。北京的《每周评论》³杂志已将该创刊宣言译出，现节录如下：\"必须改造世界。新文明的曙光已经开始闪耀。", "head": false, "audio": "audio/03/s455.mp3", "audio_zh": "audio/03/zs455.mp3"}, {"pid": "s456", "sec": 18, "it": "Il suono delle campane della liberazione infrange il nostro silenzio. Il nostro manifesto di fondazione ha intenzione di risvegliare gli uomini di oggi perché si liberino dal giogo del militarismo e dell’autocrazia. Di risvegliare tutte le nazioni del mondo perché si liberino dalla politica di aggressione e dal dispotismo. Di risvegliare alla vita i paesi civili perché si liberino dalla soffocante oppressione dell’oro e del denaro. Di risvegliare i lavoratori perché si liberino dalla povertà e dalle spaventose condizioni di lavoro. Di risvegliare le donne perché si liberino dall’oppressione devastante degli uomini. Questa è la nostra dottrina di liberazione. Questa è la nostra proposta di liberazione. Questo è il nostro scopo di liberazione. Questo è il nostro ideale di liberazione”.", "zh": "解放的钟声打破了我们的沉默。我们的创立宣言，意在唤醒当代的人们，使之摆脱军国主义和专制政治的枷锁；唤醒世界各国，使之摆脱侵略政策和专制暴政；唤醒文明各国，使之摆脱黄金与金钱的令人窒息的压迫；唤醒劳动者，使之摆脱贫困和骇人的劳动条件；唤醒妇女，使之摆脱男子摧残性的压迫。这就是我们的解放学说。这就是我们的解放主张。这就是我们的解放目的。这就是我们的解放理想。”", "head": false, "audio": "audio/03/s456.mp3", "audio_zh": "audio/03/zs456.mp3"}, {"pid": "s457", "sec": 18, "it": "Il²⁰ giugno il movimento sociale delle classi intellettuali, patrocinato dai professori Yoshino Sakuzo, Fukuda Tokuzo e altri dell’università Waseda, ha tenuto nella sede dell’Associazione della gioventù di Kanda una conferenza per la fondazione di un’associazione culturale. Secondo quanto ha detto il professor Abe Isoo: “Il Giappone deve seguire la corrente mondiale, al fine di sviluppare nel modo migliore possibile la cultura: per far ciò è necessario migliorare tutti gli aspetti politici ed economici della società. In che modo operare tale miglioramento? Bisogna studiare il problema da numerosi punti di vista. In che modo bisogna studiare per operare tale miglioramento? Iniziando con lo studiare i modelli di vita della società attuale per cambiarli e definendo i fondamenti della scienza filosofica. Di qui la necessità di fondare un’associazione culturale, il cui scopo sia di studiare le diverse teorie da cui nasce la cultura moderna e di studiare lo sviluppo della cultura mondiale, in modo tale da guidare alla soluzione critica dei problemi attuali. Essa sarà inoltre, attraverso dibattiti e articoli, un organismo di propaganda”.", "zh": "6月2⁰日，由早稻田大学吉野作造、福田德三等教授发起知识阶层社会运动，在神田青年会馆召开了创立文化协会的筹备会。据安倍能成教授说：“日本应当顺应世界潮流，以最良好的方式发展文化；为此，必须改善社会政治、经济的各个方面。如何实行这种改善呢？必须从多种观点研究这个问题。为了实行这种改善应当如何研究呢？从研究现代社会的生活方式入手，加以改变，并确立哲学科学的基础。因此，有必要创立一个文化协会，其宗旨在于研究产生现代文化的各种理论，研究世界文化的发展，从而引导对当前诸问题的批判性解决。此外，它还将通过辩论和文章，成为宣传的机关。”", "head": false, "audio": "audio/03/s457.mp3", "audio_zh": "audio/03/zs457.mp3"}, {"pid": "s458", "sec": 18, "it": "Da quanto su riportato possiamo osservare che il “nuovo villaggio” è il primo passo verso la costruzione di una nuova società. L’Associazione Aurora e l’Associazione culturale sono organismi per lo studio e la diffusione del Il movimento popolare in Giappone socialismo. Questi diversi avvenimenti si sono verificati nell’arco di mezzo anno.", "zh": "由上所述可以看出，“新村”是建设新社会的第一步。曙光社与文化协会是研究和传播社会主义的机关。日本群众运动中的这些不同事件，都是在半年之内发生的。", "head": false, "audio": "audio/03/s458.mp3", "audio_zh": "audio/03/zs458.mp3"}, {"pid": "s459", "sec": 18, "it": "Di recente si sono inoltre avute delle manifestazioni nel settore dell’istruzione di cui parleremo in seguito.", "zh": "此外，最近教育界也发生了一些风潮，我们将在后面谈到。", "head": false, "audio": "audio/03/s459.mp3", "audio_zh": "audio/03/zs459.mp3"}, {"pid": "s460", "sec": 18, "it": "NOTE", "zh": "注释", "head": false, "audio": "audio/03/s460.mp3", "audio_zh": "audio/03/zs460.mp3"}, {"pid": "s461", "sec": 18, "it": "1. Attorno alla rivista Betulla bianca si raccoglieva un gruppo di intellettuali e artisti di", "zh": "1. 围绕着《白桦》杂志，聚集着一群知识分子和艺术家……", "head": false, "audio": "audio/03/s461.mp3", "audio_zh": "audio/03/zs461.mp3"}, {"pid": "s462", "sec": 18, "it": "orientamento mistico, romantico e individualista, influenzato principalmente dall’opera di Leone Tolstoj.", "zh": "神秘主义、浪漫主义和个人主义的倾向，主要受列夫·托尔斯泰著作的影响。", "head": false, "audio": "audio/03/s462.mp3", "audio_zh": "audio/03/zs462.mp3"}, {"pid": "s463", "sec": 18, "it": "2. Il “nuovo villaggio” fu un esperimento di comunità agricola grazie alla quale realizzare", "zh": "2.“新村”是农业公社的一项实验，借以实行", "head": false, "audio": "audio/03/s463.mp3", "audio_zh": "audio/03/zs463.mp3"}, {"pid": "s464", "sec": 18, "it": "i principi del comunismo “naturale” di Kropotkin e del socialismo cristiano di Tolstoj.", "zh": "克鲁泡特金“自然”共产主义的原则和托尔斯泰的基督教社会主义。", "head": false, "audio": "audio/03/s464.mp3", "audio_zh": "audio/03/zs464.mp3"}, {"pid": "s465", "sec": 18, "it": "3.  La Rivista settimanale fu edita a Pechino da Li Ta-chao dal²² dicembre 1918 al³⁰", "zh": "3.《每周评论》由李大钊²²于1918年12月³⁰", "head": false, "audio": "audio/03/s465.mp3", "audio_zh": "audio/03/zs465.mp3"}, {"pid": "s466", "sec": 18, "it": "agosto 1919.", "zh": "日至1919年8月在北京编辑出版。", "head": false, "audio": "audio/03/s466.mp3", "audio_zh": "audio/03/zs466.mp3"}, {"pid": "s467", "sec": 18, "it": "Questo scritto comparve in tre puntate sui numeri², 3 e⁴ della Rivista del fiume Hsiang.", "zh": "此文分三次连载，发表于《湘江评论》第²、3和⁴期。", "head": false, "audio": "audio/03/s467.mp3", "audio_zh": "audio/03/zs467.mp3"}, {"pid": "s468", "sec": 18, "it": "La situazione del paese è giunta all’estremo, le sofferenze del popolo sono giunte all’estremo, l’oscurità che avvolge la società è giunta all’estremo. Il mezzo per risanare, il mezzo per trasformare? Istruzione, sviluppo industriale, impegno, rapido progresso, distruzione, costruzione. Tutti metodi buoni, ma vi è un mezzo che sta alla base di tutti gli altri metodi ed è la grande unione delle masse popolari.", "zh": "国家的处境已到极端，人民的苦难已到极端，笼罩社会的黑暗已到极端。救国之道，改造之道何在？教育、实业发展、奋斗、猛进、破坏、建设。都是好方法，但有一种方法是一切其他方法的基础，那就是民众的大联合。", "head": false, "audio": "audio/03/s468.mp3", "audio_zh": "audio/03/zs468.mp3"}, {"pid": "s469", "sec": 18, "it": "Se prendiamo in esame la storia, vediamo che i movimenti storici di qualsiasi tipo, tutti senza eccezione, sono nati da un’unione di varie persone. Un movimento piuttosto ampio necessita di un’unione piuttosto ampia. Un movimento della massima ampiezza necessita di un’unione della massima ampiezza.", "zh": "我们回顾一下历史，就会发现：无论何种历史运动，无一例外，都是由若干人的联合所发起。运动越广泛，所需要的联合就越广泛。运动越宏大，所需要的联合就越宏大。", "head": false, "audio": "audio/03/s469.mp3", "audio_zh": "audio/03/zs469.mp3"}, {"pid": "s470", "sec": 18, "it": "Quando c’è una riforma o una resistenza, queste unioni vengono sempre alla luce.", "zh": "凡有改革，凡有抵抗，这种联合就必然涌现出来。", "head": false, "audio": "audio/03/s470.mp3", "audio_zh": "audio/03/zs470.mp3"}, {"pid": "s471", "sec": 18, "it": "Nel corso della storia sia le riforme che le resistenze religiose, accademiche, politiche e sociali hanno sempre avuto le loro grandi unioni. La vittoria o la sconfitta dipendono direttamente dalla solidità o fragilità dell’unione che ne è alla base, dal fatto che si tratti di un’unione che si fonda su teorie vecchie o nuove, vere o false, l’unico denominatore comune essendo comunque l’unione intesa come mezzo.", "zh": "在历史上，宗教的、学术的、政治的、社会的种种改革与抵抗，无一不有其伟大的联合。其胜败，直接取决于作为基础的联合之巩固或脆弱，取决于这种联合是建立在旧的或新的、真的或假的理论之上；然而唯一的共同点，在于联合始终被当作一种手段。", "head": false, "audio": "audio/03/s471.mp3", "audio_zh": "audio/03/zs471.mp3"}, {"pid": "s472", "sec": 18, "it": "Dall’antichità in poi, le numerose unioni che si sono avute sono state per lo più unioni tra potenti, aristocratici, capitalisti. In campo internazionale le varie alleanze e intese sono state unioni delle grandi potenze mondiali. Così ad esempio la cricca di Peiyang e la cricca di Hsinan in Cina e il clan Satsuma e il clan Chosou in Giappone¹ sono unioni tra i potenti interni. Per esempio i partiti politici e i parlamenti dei vari paesi sono unioni tra aristocratici e capitalisti (la Camera alta o senato è la tana in cui si riuniscono gli aristocratici; la Camera bassa, per le leggi elettorali che la rendono accessibile a chi possiede una certa ricchezza, è occupata per la maggior parte da capitalisti). Se prendiamo i vari trust (il trust dell’acciaio, il trust degli olii combustibili, ecc.) e le varie compagnie (la Compagnia dei trasporti marittimi, la Compagnia ferroviaria della Manciuria, ecc.), essi non sono altro che unioni di capitalisti. Ai nostri tempi, le unioni tra potenti, aristocratici e capitalisti hanno raggiunto il loro culmine, per questo la situazione del paese è giunta all’estremo, le sofferenze del popolo sono giunte all’estremo, l’oscurità che avvolge la società è giunta all’estremo. Da qui sorgono esigenza di riforme e", "zh": "自古迄今，历来所生的联合，大多是强者的联合、贵族的联合、资本家的联合。在国际范围内，各种同盟与协定，都是世界列强的联合。例如中国的北洋派与西南派¹，日本的萨摩派与长州派，便是国内强者的联合。又如各国的政党和议院，便是贵族与资本家的联合（贵族院或参议院，是贵族聚集的窠穴；众议院因选举法规定须有一定财产者始得当选，故多为资本家所盘踞）。再如各种托辣斯（钢铁托辣斯、煤油托辣斯之类）和各种公司（轮船公司、满洲铁路公司之类），亦无非资本家的联合。到了现代，强者、贵族、资本家的联合，已臻极盛，因之国事危殆至于极点，人民痛苦至于极点，社会黑暗亦至于极点。于是改革之要求、", "head": false, "audio": "audio/03/s472.mp3", "audio_zh": "audio/03/zs472.mp3"}, {"pid": "s473", "sec": 19, "it": "LA GRANDE UNIONE DELLE MASSE POPOLARI", "zh": "民众的大联合", "head": true, "audio": "audio/03/s473.mp3", "audio_zh": "audio/03/zs473.mp3"}, {"pid": "s474", "sec": 19, "it": "(21 luglio, 28 luglio, 4 agosto 1919) resistenze. Di qui viene fuori la grande unione delle masse popolari.", "zh": "（1919年7月21日、7月28日、8月4日）的反抗。于是民众的大联合便由此而生。", "head": false, "audio": "audio/03/s474.mp3", "audio_zh": "audio/03/zs474.mp3"}, {"pid": "s475", "sec": 19, "it": "Da quando in Francia la grande unione delle masse popolari, contro la grande unione dei monarchici, ha ottenuto la vittoria della riforma politica, in vari paesi si sono avute molte riforme politiche. Da quando lo scorso anno in Russia la grande unione delle masse popolari contro la grande unione di aristocratici e capitalisti ha ottenuto la vittoria della riforma sociale, in molti paesi come l’Ungheria, l’Austria, la Cecoslovacchia, la Germania si sono susseguite molte riforme sociali. Anche se questa vittoria non è ancora completa, è tuttavia suscettibile di diventarlo, di diffondersi nel mondo intero, questo lo si può già intravedere.", "zh": "自从法国民众的大联合反对君党的大联合，获得政治改革的胜利以来，各国纷纷进行了许多政治改革。自从去年俄国民众的大联合反对贵族资本家的大联合，获得社会改革的胜利以来，匈牙利、奥地利、捷克斯洛伐克、德国等国相继进行了许多社会改革。这一胜利虽然尚未彻底完成，但它完全有可能彻底完成，并推及于全世界，这已经是显而易见了。", "head": false, "audio": "audio/03/s475.mp3", "audio_zh": "audio/03/zs475.mp3"}, {"pid": "s476", "sec": 19, "it": "Perché la grande unione delle masse popolari è tanto forte? Per il fatto che in ogni paese le masse sono molto più numerose di aristocratici, capitalisti e altri potenti. Se aristocratici, capitalisti e altri potenti sono così poco numerosi, come possono allora conservare i loro privilegi e sfruttare le plebi legate da comuni interessi e che sono la maggioranza? Attraverso la conoscenza, il denaro e la forza delle armi.", "zh": "民众的大联合何以如此强大？因为各国民众的人数远多于贵族、资本家及其他权势者。贵族、资本家及其他权势者人数既然如此之少，他们又如何能保住自己的特权，剥削因共同利益而联结起来的、占多数的平民呢？靠的是知识、金钱和武力。", "head": false, "audio": "audio/03/s476.mp3", "audio_zh": "audio/03/zs476.mp3"}, {"pid": "s477", "sec": 19, "it": "Da sempre l’istruzione è stata appannaggio di aristocratici e capitalisti, la plebe non ha mai avuto la possibilità di accedervi. Poiché soltanto aristocratici e capitalisti possedevano la conoscenza, da questo privilegio è sorta la divisione della popolazione nelle classi dei colti e degli ignoranti. Il denaro è un intermediario della vita sociale e un tempo tutti potevano usarne ma gli aristocratici e i capitalisti che possedevano la conoscenza hanno escogitato vari sistemi per concentrare le risorse produttive in modo tale che i soldi affluiscano progressivamente nelle mani di proprietari fondiari e padroni di fabbriche.", "zh": "教育从来就是贵族和资本家的专利，平民百姓从来没有机会接受教育。由于只有贵族和资本家占有知识，正是这种特权造成了人口中知识阶级与无知识阶级的分化。金钱是社会生活的中介，从前人人都可以使用，但是占有知识的贵族和资本家想出种种办法，把生产资料集中起来，使金钱逐渐流入地主和厂主的腰包。", "head": false, "audio": "audio/03/s477.mp3", "audio_zh": "audio/03/zs477.mp3"}, {"pid": "s478", "sec": 19, "it": "Costoro hanno trovato il modo di impossessarsi della terra, delle macchine, delle case, di ciò che chiamano “beni immobili”. Ciò che chiamano “beni mobili”, il denaro, lo presero e lo depositarono nei loro forzieri (le banche). Le migliaia e migliaia di persone che lavorano per loro ricevono occasionalmente pochi spiccioli, un franco o un penny. Chi lavora non ha soldi e quindi nascono la classe dei poveri e la classe dei ricchi.", "zh": "这些人还找到了办法，把土地、机器、房屋据为己有，即所谓\"不动产\"。至于所谓\"动产\"，即金钱，则被他们拿去存放在自己的钱柜（银行）里。千千万万为他们做工的人，偶尔只得到几个铜板、一个法郎或一个便士。做工的人没有钱，于是产生了穷人阶级和富人阶级。", "head": false, "audio": "audio/03/s478.mp3", "audio_zh": "audio/03/zs478.mp3"}, {"pid": "s479", "sec": 19, "it": "Aristocratici e capitalisti che posseggono conoscenza e denaro, hanno creato campi di addestramento per i soldati e fabbriche per produrre fucili. Con la scusa dell’“aggressione esterna” hanno formato decine di divisioni e reggimenti, centinaia di compagnie. Per di più hanno inventato il sistema della coscrizione obbligatoria. I figli robusti che sono entrati nell’esercito, quando si determinano situazioni critiche tirano fuori le mitragliatrici per sparare contro i loro stessi deboli genitori. Osserviamo ad esempio quello che è successo l’anno scorso quando l’armata meridionale sconfitta si è ritirata dallo Hunan²: non hanno forse ammazzato parecchi dei loro stessi vecchi? Aristocratici e capitalisti si servono di questi bei metodi, la plebe non ha il coraggio di ribellarsi ed ecco che nascono le classi dei forti e dei deboli.", "zh": "有知识有钱的贵族和资本家，开办了培养士兵的学校和制造枪械的工厂，借口“外敌侵略”，建立起几十师、几百团，又发明了征兵制度。身体强壮的子弟当了兵，遇有危急，便拿出机关枪，对着自己的父母同胞射击。请看去年南军战败退出湖南²时的情形，不是杀死了他们好些个自己的人吗？贵族和资本家用了这些美妙的方法，贫民不敢反抗，强者和弱者的阶级便由此产生了。", "head": false, "audio": "audio/03/s479.mp3", "audio_zh": "audio/03/zs479.mp3"}, {"pid": "s480", "sec": 19, "it": "Ma, per fortuna, di questi loro tre metodi pian piano la plebe ne ha imparato di nascosto quanto basta. Senza dire niente a nessuno ha letto un po’ di libri di testo che loro tengono nascosti come “segreti sotto il cuscino” e pian piano ha acquisito anch’essa conoscenza. Da parecchio tempo la plebe vede il denaro che esce dai campi e dalle fabbriche perché ci sta dentro e guarda con gli occhi arrossati dal desiderio quel benessere di cui godono i capitalisti, vuole in qualche modo partecipare alla spartizione di tutto ciò. I soldati che stanno nei campi militari non sono altro che i loro stessi figli, fratelli o mariti. Nel momento in cui essi spareranno con le mitragliatrici contro la plebe, un grido potente si leverà e questo grido farà sì che i loro proiettili diventino ben presto fango molle. D’istinto si stringeranno le mani e quegli stessi soldati diventeranno i più valorosi oppositori di aristocratici e capitalisti. Così è successo in Russia dove un esercito di centomila audaci all’improvviso ha sostituito la bandiera rossa alla bandiera con l’aquila. Possiamo ora capire come in tutto ciò ci sia una ragione profonda.", "zh": "所幸，平民百姓已经逐渐把这三套办法暗中学会了。他们不做声张，读了一些那些老爷们当作“枕下秘本”藏起来的教科书，也渐渐有了知识。长期以来，平民百姓亲眼看见田地和工厂里流出的钱，因为他们身在其中，他们眼睛发红、带着渴望，看着资本家们享受的那种富足，总想设法也来分上一杯羹。驻扎在军营里的士兵，不是别人，正是他们自己的儿女、兄弟或丈夫。等到他们举起机枪向平民扫射的时候，一声怒吼就会冲天而起，这怒吼将使他们的子弹很快变成软泥。他们会本能地互相握手言和，而那些士兵自己就会变成反对贵族和资本家的最英勇的战士。俄国发生的事就是这样，一支十万人的无畏大军，忽然之间就把红旗换成了原来的旗帜。现在我们可以明白，这一切之中自有深刻的道理。", "head": false, "audio": "audio/03/s480.mp3", "audio_zh": "audio/03/zs480.mp3"}, {"pid": "s481", "sec": 19, "it": "La plebe ormai ha intravisto e scoperto i tre metodi usati da aristocratici e capitalisti. Sa che costoro per dare attuazione pratica a questi tre metodi sono ricorsi allo strumento dell’unione. Non solo, ha anche preso coscienza del fatto che il loro numero è esiguo, mentre il nostro è grande. Per questo dobbiamo unirci su vasta scala. Una volta fatta l’unione, due sono i modi di operare³. C’è un gruppo che per farla finita con aristocratici e capitalisti adotta un metodo violento, vale a dire “combattere i nemici con gli stessi metodi dei nemici”. L’esponente più importante di questo gruppo è un uomo nato in Germania di nome Marx. L’altro gruppo è piuttosto moderato. Non si preoccupa di vedere immediatamente i risultati, ma per prima cosa cerca di conoscere la situazione della plebe. Tutti devono raggiungere una morale che li porti ad aiutarsi gli uni con gli altri e a lavorare di loro propria iniziativa. Aristocratici e capitalisti, nella misura in cui si pentono dei loro passati errori e si mettono a lavorare, aiutando gli altri invece di danneggiarli, non verranno eliminati fisicamente. L’idea degli esponenti di questo gruppo è di più vasta portata e più profonda. Costoro vogliono fare del mondo un unico paese, degli uomini tutti un’unica famiglia, in pace e in amicizia (non la versione giapponese dell’amicizia!) 4 per raggiungere tutti un’epoca di benessere. L’esponente più importante di questo gruppo è un uomo nato in Russia di nome Kropotkin.", "zh": "民众如今已经看清并识破了贵族和资本家所采用的三套办法。他们懂得，这些人为了实际推行这三套办法，是借助于联合这一工具的。不仅如此，他们还觉悟到：他们人数很少，而我们人数很多。因此我们必须大联合。联合起来之后，就有两条作法³。有一派人，为了同贵族和资本家作一个了结，采用一种激烈的办法，即\"以其人之道还治其人之身\"。这派最重要的代表人物，是一个生于德国名叫马克思的人。另一派人则比较温和。他们不求立刻见到成效，而首先致力于了解民众的处境。人人都要达到一种道德，即相互帮助、自觉工作。贵族和资本家，只要他们对自己的过去错误悔过自新，转而从事工作，帮助别人而不是损害别人，就不加以肉体消灭。这派人的思想更为远大、更为深刻。他们要把全世界合成一个国家，把全人类合成一个家族，相亲相爱（不是日本式的相爱！）⁴，共同达到一个幸福的时代。这派最重要的代表人物，是一个生于俄国名叫克鲁泡特金的人。", "head": false, "audio": "audio/03/s481.mp3", "audio_zh": "audio/03/zs481.mp3"}, {"pid": "s482", "sec": 19, "it": "Noi dobbiamo sapere che nel mondo le cose sono per loro natura facili da fare; le cose che sono difficili, lo sono a causa della forza della storia, dell’abitudine.", "zh": "我们应该知道，世界上的事情，本来是容易做的；之所以有难事，是由于历史势力、习惯势力的缘故。", "head": false, "audio": "audio/03/s482.mp3", "audio_zh": "audio/03/zs482.mp3"}, {"pid": "s483", "sec": 19, "it": "Se riuscissimo a unirci tutti e a gridare assieme, cosa ne sarebbe di questa forza della storia? Se ci uniamo su scala ancora più grande, quando ci scontriamo con qualcosa che riteniamo ingiusto, serreremo i nostri ranghi e lanceremo un grande grido. Ne abbiamo già avuto delle prove: i proiettili di Lu Jung-ting non sono mai riusciti ad abbattere traditori come Tsao Ju-lin⁵. Ma quando noi ci leveremo in piedi e lanceremo il nostro grido, allora i traditori si alzeranno in piedi tremando La grande unione delle masse popolari e scapperanno a gambe levate. Noi dobbiamo sapere che i fratelli di altri paesi hanno spesso usato questo metodo per conquistare vantaggi. Anche noi dobbiamo agire come loro, anche noi dobbiamo dar vita alla nostra grande unione!", "zh": "如果我们能够团结起来，齐声呐喊，这股历史的力量将如何呢？如果我们更大规模地联合起来，遇到我们认为不公的事情时，就会紧密团结，发出一声伟大的呐喊。我们已经有过了这样的例证：陆荣廷的子弹从未能打倒曹汝霖⁵这样的卖国贼。但是当我们奋起发出呐喊时，卖国贼就会浑身发抖地站起来逃之夭夭。我们必须知道，别国的兄弟常常使用这种方法来争取利益。我们也必须像他们一样行动，我们也必须实现我们民众的大联合！", "head": false, "audio": "audio/03/s483.mp3", "audio_zh": "audio/03/zs483.mp3"}, {"pid": "s484", "sec": 19, "it": "Prendere come base una piccola unione Nella puntata precedente abbiamo parlato della possibilità e necessità della grande unione delle masse popolari. In questa puntata affronteremo il problema: qual è il metodo migliore per realizzare questa grande unione? Vale a dire le piccole unioni di masse popolari.", "zh": "以小联合为基础 上一篇我们谈了民众大联合的可能性和必要性。这一篇我们要讨论的问题是：实现这一大联合的最好方法是什么？那就是民众的小联合。", "head": false, "audio": "audio/03/s484.mp3", "audio_zh": "audio/03/zs484.mp3"}, {"pid": "s485", "sec": 19, "it": "Il nostro punto di partenza è che per far fronte ai potenti e velenosi uomini che si oppongono a noi e per perseguire i nostri interessi abbiamo bisogno di una grande unione. Ne segue che dobbiamo avere ogni genere di piccole unioni che servano di base alla grande unione⁶.", "zh": "我们的出发点是：为了对付反对我们的强暴而狠毒的人，为了追求我们的利益，我们需要一个大联合。由此可以得出，我们必须建立各种各样的小联合，作为大联合的基础⁶。", "head": false, "audio": "audio/03/s485.mp3", "audio_zh": "audio/03/zs485.mp3"}, {"pid": "s486", "sec": 19, "it": "Noi, razza umana, abbiamo per natura la dote innata di unirci assieme, vale a dire la dote di essere in grado di organizzare società. Ciò che chiamiamo unioni non sono altro che i gruppi e le società. Vi sono gruppi grandi e gruppi piccoli, società grandi e società piccole, unioni grandi e unioni piccole: tutto ciò non è altro che la medesima cosa sotto nomi diversi. Il motivo per cui vogliamo formare gruppi, società e unioni è perché vogliamo realizzare i nostri comuni interessi.", "zh": "我们人类天生有一种才能，即联合的才能，也就是能组成社会的才能。我们所谓联合，无非是许多人和许多人集合起来。有大群，有小群，有大社会，有小社会，有大联合，有小联合：这不过是名目上的不同罢了。我们所以要结成团体、组成社会、实现联合，是因为要求得我们的共同利益。", "head": false, "audio": "audio/03/s486.mp3", "audio_zh": "audio/03/zs486.mp3"}, {"pid": "s487", "sec": 19, "it": "Tuttavia, poiché le nostre condizioni e occupazioni sono diversificate, si riscontrano alcune differenze, sia grandi che piccole, anche nell’ambito dei nostri interessi comuni. Poiché si riscontrano differenze sia grandi che piccole nei nostri comuni interessi, il metodo (ovvero l’unione) per realizzare i nostri comuni interessi presenterà alcune differenze, sia grandi che piccole.", "zh": "但是，因为我们的条件和职业各不相同，我们的共同利益之中不免有或大或小的差别。我们的共同利益之中既有或大或小的差别，那么实现我们共同利益的方法（即联合）也就不能不有或大或小的差别了。", "head": false, "audio": "audio/03/s487.mp3", "audio_zh": "audio/03/zs487.mp3"}, {"pid": "s488", "sec": 19, "it": "Amici! Noi siamo contadini. Pertanto vogliamo unirci a coloro che coltivano la terra, al fine di realizzare i vari interessi comuni di noi che coltiviamo la terra. Gli interessi di noi che coltiviamo la terra siamo soltanto noi che possiamo farli valere, difatti coloro che non coltivano la terra hanno interessi diversi dai nostri e non possono assolutamente aiutarci a raggiungerli. Amici che coltivate la terra! Come ci trattano i proprietari terrieri? Le tasse e gli affitti sono onerosi o leggeri? Le nostre case sono confortevoli o no? Le nostre pance sono piene o vuote? La terra è sufficiente? Nel villaggio ci sono o no persone che non hanno terra da coltivare?", "zh": "朋友们！我们是农夫。所以我们要求与种田的人结成联合，以求实现我们种田人的各种共同利益。我们种田人的利益，只有我们种田人自己去求，别种人是不能帮我们实现的。别种人的利益，和我们的利益完全不同，断不能帮我们一点忙。种田的朋友们！地主是怎样待我们的？捐税重呢，还是轻呢？我们的住屋舒服不舒服呢？我们的肚子饱不饱呢？我们的田地够不够种呢？村子里有没有没田种的人呢？", "head": false, "audio": "audio/03/s488.mp3", "audio_zh": "audio/03/zs488.mp3"}, {"pid": "s489", "sec": 19, "it": "Dobbiamo con costanza cercare di trovare una soluzione a tutti questi problemi.", "zh": "我们必须一一想法子解决这些问题。", "head": false, "audio": "audio/03/s489.mp3", "audio_zh": "audio/03/zs489.mp3"}, {"pid": "s490", "sec": 19, "it": "Dobbiamo pertanto unirci a tutti coloro che fanno il nostro stesso lavoro e cercare assieme soluzioni chiare e concrete.", "zh": "因此，我们必须同所有从事同样工作的人联合起来，共同寻求明确而具体的解决办法。", "head": false, "audio": "audio/03/s490.mp3", "audio_zh": "audio/03/zs490.mp3"}, {"pid": "s491", "sec": 19, "it": "Amici! Noi siamo operai. Pertanto vogliamo unirci a coloro che lavorano come noi, al fine di realizzare i diversi interessi di noi operai. Non possiamo fare a meno di trovare una soluzione ai problemi che riguardano noi operai: il salario è tanto o poco? La nostra giornata lavorativa è lunga o breve? I prodotti del lavoro vengono ripartiti in maniera equa o no? Le nostre possibilità di svago sono aumentate o no? Dobbiamo pertanto unirci a tutti coloro che fanno il nostro stesso lavoro, cercare assieme soluzioni chiare e concrete.", "zh": "朋友们！我们是工人。因此，我们要同和我们一样劳动的人联合起来，以实现我们工人的各种利益。我们必须解决涉及我们工人的种种问题：工资是多还是少？我们的工作日是长还是短？劳动产品分配得公平不公平？我们的娱乐机会增加了没有？因此，我们必须同所有从事同样工作的人联合起来，共同寻求明确而具体的解决办法。", "head": false, "audio": "audio/03/s491.mp3", "audio_zh": "audio/03/zs491.mp3"}, {"pid": "s492", "sec": 19, "it": "Amici! Noi siamo studenti. Viviamo in modo penoso. I professori che ci fanno lezione ci trattano come fossimo dei delinquenti, ci umiliano come fossimo degli schiavi, ci tengono sotto chiave come fossimo dei prigionieri. Nelle nostre aule le finestre sono talmente minuscole che neppure un raggio di sole arriva a toccare la lavagna, per questo diventiamo miopi. I banchi sono assolutamente inadatti e se ci rimaniamo seduti troppo a lungo ci viene la scoliosi. L’unico interesse dei professori è di farci leggere un sacco di libri e ne abbiamo letti davvero parecchi, ma non ci capiamo niente e non facciamo altro che esercitare a vuoto la nostra memoria. La nostra vista è annebbiata, il nostro cervello è confuso, il sangue non circola come dovrebbe, i nostri volti sono pallidi e diventiamo anemici. Ci ammaliamo di esaurimento nervoso. Per questo motivo ci riduciamo a essere più morti che vivi. Perché mai siamo tanto privi di vivacità? Perché siamo tanto appassiti? Ahimè! Per il semplice fatto che i professori ci costringono a stare immobili e sempre zitti. E così ci viene una sorta di rigor mortis. Eppure tutte queste sofferenze fisiche non sono la cosa peggiore, signori! Date un po’ un’occhiata ai nostri laboratori! Angusti, miseri; solo qualche apparecchio a tal punto scassato che non riusciamo più a fare esperimenti di sorta. I nostri professori di lingua cinese sono dei capoccioni ostinati. Hanno la bocca sempre piena di “come si legge nel Libro delle odi”, oppure di “il maestro dice”, ma alla fine non capiscono assolutamente nulla. Non si rendono conto che viviamo nel XX secolo, ci costringono a osservare i “riti antichi” e a seguire le “antiche regole”, ci riempiono la testa di un sacco di composizioni che puzzano di morto scritte in stile classico. Le nostre sale di lettura sono deserte. Le nostre sale di ricreazione sono luride. Il paese è sul punto di crollare, eppure costoro attaccano avvisi in cui ci viene proibito di amare come si deve la patria. Avete visto quanto favore ha incontrato da parte loro l’attuale movimento⁷ per la salvezza nazionale! Ahimè!", "zh": "同学们！我们是学生。我们过着困苦的生活。给我们讲课的先生把我们当犯人看待，像对待奴隶一样侮辱我们，又像关押囚犯一样把我们锁起来。我们的教室窗户小得连一线阳光都照不到黑板上，因此我们成了近视眼。课桌完全不合适，坐得久了便患上脊椎病。先生们唯一关心的事就是逼我们读一大堆书，书我们确实读了不少，但什么都不懂，不过是在徒然地操练我们的记忆力罢了。我们视线模糊，头脑昏沉，血液不能照常流通，面色苍白，患了贫血症。我们还害了神经衰弱。这样一来，我们简直变得半死不活。为什么我们如此没有生气？为什么我们如此萎靡不振？唉！无非是因为先生们强迫我们一动不动、成天默不作声。于是我们身上便有一种死尸僵硬之感。然而诸位！这一切肉体上的痛苦还算不得最糟的事。请你们看看我们的实验室吧！又窄又破，只有几件仪器，还破烂得根本无法做任何实验。我们的国文先生都是些顽固的老朽。他们满口\"诗云\"\"子曰\"，其实什么都不懂。他们不明白我们生活在二十世纪，硬逼我们遵守\"古礼\"，遵循\"古训\"，拿一大堆散发着陈腐气味的古文把我们的头脑塞满。我们的阅览室空空如也，我们的游艺室肮脏不堪。国家危在旦夕，这些人却张贴告示，禁止我们正当地爱国。诸位看见了他们对待当前的救国运动⁷是何等的敌视！唉！", "head": false, "audio": "audio/03/s492.mp3", "audio_zh": "audio/03/zs492.mp3"}, {"pid": "s493", "sec": 19, "it": "Chi è che ci ha tanto torturato, sia fisicamente sia moralmente e ci ha reso tanto infelici? Se non ci uniamo per dedicarci alla nostra autoistruzione, allora cosa aspettiamo? Siamo già annegati in un mare di sofferenze e chiediamo che ci venga dato il modo di salvare noi stessi. L’autoistruzione inventata da Rousseau è quanto di più adatto ci sia al nostro scopo. Uniamoci dunque con quanti più compagni possibili e studiamo per conto nostro. Non facciamo conto su quei signori che azzannano la gente. E se succede qualcosa, come la tirannia che i potenti del Giappone e i potenti di casa nostra esercitano su di noi, allora raduneremo le nostre schiere e leveremo contro costoro un grido grande e potente.", "zh": "是谁使我们受到这样的痛苦，无论是肉体上还是精神上，使我们如此不幸？如果我们不团结起来致力于自我教育，那我们还等待什么呢？我们已经沉溺于苦海的深渊，我们要求得到自救的方法。卢梭所创造的自我教育，正是最合乎我们目的的办法。让我们团结尽可能多的同伴，自己学习。我们不要依靠那些咬人的老爷们。如果发生什么事情，比如日本强人和本国强人向我们施加暴政，那么我们就集合我们的队伍，向他们发出强大而响亮的怒吼。", "head": false, "audio": "audio/03/s493.mp3", "audio_zh": "audio/03/zs493.mp3"}, {"pid": "s494", "sec": 19, "it": "Amici! Noi siamo donne. Anneghiamo ancora di più in un mare di sofferenze!", "zh": "朋友们！我们是女子。我们更是沉溺于苦海的深渊之中！", "head": false, "audio": "audio/03/s494.mp3", "audio_zh": "audio/03/zs494.mp3"}, {"pid": "s495", "sec": 19, "it": "Noi pure siamo esseri umani, perché dunque non ci viene concesso di prendere La grande unione delle masse popolari parte attivamente alla politica? Noi pure siamo esseri umani, perché dunque non ci viene concesso di avere normali contatti sociali? Ce ne stiamo raggruppate in tante piccole tane le une separate dalle altre e non ci viene neppure permesso di uscire dal portone. Gli uomini svergognati, gli uomini malvagi ci usano come giocattoli e ci costringono a prostituirci a loro a tempo indeterminato. Sono demoni che distruggono la libertà dell’amore! Sono demoni che distruggono la sacralità dell’amore! Ci ronzano attorno tutti i giorni, ma la cosiddetta castità è un problema circoscritto solo a noi donne! “Templi dedicati alle donne virtuose” se ne trovano ovunque, ma dove sono i “Templi dedicati ai giovani casti”! Tra di noi alcune sono riunite assieme in scuole femminili, ma i nostri insegnanti non sono altro che uomini svergognati e malvagi. Ci parlano tutto il giorno di cose del tipo “come essere madri virtuose e brave spose”, ma in realtà non ci insegnano altro che a prostituirci a tempo indeterminato allo stesso uomo, hanno paura che non ci lasciamo imbrigliare e allora fanno di tutto per indottrinarci per bene.", "zh": "我们同样是人，为什么不允许我们积极参与平民大联合的政治？我们同样是人，为什么不允许我们进行正常的社会交往？我们被封闭在许许多多彼此隔绝的小屋中，连大门也不许出。无耻的男人们、邪恶的男人们把我们当作玩物，强迫我们无限期地委身于他们。他们是毁灭恋爱自由的魔鬼！他们是毁灭恋爱神圣的魔鬼！他们终日在我们身边纠缠，而所谓贞操问题却只局限于我们女子！“贞女祠”到处都有，但“贞男祠”又在哪里！我们之中有些人聚在女子学校里，但我们的教师无非是无耻邪恶的男人。他们整天对我们说什么“怎样做贤母良妻”，其实不过是教我们对同一个男人无限期地卖身，他们生怕我们不受束缚，于是竭力给我们灌输这些东西。", "head": false, "audio": "audio/03/s495.mp3", "audio_zh": "audio/03/zs495.mp3"}, {"pid": "s496", "sec": 19, "it": "Sofferenza! Sofferenza! Spirito della libertà, dove sei! Vieni presto a salvarci! Oggi ci siamo risvegliate! Vogliamo mettere in piedi un’unione di noi donne. Vogliamo spazzar via tutti quei demoni che ci violentano e distruggono la libertà dei nostri cuori e del nostro spirito!", "zh": "苦难！苦难！自由之神，你在哪里！快快来拯救我们！今天我们觉醒了！我们要组织起我们女子的联合会。我们要扫除一切强奸我们、摧残我们心灵与精神自由的魔鬼！", "head": false, "audio": "audio/03/s496.mp3", "audio_zh": "audio/03/zs496.mp3"}, {"pid": "s497", "sec": 19, "it": "Amici! Noi siamo maestri elementari, facciamo lezione tutto il giorno e non abbiamo un momento libero! Mangiamo tutto il giorno la polvere dei gessi e non abbiamo neppure un luogo dove riposarci. In una città grande come questa ci sono alcune centinaia se non migliaia di maestri elementari, eppure non esiste un luogo di ricreazione a noi destinato. Se dobbiamo insegnare, dobbiamo costantemente aumentare il nostro bagaglio di conoscenze, eppure non esiste un’organizzazione per l’aggiornamento scientifico di cui disporre. Ci sono tante ore di lezione scandite dal suono ricorrente della campanella e sono talmente tante che non ci rimane neanche un po’ di tempo, neanche un po’ di forza per lo studio e la ricerca; non ce la facciamo più. Per questo ci trasformiamo in grammofoni, non facciamo altro che recitare le lezioni che a suo tempo ci sono state impartite dai nostri vecchi professori. Le nostre pance hanno fame, il nostro stipendio mensile si aggira intorno agli⁸-10 yuan, e ci sono anche delle detrazioni. Alcuni direttori didattici, imitando il metodo di “tagliare una parte di cereali al soldato”, intascano il denaro che il governo ha stanziato per la scuola. Poiché mancano i soldi, ci troviamo a vivere nella condizione di scapoli pur avendo moglie. Noi e le nostre amate mogli viviamo ognuno per proprio conto, separati da parecchie decine o centinaia di li, con lo sguardo rivolto l’uno verso l’altra. Essere maestri elementari dovrebbe essere una missione per tutta la vita, secondo quanto dice la pedagogia, ma come si può pretendere che restiamo per tutta la vita scapoli o vedove?", "zh": "朋友们！我们是小学教员，整天上课，没有一刻空闲！整天吃着粉笔灰，连个休息的地方都没有。像这样一个大城市，有几百乃至上千名小学教员，却连一个给我们娱乐的场所都没有。要教书，就要不断增长学问，却没有一个进修科学文化的组织可供利用。上下课的铃声日复一日地响个不停，课时多得我们连一点时间、一点精力都无法用于学习和研究；我们实在吃不消了。因此我们变成了留声机，只会照本宣科地复述当年老教员给我们讲过的课程。我们的肚子在挨饿，月薪不过⁸⁻¹⁰元，还常有克扣。有些教务主任模仿“吃空额”的办法，把政府拨给学校的钱中饱私囊。由于缺钱，我们虽有妻室，却过着光棍的生活。我们和心爱的妻子天各一方，隔着几十里、几百里，只能遥遥相望。按教育学的说法，当小学教员应当是终身的事业，但怎能要求我们终身做光棍、守活寡呢？", "head": false, "audio": "audio/03/s497.mp3", "audio_zh": "audio/03/zs497.mp3"}, {"pid": "s498", "sec": 19, "it": "Secondo la pedagogia i maestri con le famiglie dovrebbero vivere nella scuola, se si vuole che servano da modelli per gli alunni, ma oggi ciò non è possibile.", "zh": "照教育学讲，教师须与家庭联合起来，共住学校内，方能使学生感化。但此事今日殊不可能。", "head": false, "audio": "audio/03/s498.mp3", "audio_zh": "audio/03/zs498.mp3"}, {"pid": "s499", "sec": 19, "it": "Poiché non abbiamo soldi non possiamo comprare libri né fare viaggi di studio.", "zh": "因为无钱，买书既不可能，出外考察也做不到。", "head": false, "audio": "audio/03/s499.mp3", "audio_zh": "audio/03/zs499.mp3"}, {"pid": "s500", "sec": 19, "it": "Ma è inutile continuare. I maestri elementari sono sotto ogni aspetto dei veri e propri schiavi. Se non vogliamo essere schiavi, non c’è altro modo che unirci con quelli come noi e fondare un’unione di maestri elementari.", "zh": "但是不必多讲了。小学教师是处于各种奴隶地位。我们不愿做奴隶，只有大家团结起来，组织小学教师联合会。", "head": false, "audio": "audio/03/s500.mp3", "audio_zh": "audio/03/zs500.mp3"}, {"pid": "s501", "sec": 19, "it": "Amici! Noi siamo poliziotti. Dobbiamo unirci a coloro che fanno il nostro stesso lavoro, per fare un’unione che porti beneficio al corpo e allo spirito. I giapponesi dicono “mendicanti, maestri elementari e poliziotti sono coloro che soffrono più di tutti” e noi ne siamo consapevoli.", "zh": "朋友们！我们是警察，我们应当联合我们同做这种工作的人，组织一个于身心有益的联合会。日本人说“最苦的是乞丐、小学教员、警察”，我们也确实如此。", "head": false, "audio": "audio/03/s501.mp3", "audio_zh": "audio/03/zs501.mp3"}, {"pid": "s502", "sec": 19, "it": "Amici! Noi tiriamo risciò. Tutto il giorno tiriamo i nostri risciò e il sudore viene giù come pioggia. L’affitto che dobbiamo pagare ai padroni dei risciò è talmente alto! Quello che guadagniamo è talmente poco! Come possiamo andare avanti, c’è modo anche per noi di unirci?", "zh": "朋友们！我们拉黄包车。我们成天拉着自己的黄包车，汗水像雨一样往下淌。要付给车主的租金那么高！我们挣的钱又那么少！我们怎么过得下去，难道我们就没有联合起来的办法了吗？", "head": false, "audio": "audio/03/s502.mp3", "audio_zh": "audio/03/zs502.mp3"}, {"pid": "s503", "sec": 19, "it": "Le cose che ho detto nelle pagine precedenti non sono altro che le lamentele dei contadini, degli operai, degli studenti, delle donne, dei maestri elementari, dei poliziotti, dei tiratori di risciò, di gente di ogni sorta. Le pene che debbono sopportare sono spaventose, perciò vogliono mettere in piedi ogni sorta di piccole unioni, in modo tale da cercare di realizzare i loro interessi.", "zh": "我前面所说的，无非是农民、工人、学生、妇女、小学教师、警察、黄包车夫以及各界人士的诉苦。他们所受的痛苦极其深重，因此想要组织各种小团体，设法实现自己的利益。", "head": false, "audio": "audio/03/s503.mp3", "audio_zh": "audio/03/zs503.mp3"}, {"pid": "s504", "sec": 19, "it": "Fin qui ho parlato di svariate piccole unioni, come l’unione degli operai. Ma si tratta ancora di unioni abbastanza generali, vaste. Se si scende più in dettaglio, ci sono le seguenti organizzazioni che corrispondono a unioni di livello inferiore:", "zh": "上面说的是各种小团体，比如工会。但这还是较为一般、较为广泛联合。若再分细一些，则有以下各种相当于更下层团体的组织：", "head": false, "audio": "audio/03/s504.mp3", "audio_zh": "audio/03/zs504.mp3"}, {"pid": "s505", "sec": 19, "it": "Unione dei ferrovieri, Unione dei minatori, Unione degli impiegati dei telegrafi, Unione degli impiegati dei telefoni, Unione degli operai dei cantieri navali, Unione dei marittimi, Unione degli operai metallurgici, Unione degli operai tessili, Unione dei tranvieri, Unione dei tiratori dei risciò, Unione degli operai edili, ecc.", "zh": "铁路工会、矿业工会、电报员工会、电话员工会、造船工人会、海员工会、冶金工会、纺织工会、电车工会、黄包车夫会、建筑工会等等。", "head": false, "audio": "audio/03/s505.mp3", "audio_zh": "audio/03/zs505.mp3"}, {"pid": "s506", "sec": 19, "it": "Gli operai dei paesi occidentali hanno tutti piccole associazioni in ciascuna attività e industria. Per esempio, ovunque si trovano organizzazioni come l’associazione dei lavoratori dei trasporti, l’associazione dei tranvieri, ecc. Da tante piccole unioni si procede verso una grande unione, da tante grandi unioni si procede verso la formazione dell’unione più grande. In tal modo sorgono una dopo l’altra le cosiddette “associazioni” o “alleanze”, una sulle spalle di altre.", "zh": "西方各国的工人，在每一种行业和产业中都各有小团体。例如，到处都有运输工人协会、电车工人协会之类的组织。由许多小联合进而组成大联合，由许多大联合进而组成最大的联合。如此这般，所谓“协会”或“同盟”便一个叠着一个地相继产生。", "head": false, "audio": "audio/03/s506.mp3", "audio_zh": "audio/03/zs506.mp3"}, {"pid": "s507", "sec": 19, "it": "Poiché comuni interessi concernono solo una piccola parte della popolazione, bisogna anzitutto mettere in piedi piccole unioni. Gli interessi di molte piccole unioni hanno dei punti in comune, pertanto è possibile mettere in piedi grandi unioni. Per esempio, la ricerca e lo studio sono qualcosa che riguarda noi studenti, La grande unione delle masse popolari allora saremo noi studenti a fondare le nostre unioni per la ricerca e lo studio.", "zh": "由于共同的利益只涉及一小部分人，所以必须首先建立小联合。许多小联合的利益有共同点，因此有可能建立大联合。例如，研究与学习是我们学生的事。民众的大联合，就要由我们学生来建立自己的研究学习联合。", "head": false, "audio": "audio/03/s507.mp3", "audio_zh": "audio/03/zs507.mp3"}, {"pid": "s508", "sec": 19, "it": "D’altro canto, cose quali la liberazione nazionale e la libertà riguardano tutti, pertanto bisognerà mettere insieme persone di ogni tipo per formare una grande unione.", "zh": "另一方面，像民族解放和自由这类事情，同人人有关，因此必须把各种人都联合起来，组成一个大联合。", "head": false, "audio": "audio/03/s508.mp3", "audio_zh": "audio/03/zs508.mp3"}, {"pid": "s509", "sec": 19, "it": "Poiché la grande unione viene dalle piccole unioni, dobbiamo scuoterci e seguire l’esempio dei nostri fratelli degli altri paesi. Dobbiamo mettere in piedi tante, tante nostre piccole unioni.", "zh": "由于大联合来自小联合，我们就应当振作起来，效法别国兄弟的榜样。我们应当建立许许多多属于自己的小联合。", "head": false, "audio": "audio/03/s509.mp3", "audio_zh": "audio/03/zs509.mp3"}, {"pid": "s510", "sec": 19, "it": "Le prospettive di una grande unione delle masse popolari in Cina Nelle due puntate precedenti abbiamo già parlato¹. della possibilità e necessità della grande unione delle masse popolari e². di come la grande unione delle masse popolari debba avere come base piccole unioni di masse popolari. Ora, nel portare avanti questa nostra discussione sulla grande unione delle masse popolari del nostro paese, ci troviamo di fronte alle seguenti domande. Abbiamo o no la consapevolezza necessaria? Abbiamo o no l’intenzione di farla? Abbiamo o no la capacità per crearla?", "zh": "民众大联合的前途", "head": false, "audio": "audio/03/s510.mp3", "audio_zh": "audio/03/zs510.mp3"}, {"pid": "s511", "sec": 19, "it": "在前两篇文章中，我们已经谈到¹民众大联合的可能性和必要性，以及²民众大联合必须以民众的小联合为基础。现在，当我们继续讨论我国民众大联合的问题时，摆在我们面前的是这样几个问题：我们有没有这种觉悟？我们有没有这种愿望？我们有没有这种能力来创造它？", "zh": "", "head": false, "audio": "audio/03/s511.mp3", "audio_zh": "audio/03/zs511.mp3"}, {"pid": "s512", "sec": 19, "it": "C’è o no nel nostro paese la consapevolezza necessaria per quanto concerne la grande unione delle masse popolari? La Rivoluzione del 1911 ha avuto l’apparenza di un’unione delle masse popolari, ma la realtà era diversa. La Rivoluzione del 1911 è stata opera¹. di studenti cinesi residenti all’estero che la progettarono e la diressero, 2. della Società dei fratelli⁸ che la incoraggiò e la sostenne, 3. della Nuova armata e di gruppi di disprezzati soldati degli eserciti provinciali, che “sfoderarono le loro spade e tesero i loro archi”. Essa non ha avuto niente a che fare con la maggior parte di noi, masse popolari. Pur essendo d’accordo sui principi, tuttavia non abbiamo fatto nulla. Del resto non hanno neppure avuto bisogno del nostro intervento. Eppure ci ha fatto capire alcune cose. Abbiamo imparato che è possibile abbattere persino imperatori straordinariamente abili sia nelle arti marziali che nelle discipline letterarie. Inoltre abbiamo imparato che è possibile edificare la democrazia, prima considerata cosa riprovevole. Abbiamo imparato anche che se abbiamo delle cose da dire, possiamo dirle e se abbiamo delle cose da fare possiamo farle in qualsiasi momento. Dopo la Rivoluzione del 1911, nel 1916 abbiamo abbattuto un altro imperatore, l’imperatore Hunghsien⁹.", "zh": "我们中国人民大众对于民众的大联合，究竟有没有这种觉悟呢？辛亥年的事，似乎只算得民众大联合的虚影。辛亥革命的事实，是留学生¹做策动，哥老会⁸做赞助，新军和巡防营的土兵挥了枪杆，与我们大多数人无关。虽则同意其原则，然而我们没有做过一点事。其实他们也不必要我们帮忙。但是他叫我们觉悟了些事。我们晓得了，就是极端反对拳术和文学的皇帝，都可以打倒。我们又晓得，我们认定可以创办从前认作可鄙的民主。我们还晓得，我们有话要说，随时都可以说，有事要做，随时都可以做。辛亥革命之后，我们又于民国五年，打倒了洪宪皇帝⁹。", "head": false, "audio": "audio/03/s512.mp3", "audio_zh": "audio/03/zs512.mp3"}, {"pid": "s513", "sec": 19, "it": "Sebbene anche ciò sia stato opera di una minoranza, noi ancora una volta abbiamo capito che anche l’imperatore Hunghsien, con tutta la sua terribile maestosità, poteva cionondimeno essere abbattuto. Se guardiamo agli anni recenti, con le guerre tra nord e sud e la guerra mondiale, le cose sono cambiate ancora di più. Il risultato delle guerre tra nord e sud è stato di dimostrarci in modo assolutamente irrefutabile che burocrati, signori della guerra e politicanti danneggiano, avvelenano e sfruttano tutti noi. Come conseguenza della guerra mondiale e delle difficili condizioni di vita, le masse popolari di diversi paesi hanno intrapreso ogni sorta di iniziative. In Russia hanno abbattuto gli aristocratici e hanno cacciato i ricchi; operai e contadini assieme hanno fondato un governo sovietico. L’esercito della bandiera rossa si è spinto a combattere all’est e all’ovest, sbaragliando molti nemici. L’Intesa si è di conseguenza trasformata. Tutto il mondo è stato sconvolto. L’Ungheria è insorta ed è apparso a Budapest un nuovo governo di operai e contadini. Tedeschi, austriaci e cèchi hanno fatto lo stesso, combattendo una lotta acerrima contro i partiti avversari all’interno di ciascun paese. Le onde impetuose dell’indignazione avanzano in occidente e poi si rivolgono verso oriente. Numerosi grandi scioperi hanno avuto luogo in Inghilterra, Francia, Italia e Stati Uniti d’America; successivamente si sono verificate alcune grandi rivoluzioni in India e in Corea¹⁰. Nuove forze sono sorte e nella zona compresa tra la Grande Muraglia e il Mar Giallo è esploso il Movimento del⁴ Maggio. La sua bandiera ha raggiunto il meridione, ha attraversato il Fiume Giallo fino allo Yangtse, da Hankow a Canton vengono ripetutamente rappresentati drammi viventi, dal lago Tungting al fiume Min la marea si leva sempre più alta. Grazie a ciò cielo e terra riprendono vigore, grazie a ciò i malvagi sono costretti a tirarsi da parte. Ecco! Ben lo sappiamo! Ci siamo svegliati! Questo mondo è il nostro mondo. Questo paese è il nostro paese. Questa società è la nostra società. Se non siamo noi a parlare, chi parlerà? Se non siamo noi ad agire, chi agirà? Dobbiamo impegnarci con tutte le nostre forze per attuare la grande unione delle masse popolari, subito, senza perdere un attimo di tempo!", "zh": "虽然这也只是少数人的行动，但我们再次认识到，连洪宪皇帝纵然有他那可怕的威仪，也还是可以被打倒的。试看近年来的南北战争和世界大战，情况变化更大了。南北战争的结果，绝对无可辩驳地告诉我们：官僚、军阀和政客损害我们、毒害我们、剥削我们。由于世界大战和生活艰难，各国民众采取了各种行动。俄国的民众推翻了贵族，赶走了富人，工人和农民共同建立了苏维埃政府。红旗军东征西战，击溃了许多敌人。协约国因此改观，全世界为之震动。匈牙利奋起起义，布达佩斯出现了工农的新政府。德国人、奥地利人、捷克人也如法炮制，在各国内部同敌对政党进行殊死斗争。汹涌的怒潮在西部推进，继而转向东方。英国、法国、意大利和美国爆发了多次大罢工；随后在印度和朝鲜也发生了若干大革命¹⁰。新势力已经兴起，在长城与黄海之间的地区爆发了五四运动⁴。它的旗帜传到南方，渡过黄河直到扬子江，从汉口到广州，活报剧一再上演；从洞庭湖到闽江，浪潮日益高涨。因此天地为之复苏，因此恶人不得不退避一旁。看！我们深知！我们已经觉醒了！这个世界是我们的世界。这个国家是我们的国家。这个社会是我们的社会。如果我们不说话，谁来说？如果我们不行动，谁来行动？我们必须竭尽全力实现民众的大联合，立刻行动，刻不容缓！", "head": false, "audio": "audio/03/s513.mp3", "audio_zh": "audio/03/zs513.mp3"}, {"pid": "s514", "sec": 19, "it": "Esistono già nel paese le forze motrici della grande unione delle masse popolari?", "zh": "这个国家已经有了足以促成全国人民大联合的推动力了吗？", "head": false, "audio": "audio/03/s514.mp3", "audio_zh": "audio/03/zs514.mp3"}, {"pid": "s515", "sec": 19, "it": "A questa domanda sono in grado di dare una risposta diretta: si! Se voi, amici miei, non ci credete, ascoltate ciò che ho da dire.", "zh": "对于这个问题，我的答案是：有！诸位朋友，如果不信，请听我讲。", "head": false, "audio": "audio/03/s515.mp3", "audio_zh": "audio/03/zs515.mp3"}, {"pid": "s516", "sec": 19, "it": "Se vogliamo risalire alla fonte dell’unione delle masse popolari del nostro paese, dobbiamo partire dalla creazione delle assemblee provinciali e dall’organizzazione del partito rivoluzionario, la Tung Meng Hui, nell’ultimo periodo della dinastia Ching¹¹. Una volta create, le assemblee delle varie province si allearono le une alle altre per presentare una petizione in cui si chiedeva l’apertura immediata di un parlamento. Una volta creato, il partito rivoluzionario ha fatto appello a tutti all’interno e all’estero, al fine di raccogliere truppe per combattere i mancesi. La Rivoluzione del 1911 fu un dramma “Affoghiamo il Dragone Giallo”¹², recitato assieme dal partito rivoluzionario e dalle assemblee provinciali. In seguito il partito rivoluzionario si trasformò nel Kuomintang e le assemblee provinciali nel Partito progressista. Questa fu l’origine dei partiti politici in Cina. Allora la repubblica venne fondata, il governo centrale convocò un parlamento e ogni provincia ebbe la sua assemblea provinciale. Sempre in quel periodo, ogni provincia dette vita ad altri tre organismi: un’associazione provinciale per l’istruzione, una camera di commercio provinciale, un’associazione agricola provinciale (alcune province hanno anche un’associazione sindacale provinciale. In molte essa è legata all’associazione agricola, come nello Hunan). Al contempo, anche ogni distretto ha dato vita a un’associazione per l’istruzione a livello di distretto, a una camera di commercio a livello di distretto, a un’associazione agricola a livello di distretto La grande unione delle masse popolari (solo pochi distretti non le hanno). Ciò rappresenta un’unione assai solida e potente. Inoltre, diversi tipi di associazioni sono stati messi in piedi, secondo esigenze e posizioni di ciascuna categoria, come ad esempio: associazioni di studenti in varie scuole, associazioni di compaesani residenti fuori dal loro paese natale, associazioni generali e filiali di associazioni di studenti residenti all’estero, l’Associazione generale dei quotidiani di Shanghai, l’Associazione mondiale degli studenti cinesi, l’Associazione degli studenti rientrati dall’Europa e dagli Stati Uniti d’America a Pechino e a Shanghai, l’Associazione sino-francese per l’istruzione a Pechino, ogni sorta di società di studio (come la Società dell’autorafforzamento, la Società letteraria cristiana, la Società meridionale di studio, la Società degli aspiranti, l’Associazione cinese per l’insegnamento professionale, la Società scientifica cinese, l’Associazione generale della civiltà asiatica), le varie associazioni professionali (nei vari settori e professioni dell’industria e del commercio, come l’Associazione bancaria, l’Associazione dell’industria risicola, ecc.), le associazioni di ricerca nelle varie scuole, come l’Associazione per la ricerca sulla tecnica pittorica e l’Associazione per la ricerca filosofica dell’Università di Pechino, ecc. (ce ne sono a decine), diversi tipi di circoli, ecc.", "zh": "若要追溯我国民众大联合的根源，须从清末各省咨议局的成立和革命党同盟会的创立讲起¹¹。各省咨议局一成立，便彼此联合，呈请立即召开国会；革命党一成立，便向海内外多方号召，以招集军队讨伐满清。辛亥革命，乃是革命党与咨议局合演的一出“淹死黄龙”戏¹²。后来革命党化为国民党，咨议局化为进步党，这便是中国政党的由来。其时民国成立，中央政府召集国会，各省都设省议会。同时，每省又产生三种机关：省教育会、省商会、省农会（有些省还有省工会；许多省的工会与农会相连，湖南即是如此）。同时，每县也产生县教育会、县商会、县农会——民众大联合的规模（只有少数县没有）。这是一种很坚强有力的联合。此外，还按照各阶层的需要与地位，成立了各种团体，例如：各校学生会、旅外同乡会、留外学生总会及分会、上海日报公会、寰球中国学生会、北京及上海欧美同学会、北京中法教育协会、各种学会（如强学会、基督教青年会、南学会、心社、中华职业教育社、中国科学社、亚洲文明协会）、各业工会（工商各行业，如银行公会、米业公会等）、各校研究会（如北京大学画法研究会、哲学研究会等，不下数十）、各种俱乐部等。", "head": false, "audio": "audio/03/s516.mp3", "audio_zh": "audio/03/zs516.mp3"}, {"pid": "s517", "sec": 19, "it": "Tutte queste cose sono il risultato della recente fioritura di iniziative politicoideologiche. Ciò non sarebbe stato permesso né sarebbe stato possibile nel periodo dell’autocrazia. Gli esempi prima riportati sono molto semplici, si tratta più o meno di qualcosa di simile alle piccole unioni di cui abbiamo parlato nella puntata precedente. Solo da poco, come conseguenza degli sconvolgimenti politici e dell’oppressione straniera, si è verificato un aumento di consapevolezza che ha prodotto la forza motrice capace di dare vita a grandi unioni. A questa categoria appartengono le organizzazioni che seguono:", "zh": "所有这些都是近顷政治思想发动的结果。在专制时代，这些既不容许，也不可能。上举各例都很简单，大抵类似我们上篇所说的小联合体。只是近顷政治变动、外敌压迫的结果，才出现觉悟的提高，从而产生了推动力，能够造就大联合体。属于这一类的组织有：", "head": false, "audio": "audio/03/s517.mp3", "audio_zh": "audio/03/zs517.mp3"}, {"pid": "s518", "sec": 19, "it": "Unione nazionale per l’istruzione, Unione nazionale delle camere di commercio, Unione delle settantadue corporazioni di Canton, Unione delle cinquantatre organizzazioni pubbliche di Shanghai, Unione dei giornali commerciali, studenteschi e industriali, Unione nazionale per promuovere la pace, Unione nazionale per la pace, Associazione sino-francese di Pechino, Associazione generale dei cittadini per gli affari esteri, Associazione per la ricostruzione dello Hunan (a Shanghai), Associazione generale dello Shantung (a Shanghai), Associazioni degli studenti a Pechino, Shanghai e in varie città delle province, Unione di tutti i circoli, Unione nazionale degli studenti, ecc.", "zh": "全国教育会联合会、全国商会联合会、广州七十二行联合会、上海五十三公团联合会、全国报界联合会、全国商界联合会、全国和平促进会、全国和平大会、北京中法协会、全国公民外交会、湖南改造促进会（在上海）、山东旅沪同乡会、北京、上海及各省学生联合会、各界联合会、全国学生联合会等。", "head": false, "audio": "audio/03/s518.mp3", "audio_zh": "audio/03/zs518.mp3"}, {"pid": "s519", "sec": 19, "it": "Questi sono tutti esempi di grandi unioni.", "zh": "这些都是大联合的实例。", "head": false, "audio": "audio/03/s519.mp3", "audio_zh": "audio/03/zs519.mp3"}, {"pid": "s520", "sec": 19, "it": "In tutte codeste associazioni, società, circoli, associazioni generali, unioni ci saranno inevitabilmente parecchi agrari, parecchi politicanti, persone queste che non fanno parte delle masse popolari (organizzazioni quali il Parlamento, le Assemblee provinciali, le Associazioni provinciali per l’istruzione, le Associazioni provinciali per l’agricoltura, l’Unione nazionale per promuovere la pace, I’Unione nazionale per la pace non sono altro che associazioni composte esclusivamente da agrari e da politicanti). Ma le associazioni delle diverse professioni e industrie, nonché le varie società di studio e di ricerca sono raggruppamenti genuini di gente comune e di studiosi. Le associazioni degli studenti, l’Unione di tutti i circoli, ecc., sorte di recente, sono poi ancor più genuinamente grandi unioni di masse popolari, sorte per resistere ai potenti di casa nostra e stranieri. Secondo me è proprio qui che va cercata quella forza motrice capace di creare la grande unione delle masse popolari.", "zh": "在这些工会、学会、社、联合会、协会之中，必然夹杂许多地痞、许多政客，这些人本不属于民众之列（例如议会、省议会、教育会、农会、全国和平促进联合会、全国和平联合会等，不过是些纯粹由地痞和政客组成的团体）。而各种职业、产业的协会，以及各种研究会、学术社，则是平民和求学者真正的结集。至于新近成立的学生联合会、各界联合会等，更是真正广大的民众结集，为对抗国内外强权而起。我以为，创造民众大联合所必需的那种动力，正是应当在这里寻求的。", "head": false, "audio": "audio/03/s520.mp3", "audio_zh": "audio/03/zs520.mp3"}, {"pid": "s521", "sec": 19, "it": "Abbiamo o no la capacità di creare la grande unione delle masse popolari nel nostro paese? Abbiamo o no la possibilità di riuscirvi? Per quanto concerne la capacità sussiste qualche dubbio. Finora la nostra gente è stata abituata a che ognuno si gestisce i suoi affari privati in modo da massimizzare il suo profitto personale, anche a scapito del beneficio sociale. I commercianti non sapevano come mettere su una società, i lavoratori non sapevano dar vita a un partito del lavoro, chi studiava non conosceva che il vecchio metodo di “studiare da solo nella sua stanza”, senza preoccuparsi di fare ricerca insieme agli altri. La nostra gente era semplicemente incapace di intraprendere una qualsiasi impresa su vasta scala. Inutile dire che è proprio per questo che le nostre faccende politiche sono andate tanto male. Se abbiamo ottenuto un qualche risultato positivo nei servizi postali e nel monopolio del sale, lo dobbiamo agli stranieri. L’interdizione di avere un commercio marittimo è stata revocata da tempo, eppure non abbiamo ancora nulla in questo settore, neppure una piccola nave che faccia servizio per l’Europa. Le uniche imprese che esistono in Cina, la Compagnia commerciale di navigazione e le miniere di Han Yeh Ping, hanno grossi deficit annuali e quando tali deficit sono particolarmente cospicui si sollecitano investimenti dall’estero.", "zh": "我国有没有能力创造出广大民众的大联合呢？有没有成功的可能呢？关于能力方面，还有几分疑问。至今我们的人民习惯了各自经营私事，以图最大限度地获取个人利益，哪怕以损害社会公益为代价。商人们不懂得如何组织公司，工人们不懂得如何组织劳工政党，读书人只知道“闭门独坐”的老方法，不肯与他人共同研究。我们的人民简直不能开展任何大规模的公共事业。不言而喻，正因为如此，我们的政治事务才搞得一塌糊涂。邮政和盐业专卖之所以能取得一些成绩，还是靠外国人。海禁早已废除，然而我们在这一领域仍旧一无所有，甚至连一艘驶往欧洲的轮船也没有。中国仅有的两所企业——轮船招商局和汉冶萍煤铁公司——每年都有巨额亏损，而当亏损特别巨大时，便乞援于外国的投资。", "head": false, "audio": "audio/03/s521.mp3", "audio_zh": "audio/03/zs521.mp3"}, {"pid": "s522", "sec": 19, "it": "Su tutte le linee ferroviarie gestite dagli stranieri le attrezzature, il servizio e il livello di pulizia sono senz’altro migliori. Non appena una linea ferroviaria viene gestita dal nostro Ministero dei trasporti, diventa uno schifo. Tra gli utenti delle linee Pechino-Hankow, Tientsin-Pukou e Wuchang-Changsha non se ne trova uno che non storca il naso e digrigni i denti! Inoltre, le scuole sono tenute male, l’autogoverno viene male attuato, la vita di famiglia è male organizzata, la vita degli individui pure. E così siamo ridotti a “uccelli con una sola piuma”, dappertutto la stessa monotonia. Non è allora fin troppo semplice parlare di La grande unione delle masse popolari grande unione delle masse popolari? Sarà così facile resistere ai potenti che sono tanto ben radicati?", "zh": "凡由外国人管理的铁路，其设备、服务和整洁程度无疑都要好得多。铁路一旦归我们的交通部管理，便搞得一塌糊涂。京汉、津浦、武长各路的乘客，没有一个不是捏着鼻子、咬着牙的！此外，学校办得不好，自治实行得不好，家庭生活组织得不好，个人生活亦然。于是我们成了\"孤鸿片羽\"，到处都是千篇一律。那么，谈民众的大联合，岂不是太简单了吗？要抵抗那些根基如此深厚的强者，能那么容易吗？", "head": false, "audio": "audio/03/s522.mp3", "audio_zh": "audio/03/zs522.mp3"}, {"pid": "s523", "sec": 19, "it": "Benché lo stato di cose sopra descritto sia reale, ciò non significa che noi siamo intrinsecamente incapaci. Se non abbiamo tale capacità, la causa risiede semplicemente nella nostra mancanza di pratica.", "zh": "虽然上述状况是确实存在的，但这并不意味着我们本质上没有能力。我们之所以没有这种能力，原因仅仅在于我们缺乏实践。", "head": false, "audio": "audio/03/s523.mp3", "audio_zh": "audio/03/zs523.mp3"}, {"pid": "s524", "sec": 19, "it": "Finora e per migliaia di anni, centinaia di milioni di cinesi hanno tutti condotto una vita da schiavi. C’era una sola persona, l’imperatore, che non era uno schiavo (o piuttosto potremmo dire che persino lui era uno schiavo, schiavo del Cielo).", "zh": "过去几千年来，数亿中国人过的都是奴隶般的生活。只有一个人——皇帝——不是奴隶（或者不如说，甚至连他也是奴隶，是天的奴隶）。", "head": false, "audio": "audio/03/s524.mp3", "audio_zh": "audio/03/zs524.mp3"}, {"pid": "s525", "sec": 19, "it": "Dal momento che l’imperatore governava su ogni cosa, a noi non era permesso di esercitare le nostre capacità. Non ci era permesso nella politica, nello studio, nella società, ecc., di avere un nostro pensiero, una nostra organizzazione, una nostra pratica.", "zh": "既然皇帝统治着一切，我们就不被允许施展自己的能力。在政治、学术、社会等等方面，我们都不被允许有自己的思想、自己的组织、自己的实践。", "head": false, "audio": "audio/03/s525.mp3", "audio_zh": "audio/03/zs525.mp3"}, {"pid": "s526", "sec": 19, "it": "Oggi le cose stanno diversamente, stiamo conquistandoci la libertà in ogni campo: libertà di pensiero, libertà politica, libertà economica, libertà nelle relazioni tra uomini e donne, libertà nell’insegnamento. Tutte queste cose vogliono a viva forza uscire a vedere il cielo, finalmente liberate dalle ingiuste condanne a cui erano state soggette. Il popolo cinese possiede straordinarie capacità! Più l’oppressione è profonda, più la reazione è grande. Le cose represse per lungo tempo esploderanno tutte assieme. Azzardo un’incredibile affermazione: un giorno la riforma del popolo cinese sarà più radicale di quella di qualsiasi altro popolo, la società del popolo cinese sarà più luminosa di quella di qualsiasi altro popolo. La grande unione del popolo cinese sarà raggiunta prima che in qualsiasi altro luogo e prima che da qualsiasi altro popolo. Amici! Amici!", "zh": "今日情形大不同了。我们正在各个领域争得自由：思想的自由、政治的自由、经济的自由、男女关系的自由、教育的自由。这一切都要奋然冲决网罗，出来见天日，从久受的不公正判决中解放出来。中国人民具有非凡的创造力！压迫愈深，反抗愈大。长久受压的事物终将一齐爆发。我敢作一个惊人的断语：总有一天，中国人民的革新将比任何其他民族更为彻底，中国人民的社会将比任何其他民族更为光明。中国民众的大联合，将先于任何其他地方、先于任何其他民族而实现。朋友们！朋友们！", "head": false, "audio": "audio/03/s526.mp3", "audio_zh": "audio/03/zs526.mp3"}, {"pid": "s527", "sec": 19, "it": "Impegnamoci fino in fondo! Avanziamo con tutte le nostre forze! La nostra età dell’oro, la nostra età di splendore, sta proprio davanti a noi.", "zh": "努力前进吧！奋勇前进吧！我们的黄金时代、我们的光荣时代，就在眼前。", "head": false, "audio": "audio/03/s527.mp3", "audio_zh": "audio/03/zs527.mp3"}, {"pid": "s528", "sec": 19, "it": "NOTE", "zh": "注释", "head": false, "audio": "audio/03/s528.mp3", "audio_zh": "audio/03/zs528.mp3"}, {"pid": "s529", "sec": 19, "it": "1. La cricca del Peiyang e la cricca del Hsinan erano aggregazioni di signori della guerra,", "zh": "¹ 北洋军阀集团和西南军阀集团都是军阀的集合体，", "head": false, "audio": "audio/03/s529.mp3", "audio_zh": "audio/03/zs529.mp3"}, {"pid": "s530", "sec": 19, "it": "rispettivamente delle province settentrionali e sud-orientali della Cina, che si scontrarono per il controllo della Cina tra il 1916 (morte di Yuan Shih-kai) e il 1928 (installazione del “Governo nazionale” del Kuomintang) e anche oltre.", "zh": "分别为中国北方和东南各省的军阀集团，1916年（袁世凯死后）至1928年（国民党“国民政府”建立）乃至更晚的时期，它们为争夺对中国的控制权而互相厮杀。", "head": false, "audio": "audio/03/s530.mp3", "audio_zh": "audio/03/zs530.mp3"}, {"pid": "s531", "sec": 19, "it": "Il clan Satsuma e il clan Chosou erano due aggregazioni di notabili che ebbero un ruolo importante nella trasformazione del Giappone da paese feudale in paese imperialista, a partire dal colpo di Stato attuato dall’imperatore nel 1868.", "zh": "萨摩藩和長州藩是由士绅名流结成的两个集团。1868年天皇发动政变以后，它们在日本从封建国家变为帝国主义国家的转变过程中起了重要作用。", "head": false, "audio": "audio/03/s531.mp3", "audio_zh": "audio/03/zs531.mp3"}, {"pid": "s532", "sec": 19, "it": "2. Nel 1918 l’esercito del nord dell’alleanza dei signori della guerra del Chihli e", "zh": "2．1918年，直隶系军阀联军的北方军队同湖南、广西两省军阀联军的南方军队作战，", "head": false, "audio": "audio/03/s532.mp3", "audio_zh": "audio/03/zs532.mp3"}, {"pid": "s533", "sec": 19, "it": "dell’Anhwei prevalse sull’esercito del sud dell’alleanza dei signori della guerra dello Hunan e del Kwangsi; l’esercito del sud e il governatore Tan Yen-kai lasciarono lo Hunan che venne occupato dall’esercito del nord. Il signore della guerra Chang Ching-yao divenne il nuovo governatore dello Hunan da cui fu cacciato solo nel 1920.", "zh": "北方军队获胜。南方军队和湖南督军谭延闿退出湖南，湖南为北方军队所占领。军阀张敬尧成为新的湖南督军，直到1920年才被赶出湖南。", "head": false, "audio": "audio/03/s533.mp3", "audio_zh": "audio/03/zs533.mp3"}, {"pid": "s534", "sec": 19, "it": "3. La caratterizzazione che di seguito Mao Tse-tung dà delle teorie di Marx e di Kropotkin", "zh": "3. 毛泽东下面对马克思和克鲁泡特金理论所作的评价，", "head": false, "audio": "audio/03/s534.mp3", "audio_zh": "audio/03/zs534.mp3"}, {"pid": "s535", "sec": 19, "it": "deriva da un articolo dell’inglese Angelo S. Rappoport uscito su Edimburgh Review, nel giugno 1917 e ripubblicato su Gioventù nuova n. 4 e⁵. Anche le comunicazioni culturali della Cina con l’estero erano controllate dalle istituzioni imperialiste e il movimento rivoluzionario cinese dovette pagare anche questo pedaggio per svilupparsi.", "zh": "取自英国人安吉洛·S·拉波波尔特发表于《爱丁堡评论》1917年6月号的一篇文章，该文又转载于《新青年》第4、5期⁵。当时中国同外国的文化交流也受到帝国主义机构的控制，中国革命运动为了发展，也不得不付出这一代价。", "head": false, "audio": "audio/03/s535.mp3", "audio_zh": "audio/03/zs535.mp3"}, {"pid": "s536", "sec": 19, "it": "4. Nei trattati leonini firmati dal governo cinese con il governo giapponese il¹⁶ e¹⁸", "zh": "4. 中国政府同日本政府于¹⁶和¹⁸", "head": false, "audio": "audio/03/s536.mp3", "audio_zh": "audio/03/zs536.mp3"}, {"pid": "s537", "sec": 19, "it": "maggio 1918, l’articolo³ di entrambi i trattati proclamava che le relazioni tra i due governi e i due paesi sarebbero state improntate ad “amicizia”.", "zh": "1918年5月缔结的各项不平等条约，其³条款均宣称两国政府和两国之间的关系应以\"友好\"为基础。", "head": false, "audio": "audio/03/s537.mp3", "audio_zh": "audio/03/zs537.mp3"}, {"pid": "s538", "sec": 19, "it": "5. Lu Jung-ting (1856-1927) era un importante signore della guerra del Kwangsi. Il¹⁵", "zh": "5. 陆荣廷（1856—1927）是广西重要的军阀。¹⁵", "head": false, "audio": "audio/03/s538.mp3", "audio_zh": "audio/03/zs538.mp3"}, {"pid": "s539", "sec": 19, "it": "marzo 1916 dichiarò l’indipendenza del Kwangsi dal Governo di Pechino, contribuendo a far fallire il tentativo di Yuan Shih-kai di fondare una nuova dinastia imperiale.", "zh": "1916年3月，他宣布广西脱离北京政府独立，此举有助于挫败袁世凯建立新帝制的图谋。", "head": false, "audio": "audio/03/s539.mp3", "audio_zh": "audio/03/zs539.mp3"}, {"pid": "s540", "sec": 19, "it": "Tsao Ju-lin (1877-1966) era un funzionario governativo e diplomatico di alto livello, sostenitore di Yuan Shih-kai e membro del clan di Anfu, che ebbe una parte di primo piano nell’accettazione da parte del governo cinese delle richieste del governo giapponese nel periodo della Prima guerra mondiale. Era uno dei personaggi più denunciati dal Movimento del⁴ maggio.", "zh": "曹汝霖（1877—1966）是高级政府官员和外交家，袁世凯的支持者、安福系成员，在第一次世界大战期间中国接受日本政府要求的过程中扮演了重要角色。他是五四运动中被声讨得最厉害的人物之一。⁴", "head": false, "audio": "audio/03/s540.mp3", "audio_zh": "audio/03/zs540.mp3"}, {"pid": "s541", "sec": 19, "it": "6. Il concetto era espresso anche nella dichiarazione rilasciata il²⁵ giugno a Shanghai dal", "zh": "6. 这一概念也体现在6月²⁵日由在上海发表的声明中，该声明由", "head": false, "audio": "audio/03/s541.mp3", "audio_zh": "audio/03/zs541.mp3"}, {"pid": "s542", "sec": 19, "it": "Partito dei lavoratori: “[...] Proponiamo che i lavoratori prendano nelle loro mani la loro situazione e che i lavoratori di ogni ramo anzitutto formino piccole unioni e che successivamente riuniscano queste in una grande unione [...]”.", "zh": "工人党：“[……]我们提议，工人把自己的命运掌握在自己手中，各业工人首先组成小联合会，随后再把这些小联合会联合成一个大工会[……]”。", "head": false, "audio": "audio/03/s542.mp3", "audio_zh": "audio/03/zs542.mp3"}, {"pid": "s543", "sec": 19, "it": "7. Si tratta del Movimento del⁴ maggio.", "zh": "7. 这里指的是五月⁴四运动。", "head": false, "audio": "audio/03/s543.mp3", "audio_zh": "audio/03/zs543.mp3"}, {"pid": "s544", "sec": 19, "it": "8. Era una delle numerose società segrete esistenti in Cina, particolarmente forte nello", "zh": "8. 它是当时中国众多秘密会社之一，特别在", "head": false, "audio": "audio/03/s544.mp3", "audio_zh": "audio/03/zs544.mp3"}, {"pid": "s545", "sec": 19, "it": "Hunan, nello Hupeh, nello Kweichow e nello Szechwan.", "zh": "湖南、湖北、贵州和四川十分强大。", "head": false, "audio": "audio/03/s545.mp3", "audio_zh": "audio/03/zs545.mp3"}, {"pid": "s546", "sec": 19, "it": "9. Imperatore Hunghsien (ossia Imperatore della grande Costituzione) era il titolo che si", "zh": "9. 洪宪皇帝是袁世凯", "head": false, "audio": "audio/03/s546.mp3", "audio_zh": "audio/03/zs546.mp3"}, {"pid": "s547", "sec": 19, "it": "era dato Yuan Shih-kai nel suo tentativo di restaurazione imperiale (1915-1916).", "zh": "在其帝制复辟的尝试（1915—1916年）中给自己所加的帝号。", "head": false, "audio": "audio/03/s547.mp3", "audio_zh": "audio/03/zs547.mp3"}, {"pid": "s548", "sec": 19, "it": "La grande unione delle masse popolari", "zh": "民众的大联合", "head": false, "audio": "audio/03/s548.mp3", "audio_zh": "audio/03/zs548.mp3"}, {"pid": "s549", "sec": 19, "it": "10.  Allusione alla rivolta antibritannica del Punjab (marzo-aprile 1919) e al Movimento per", "zh": "10. 指旁遮普的反英起义（1919年3月至4月）和……运动", "head": false, "audio": "audio/03/s549.mp3", "audio_zh": "audio/03/zs549.mp3"}, {"pid": "s550", "sec": 19, "it": "l’indipendenza scoppiato in Corea il¹° marzo 1919 contro l’oppressione giapponese (il governo giapponese aveva imposto il suo protettorato sulla Corea nel 1905 e l’aveva annessa nel 1910).", "zh": "1919年3月1日¹在朝鲜爆发的反对日本压迫的独立运动（日本政府于1905年对朝鲜强行建立保护关系，并于1910年将其吞并）。", "head": false, "audio": "audio/03/s550.mp3", "audio_zh": "audio/03/zs550.mp3"}, {"pid": "s551", "sec": 19, "it": "11. Nel luglio 1908 il Governo imperiale cinese emise un decreto sulla costituzione di", "zh": "11. 1908年7月，清朝帝国政府颁布了关于设立", "head": false, "audio": "audio/03/s551.mp3", "audio_zh": "audio/03/zs551.mp3"}, {"pid": "s552", "sec": 19, "it": "un’assemblea in ogni provincia dell’impero e le assemblee si riunirono nell’ottobre del 1909.", "zh": "帝国各省谘议局的诏令，各省谘议局于1909年10月开会。", "head": false, "audio": "audio/03/s552.mp3", "audio_zh": "audio/03/zs552.mp3"}, {"pid": "s553", "sec": 19, "it": "La Tung Meng Hui (Lega unitaria dei rivoluzionari cinesi) fu fondata a Tokio il²⁰ agosto 1905 da Sun Yat-sen, Huang Hsing e altri. Nel 1912 si trasformò nel Kuomintang (Partito nazionale del popolo).", "zh": "中国同盟会（中国革命者统一同盟）由孙中山、黄兴等人于1905年8月20日²⁰在东京成立。1912年改组为国民党（人民民族党）。", "head": false, "audio": "audio/03/s553.mp3", "audio_zh": "audio/03/zs553.mp3"}, {"pid": "s554", "sec": 19, "it": "12. Dramma tradizionale con cui si celebravano le vittorie. La denominazione cinese", "zh": "12. 旧剧名，用以庆贺胜利。中文名称的含义", "head": false, "audio": "audio/03/s554.mp3", "audio_zh": "audio/03/zs554.mp3"}, {"pid": "s555", "sec": 19, "it": "significa anche “bere la coppa della vittoria in battaglia”.", "zh": "亦为“饮庆功之酒”。", "head": false, "audio": "audio/03/s555.mp3", "audio_zh": "audio/03/zs555.mp3"}, {"pid": "s556", "sec": 19, "it": "Questo testo è un collage di pezzi tratti da nove articoli che Mao Tse-tung pubblicò nel quotidiano di Changsha, Ta Kung Pao, dal¹⁶ al³⁰ novembre 1919, dopo che il¹⁴ dello stesso mese una studentessa, Chao Wu-chieh, costretta a sposare un uomo contro la sua volontà, si era uccisa tagliandosi la gola con un coltello sul palanchino che la stava portando alla casa dello sposo. La liberazione della donna era una questione centrale nel movimento rivoluzionario cinese, i cui membri posero pubblicamente vari problemi (riforma del sistema familiare, riforma del matrimonio, divorzio, educazione comune dei figli, libertà ed eguaglianza sessuale, diritti politici, ecc.) come parte del rinnovamento cercato. La lotta contro la morale confuciana delle tre lealtà (del suddito verso il sovrano, del figlio verso i genitori, della donna verso il marito), contro la famiglia patriarcale e il sistema dei clan e a favore della libertà individuale, dell’indipendenza e della parità sessuale sono oggetto anche di altri articoli di Mao Tse-tung su vari periodici (anche di organizzazioni femminili) pubblicati nell’epoca a Changsha, che era uno dei centri del movimento rivoluzionario cinese.", "zh": "本文是毛泽东1919年11月¹⁶日至³⁰日在长沙《大公报》上发表的九篇文章的摘编。同年11月¹⁴日，女学生赵五贞被迫违心嫁人，在喜轿上持刀自刎身亡。妇女的解放是中国革命运动的一个中心问题，革命运动的成员公开提出了各种问题（家庭制度改革、婚姻改革、离婚、子女共同教育、性的自由与平等、政治权利等等），作为所追求的革新事业的一部分。毛泽东当时在长沙的多种刊物（包括妇女团体刊物）上发表的其他文章，也论及反对儒家三从（臣从君、子从父、妇从夫）道德、反对家长制家庭和宗族制度、争取个人自由、独立与男女平等等问题，而长沙正是中国革命运动的中心之一。", "head": false, "audio": "audio/03/s556.mp3", "audio_zh": "audio/03/zs556.mp3"}, {"pid": "s557", "sec": 19, "it": "Quando nella società avviene un fatto, non può essere considerato insignificante. Le circostanze di un evento contengono tutte le cause del suo verificarsi.", "zh": "社会上发生了一件事，就不能看作无关紧要。一件事的种种情由，包含着它发生的全部原因。", "head": false, "audio": "audio/03/s557.mp3", "audio_zh": "audio/03/zs557.mp3"}, {"pid": "s558", "sec": 19, "it": "L’evento di ieri è stato molto importante e le sue circostanze sono state il nostro abominevole sistema di matrimonio, il sistema sociale oscurantista, la mancanza di libertà di pensiero e la negazione della libertà di amare. [...] Sono sempre e soltanto le circostanze che spingono una persona al suicidio.", "zh": "昨天的事件非常重要，其背景就是我们那可恶的婚姻制度、那愚昧的社会制度、思想自由之缺乏以及恋爱自由之被否定。[……] 永远只是环境才驱使一个人走向自杀。", "head": false, "audio": "audio/03/s558.mp3", "audio_zh": "audio/03/zs558.mp3"}, {"pid": "s559", "sec": 19, "it": "Originariamente la signorina Chao voleva forse morire? Proprio all’opposto, voleva vivere. Se invece ha finito col darsi la morte è perché le circostanze ve l’hanno spinta. Le circostanze che hanno determinato l’atto mortale della signorina Chao sono state: 1. la società cinese; 2. la famiglia Chao di via Nanyang a Changsha; 3. la famiglia Wu di via Kantzuyuan a Changsha, la famiglia cioè dell’uomo che lei rifiutava come marito. Questi tre fattori formavano come un reticolato di ferro che delimitava una sorta di gabbia triangolare. La ragazza, prigioniera in questa gabbia triangolare, aspirava alla vita ma per lei non c’era modo di vivere; ora, il contrario della vita è la morte e la signorina Chao è stata così spinta verso la morte. [...] Se soltanto uno di quei tre fattori non avesse formato una gabbia di ferro, o se una delle reti si fosse aperta, la signorina Chao sicuramente non sarebbe morta.", "zh": "赵小姐原本想死吗？恰恰相反，她是想活的。然而她最终自尽，是因为环境把她逼到了这一步。造成赵小姐之致命行为的环境是：一、中国社会；二、长沙南乡街赵家；三、长沙卡子园吴家，即她拒绝与之成婚的那个男人的家庭。这三个因素构成了一张像铁网一般的东西，围成一个三角形的笼子。这个姑娘被囚在这三角形的笼子里，渴望着生，却没有办法活下去；而生之反面就是死，赵小姐于是被推向了死亡。[……] 只要那三个因素中有一个形不成铁笼，或者有一张网张开了口子，赵小姐是一定不会死的。", "head": false, "audio": "audio/03/s559.mp3", "audio_zh": "audio/03/zs559.mp3"}, {"pid": "s560", "sec": 19, "it": "Se i genitori della signorina Chao avessero accettato la libera volontà della ragazza e non fossero ricorsi alla forza, la signorina Chao sicuramente non sarebbe", "zh": "如果赵小姐的父母接受了这姑娘的自由意志，而不诉诸强力，赵小姐是一定不会", "head": false, "audio": "audio/03/s560.mp3", "audio_zh": "audio/03/zs560.mp3"}, {"pid": "s561", "sec": 20, "it": "IL SUICIDIO DELLA SIGNORINA CHAO", "zh": "赵女士自杀事件", "head": true, "audio": "audio/03/s561.mp3", "audio_zh": "audio/03/zs561.mp3"}, {"pid": "s562", "sec": 20, "it": "(16-30 novembre 1919) morta. Se i genitori della signorina Chao non fossero ricorsi alla forza ma avessero permesso alla figlia di spiegare il suo punto di vista e le ragioni del suo rifiuto del futuro marito o se il futuro marito avesse accettato il punto di vista della ragazza e rispettato la sua libertà individuale, la signorina Chao sicuramente non sarebbe morta. Ma persino se i genitori della signorina Chao e il futuro marito avessero rifiutato di conformarsi alla libera volontà della ragazza, ma almeno ci fosse stata nella società una forte corrente di opinione pubblica che la sostenesse, un mondo diverso dove la fuga dalla casa dei genitori per cercare scampo altrove non fosse considerato un fatto disonorevole ma onorevole, anche in questo caso la signorina Chao sicuramente non sarebbe morta. Oggi la signorina Chao è morta perché era prigioniera di tre solide reti di ferro (la società, la sua famiglia e il suo futuro marito). Lei desiderava vivere, ma alla fine è stata spinta a darsi la morte. [...] Quel che è successo è grave. Quel che è successo, è successo per colpa del vergognoso sistema dei matrimoni combinati, per colpa del sistema sociale oscurantista, è frutto della negazione della libertà individuale e della mancanza di libertà nella scelta del proprio compagno. È da sperare che le persone interessate riflettano su tutti gli aspetti di questo episodio e difendano l’onore di una ragazza che è morta martire della causa della libertà di scegliersi il proprio amore. [...] Sia la famiglia della ragazza che la famiglia del futuro marito sono legate alla società, fanno parte entrambe della società. Queste due famiglie hanno commesso un delitto, ma dobbiamo capire che le radici di questo delitto affondano nella società. È vero che questo delitto è stato perpetrato dalle due famiglie, ma la maggior parte della colpa risale alla società. In una società buona le due famiglie, anche se avessero voluto, non avrebbero avuto la possibilità di commettere questo delitto. [...] [Se per sottrarsi a un matrimonio non voluto una ragazza scappasse con il suo amato, nel giro di un paio di giorni i parenti la riprenderebbero e] dopo averla ricompensata con una tremenda bastonata e averla messa sotto chiave, i genitori le imporrebbero un cosiddetto matrimonio “ideale” con l’ottuso fidanzato. E l’opinione pubblica sosterrebbe: “È stato proprio ben fatto; una fuga come questa con il suo amante, dimostra che lei non ha il senso della dignità...”. Certo, finché si è schiavi dei pregiudizi ora diffusi, la famiglia che ha generato una ragazza del genere morirebbe davvero di vergogna. Questa giovane ragazza si è comportata come un’estremista. Non solo non ha avuto paura di una grande sofferenza, ma ha anche messo in gioco la sua vita nella lotta contro l’impossibile. Che cosa aveva ancora da guadagnare? A mio parere c’erano solo tre cose che poteva ottenere: una, essere perseguitata; l’altra, essere percossa; la terza, essere derisa. [...] Il fatto che nella nostra società vi siano fattori che hanno causato la morte della signorina Chao, significa che questa società è una cosa molto pericolosa. Ha provocato la morte della signorina Chao come avrebbe potuto provocare quella della signorina Chieh, della signorina Sun o della signorina Li. Come uccide le donne può uccidere anche gli uomini. Tutti noi, che siamo vittime potenziali, dobbiamo stare in guardia di fronte a questa cosa tanto pericolosa che può infliggerci colpi mortali. Dobbiamo protestare ad alta voce, avvertire gli altri esseri umani che non sono ancora morti, condannare gli infiniti mali della nostra società. [...] [Quanto al sistema di matrimonio in uso da noi] la più grande superstizione è la “dottrina dei matrimoni predestinati”. Non appena uno abbandona il ventre materno, si dice che il suo matrimonio è stato stabilito. Quando diventa adulto e deve sposarsi, non può mai osare sollevare lui stesso il problema del matrimonio.", "zh": "（一九一九年十一月十六日至三十日）死去了。如果赵小姐的父母不是诉诸暴力，而是允许女儿申说自己的主张和拒绝未婚夫的理由；或者如果未婚夫接受姑娘的观点，尊重她的个人自由，那么赵小姐一定不会死。但即使赵小姐的父母和未婚夫不肯屈从姑娘的自由意志，只要社会上有一股强大的舆论潮流支持她，有一个不同的天地，把逃离父母家庭、远走他乡寻求出路视为光荣而非可耻，那么赵小姐也一定不会死。今天赵小姐死了，因为她被三副坚固的铁网（社会、她的家庭和她的未婚夫）所囚禁。她想活下去，但最终被迫走上了自杀的道路。……发生的事十分严重。这件事之所以发生，是可耻的包办婚姻制度的罪过，是黑暗蒙昧的社会制度的罪过，是个人自由被否定、自主择偶自由缺失的恶果。希望有关人士对此事件作全面的反思，捍卫一位姑娘的名誉，她是为争取自由恋爱的权利而牺牲的烈士。……姑娘的家庭和未婚夫的家庭都与社会相联系，都属于社会的一部分。这两家犯了罪，但我们必须明白，这一罪恶的根源深植于社会。诚然，这一罪行是这两家所犯，但大部分的罪责应归咎于社会。在一个良好的社会里，这两家即使想犯这个罪，也不可能有犯这个罪的条件。……[如果一个姑娘为了摆脱不想要的婚姻而与情人私奔，不出几天，亲属就会把她抓回去，]把她痛打一顿之后关起来，父母还会强迫她与那个愚蠢的未婚夫结成所谓\"理想\"的婚姻。而舆论会支持说：\"打得好；她和情人私奔，说明她没有廉耻之心……\"。当然，在眼下流行的偏见支配之下，生出这种女儿的人家确实会羞死。这位年轻的姑娘表现得像一个极端分子。她不仅不怕巨大的苦难，而且不惜以自己的生命与不可能之事作斗争。她还有什么可争取的呢？在我看来，她只能得到三样东西：一是被迫害，二是挨打，三是被嘲笑。……在我们的社会里存在导致赵小姐死亡的因素，这意味着这个社会是一个非常危险的东西。它导致了赵小姐的死亡，正如它本可以导致赵洁小姐、孙小姐或李小姐的死亡一样。它既然能杀害妇女，也能杀害男子。我们大家都是潜在的受害者，必须警惕这个能给我们以致命打击的危险之物。我们必须大声抗议，提醒尚未死去的人们，谴责我们社会的无穷罪恶。……[至于我们现行的婚姻制度]最大的迷信是\"婚姻命定\"之说。一个人刚从母腹降生，人们就说他的婚姻已经注定。到他成年该结婚的时候，自己绝不能敢于提出婚姻问题。", "head": false, "audio": "audio/03/s562.mp3", "audio_zh": "audio/03/zs562.mp3"}, {"pid": "s563", "sec": 20, "it": "Egli semplicemente invita i genitori e il mezzano a combinarlo. Può discutere il matrimonio con i suoi genitori e il mezzano, ma, comunque sia, esso è già stato precedentemente stabilito e incontestabilmente “tutto è stato fatto così bene”. [...] Tutte queste coppie il cui focolare domestico si dice che sia completamente tranquillo, hanno i loro petti gonfi dei quattro grandi caratteri che indicano il “matrimonio predestinato”. Ripetono ritornelli del tipo “matrimoni fatti in cielo”, e così via. [...] I matrimoni contratti conformemente alla dottrina dei matrimoni predestinati costituiscono approssimativamente l’⁸⁰ per cento di tutti i matrimoni cinesi. [...] Su questa dottrina dei matrimoni predestinati si basano altre irrazionali credenze, come quella dei “matrimoni stabiliti nel ventre materno” e “combinare un matrimonio con il bimbo in braccio”: derivano tutte dalla stessa superstizione di fondo. Ognuno considera questo come una sorta di “magnifico destino”.", "zh": "他只是请父母和媒人替他操办。他固然可以和父母及媒人商议婚事，但无论如何，婚事早已事先定了下来，无可争辩地\"样样都安排得妥妥当当\"。……所有那些据说家庭灶头十分安宁的夫妻，胸中无不装着\"婚姻天定\"四个大字。他们翻来覆去地念叨着\"天作之合\"之类的老调。……按照婚姻天定论缔结的婚姻，约占中国全部婚姻的⁸⁰％。……在这婚姻天定论之上，还衍生出其他种种荒谬的迷信，诸如\"指腹为婚\"、\"抱子成婚\"之类：全都出于同一根本的迷信。人人都把这当作一种\"天赐良缘\"。", "head": false, "audio": "audio/03/s563.mp3", "audio_zh": "audio/03/zs563.mp3"}, {"pid": "s564", "sec": 20, "it": "Nessuno ha mai immaginato che sia tutto uno sbaglio. Se chiedi a uno le ragioni delle sue azioni, egli tira fuori il “matrimonio predestinato”.", "zh": "从来没有人想到这全然是一个错误。你若问一个人行事的缘由，他便搬出\"婚姻天定\"来作答。", "head": false, "audio": "audio/03/s564.mp3", "audio_zh": "audio/03/zs564.mp3"}, {"pid": "s565", "sec": 20, "it": "Se vogliamo promuovere una campagna per la riforma dell’istituto matrimoniale tradizionale dobbiamo prima di tutto abolire le superstizioni sul matrimonio, la credenza che i matrimoni siano predestinati dal fato. Demolite queste concezioni, svanirà il pretesto del quale si fa scudo il sistema dei matrimoni combinati dai genitori e si farà immediatamente strada nella società il concetto della “incompatibilità tra marito e moglie”. Con l’affermazione del concetto dell’incompatibilità tra marito e moglie, l’esercito della rivoluzione familiare diventerà infinitamente numeroso e tutta la Cina sarà sommersa dalla grande ondata della libertà di amare. [...] Chi si suicida non è spinto dalla volontà di cercare la morte. Egli non sta direttamente cercando la morte. Al contrario il suicidio è la maniera estrema di volere la vita. La ragione per cui nella società ci sono persone che vogliono suicidarsi, è che la società si impadronisce delle loro speranze e le distrugge totalmente, con il risultato che essi vengono lasciati completamente senza speranza. Quando la società si impadronisce delle speranze di qualcuno e lo lascia completamente senza speranza, allora quella persona inevitabilmente si suiciderà. [...] Più la società farà sì che le persone perdano le loro speranze, più numerose saranno le persone che si suicideranno. [...] Personalmente penso che il suicidio debba essere rifiutato. [...] Prima di tutto, scopo dell’uomo è vivere; dunque l’uomo non dovrebbe mai andare contro la propria tendenza naturale dandosi la morte. [...] In secondo luogo, proprio perché la gente è spinta al suicidio dal fatto che la società la priva di ogni speranza, noi Il suicidio della signorina Chao dovremmo lottare contro la società per riavere le speranze che abbiamo perduto. [...] Noi dovremmo morire combattendo. [...] In terzo luogo, se la gente rispetta coloro che hanno coraggiosamente posto fine alla propria esistenza, ciò non significa che rispetti il suicidio in sé ma che rispetta il coraggioso spirito di resistenza alla forza bruta che ha ispirato le persone che si sono suicidate. [...] È molto, ma molto meglio essere uccisi in battaglia che togliersi la vita! Obiettivo della lotta non è essere uccisi dagli altri, ma realizzare la propria vera personalità.", "zh": "我们若要推动改革传统婚姻制度的宣传运动，首先就必须破除婚姻迷信，破除那种婚姻系命中注定的观念。这些观念一经破除，父母包办婚姻制度所赖以庇护的口实也就消失，而“夫妇不和”的观念便会立即在社会上传播开来。夫妇不和的观念一旦确立，家庭革命的军队便会无限扩大，全中国都将被恋爱自由的大浪潮所淹没。……自杀的人并非出于求死的意愿。他并非直接在寻求死亡。恰恰相反，自杀是追求生命的一种极端方式。社会上之所以有人要自杀，是因为社会夺去了他们的希望并将其彻底毁灭，致使他们完全陷于绝望之中。当社会夺去了某人的希望而使他完全绝望时，那人便不可避免地要自杀。……社会使人失去的希望越多，自杀的人也就越多。……我个人认为，自杀应当加以反对。……第一，人生的目的在于生，因此人绝不应违背自己求生之本性而自戕。……第二，正因为人们是被社会剥夺了一切希望而被迫走向自杀的，所以我们赵女士自杀的事情我们应当向社会作斗争，夺回我们所失去的希望。……我们应该在斗争中死去。……第三，人们敬重那些勇敢地结束自己生命的人，这并不意味着敬重自杀本身，而是敬重那种激发自杀者反抗强暴的勇敢反抗精神。……在斗争中被人杀死，远比自杀好得多，好得多啊！斗争的目的不是被别人杀死，而是实现自己真正的人格。", "head": false, "audio": "audio/03/s565.mp3", "audio_zh": "audio/03/zs565.mp3"}, {"pid": "s566", "sec": 20, "it": "Chi nonostante tutti i suoi sforzi non vi riesce, chi lotta fino alla morte sacrificando se stesso, sarà considerato esempio di supremo coraggio e la sua tragedia impressionerà profondamente le menti degli uomini! [...]", "zh": "凡竭尽全力仍不能达到目标、斗争到底而自我牺牲的人，将被视为最高勇气的典范，其悲剧将深深震撼世人的心灵！〔……〕", "head": false, "audio": "audio/03/s566.mp3", "audio_zh": "audio/03/zs566.mp3"}]};
+window.__GRIMM_STORIES__['03'] = {
+  "id": "03",
+  "title_it": "Rivista del Fiume Hsiang (1919)",
+  "title_zh": "《湘江评论》",
+  "paras": [
+    {
+      "pid": "s001",
+      "sec": 2,
+      "it": "Presentazione",
+      "zh": "《序言》",
+      "head": true,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s002",
+      "sec": 2,
+      "it": "Da quando è risuonato il grande appello alla rivoluzione mondiale¹, il movimento per l’emancipazione dell’umanità ha fatto enormi progressi.",
+      "zh": "自从世界革命的伟大号召发出¹以来，人类解放运动取得了巨大的进步。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s003",
+      "sec": 2,
+      "it": "Problemi che la nostra gente non si era mai posta prima, metodi che non aveva mai usato, espressioni da cui era sempre rifuggita: oggi tutto questo sta cambiando dappertutto.",
+      "zh": "我国人民过去从未提出的问题，从未采用过的方法，一向回避的表达方式：今天这一切到处都在改变。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s004",
+      "sec": 2,
+      "it": "L’indiscusso viene messo in discussione, ciò che non era mai stato impiegato viene impiegato, espressioni mai usate vengono proferite.",
+      "zh": "毋庸置疑的事物受到了质疑，从未使用过的东西被使用起来，从未说过的言辞被说了出来。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s005",
+      "sec": 2,
+      "it": "Nessuna forza può fermare questa corrente.",
+      "zh": "任何力量都无法阻挡这股潮流。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s006",
+      "sec": 2,
+      "it": "Nessuno può sottrarsi al suo influsso.",
+      "zh": "任何人都无法逃避它的影响。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s007",
+      "sec": 2,
+      "it": "Qual è al mondo il problema principale?",
+      "zh": "世界上主要的问题是什么？吃饭无疑是问题\nRivista del Fiume Hsiang — numero 1 (14 luglio 1919)\n\nprincipale. Qual è la forza più potente? L’unione delle masse popolari è senz’altro la forza più potente. Di cosa non si deve avere paura? Non si deve avere paura del Cielo, dei diavoli, dei morti, dei burocrati, dei signori della guerra e dei capitalisti.\n\nNell’epoca del Rinascimento il pensiero si è liberato e da allora la questione “che genere di vita devono condurre gli uomini” si è posta come un problema centrale.\n\nIl problema è stato studiato e si è arrivati a varie conclusioni: uno dice che bisogna vivere in questo modo, un altro dice che bisogna vivere in quest’altro modo.\n\nUn certo numero di studiosi propugna una nuova strada e la gran massa della gente li segue: così siamo riusciti, o riusciremo in futuro, a cambiare il mondo in molti campi.\n\nIn campo religioso vi è stata la Riforma e come risultato abbiamo avuto la libertà di religione.\n\nNel campo della letteratura siamo passati da una letteratura dell’aristocrazia, una letteratura classica, una letteratura morta, alla letteratura della gente comune, una letteratura moderna, una letteratura viva. Nel campo della politica siamo passati da una politica autocratica al parlamentarismo, dalla rappresentanza di pochi alla rappresentanza di tutti. In campo sociale ci siamo mossi da una società tenebrosa dominata dal potere dispotico di classi minoritarie verso una società luminosa in cui tutta la gente può svilupparsi. Nel campo dell’istruzione siamo andati nella direzione dell’istruzione per la gente comune. In campo economico siamo andati nella direzione di un guadagno proporzionale al lavoro. Nel campo della filosofia siamo andati in direzione del metodo sperimentale. Nel campo delle relazioni internazionali siamo arrivati alla Lega delle Nazioni.\n\nTutti questi cambiamenti possono essere riassunti in un’unica espressione: “emancipazione dall’autorità”. La concezione base di queste varie forme di resistenza all’autorità è il democraticismo. L’autorità non può più resistere in nessun campo: nella religione, nell’educazione, nell’economia, in filosofia, nelle relazioni internazionali.\n\nTutti questi campi devono essere messi a soqquadro in nome del democraticismo.\n\nCi sono due teorie circa il metodo da seguire per rovesciare l’autorità, una radicale, l’altra moderata. Dobbiamo scegliere tra questi due metodi.\n湘江评论——第1号（1919年7月14日）\n主要之点。什么力量最强？民众的大联合，毫无疑问是最强的力量。什么不可怕？天不可怕，鬼不可怕，死人不可怕，官僚不可怕，军阀不可怕，资本家不可怕。文艺复兴时代，思想得到解放，自此以后，\"人生应当怎样生活\"的问题，便成为中心问题。这个问题经过研究，得出了种种结论：一个人说应当这样生活，另一个人说应当那样生活。若干学者倡导一条新路，广大群众追随他们：于是我们已经在许多方面改变了世界，或者将来会改变世界。在宗教领域发生了宗教改革，其结果是我们获得了宗教信仰自由。在文学领域，我们从贵族文学、古典文学、死文学，走向平民文学、现代文学、活文学。在政治领域，我们从专制政治走向议会制，从少数人的代表走向全体人的代表。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s008",
+      "sec": 2,
+      "it": "Mangiare è senz’altro il problema",
+      "zh": "在社会领域，我们从少数阶级专制统治下的黑暗社会，走向人人都能得到发展的光明社会。在教育领域，我们走向平民教育的方向。在经济领域，我们走向按劳取酬的方向。在哲学领域，我们走向实验方法的方向。在国际关系领域，我们达到了国际联盟。所有这些变化，可以用一个说法来概括：\"摆脱权威的束缚\"。这些反抗权威的种种形式的基本观念，就是民主主义。权威在任何一个领域都不能再站得住脚了：在宗教、教育、经济、哲学、国际关系，都是如此。所有这些领域，都必须以民主主义的名义彻底加以颠覆。关于推翻权威所应采取的方法，有两种理论，一种是激进的，一种是温和的。我们必须在这两种方法之间作出选择。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s009",
+      "sec": 2,
+      "it": "1..Riconosciamo che le persone che esercitano l’autorità sono anche loro",
+      "zh": "一、我们承认，掌权的人也是人，与我们同属一类；",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s010",
+      "sec": 2,
+      "it": "uomini, che sono del nostro stesso genere; che essi abusano dell’autorità perché non si rendono conto del male che fanno e così fanno del male anche a loro stessi; che il loro comportamento è il risultato dell’influenza e dei guasti della vecchia società e del vecchio modo di pensare.",
+      "zh": "他们滥用权威，是因为他们意识不到自己行为的害处，因而也害了他们自己；他们的行为是旧社会和旧思想的影响与流弊造成的。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s011",
+      "sec": 2,
+      "it": "2..Impieghiamo l’autorità per abbattere l’autorità. Il risultato è che ciò che",
+      "zh": "二、我们以权威去推翻权威，结果所得到的仍然是权威。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s012",
+      "sec": 2,
+      "it": "otteniamo è ancora autorità. Questo metodo non solo è contraddittorio in se stesso ma è anche privo di ogni efficacia.",
+      "zh": "这种方法不但自相矛盾，而且毫无效力。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s013",
+      "sec": 2,
+      "it": "La guerra tra gli Imperi Centrali e l’Intesa e, in Cina, la guerra tra il nord e il sud sono esempi di questo secondo metodo.",
+      "zh": "协约国与中央帝国之间的战争，以及中国南北之间的战争，就是这种第二种方法的例子。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s014",
+      "sec": 2,
+      "it": "Questo è il nostro parere.",
+      "zh": "这就是我们的主张。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s015",
+      "sec": 2,
+      "it": "In campo accademico riteniamo che si debbano compiere studi più profondi.",
+      "zh": "在学术方面，我们认为应当进行更深入的研究。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s016",
+      "sec": 2,
+      "it": "Bisogna cercare la verità superando i limiti rappresentati dalla tradizione e dalla superstizione.",
+      "zh": "必须冲破传统和迷信的束缚，寻求真理。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s017",
+      "sec": 2,
+      "it": "Per quanto concerne i rapporti tra gli uomini, riteniamo che sia necessaria l’unione delle masse per lanciare “campagne di messa in guardia” di lunga durata verso l’autorità, per portare avanti una “rivoluzione di grida” (grida per il pane, grida per l’uguaglianza), una rivoluzione incruenta, una rivoluzione che non arrivi a creare grandi disordini e non arrivi a inutili “rivoluzioni di bombe” e “rivoluzioni sanguinose”.",
+      "zh": "就人与人之间的关系而言，我们认为必须联合群众，对权势者进行持久的“警告运动”，开展一场“呼声革命”（为面包而呼号，为平等而呼号）——一场不流血的革命，一场不造成大乱的革命，一场不至于酿成无谓的“炸弹革命”和“流血革命”的革命。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s018",
+      "sec": 2,
+      "it": "Un problema particolarmente pressante per noi è costituito dai soprusi del Giappone.",
+      "zh": "对我们来说，特别迫切的问题是日本的压迫。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s019",
+      "sec": 2,
+      "it": "Il metodo più efficace, sia diretto che indiretto, per opporsi ai soprusi del Giappone sta nello sciopero degli studenti, nella chiusura dei negozi, negli scioperi operai, nel boicottaggio delle merci giapponesi.",
+      "zh": "反对日本压迫的最有效方法，无论是直接的还是间接的，就是学生罢课、商店罢市、工人罢工和抵制日货。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s020",
+      "sec": 2,
+      "it": "Il fiume Hsiang scorre nella parte orientale dell’emisfero orientale della terra.",
+      "zh": "湘江流经地球东半球的东部。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s021",
+      "sec": 2,
+      "it": "Le sue acque sono limpide, il suo corso è assai lungo.",
+      "zh": "河水清澈，流程绵长。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s022",
+      "sec": 2,
+      "it": "Coloro che abitano sulle terre bagnate da questo fiume sono ignoranti e non sono molto addentro alle cose del mondo.",
+      "zh": "居住在这条河流两岸土地上的人愚昧无知，对世事所知甚少。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s023",
+      "sec": 2,
+      "it": "Essi non vivono in una società organizzata, ma vivono sparsi e isolati e ciascuno si occupa dei propri affari.",
+      "zh": "他们不是生活在有组织的社會之中，而是零散孤立，各自营生。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s024",
+      "sec": 2,
+      "it": "Conoscono solo ciò che li riguarda personalmente, vedono soltanto ciò che è loro vicino nel senso più stretto della parola; si occupano solo dell’immediato, senza lungimiranza e prospettiva e non si sono mai neppure sognati di vivere assieme né di spingersi un po’ più in là con le proprie azioni.",
+      "zh": "他们只知道与自己切身相关的事情，只看得见最狭义的身边事物；只顾眼前，没有远见和眼光，甚至从未梦想过共同生活，也从未梦想过把自己的行动推进一步。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s025",
+      "sec": 2,
+      "it": "In politica non sanno affrontare i problemi in modo da arrivare a una composizione e a soluzioni definitive: si limitano a beghe personali.",
+      "zh": "在政治方面，他们不懂得如何着手处理问题以达成妥协和最终的解决：只是斤斤于个人间的琐屑纠纷。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s026",
+      "sec": 2,
+      "it": "Un gruppo di insegnanti burocrati, sterili e rinsecchiti, domina stabilmente la scuola, la considera come una sorta di carcere e tratta gli studenti come dei prigionieri.",
+      "zh": "一群昏庸、干瘪、迂腐的学究，牢牢地支配着学校，把学校视为一种监狱，把学生当作囚犯。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s027",
+      "sec": 2,
+      "it": "Gli hunanesi, nella loro grande maggioranza, hanno sviluppato poco o niente l’industria.",
+      "zh": "湖南人绝大多数几乎没有发展工业。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s028",
+      "sec": 2,
+      "it": "Tra di loro ci sono persone capaci che hanno studiato all’estero e in diverse regioni del paese sia materie scientifiche che artistico-letterarie.",
+      "zh": "其中有些人到国外和国内各地区学过科学以及艺术文学等科。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s029",
+      "sec": 2,
+      "it": "Ma non hanno mai avuto l’occasione di mettere in pratica il loro talento.",
+      "zh": "但他们从来没有机会施展自己的才能。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s030",
+      "sec": 2,
+      "it": "Ogni loro sforzo è stato completamente bloccato, come le acque del lago Tungting² sono bloccate dalle chiuse.",
+      "zh": "他们的一切努力都被完全堵死了，正如洞庭湖²的水被闸坝堵住一样。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s031",
+      "sec": 2,
+      "it": "Tra di loro è forte anche il regionalismo: si attengono alla linea “il riso dello Hunan deve restare agli hunanesi” e il mondo scolastico e industriale dello Hunan non assorbe molte persone che vengono da fuori provincia.",
+      "zh": "他们中间地方主义也很强烈：恪守“湖南的米应当归湖南人”这一信条，湖南的教育界和实业界不愿大量吸收外省来的人。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s032",
+      "sec": 2,
+      "it": "Il loro pensiero è debole e corrotto.",
+      "zh": "他们的思想脆弱而腐败。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s033",
+      "sec": 2,
+      "it": "C’è un bisogno bruciante di riforme ma nessuno prende l’iniziativa.",
+      "zh": "改革的迫切需要已经到了极点，却无人首先发起。求学青年众多且有才干，却无人以有效的方法来激励他们学习科学、文学艺术方面的新知和有用知识。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s034",
+      "sec": 2,
+      "it": "I giovani che studiano sono numerosi e capaci, ma nessuno li stimola con un metodo efficace per apprendere cose nuove e utili sia in campo scientifico che artisticoletterario.",
+      "zh": "唉！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s035",
+      "sec": 2,
+      "it": "Ahimè!",
+      "zh": "湘江！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s036",
+      "sec": 2,
+      "it": "Fiume Hsiang, fiume Hsiang!",
+      "zh": "湘江！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s037",
+      "sec": 2,
+      "it": "Che esistenza inutile conduci sulla terra!",
+      "zh": "你在世上过着何等无用的生活！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s038",
+      "sec": 2,
+      "it": "Ma il momento giusto è arrivato!",
+      "zh": "但是时机已经成熟！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s039",
+      "sec": 2,
+      "it": "La grande marea mondiale si è fatta più forte!",
+      "zh": "世界的大潮已经变得更为强大！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s040",
+      "sec": 2,
+      "it": "Le chiuse del lago Tungting cominciano ad aprirsi.",
+      "zh": "洞庭湖的闸门正在打开。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s041",
+      "sec": 2,
+      "it": "Sono finalmente aperte!",
+      "zh": "终于打开了！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s042",
+      "sec": 2,
+      "it": "La vasta e ribollente corrente del nuovo pensiero si riversa in una sequenza inarrestabile di ondate sulle due rive del fiume Hsiang!",
+      "zh": "新思想的广阔而汹涌的巨流，以不可阻挡的排山倒海之势，冲向湘江两岸！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s043",
+      "sec": 2,
+      "it": "Seguire questa corrente è la vita, opporvisi è la morte.",
+      "zh": "顺这潮流而生，逆这潮流而死。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s044",
+      "sec": 2,
+      "it": "Come accogliere questa corrente?",
+      "zh": "如何迎接这潮流？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s045",
+      "sec": 2,
+      "it": "Come propagarla?",
+      "zh": "如何传播这潮流？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s046",
+      "sec": 2,
+      "it": "Come studiarla?",
+      "zh": "如何研究这潮流？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s047",
+      "sec": 2,
+      "it": "Ecco il problema principale e più urgente di tutti noi che abitiamo lungo le rive del fiume Hsiang.",
+      "zh": "这便是我们所有居住在湘江两岸的人们面临的最主要、最迫切的问题。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s048",
+      "sec": 2,
+      "it": "Questi sono gli obiettivi che la Rivista del fiume Hsiang intende perseguire, iniziando la sua strada nel mondo.",
+      "zh": "这正是《湘江评论》将要努力追求的目标，它由此开始走上世间的道路。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s049",
+      "sec": 3,
+      "it": "COMMENTO DEI PRINCIPALI AVVENIMENTI DELL’OCCIDENTE",
+      "zh": "《西方大事记评》",
+      "head": true,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s050",
+      "sec": 3,
+      "it": "L’ondata di scioperi nei vari paesi Governanti e finanzieri francesi, inglesi e americani sono attualmente impegnati, nel corso della Conferenza di pace di Parigi, ad affrontare pesantemente la Germania e l’Austria già sconfitte. Nel momento in cui essi sono incredibilmente soddisfatti, nei loro paesi ha luogo un’ondata di scioperi. Nei loro paesi è cosa che si verifica di frequente. I governi e le oligarchie finanziarie non osano non tenere in alcun conto i lavoratori. Ogni qualvolta i lavoratori ricevono un salario che non corrisponde al lavoro effettivamente svolto o hanno un orario di lavoro troppo lungo o non dispongono di abitazioni decenti o una volta disoccupati non hanno dove andare o si trovano di fronte a problemi che suscitano rabbia e insoddisfazione, allora si uniscono con chi ha i loro stessi problemi, scendono in sciopero e in quel momento i governi e le oligarchie finanziarie non possono fare a meno di mostrare nei loro confronti un po’ di considerazione. Proprio come quando i bambini piangono per la fame e gli adulti, di fronte alla loro disperazione, non possono fare a meno di dare loro una focaccina con il viso atteggiato a un sorriso.",
+      "zh": "各国罢工浪潮",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s051",
+      "sec": 3,
+      "it": "目前，法国、英国的统治者和金融家，正在巴黎和会上，对已经战败的德国和奥地利加以沉重的压迫。正当他们得意忘形的时候，他们国内却发生了罢工浪潮。这种事在他们国内原是常有的。政府和金融寡头不敢不理会工人。每逢工人所得的工资同实际所做的工作不相称，或者工作时间过长，或者没有适当的住所，或者一旦失业便没有去处，或者遇到令人愤怒和不满的问题，便同有着同样问题的人联合起来，举行罢工；到了这个时候，政府和金融寡头就不能不对他们表示一点照顾。正如小孩子因为饥饿而啼哭的时候，大人面对着他们的哭脸，不能不给一点饼食，装出一点笑容一样。",
+      "zh": "",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s052",
+      "sec": 3,
+      "it": "Tuttavia, ciò non è altro che cercare di spegnere con un bicchier d’acqua un carro di fieno che brucia e naturalmente è un metodo che non funziona affatto.",
+      "zh": "然而，这不过是想用一杯水去扑灭一整车燃烧的干草，自然是一种毫无效验的方法。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s053",
+      "sec": 3,
+      "it": "D’altra parte ci sono i rivoluzionari che sgridano gli operai inglesi e francesi perché non vedono al di là del proprio naso.",
+      "zh": "另一方面，有些革命家却呵斥英国和法国的工人，说他们鼠目寸光。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s054",
+      "sec": 3,
+      "it": "Infatti non è certo possibile prendere un pezzo di carne dalla bocca della tigre.",
+      "zh": "其实要叫工人从老虎嘴里取下一块肉来，自然是做不到的。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s055",
+      "sec": 3,
+      "it": "Questa volta, l’ondata di scioperi che si è verificata in diversi paesi non ha interessato l’Inghilterra per il semplice fatto che subito dopo la fine della guerra (nel dicembre dello scorso anno) proprio in Inghilterra e in Scozia si erano avuti scioperi nei settori dei trasporti, dei combustibili, delle miniere e marittimo. Per questo motivo non si sono avuti ora scioperi in Inghilterra.",
+      "zh": "这一次，在几个国家掀起的罢工浪潮没有波及英国，其原因很简单：正是在去年十二月战争刚结束的时候，英国本土和苏格兰的运输、燃料、矿业和海运等部门就举行过罢工。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s056",
+      "sec": 3,
+      "it": "La situazione in Francia, per quanto riguarda gli scioperi, all’inizio era grave.",
+      "zh": "所以现在英国没有发生罢工。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s057",
+      "sec": 3,
+      "it": "Il tutto si è risolto con la concessione di piccoli benefici e lo sciopero non ha sortito risultati apprezzabili.",
+      "zh": "法国的罢工形势，起初很严重，最后以给予些微小的好处而告解决，没有取得任何显著的结果。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s058",
+      "sec": 3,
+      "it": "Si dice che i rivoluzionari, approfittando di quest’occasione, abbiano messo in piedi un movimento politico, ma non si riesce a vedere nulla di concreto.",
+      "zh": "据说革命者趁此机会进行了一场政治运动，但实际上看不到什么具体的东西。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s059",
+      "sec": 3,
+      "it": "In America gli scioperi del personale dei telegrafi e dei telefoni hanno l’obiettivo di appoggiare quei parlamentari, che sono la maggioranza, che al Congresso si oppongono all’entrata dell’America nella Società delle Nazioni.",
+      "zh": "在美国，电报和电话职工的罢工，其目的是支持那些在国会中反对美国加入国际联盟的占多数的议员。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s060",
+      "sec": 3,
+      "it": "Il fine è dunque diverso rispetto a ciò che si propongono di raggiungere gli scioperi in Francia e in Inghilterra.",
+      "zh": "所以美国罢工的目的与法国、英国不同。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s061",
+      "sec": 3,
+      "it": "In Italia gli scioperi vengono usati dal partito socialista per andare contro il governo.",
+      "zh": "在意大利，社会党利用罢工来反对政府。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s062",
+      "sec": 3,
+      "it": "In Germania, lo scorso inverno, la minoranza del partito socialista ha subito una grave sconfitta in seguito alla quale gli scioperi verificatisi in diversi posti non hanno ottenuto risultati apprezzabili.",
+      "zh": "在德国，社会党少数派在去年冬天遭到严重失败，此后各地发生的罢工没有取得显著成绩。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s063",
+      "sec": 3,
+      "it": "La maggioranza del partito socialista, da quando ha in mano il potere, fa come la cicala che quando è autunno inoltrato non osa più cantare.",
+      "zh": "社会党多数派当政之后，犹如深秋的寒蝉，不敢再鸣了。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s064",
+      "sec": 3,
+      "it": "Questa volta sulla questione della firma del trattato di pace esisteva una concreta possibilità di dare vita a uno sciopero.",
+      "zh": "这一次，在签订和约问题上，本来确实有可能发动一次罢工。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s065",
+      "sec": 3,
+      "it": "Ma il Gabinetto Scheidemann è caduto e il suo successore Bauer dice le stesse cose; e se è vero che non ha forza sufficiente per opporsi alle vessazioni che vengono dall’estero, tuttavia la forza che ha è più che sufficiente per prevenire disordini interni e quindi chi avrà il coraggio di rivoltarsi?",
+      "zh": "但是谢德曼内阁已经垮台，继任的鲍尔也说着同样的话；如果说他确实没有足够的力量来反对来自外国的压迫，那么他现有的力量却绰绰有余，足以防止国内的骚乱，这样一来，谁还敢起来反抗呢？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s066",
+      "sec": 3,
+      "it": "I rivoluzionari non hanno per ora la possibilità di dar vita a una strategia politica decisa.",
+      "zh": "革命者目前还没有可能制定果断的政治策略。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s067",
+      "sec": 3,
+      "it": "Non è pertanto strano che lo sciopero non abbia avuto modo di andare a buon fine.",
+      "zh": "因此，罢工未能取得胜利也就不足为奇了。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s068",
+      "sec": 3,
+      "it": "Gli scioperi hanno avuto grande importanza in Ungheria, a causa della scarsità dei generi alimentari.",
+      "zh": "由于食品匮乏，罢工在匈牙利具有重要意义。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s069",
+      "sec": 3,
+      "it": "Ora affronteremo dettagliatamente la situazione degli scioperi verificatisi nei diversi paesi, da un mese a questa parte.",
+      "zh": "下面我们将详细叙述近一个月来各国发生罢工的情况。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s070",
+      "sec": 3,
+      "it": "Francia Il³ giugno ha inizio quest’ondata di scioperi che si diffonde rapidamente.",
+      "zh": "法国 六月³日，这股罢工浪潮开始并迅速蔓延开来。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s071",
+      "sec": 3,
+      "it": "In un quartiere parigino 200.000 operai e operaie hanno preso parte allo sciopero.",
+      "zh": "在巴黎的一个区，有二十万男女工人参加了罢工。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s072",
+      "sec": 3,
+      "it": "Le richieste sono diverse a seconda dei mestieri, ma la richiesta comune è la giornata lavorativa di otto ore.",
+      "zh": "要求因行业不同而各异，但共同的要求是八小时工作制。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s073",
+      "sec": 3,
+      "it": "Il giorno⁴ i partecipanti allo sciopero sono ancora più numerosi; si calcola che il loro numero abbia raggiunto le 500.000 persone.",
+      "zh": "次日⁴，参加罢工的人数更多；估计其人数已达五十万人。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s074",
+      "sec": 3,
+      "it": "Il giorno⁵ scendono in sciopero le lavandaie.",
+      "zh": "那一天⁵，洗衣妇举行罢工。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s075",
+      "sec": 3,
+      "it": "I partecipanti sono via via sempre più numerosi.",
+      "zh": "参加者越来越多。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s076",
+      "sec": 3,
+      "it": "Il personale del metrò, dei tram, dei taxi decide di continuare lo sciopero.",
+      "zh": "地铁、电车、出租汽车职工决定继续罢工。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s077",
+      "sec": 3,
+      "it": "Gli operai del metrò chiedono un salario minimo di 450 franchi al mese (un franco corrisponde a⁴ tsiao, quindi 450 franchi corrispondono a 180 yuan); la pensione a cinquant’anni; il diritto dopo quindici anni di lavoro a ricevere una pensione.",
+      "zh": "地铁工人要求每月最低工资450法郎（1法郎合⁴角，故450法郎合180元）；五十岁领取养老金；工作十五年后有权领取养老金。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s078",
+      "sec": 3,
+      "it": "Il giorno⁷ a Parigi la situazione dello sciopero vede qualche miglioramento: nei settori metallurgico e dell’industria di macchinari tra operai e padroni si è raggiunto un accordo su alcuni punti.",
+      "zh": "那一天⁷，巴黎罢工形势略有好转：在冶金和机械工业部门中，劳资双方已在某些问题上达成协议。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s079",
+      "sec": 3,
+      "it": "Il giorno¹¹ gli operai del settore metallurgico e del metrò riprendono il lavoro.",
+      "zh": "那一天¹¹，冶金和地铁工人复工。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s080",
+      "sec": 3,
+      "it": "Le autorità hanno già trovato il mezzo per far fronte allo sciopero dei ferrovieri.",
+      "zh": "当局已找到对付铁路工人罢工的办法。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s081",
+      "sec": 3,
+      "it": "Tuttavia si intravede la possibilità per gli operai del settore minerario di dar vita a uno sciopero generale.",
+      "zh": "然而，矿业工人掀起总罢工的可能已见端倪。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s082",
+      "sec": 3,
+      "it": "Il giorno¹² il parlamento ha approvato la richiesta della giornata lavorativa di otto ore.",
+      "zh": "那一天¹²，议会通过了八小时工作日的要求。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s083",
+      "sec": 3,
+      "it": "Ma tale decisione non soddisfa l’assemblea dei minatori che ha deciso lo sciopero generale a partire dal giorno¹⁶.",
+      "zh": "但此项决定不能满足矿工大会，大会决定自那一天¹⁶起举行总罢工。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s084",
+      "sec": 3,
+      "it": "Anche l’Unione dei marittimi ha deciso di entrare in sciopero il¹⁶.",
+      "zh": "海员工会也决定于¹⁶日举行罢工。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s085",
+      "sec": 3,
+      "it": "L’Unione degli operai afferma che il costo della vita è troppo alto (un giornalista riporta quanto ha sentito dire da una persona rientrata da Parigi: uno spazzolino da denti costa² franchi, un paio di scarpe di cuoio⁶⁰ franchi).",
+      "zh": "工人联合会称生活费用过高（一名记者转述一位自巴黎归来者的话：一把牙刷值²法郎，一双皮鞋⁶⁰法郎）。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s086",
+      "sec": 3,
+      "it": "L’Unione degli operai afferma che in alcuni porti africani centinaia di migliaia di tonnellate di grano e di riso sono marcite senza che nessuno se ne sia preoccupato.",
+      "zh": "工人联合会声称，在非洲某些港口，几十万吨大米和粮食腐烂变质，却无人过问。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s087",
+      "sec": 3,
+      "it": "Sulle banchine giacciono merci ammassate come montagne ma navi e treni non si muovono, non fanno servizio di trasporto.",
+      "zh": "码头上货物堆积如山，但船只和火车却不动弹，不从事运输工作。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s088",
+      "sec": 3,
+      "it": "Bisogna farla finita con un governo di tal genere che si fonda su spreco, inganno e monopolio.",
+      "zh": "必须结束这种建立在浪费、欺骗和垄断基础上的政府。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s089",
+      "sec": 3,
+      "it": "Il giorno¹⁴, a poco a poco, quest’ondata di scioperi comincia a perdere vigore.",
+      "zh": "一天¹⁴，罢工浪潮开始逐渐失去声势。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s090",
+      "sec": 3,
+      "it": "Gli estremisti hanno intenzione in questa occasione di rovesciare il governo prevaricatore di Clemenceau.",
+      "zh": "极端主义者打算借此机会推翻克列孟梭的专制政府。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s091",
+      "sec": 3,
+      "it": "L’Unione degli stradini non ha opposto un rifiuto.",
+      "zh": "街道工会没有表示反对。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s092",
+      "sec": 3,
+      "it": "Tuttavia i minatori non sono soddisfatti della spiegazione che il governo ha dato sulla decisione presa riguardo alla giornata lavorativa di otto ore, per cui hanno deciso di fare uno sciopero generale lo stesso giorno.",
+      "zh": "然而，矿工们对政府关于八小时工作制决定的解释并不满意，因此决定在同一天举行总罢工。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s093",
+      "sec": 3,
+      "it": "È possibile che i lavoratori del settore trasporti scendano anch’essi in sciopero per solidarietà con i minatori.",
+      "zh": "运输部门的工人也有可能为了声援矿工而举行罢工。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s094",
+      "sec": 3,
+      "it": "Il vecchio Clemenceau è preoccupato e, in un incontro che ha avuto con i rappresentanti degli operai dei trasporti e con i rappresentanti del personale della Compagnia dei trasporti, li ha pregati di mostrare un po’ di patriottismo in un momento tanto critico quale è quello che il paese si trova attualmente ad attraversare.",
+      "zh": "老克列孟梭十分着急，在一次同运输工人代表及运输公司职员代表的会面中，他请求他们在国家目前正处于如此危急的时刻表现出一点爱国精神。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s095",
+      "sec": 3,
+      "it": "Gli operai “hanno mangiato il loro brodo di riso” e hanno deciso spontaneamente di riprendere il lavoro.",
+      "zh": "工人们\"已经喝完了他们的米汤\"，便自发地决定复工。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s096",
+      "sec": 3,
+      "it": "Inghilterra Il³⁰ maggio, a Londra, i poliziotti di tutto il paese si preparano a fare uno sciopero generale per il giorno³ giugno; il governo è già d’accordo per l’aumento dei salari e il miglioramento delle loro condizioni di vita.",
+      "zh": "英国³⁰5月30日，在伦敦，全国各地警察正准备于6月3日举行总罢工；政府已同意增加工资和改善他们的生活条件。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s097",
+      "sec": 3,
+      "it": "Tuttavia non vuole riconoscere l’associazione dei poliziotti e ha richiamato in servizio quei poliziotti che erano stati destituiti.",
+      "zh": "然而它不愿承认警察协会，并召回了已被免职的警察。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s098",
+      "sec": 3,
+      "it": "L’ondata di scioperi interessa anche le colonie inglesi quali Australia, Canada e zona del Canale di Suez.",
+      "zh": "罢工浪潮也波及英国殖民地，如澳大利亚、加拿大和苏伊士运河区。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s099",
+      "sec": 3,
+      "it": "Il⁴ giugno gli operai della fabbrica d’armi canadese Vickers sono scesi in sciopero per avere la settimana lavorativa di quaranta ore.",
+      "zh": "6月⁴4日，加拿大维克斯军工厂工人为争取四十小时工作周举行罢工。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s100",
+      "sec": 3,
+      "it": "Il¹⁵ giugno gli operai del Canale di Suez sono scesi in sciopero e la situazione è particolarmente drammatica.",
+      "zh": "6月¹⁵15日，苏伊士运河工人举行罢工，局势特别严重。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s101",
+      "sec": 3,
+      "it": "Il⁹ giugno i lavoratori della Compagnia di trasporti marittimi australiana sono scesi in sciopero, riuscendo a fermare, come una corrente impetuosa, i settori industriali in blocco.",
+      "zh": "6月⁹9日，澳大利亚海运公司工人举行罢工，如汹涌洪流般使各工业部门陷于瘫痪。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s102",
+      "sec": 3,
+      "it": "Il¹⁰ la situazione è ancora grave e anche gli operai di altri settori giorno dopo giorno conoscono la disoccupazione.",
+      "zh": "¹⁰局势仍然严重，其他部门的工人也日复一日地面临失业。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s103",
+      "sec": 3,
+      "it": "Stati Uniti d’America Il⁷ giugno gli impiegati dei telegrafi di Chicago hanno deciso uno sciopero generale, per le ore¹¹, a cui prenderanno parte più di⁶⁰.000 persone.",
+      "zh": "美国⁷6月7日，芝加哥电报职员决定于¹¹11时举行总罢工，将有⁶⁰60,000多人参加。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s104",
+      "sec": 3,
+      "it": "Di queste, 25.000 appartengono al Sindacato degli impiegati dei telegrafi.",
+      "zh": "其中25,000人属于电报职员工会。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s105",
+      "sec": 3,
+      "it": "Il presidente di questo Sindacato, Cannigan, sta elaborando un piano per uno sciopero nazionale.",
+      "zh": "该工会主席坎尼根正在拟订举行全国罢工的计划。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s106",
+      "sec": 3,
+      "it": "Lo stesso giorno gli impiegati dei telefoni di tutto il paese hanno ricevuto l’ordine di scendere in sciopero dal giorno¹⁶ per solidarietà con gli impiegati dei telegrafi.",
+      "zh": "同日，全国电话职员接到命令，自¹⁶16日起为声援电报职员举行罢工。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s107",
+      "sec": 3,
+      "it": "Il giorno⁸, un funzionario del Sindacato degli impiegati dei telegrafi proclama uno sciopero generale esteso anche ai telegrafisti.",
+      "zh": "八日，电报雇员工会的一名职员宣布举行大罢工，电报员也参加进来。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s108",
+      "sec": 3,
+      "it": "Lo scopo è di bloccare i telegrammi che il presidente Wilson invia quotidianamente da Parigi in America, in modo da attirare l’attenzione del presidente sul fatto che la popolazione non condivide le opinioni da lui espresse nel corso della Conferenza di pace.",
+      "zh": "其目的是阻止威尔逊总统每天从巴黎发往美国的电报，以便引起总统对如下事实的注意：人民不同意他在和会上所发表的意见。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s109",
+      "sec": 3,
+      "it": "Il giorno¹², stando a un rapporto della Compagnia dei telegrafi, lo sciopero non è riuscito.",
+      "zh": "十二日，据电报公司报告称，罢工未能成功。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s110",
+      "sec": 3,
+      "it": "Italia Il¹³ giugno, a causa dell’alto prezzo dei cereali, è scoppiata un’insurrezione che ha portato al saccheggio di negozi nella zona di La Spezia.",
+      "zh": "意大利 十三日，由于粮价高昂，爆发了一场暴动，拉斯佩齐亚地区一些商店遭到抢劫。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s111",
+      "sec": 3,
+      "it": "Il giorno¹⁴ gli operai dei settori industriali di Genova danno vita a una manifestazione e oltre un centinaio vengono arrestati.",
+      "zh": "十四日，热那亚工业各部门的工人举行示威，一百余人被捕。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s112",
+      "sec": 3,
+      "it": "Banche e negozi rimangono chiusi, i tram non fanno servizio.",
+      "zh": "银行和商店关门，电车停驶。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s113",
+      "sec": 3,
+      "it": "Gli operai di Torino lo stesso giorno si astengono dal lavoro per commemorare Rosa Luxemburg, capo della Lega spartachista tedesca.",
+      "zh": "都灵工人同一天停工，纪念德国斯巴达克同盟领袖罗莎·卢森堡。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s114",
+      "sec": 3,
+      "it": "Gli operai di Milano sono entrati in sciopero per protestare contro le azioni delle autorità di Genova e La Spezia.",
+      "zh": "米兰工人则举行罢工，抗议热那亚和拉斯佩齐亚当局的行为。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s115",
+      "sec": 3,
+      "it": "Germania Il¹³ giugno, l’assemblea generale dei cittadini di Berlino tiene una riunione segreta, in cui viene deciso lo sciopero.",
+      "zh": "德国 十三日，柏林市民大会召开秘密会议，决定举行罢工。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s116",
+      "sec": 3,
+      "it": "Persone appartenenti a tutti i settori e i circoli militari sono d’accordo nel bloccare il piano dell’industria e del commercio.",
+      "zh": "各界人士及军事界人士一致同意，要挫败工商业界的计划。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s117",
+      "sec": 3,
+      "it": "C’è chi ritiene che tutto ciò porterà alla guerra civile.",
+      "zh": "有人认为，这一切将导致内战。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s118",
+      "sec": 3,
+      "it": "Gli elementi moderati della società otterranno il potere.",
+      "zh": "社会中的温和派将取得政权。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s119",
+      "sec": 3,
+      "it": "Ungheria Il³¹ maggio gli operai affamati della capitale fanno un’insurrezione.",
+      "zh": "匈牙利³¹ 五月三十一日，首都饥饿的工人举行起义。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s120",
+      "sec": 3,
+      "it": "Secondo l’ordine del governo comunista l’esercito della bandiera rossa va in diverse fabbriche per cercare di sistemare le cose.",
+      "zh": "根据共产党政府的命令，红旗军开赴各个工厂，试图平息事态。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s121",
+      "sec": 3,
+      "it": "Nella capitale non ci sono più cereali.",
+      "zh": "首都的粮食已经告罄。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s122",
+      "sec": 4,
+      "it": "COMMENTO DEI PRINCIPALI AVVENIMENTI DELL’ORIENTE",
+      "zh": "《东方主要事态评论》",
+      "head": true,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s123",
+      "sec": 4,
+      "it": "L’arresto di Chen Tu-hsiu e come intervenire per salvarlo L’ex preside della facoltà di lettere dell’Università di Pechino, Chen Tu-hsiu, è stato arrestato l’¹¹ giugno al Nuovo mondo di Pechino³. Le ragioni dell’arresto, secondo il comunicato della polizia, stanno nel fatto che quella sera alcune persone distribuivano al Nuovo mondo dei volantini di propaganda e agenti in borghese li hanno arrestati.",
+      "zh": "陈独秀被捕与营救办法 北京大学前文科学长陈独秀于¹¹六月三日在北京新世界被逮捕³。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s124",
+      "sec": 4,
+      "it": "Arrivati in questura scoprirono che si trattava del signor Chen.",
+      "zh": "据警察局的公报说，逮捕的缘由是该晚有人在新世界散发宣传传单，穿便衣的侦缉人员将他们逮捕，带到警察局后才发现是陈先生。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s125",
+      "sec": 4,
+      "it": "Secondo quanto riportato dall’agenzia di stampa sino-americana, i volantini di propaganda distribuiti ai cittadini di Pechino chiedevano quanto segue: 1.annullare tutti gli accordi segreti cino-giapponesi stipulati in tempo di guerra.",
+      "zh": "据中美通讯社报道，散发给北京市民的宣传传单要求如下：一、废除战时缔结的一切中日秘密条约。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s126",
+      "sec": 4,
+      "it": "2.Dimettere dai loro incarichi Hsu Hsu-cheng, Tsao Ju-lin, Chang Tsung-hsiang, Lu Tsung-yu, Tuan Chih-chan e Wang Huai-chin⁴ ed espellerli dalla capitale.",
+      "zh": "二、罢免徐树铮、曹汝霖、章宗祥、陆宗舆、段芝贵、王怀庆⁴诸人职务并驱逐出京。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s127",
+      "sec": 4,
+      "it": "3.Sciogliere il quartier generale della fanteria e il quartier generale di emergenza.",
+      "zh": "三、解散步兵统领衙门与警备总司令部。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s128",
+      "sec": 4,
+      "it": "4.Sostituire le squadre popolari di sicurezza di Pechino con quelle organizzate dai commercianti.",
+      "zh": "四、以商人所组织的保安队取代北京的市民保安队。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s129",
+      "sec": 4,
+      "it": "5.Iniziare i colloqui di pace tra sud e nord.",
+      "zh": "五、南北开始和平谈判。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s130",
+      "sec": 4,
+      "it": "6.Proclamare il diritto del popolo all’assoluta libertà di opinione, stampa e riunione.",
+      "zh": "六、宣布人民享有言论、出版、集会的绝对自由权利。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s131",
+      "sec": 4,
+      "it": "Questi sei punti sono le richieste minime del popolo al governo e si spera che saranno ottenute in modo pacifico.",
+      "zh": "这六条是人民对政府的最低要求，希望能以和平方式获得。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s132",
+      "sec": 4,
+      "it": "Qualora il governo non risponda alle richieste del popolo, allora i cittadini di Pechino prenderanno le misure necessarie al fine di ottenere una fondamentale riforma.",
+      "zh": "倘政府不应人民的请求，则北京市民将采取必要的措施，以求获得根本的改革。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s133",
+      "sec": 4,
+      "it": "Questo era il testo dei volantini di propaganda; come si vede, non c’era nulla di speciale. Il governo ha arrestato il signor Chen riservandogli un trattamento nefando.",
+      "zh": "这便是宣传传单的内容，看来也没有什么特别之处。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s134",
+      "sec": 4,
+      "it": "L’intero corpo studentesco di Pechino ha portato una lettera di protesta collettiva in questura. Qui di seguito diamo il testo della lettera collettiva: “Alla gentile attenzione dell’ispettore generale di polizia.",
+      "zh": "政府逮捕了陈先生，给予他极其恶劣的待遇。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s135",
+      "sec": 4,
+      "it": "Abbiamo l’onore di informarla che abbiamo recentemente saputo che la polizia militare ha arrestato l’ex preside della facoltà di lettere dell’Università di Pechino, Chen Tu-hsiu, rispettato e stimato; gli studenti e altre persone ritengono che ciò non sia lecito soprattutto per due motivi: l.",
+      "zh": "北京大学全体学生向警察局递交了一封集体抗议信。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s136",
+      "sec": 4,
+      "it": "l’alto senso di responsabilità del signor Chen è tenuto in grande considerazione nel mondo degli studiosi; le sue opinioni e i suoi pensieri sono tutti assai noti in Cina e all’estero.",
+      "zh": "现将该集体信的全文录下：“谨呈警察总监钧鉴。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s137",
+      "sec": 4,
+      "it": "Se in questa occasione egli verrà ritenuto colpevole di un gravissimo crimine, temiamo che ciò muoverà il mondo accademico di tutto il paese a una rivolta.",
+      "zh": "我们谨向您报告：我们近日获悉，军警已逮捕北京大学文科学长陈独秀先生，中外敬仰；学生及各界人士认为此举实属非法，主要理由有二：一、陈先生之高度的责任感素为学界所推重，其见解与思想早已广为中国及海外所知。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s138",
+      "sec": 4,
+      "it": "L’attuale potente agitazione studentesca raggiungerà il suo culmine e allora non sarà più possibile arrestarla.",
+      "zh": "倘此次竟以重大罪名加其身，恐将激起全国学界之反抗，目前汹涌澎湃之学生运动将臻于顶点，届时恐再难遏止。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s139",
+      "sec": 4,
+      "it": "2.Il signor Chen è un sostenitore del pensiero moderno, della nuova letteratura ed è pertanto odiato dai conservatori.",
+      "zh": "二、陈先生为现代思想、新文学之倡导者，故为保守派所仇视。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s140",
+      "sec": 4,
+      "it": "Questo suo improvviso arresto desta preoccupazioni sia in Cina che all’estero e noi abbiamo il sospetto che le autorità della polizia militare abbiano agito di proposito contro di lui.",
+      "zh": "其突遭逮捕，中外同深忧虑，我们怀疑军警当局系蓄意与其为难。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s141",
+      "sec": 4,
+      "it": "Già adesso questo tipo di problema è assai complicato; come lo si può risolvere?",
+      "zh": "此类问题现已极为复杂，又将如何解决？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s142",
+      "sec": 4,
+      "it": "Questi sono i due motivi per cui tutti gli studenti chiedono rispettosamente alla polizia di liberare il signor Chen Tu-hsiu”.",
+      "zh": "以上二点，即全体学生恭请警察当局释放陈独秀先生之理由。”",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s143",
+      "sec": 4,
+      "it": "Gli studenti di Pechino hanno poi inviato il telegramma che segue a tutti i giornali, a tutte le scuole, a tutti i circoli di Shanghai: “Il signor Chen Tu-hsiu è colui che con maggiore vigore ha diffuso in Cina il nuovo pensiero ed è la personalità di maggior peso in campo culturale.",
+      "zh": "北京学生随后向各报馆、各学校、上海各团体发出如下电报：“陈独秀先生是在中国传播新思想最有力者，文化界举足轻重之人。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s144",
+      "sec": 4,
+      "it": "E tuttavia è stato arrestato.",
+      "zh": "然竟遭逮捕，其住所亦被彻底查抄。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s145",
+      "sec": 4,
+      "it": "La sua abitazione è stata perquisita da cima a fondo.",
+      "zh": "广大群众对此极为愤慨。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s146",
+      "sec": 4,
+      "it": "Le masse provano grande sdegno di fronte a tutto ciò.",
+      "zh": "不仅须设法营救，且望各方对此事件给予最大关注。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s147",
+      "sec": 4,
+      "it": "Non solo bisogna trovare il modo di liberarlo, ma speriamo anche che tutti prestino la massima attenzione a questo avvenimento”.",
+      "zh": "”",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s148",
+      "sec": 4,
+      "it": "Anche l’Associazione commercianti di Shanghai ha inviato un telegramma, in cui chiede rispettosamente la liberazione del signor Chen: “Considerare responsabile della sollevazione degli studenti di Pechino soltanto una persona, il signor Chen Tu-hsiu, sarà la causa principale di futuri grandi disordini”.",
+      "zh": "上海商团联合会亦发来一电，恭请释放陈先生，电文称：“若仅以陈独秀先生一人为北京学生骚乱之责任人，将成为未来大动乱之主要原因。”",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s149",
+      "sec": 4,
+      "it": "Io ritengo che il governo non sia tanto addormentato da non conoscere i fatti importanti che succedono fuori e probabilmente tra non molto la situazione esploderà.",
+      "zh": "我以为政府还不至于昏睡到连外界发生之重大事件都一无所知，或许不久局势必将爆发。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s150",
+      "sec": 4,
+      "it": "Se il governo arresta il signor Chen Tu-hsiu per un articolo, ciò significa che dichiara guerra a tutto il nuovo pensiero e io credo che non abbia tanto coraggio.",
+      "zh": "若政府因一篇文章而逮捕陈独秀先生，即等于向整个新思想宣战，我以为政府尚无如此胆量。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s151",
+      "sec": 4,
+      "it": "Chang Hsin-yen, collega di vecchia data del signor Chen, direttore della biblioteca dell’Università di Pechino, professore di logica, ha inviato un telegramma a Wang Ke-min⁵ in cui esprime il desiderio che lui chieda alla questura di liberare immediatamente il signor Chen.",
+      "zh": "张歆海⁵是陈独秀先生的旧同事，现任北京大学图书馆主任、逻辑学教授，他给王克敏发去一份电报，希望王克敏请求警察局立即释放陈独秀先生。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s152",
+      "sec": 4,
+      "it": "Il contenuto del telegramma è questo: “Il signor Chen si occupa prevalentemente dell’insegnamento e non ha mai avuto a che fare con partiti e gruppi politici.",
+      "zh": "电文内容如下：“陈独秀先生平日主要从事教学活动，从未与任何党派团体发生关系。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s153",
+      "sec": 4,
+      "it": "Questa volta, per un articolo forse inadeguato è stato messo in una grande prigione e gli viene impedito di ricevere visite.",
+      "zh": "此次或因一文措辞不当，竟被投入大狱，且不准接见探视。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s154",
+      "sec": 4,
+      "it": "Proprio nel momento in cui la sollevazione studentesca a poco a poco si smorza, voi trovate il modo di farle riprendere vigore.",
+      "zh": "值此学生运动渐趋平息之际，诸君却设法使其重新高涨。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s155",
+      "sec": 4,
+      "it": "Ciò è una cosa che voi signori non dovete fare [...]”.",
+      "zh": "此非诸君所应为也……”",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s156",
+      "sec": 4,
+      "it": "Il signor Chang ha scritto anche, e con ancor più vigore, al presidente incaricato Hsian Hsin-chan una lettera: “Signor Hsian, mi rincresce di non aver chiesto a lei consiglio ed è da molto tempo che volevo scriverle.",
+      "zh": "张先生还给代总统徐新占先生写了一封信，措辞更为强烈：“徐先生，我很遗憾没有向您请教，早就想给您写信了。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s157",
+      "sec": 4,
+      "it": "Di una cosa vi prego con grande sincerità.",
+      "zh": "有一件事我恳切相求。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s158",
+      "sec": 4,
+      "it": "Ho sentito che la polizia, con il pretesto che l’ex preside della facoltà di lettere della Università di Pechino, Chen Tu-hsiu, abbia a che fare con un volantino, lo ha arrestato e che si trova ancora in prigione.",
+      "zh": "我听说警察以北京大学文科学长陈独秀与传单有牵连为借口，把他逮捕了，现在还关在监狱里。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s159",
+      "sec": 4,
+      "it": "Ma se sia vero o no, non lo si sa con certezza.",
+      "zh": "但究竟属实与否，尚不得而知。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s160",
+      "sec": 4,
+      "it": "Per quanto concerne l’attività usuale del signor Chen essa riguarda prevalentemente l’insegnamento.",
+      "zh": "至于陈先生的日常活动，主要是从事教学。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s161",
+      "sec": 4,
+      "it": "Sebbene egli abbia diffuso nuove idee, scritto libri e forse usato espressioni un po’ forti, tuttavia si tratta di articoli culturali e non politici, tutto ciò lo si può vedere chiaramente nei suoi scritti.",
+      "zh": "他虽然传播新思想，著书立说，或许言辞稍有过激，但所涉都是文化文章，而非政治文章，这一切在他的著作中都可以看得清清楚楚。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s162",
+      "sec": 4,
+      "it": "In questo momento il nostro paese si trova a dover fronteggiare parecchi problemi; la sollevazione studentesca si sta appena placando, come è possibile che facciate una cosa che produce tanta indignazione?",
+      "zh": "此刻我们国家正面临许多问题，学生运动刚刚平息，你们怎么能做出这种激起公愤的事情呢？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s163",
+      "sec": 4,
+      "it": "Io ritengo che voi signori non dobbiate fare una cosa del genere.",
+      "zh": "我认为诸位先生不应该干这种事。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s164",
+      "sec": 4,
+      "it": "Inoltre se guardiamo alla storia vediamo che chi ha il potere e crea difficoltà a uno scrittore per una sciocchezza e per un articolo lo mette in prigione, è fortunato perché lo vince senza ricorrere alle armi, ma se non conquista il cuore della gente il potere si sgretola e anche se ci sono persone capaci e preparate non c’è comunque più nulla da fare.",
+      "zh": "再者，我们若看历史，便可知道，凡掌权者，因一件琐事、一篇文章而为难作家，把他投入监狱，还算侥幸，因为不必动用武力便制服了他；然而若不能赢得人心，权力便分崩离析，纵然有人才、有干才，也终究无济于事。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s165",
+      "sec": 4,
+      "it": "Se osserviamo la storia antica e moderna, cinese e straniera, vediamo che ogni qualvolta la politica culturale raggiunge l’autunno più inoltrato, quello è il momento in cui il paese decade.",
+      "zh": "我们若考察古今中外历史，便会看到，凡文化政策走到深秋时节，便是国家衰亡之期。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s166",
+      "sec": 4,
+      "it": "L’esempio della fine dei Ming ci può più che bastare.",
+      "zh": "明朝末年的事例，就足以使我们引以为戒。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s167",
+      "sec": 4,
+      "it": "Oggi le dicerie prive di fondamento sono tante quanto le lucciole ed è una corrente pericolosa.",
+      "zh": "今日无稽之谈之多，如萤火虫般遍地皆是，实为一股危险的潮流。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s168",
+      "sec": 4,
+      "it": "Quando poi si incolpa qualcuno per uno scritto, ciò è veramente una sciagura per il paese e un grande disordine ha inizio nel mondo.",
+      "zh": "至于因一篇文章而加罪于人，那真真是国家之祸，天下大乱的起点了。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s169",
+      "sec": 4,
+      "it": "Io mi auguro che voi signori con coraggio prestiate attenzione a cose più grandi.",
+      "zh": "我希望诸位先生以勇气，关注更为重大之事。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s170",
+      "sec": 4,
+      "it": "Il signor Chen è persona rispettabile, studioso di cose cinesi e occidentali.",
+      "zh": "陈先生是一位值得尊敬的人物，是通晓中西之学的学者。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s171",
+      "sec": 4,
+      "it": "È difficile trovare una persona come lui, anche se la provincia dell’Anhwei, che collega sud e nord, ha dato i natali a tante personalità sia militari che culturali.",
+      "zh": "像他这样的人，实在难得，即使安徽一省地处南北之交，人文荟萃，出过许多军政界与文化界的人才。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s172",
+      "sec": 4,
+      "it": "Lei dovrebbe avere particolare cura dei suoi conterranei e sono certo che anche lei prova lo stesso sentimento.",
+      "zh": "阁下应当特别关照同乡，我确信阁下也有同感。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s173",
+      "sec": 4,
+      "it": "È difficile formare persone di talento sia in un paese lontano sia in una provincia vicina!",
+      "zh": "无论是一个远方的国度，还是邻近的一省，要培养人才都是不容易的！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s174",
+      "sec": 4,
+      "it": "E una volta che abbiamo queste persone di talento è mai pensabile distruggerle?",
+      "zh": "既已得到这样的人才，难道还忍心加以摧残吗？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s175",
+      "sec": 4,
+      "it": "È proprio per la particolarità del caso che con rispetto le scrivo questa lettera per pregarla di intervenire presso la questura affinché liberino al più presto il signor Chen.",
+      "zh": "正因为情况特殊，我才恭恭敬敬地写这封信，恳请阁下出面关照警察厅，务请早日将陈先生释放。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s176",
+      "sec": 4,
+      "it": "Io, un vecchio amico del signor Chen, sono stato con lui all’università, conosco assai bene il suo carattere e il suo modo di comportarsi, perciò ho scritto questa lettera.",
+      "zh": "我作为陈先生的老友，曾与他同窗就读，深知其为人与品行，故写下此信。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s177",
+      "sec": 4,
+      "it": "Con coraggio lo difendo e posso testimoniare [...]”.",
+      "zh": "我敢于为他辩护，可以作证……”",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s178",
+      "sec": 4,
+      "it": "Noi riteniamo che il signor Chen sia una luminosa stella in campo culturale ed educativo.",
+      "zh": "我们认为陈先生是文化教育界一颗灿烂的明星。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s179",
+      "sec": 4,
+      "it": "Quando il signor Chen parla, la sua chiarezza affascina tutti.",
+      "zh": "陈先生演说，词理明晰，听者无不倾倒。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s180",
+      "sec": 4,
+      "it": "Possiamo dire che la Cina d’oggi è in grande pericolo.",
+      "zh": "可以说今日中国危在旦夕。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s181",
+      "sec": 4,
+      "it": "La causa di ciò non è nella mancanza di armi, forza e denaro, né nel disordine e nello spezzettamento del paese, bensì nel fatto che il popolo dell’intero paese ha il cervello vuoto, devastato.",
+      "zh": "其危殆之因，并非在于缺乏武器、力量和金钱，亦非在于国家四分五裂、混乱无序，而在于全国人民头脑空虚、精神荒芜。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s182",
+      "sec": 4,
+      "it": "I cinesi sono quattrocento milioni e all’incirca trecentonovanta milioni sono superstiziosi.",
+      "zh": "中国人有四万万，其中约三亿九千万人都陷于迷信。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s183",
+      "sec": 4,
+      "it": "Costoro credono ai fantasmi, ai diavoli e al fato e credono anche che chi ha forza comanda.",
+      "zh": "这些人相信鬼神和命运，也相信强权者统治。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s184",
+      "sec": 4,
+      "it": "Non sono neppure consapevoli di esistere, non conoscono se stessi, non conoscono la vera ragione.",
+      "zh": "他们甚至不知道自己存在着，不了解自己，不了解真正的道理。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s185",
+      "sec": 4,
+      "it": "Tutto questo si verifica per il fatto che costoro non possiedono una conoscenza scientifica.",
+      "zh": "这一切之所以发生，是因为这些人不掌握科学知识。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s186",
+      "sec": 4,
+      "it": "La Cina si chiama repubblica, ma in realtà è un’autocrazia ed è sempre peggio, non si finisce mai e questo perché non sanno che esiste la democrazia, non sanno che cos’è la democrazia.",
+      "zh": "中国号称共和，实际上却是专制，而且每况愈下，无有止境，这是因为他们不知道有民主，不知道民主是什么。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s187",
+      "sec": 4,
+      "it": "Il signor Chen scrive sempre per svelare a costoro che cosa significano queste due cose.",
+      "zh": "陈先生写文章，正是为了向这些人揭示这两样东西的含义。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s188",
+      "sec": 4,
+      "it": "È lui che ha detto che noi irritiamo le persone importanti soprattutto perché siamo fautori della scienza e della democrazia.",
+      "zh": "正是他说过，我们之所以得罪那些要人，主要就是因为我们拥护科学与民主。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s189",
+      "sec": 4,
+      "it": "Ed è per questo che lo hanno arrestato.",
+      "zh": "他也正是因此被捕。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s190",
+      "sec": 4,
+      "it": "Forse il delitto e il castigo si compensano reciprocamente!",
+      "zh": "或者可以说，罪行与惩罚相互抵偿了罢！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s191",
+      "sec": 4,
+      "it": "Quando il pensiero non conosce restrizioni, ci si può amare l’un l’altro.",
+      "zh": "思想不受拘束，人们便可以相亲相爱。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s192",
+      "sec": 4,
+      "it": "L’anno scorso a dicembre la leader rivoluzionaria del partito socialista tedesco, Luxemburg, è stata uccisa dal governo democratico; a metà del mese scorso in una città italiana, Torino, il popolo ha commemorato la Luxemburg, eppure l’Italia è nemica della Germania; persino in Svizzera, a Zurigo, l’hanno commemorata.",
+      "zh": "去年十二月，德国社会党的革命领袖卢森堡被民主政府所杀；本月上旬，在意大利都灵城，人民为她举行了纪念，而意大利却是德国的敌国；甚至在瑞士苏黎世，人们也纪念了她。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s193",
+      "sec": 4,
+      "it": "Essi hanno agito in tal modo pur essendo nemici.",
+      "zh": "他们彼此为敌，尚且如此行事。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s194",
+      "sec": 4,
+      "it": "Noi non siamo nemici di noi stessi e apparteniamo alla stessa nazione.",
+      "zh": "我们不是自己的敌人，同属一个民族。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s195",
+      "sec": 4,
+      "it": "Al signor Chen l’arresto non ha arrecato il benché minimo danno.",
+      "zh": "陈先生被捕，没有受到丝毫损害。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s196",
+      "sec": 4,
+      "it": "Oltre tutto si è risolto in una grande propaganda della nuova corrente di pensiero, così che egli è ancora più famoso e rispettato.",
+      "zh": "这反而成了新思潮的一次大宣传，使他更加声名远扬、受人敬重。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s197",
+      "sec": 4,
+      "it": "Se il governo uccidesse il signor Chen, al signor Chen non verrebbe certo meno il suo spirito di fermezza e di nobiltà.",
+      "zh": "即使政府杀害陈先生，陈先生的坚贞高尚精神也绝不会因此稍减。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s198",
+      "sec": 4,
+      "it": "Il signor Chen ha detto che la vita è studio e lotta e che non bisogna temere la morte.",
+      "zh": "陈先生说过，生命就是学习和斗争，不必畏惧死亡。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s199",
+      "sec": 4,
+      "it": "Io le auguro, signor Chen, una lunga vita!",
+      "zh": "陈先生，我祝愿您长寿！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s200",
+      "sec": 4,
+      "it": "Io le auguro, signor Chen, di continuare a tenere alto il suo spirito di fermezza e di nobiltà per diecimila anni!",
+      "zh": "陈先生，我祝愿您万年长久地保持这种坚贞高尚的精神！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s201",
+      "sec": 5,
+      "it": "MISCELLANEA INTERNAZIONALE",
+      "zh": "《国际丛刊》",
+      "head": true,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s202",
+      "sec": 5,
+      "it": "I ladri mendicanti I primi del mese scorso in Giappone il riso era carissimo, per¹ tan di riso ci volevano più di⁴⁰ yuan.",
+      "zh": "讨饭的盗贼　上月上旬，在日本米价极贵，一石米要四十多元¹。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s203",
+      "sec": 5,
+      "it": "Il governo giapponese si trovava in un vicolo cieco.",
+      "zh": "日本政府走投无路。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s204",
+      "sec": 5,
+      "it": "Anche i giornali hanno parlato del pericolo della mancanza di cereali.",
+      "zh": "各报纸也谈到粮食缺乏的危险。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s205",
+      "sec": 5,
+      "it": "Povero Giappone!",
+      "zh": "可怜的日本！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s206",
+      "sec": 5,
+      "it": "Hai gli intestini fuori uso, eppure con la Cina che ti fa l’elemosina sei perfido.",
+      "zh": "你的肠子已经瘫痪，中国给你施舍，你却还要使坏。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s207",
+      "sec": 5,
+      "it": "Dove c’è al mondo un così malvagio ladro mendicante?",
+      "zh": "世界上哪有这样恶毒的讨饭盗贼？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s208",
+      "sec": 5,
+      "it": "Indagine sul “partito estremista”",
+      "zh": "关于“过激派”问题的调查",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s209",
+      "sec": 5,
+      "it": "Si sente dire in giro che l’Afghanistan ha invaso l’India su istigazione del “partito estremista” russo⁶, che questo partito è arrivato nell’Asia meridionale, che la “rivoluzione fatta di grida” della Corea è assai potente, perché il “partito estremista” russo esercita una certa influenza in Asia.",
+      "zh": "听说阿富汗侵犯了印度⁶，是受俄国“过激派”的唆使；听说这个党已到了南亚，听说朝鲜的“呼声革命”非常强大，因为俄国“过激派”在亚洲有点势力。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s210",
+      "sec": 5,
+      "it": "Come è forte il “partito estremista” russo!",
+      "zh": "俄国“过激派”的力量多么大呀！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s211",
+      "sec": 5,
+      "it": "Dobbiamo studiare questo problema.",
+      "zh": "我们应该研究这个问题。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s212",
+      "sec": 5,
+      "it": "Non dobbiamo chiudere gli occhi e lasciare dire a vuoto che si tratta di inondazioni e bestie feroci.",
+      "zh": "我们不应闭眼空说什么洪水猛兽。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s213",
+      "sec": 5,
+      "it": "“Resistenza”, “Rifiuto”, ecc.: in un attimo il paese è pieno di “estremisti” e anche se vuoi fuggire non ci sono più strade!",
+      "zh": "“抵制”、“拒绝”等等：霎时间全国布满“过激派”，你要逃跑也没有路了！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s214",
+      "sec": 5,
+      "it": "L’applicazione del blocco Si è tenuta a Parigi, il mese scorso, una riunione di alti finanzieri che hanno deciso il blocco dell’Ungheria fin quando il governo ungherese⁷ non seguirà la volontà del popolo. Dividiamo il problema in due aspetti: l.",
+      "zh": "封锁的实施 上月，巴黎举行了一次高级金融家会议，决定对匈牙利实行封锁，直到匈牙利政府⁷顺从人民的意志为止。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s215",
+      "sec": 5,
+      "it": "l’Intesa ha sbagliato nel ritenere che il governo ungherese non corrispondesse alla volontà e alle aspirazioni del popolo.",
+      "zh": "我们把这个问题分为两个方面来看：1．协约国错误地认为匈牙利政府不符合人民的意志和愿望。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s216",
+      "sec": 5,
+      "it": "In realtà il governo ungherese è in disaccordo solo con una minoranza costituita dalla classe dei capitalisti e dalla nobiltà di campagna, mentre non c’è disaccordo alcuno con la maggioranza del popolo costituita dalla classe dei proletari e dalla classe dei più poveri, per il semplice fatto che il governo ungherese fin dall’inizio è stato messo in piedi da costoro.",
+      "zh": "实际上，匈牙利政府只是同一个由资产阶级和乡村贵族构成的少数派意见不合，而同由无产阶级和最贫苦阶级构成的人民多数派则毫无分歧，原因很简单：匈牙利政府从一开始就是由这些人建立起来的。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s217",
+      "sec": 5,
+      "it": "2..L’applicazione del blocco aiuta proprio il partito comunista a rafforzarsi.",
+      "zh": "2．封锁的实施恰恰有助于共产党壮大。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s218",
+      "sec": 5,
+      "it": "Io ritengo che anche l’Intesa verrà presa in questo vortice.",
+      "zh": "我认为，协约国也将被卷入这一漩涡之中。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s219",
+      "sec": 5,
+      "it": "Di fatto, il blocco, una volta attuato, avrà come conseguenza, un grandissimo guazzabuglio.",
+      "zh": "事实上，封锁一旦实行，其结果必将是极大的混乱。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s220",
+      "sec": 5,
+      "it": "La prova che l’Intesa è giusta ed egualitaria La Germania ha risposto all’Intesa con un dispaccio in cui si dichiara disposta a ridurre gradualmente gli effettivi della fanteria qualora l’Intesa decida di fare altrettanto.",
+      "zh": "协约国公正平等的证明 德国以一份照会答复协约国，声明只要协约国决定同样削减步兵员额，德国也愿意逐步裁减。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s221",
+      "sec": 5,
+      "it": "Se questa è stata la risposta, chi può dire che è sbagliata?",
+      "zh": "如果这就是答复，谁又能说这是错误的呢？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s222",
+      "sec": 5,
+      "it": "L’Intesa si riempie sempre la bocca di parole come eguaglianza e giustizia, adesso vedremo quali saranno i suoi armamenti.",
+      "zh": "协约国总是把平等、正义之类的字眼挂在嘴边，现在且看看它自己的军备会如何。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s223",
+      "sec": 5,
+      "it": "Soltanto allora si saprà come stanno le cose.",
+      "zh": "到那时，事情的真相才会大白。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s224",
+      "sec": 5,
+      "it": "L’Afghanistan si leva in piedi con la spada in pugno Se un piccolo paese come l’Afghanistan fa la guerra a una grande potenza navale come l’Inghilterra⁸ ci dev’essere un motivo molto importante.",
+      "zh": "阿富汗执剑而起 像阿富汗这样的小国竟同英国⁸这样的海军大国作战，其中必有重大缘故。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s225",
+      "sec": 5,
+      "it": "Tuttavia non se ne può avere la certezza soltanto basandosi su un telegramma di parte inglese.",
+      "zh": "然而仅凭英国方面的一纸电报，尚不能确知其详。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s226",
+      "sec": 5,
+      "it": "Attualmente la Turchia corre il rischio di essere divorata da tigri e lupi.",
+      "zh": "当今土耳其正面临被虎狼吞食之险。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s227",
+      "sec": 5,
+      "it": "L’India ha aiutato a fondo l’Inghilterra e ci ha guadagnato un pezzo rotto di stoffa rossa e la brutta figura di fare il rappresentante alla Conferenza di pace⁹.",
+      "zh": "印度大力援助英国，得到的回报不过是一块破烂的红布头，以及充当和会代表⁹的丑态。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s228",
+      "sec": 5,
+      "it": "Le aspirazioni del popolo indiano non sono state ascoltate e il suo movimento politico corre il rischio di essere represso con la forza.",
+      "zh": "印度人民的愿望无人理睬，其政治运动且有遭武力镇压之虞。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s229",
+      "sec": 5,
+      "it": "L’Afghanistan è un paese islamico: “quando muore la lepre la volpe piange”, come può non impugnare la spada?",
+      "zh": "阿富汗是伊斯兰国家：\"兔死狐悲\"，怎能不执剑而起？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s230",
+      "sec": 5,
+      "it": "La repubblica renana è un brutto paese L’Intesa vuole che il Reno diventi una grande muraglia per tenere a bada i suoi nemici.",
+      "zh": "莱茵共和国是个坏东西 协约国想要把莱茵河变成一道阻挡其敌人的大墙。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s231",
+      "sec": 5,
+      "it": "Tuttavia per prima cosa deve rompere le relazioni con la Germania e creare un altro paese.",
+      "zh": "然而首先必须同德国断绝关系，另造一个国家。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s232",
+      "sec": 5,
+      "it": "Abbiamo sentito dire che a Wiesbaden è stato già costituito un governo provvisorio di cui è presidente il dottor Dorten.",
+      "zh": "听说威斯巴登已经成立了一个临时政府，由多尔滕博士出任总统。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s233",
+      "sec": 5,
+      "it": "Non so proprio quanto il dottor Dorten possa essere felice.",
+      "zh": "我实在不知道这位多尔滕博士能有几多快意。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s234",
+      "sec": 5,
+      "it": "Anche da noi in Cina abbiamo avuto Stati del genere, per esempio la popolazione Chin mise in piedi il regno fantoccio di Liu Yu e i kitan misero in piedi il regno fantoccio Shihchingtang.",
+      "zh": "我们中国也有这类先例，例如秦人扶起刘豫的伪齐，契丹扶起石敬瑭的伪晋。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s235",
+      "sec": 5,
+      "it": "Ecco che cos’è l’autodeterminazione delle nazioni!",
+      "zh": "原来这就是民族自决！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s236",
+      "sec": 5,
+      "it": "Polacchi e cechi vogliono formare una loro propria nazione, cosa questa che può arrecare un danno mortale alla Germania e perciò l’Intesa l’appoggia con risolutezza: questo significa “autodeterminazione delle nazioni”.",
+      "zh": "波兰人和捷克人要成立他们自己的民族国家，这件事会给德国带来致命的损害，因此协约国便坚决予以支持：这就是所谓的\"民族自决\"。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s237",
+      "sec": 5,
+      "it": "Che gli arabi si separino dai turchi per i governi dell’Intesa è una cosa positiva e allora l’Intesa promette loro una mezza autonomia.",
+      "zh": "阿拉伯人脱离土耳其，对协约国政府说来是一件好事，于是协约国便许诺给他们半个自治。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s238",
+      "sec": 5,
+      "it": "Gli ebrei vogliono tornare in Palestina per formare la loro nazione, ma poiché non hanno un grosso legame con l’Intesa, allora non possono farlo.",
+      "zh": "犹太人要回到巴勒斯坦成立他们的民族国家，因为他们同协约国没有很大的联系，所以就不能如愿。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s239",
+      "sec": 5,
+      "it": "Il governo della Siberia ha attaccato con successo il “partito estremista” e allora l’Intesa fa promesse.",
+      "zh": "西伯利亚政府成功地打击了\"过激党\"¹⁰，于是协约国就许愿。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s240",
+      "sec": 5,
+      "it": "Il Giappone vuole mettere piede in Siberia, non può certo fare una brutta figura, pertanto è stato il primo a dare il proprio assenso.",
+      "zh": "日本想插足西伯利亚，当然不能示弱，所以首先表示赞同。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s241",
+      "sec": 5,
+      "it": "Anche la Corea¹⁰ grida con forza che vuole l’indipendenza, tanta gente è morta, tanti luoghi sono stati distrutti, ma all’Intesa non importa nulla.",
+      "zh": "朝鲜人¹⁰大声疾呼要求独立，死了许多人，烧毁了许多地方，而协约国却满不在乎。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s242",
+      "sec": 5,
+      "it": "Ecco che cos’è l’autodeterminazione delle nazioni!",
+      "zh": "这就是民族自决！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s243",
+      "sec": 5,
+      "it": "Io credo che bisogna proprio essere privi di qualsiasi senso di vergogna!",
+      "zh": "我看简直是不要脸！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s244",
+      "sec": 5,
+      "it": "Povero Wilson Wilson¹¹ si trova a Parigi e sembra una formica sui carboni ardenti, non sa bene cosa fare, mostra il proprio talento nel pascolare il gregge, circondato da ogni parte dai vari Clemenceau, Lloyd George e Orlando che non sono altro che banditi.",
+      "zh": "可怜的威尔逊¹¹身在巴黎，犹如热锅上的蚂蚁，不知究竟怎么办才好；他显露出来的本领只是放牧羊群，而四周却被克列孟梭、劳合·乔治、奥兰多之流团团围住，这些人无非是强盗而已。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s245",
+      "sec": 5,
+      "it": "Egli non sente parlar d’altro che di quanto territorio è stato preso, di quanto denaro è stato riscosso dai debitori.",
+      "zh": "他所听到的，无非是占领了多少领土，从债务人那里勒索了多少金钱。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s246",
+      "sec": 5,
+      "it": "Non fa altro che partecipare a riunioni non riuscendo tuttavia a dire ciò che pensa.",
+      "zh": "他不过是参加一些会议，却始终说不出自己心里的话。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s247",
+      "sec": 5,
+      "it": "Un giorno la Reuter ha scritto: “Il presidente Wilson finalmente è d’accordo con Clemenceau che la Germania non entri a far parte della Lega delle Nazioni”.",
+      "zh": "有一天路透社写道：“威尔逊总统终于同意克列孟梭的意见，不让德国加入国际联盟。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s248",
+      "sec": 5,
+      "it": "Quando ho letto le parole “finalmente d’accordo” sono rimasto mezza giornata adirato con lui.",
+      "zh": "”当我读到“终于同意”几个字时，竟生了他半天的气。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s249",
+      "sec": 5,
+      "it": "Povero Wilson!",
+      "zh": "可怜的威尔逊！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s250",
+      "sec": 5,
+      "it": "L’improvviso e violento scoppio di una bomba Tutti sanno che gli Stati Uniti d’America sono paesi prosperi e di grande civiltà.",
+      "zh": "炸弹的突然猛烈爆炸 谁都知道，美利坚合众国是繁荣昌盛、文明程度很高的国家。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s251",
+      "sec": 5,
+      "it": "In otto città contemporaneamente si è avuto un “improvviso e violento scoppio di bombe”¹². Il partito anarchico si propaga dappertutto.",
+      "zh": "在八座城市同时发生了“突然的、猛烈的炸弹爆炸”¹²。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s252",
+      "sec": 5,
+      "it": "Accanto ai luoghi in cui sono esplose le bombe, sono stati trovati attaccati dei manifesti anonimi con su scritto: “La guerra di classe è già scoppiata e durerà fino a che la classe operaia non raggiungerà la vittoria finale”.",
+      "zh": "无政府党到处蔓延。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s253",
+      "sec": 5,
+      "it": "Queste bombe sono state collocate presso le abitazioni di funzionari governativi e in cima alle case sono state ritrovate alcune teste di persone.",
+      "zh": "在炸弹爆炸的地方，还发现了张贴的匿名传单，上面写着：“阶级斗争已经爆发，并将持续到工人阶级取得最后胜利为止。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s254",
+      "sec": 5,
+      "it": "Terribile, terribile!",
+      "zh": "”这些炸弹被放置在政府官员的住宅附近，房顶上还发现了一些人头。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s255",
+      "sec": 5,
+      "it": "A me dispiace soltanto per le famiglie; per le donne, per i bambini di quei funzionari governativi e mi chiedo come potranno dormire la notte.",
+      "zh": "可怕，真可怕！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s256",
+      "sec": 5,
+      "it": "I membri del parlamento che vengono eletti lo debbono al loro denaro e accusano e reprimono con violenza i ribelli.",
+      "zh": "我只是为那些官员的家属感到难过，为他们的女人、孩子感到难过，我不知道他们夜里怎么能够睡得着。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s257",
+      "sec": 5,
+      "it": "Io dico formalmente a tutti voi signori, il giorno del vostro giudizio è arrivato!",
+      "zh": "那些被选出来的国会议员靠的是他们的金钱，他们凶狠地指控、镇压造反者。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s258",
+      "sec": 5,
+      "it": "Voi volete che vi sia risparmiata la vita, volete mangiare, volete avere vestiti.",
+      "zh": "我正式对你们诸位先生说，你们的审判日已经到了！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s259",
+      "sec": 5,
+      "it": "Avrete tutto questo solo quando avrete fatto una grande pulizia nel vostro cervello.",
+      "zh": "你们想要活命，想要吃饭，想要穿衣。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s260",
+      "sec": 5,
+      "it": "Dovete gettare via cilindro e frac.",
+      "zh": "只有当你们把自己的脑袋好好清洗一番之后，这一切才会有。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s261",
+      "sec": 5,
+      "it": "Andate nelle fabbriche, in campagna assieme al vostro popolo.",
+      "zh": "你们应当扔掉礼帽和燕尾服，到工厂去，到农村去，和人民大众在一起。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s262",
+      "sec": 5,
+      "it": "Non si possono creare industrie e commercio con l’autocrazia Il capo del partito laburista americano, Gompers¹³, ha dichiarato: “Il partito laburista ha deciso di avere tutto il diritto di esprimere le proprie opinioni nelle imprese del futuro perché non si può praticare l’autocrazia nelle industrie e nel commercio”. Gli Stati Uniti d’America sono la prima nazione industriale e commerciale del mondo, la tirannia dei trust ha inizio da qui.",
+      "zh": "不能以专制来兴办工商业 美国劳工党领袖龚帕斯¹³宣称：“劳工党已决定，在未来的企业中完全有权表达自己的意见，因为工商业中不能实行专制。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s263",
+      "sec": 5,
+      "it": "Soltanto pochi sono felici, mentre milioni di persone soffrono.",
+      "zh": "”美国是世界上第一工商业大国，托拉斯的暴政即肇始于此。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s264",
+      "sec": 5,
+      "it": "Più l’industria e il commercio si sviluppano, più gente soffre.",
+      "zh": "得享幸福的只是少数人，而数百万人民在受苦。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s265",
+      "sec": 5,
+      "it": "Dice no!",
+      "zh": "工商业越发展，受苦的人就越多。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s266",
+      "sec": 5,
+      "it": "e come si fa?",
+      "zh": "说不！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s267",
+      "sec": 5,
+      "it": "Io ancora non lo so.",
+      "zh": "可是怎么办？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s268",
+      "sec": 5,
+      "it": "Dal momento che c’è gente che dice no!",
+      "zh": "我还不知道。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s269",
+      "sec": 5,
+      "it": "ciò è un fatto positivo.",
+      "zh": "既然有人说不！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s270",
+      "sec": 5,
+      "it": "Se la bocca di un uomo dice no!",
+      "zh": "这就是一桩积极的事实。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s271",
+      "sec": 5,
+      "it": "questo spinge migliaia di persone a dire no!; una voce sommessa che sussurra no!",
+      "zh": "一个人的嘴巴说不！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s272",
+      "sec": 5,
+      "it": "porta a una voce potente che urla no!",
+      "zh": "会推动成千上万的人说不！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s273",
+      "sec": 5,
+      "it": "e questo è veramente il momento in cui la gente viene liberata.",
+      "zh": "；一声低语喃喃的“不”，终将汇成一声怒吼的“不”，这正是人民获得解放的时刻。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s274",
+      "sec": 5,
+      "it": "Cedere territori e pagare i danni di guerra sono due cose talmente perfette che non possono coesistere La Germania ha detto all’Intesa che se perde le miniere di carbone della Slesia e della Saar non sarà più in grado di pagare i danni di guerra.",
+      "zh": "割让领土与支付赔款，二者皆美，不能兼得 德国对协约国说，如果失去西里西亚和萨尔煤矿，它就将无力支付战争赔款。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s275",
+      "sec": 5,
+      "it": "Io ritenevo che, sentito ciò, l’Intesa si sarebbe dovuta preoccupare molto.",
+      "zh": "我以为，协约国听了这话，应当大为担忧。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s276",
+      "sec": 5,
+      "it": "Perché?",
+      "zh": "为什么？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s277",
+      "sec": 5,
+      "it": "Per il semplice fatto che cedere territori e pagare i danni di guerra sono due cose entrambe perfette e quindi irrealizzabili assieme.",
+      "zh": "道理很简单：割让领土与支付赔款是两桩都完美的事情，因此不能同时实现。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s278",
+      "sec": 5,
+      "it": "La Germania afferma che queste due cose sono inversamente proporzionali.",
+      "zh": "德国声称，这两件事成反比。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s279",
+      "sec": 5,
+      "it": "Stando così le cose, come può l’Intesa non essere preoccupata?",
+      "zh": "既然如此，协约国怎能不担忧呢？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s280",
+      "sec": 5,
+      "it": "Pertanto esorto i signori dell’Intesa a riflettere: esistono al mondo insieme due cose entrambe perfette?",
+      "zh": "因此，我奉劝协约国的先生们深思：世界上果真有两桩都完美的事情并存吗？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s281",
+      "sec": 5,
+      "it": "Il partito socialista va incontro a un bagno di sangue Il rappresentante del presidente austriaco dottor Renner ha detto all’Intesa: “L’Austria ha un capitale assai diminuito rispetto a prima e se essa subirà altre distruzioni sicuramente il partito socialista andrà incontro a un bagno di sangue”.",
+      "zh": "社会党将遭到一场血洗 奥地利总统代表伦纳博士对协约国说：“奥地利的资本已比从前大为减少，如果它再遭受别的破坏，社会党必将遭到一场血洗”。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s282",
+      "sec": 5,
+      "it": "Dottor Renner quanto sei stupido!",
+      "zh": "伦纳博士，你是何等愚蠢！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s283",
+      "sec": 5,
+      "it": "Tu non conosci ancora la vera faccia dell’Intesa.",
+      "zh": "你还不认识协约国的真面目。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s284",
+      "sec": 5,
+      "it": "Da un anno a questa parte loro vogliono proprio che il partito socialista vada incontro a un bagno di sangue.",
+      "zh": "一年以来，他们正是要社会党遭到一场血洗。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s285",
+      "sec": 5,
+      "it": "Bernstein Il dottor Bernstein, tedesco, ha dichiarato: “Le condizioni di pace sono la conseguenza di una guerra tra barbari, la Germania si deve ritenere responsabile di tutto.",
+      "zh": "伯恩斯坦 德国籍的伯恩斯坦博士宣称：“和约的条件是野蛮人之间一场战争的后果，德国应当为一切负责。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s286",
+      "sec": 5,
+      "it": "L’articolo¹⁹ del trattato di pace è necessario”.",
+      "zh": "和约第十九条¹⁹是必要的。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s287",
+      "sec": 5,
+      "it": "Noi siamo senza esitazione contro le costrizioni contenute nel trattato di pace dell’Intesa.",
+      "zh": "”我们毫不犹豫地反对协约国和约中所包含的种种强制条款。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s288",
+      "sec": 5,
+      "it": "Non a caso il dottor Bernstein ha fatto questa dichiarazione sulla guerra tra barbari.",
+      "zh": "伯恩斯坦博士作出这种关于野蛮人之间战争的声明，绝不是偶然的。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s289",
+      "sec": 5,
+      "it": "La cosa mi ha fatto un grande piacere.",
+      "zh": "这件事使我大为高兴。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s290",
+      "sec": 5,
+      "it": "In tutto il mondo non esiste un tempio dedicato al culto degli antenati Kang Yu-wei¹⁴ è assai adirato per il fatto che a Canton hanno intenzione di riparare una strada e abbattere un tempio dedicato al culto degli antenati.",
+      "zh": "全世界都没有一座专门祭祀祖先的庙宇，康有为¹⁴却因为广州打算修一条路要拆除一座祭祀祖先的庙宇而大发脾气。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s291",
+      "sec": 5,
+      "it": "Telefona allora a Chen Chun-hsuan¹⁵ e lo insulta dicendo: “Non solo non rispetti il Santo, ma distruggi anche gli antenati”.",
+      "zh": "于是打电话给陈炯明¹⁵，骂他道：“不敬圣人，又毁祖宗。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s292",
+      "sec": 5,
+      "it": "E inoltre: “Se viaggi in tutto il mondo non troverai nessuno che agisce in tal modo”.",
+      "zh": "”又说：“游遍全球，都找不到这样做的人。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s293",
+      "sec": 5,
+      "it": "Il signor Kang parla veramente bene, perché in realtà in tutto il mondo dove trovi mai un altro Confucio?",
+      "zh": "”康先生说得真好，因为实在世界上哪里还找得到第二个孔夫子呢？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s294",
+      "sec": 5,
+      "it": "E poi dove diavolo c’è un tempio dedicato al culto degli antenati?",
+      "zh": "又究竟哪里有什么祭祀祖先的庙宇？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s295",
+      "sec": 5,
+      "it": "Che cosa è conveniente per la repubblica cinese Il signor Kang¹⁶ afferma inoltre: “Distruggerlo per forza non è cosa conveniente per la repubblica”.",
+      "zh": "什么对中华民国合适 康先生¹⁶又说：“强毁之，于共和国为不适宜。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s296",
+      "sec": 5,
+      "it": "Che cosa davvero strana!",
+      "zh": "”真奇怪！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s297",
+      "sec": 5,
+      "it": "È mai possibile che debba ancora esistere la pratica: “Che il principe faccia il principe, che il ministro faccia il ministro”?",
+      "zh": "难道还应当保存“君为君、臣为臣”的那一套做法吗？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s298",
+      "sec": 5,
+      "it": "Ed è questo conveniente per la repubblica?",
+      "zh": "难道这就对共和国合适？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s299",
+      "sec": 5,
+      "it": "Forse non è un uomo Teng Jung nel corso di una riunione al nuovo parlamento ha detto: “Per rendere omaggio a Confucio non c’è alcun bisogno di un addetto speciale: bisogna risparmiare il denaro”.",
+      "zh": "莫非不是人 邓铿在新议会的会议上说：“祀孔无须特设专员，应该节省经费。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s300",
+      "sec": 5,
+      "it": "Mentre Chang Yuan-chi ha detto: “Nel ministero degli interni le devozioni a Confucio vengono fatte da un semplice inserviente e viceministri e sottosegretari non se ne curano affatto; ciò non va bene, ci deve essere un addetto speciale”.",
+      "zh": "”而张元济却说：“内务部祀孔，由一个普通差役承办，次长、佥事一概不管，这不好，应当设特派员。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s301",
+      "sec": 5,
+      "it": "Forse un semplice inserviente del ministero degli interni non è un uomo.",
+      "zh": "”莫非内务部的一个普通差役就不是人。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s302",
+      "sec": 5,
+      "it": "Se invece diciamo che è un uomo, come mai allora non può fare le devozioni?",
+      "zh": "如果说他是人，那么为什么不能行礼呢？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s303",
+      "sec": 5,
+      "it": "Io penso che quell’aria da burocrate dei secoli passati del vecchio padre Confucio stia perdendo via via il suo peso, diventando sempre minore.",
+      "zh": "我想孔老夫子那种旧官僚的架子，正在逐渐失去分量，变得越来越小了。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s304",
+      "sec": 5,
+      "it": "Dalla montagna Kunlun in Europa Chang Yuan-chi ha dichiarato: “Ma che diavolo è questo ricercare il nuovo studio, questo seguire la corrente, io credo fermamente che bisogna essere devoti a Confucio contro la corrente”.",
+      "zh": "欧洲昆仑山的张元济宣称：“什么研究新学、顺应潮流，我坚信必须尊孔反潮流。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s305",
+      "sec": 5,
+      "it": "Niente male, niente male!",
+      "zh": "”不错，不错！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s306",
+      "sec": 5,
+      "it": "Il signor Chang ha davvero una forza straordinaria, no?",
+      "zh": "张先生真有非凡的力量，不是吗？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s307",
+      "sec": 5,
+      "it": "Ma come?",
+      "zh": "可是怎么？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s308",
+      "sec": 5,
+      "it": "La corrente dello Yangtse è in grado di superare la montagna Kunlun?",
+      "zh": "扬子江的激流能够越过昆仑山吗？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s309",
+      "sec": 5,
+      "it": "Bene!",
+      "zh": "好！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s310",
+      "sec": 5,
+      "it": "Allora noi andremo sulla cima della montagna Kunlun a prendere la nave per andare in Europa.",
+      "zh": "那我们就到昆仑山顶上去乘船到欧洲去。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s311",
+      "sec": 6,
+      "it": "MISCELLANEA DEL FIUME HSIANG",
+      "zh": "湘江杂记",
+      "head": true,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s312",
+      "sec": 6,
+      "it": "Una buona idea Un compagno di scuola mi ha detto che impiegati e insegnanti, per il timore che noi apprendiamo le nuove teorie culturali mentre loro non se ne sono ancora impossessati, hanno chiuso la biblioteca.",
+      "zh": "好主意 一位同学告诉我，职员和教员生怕我们学习了新的文化理论，而他们自己还没有掌握，便把图书馆关闭了。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s313",
+      "sec": 6,
+      "it": "Non possiamo quindi più leggere libri, giornali e riviste che vengono da fuori e non possiamo essere aggiornati.",
+      "zh": "这样一来，我们再也读不到外来的书籍、报纸和杂志，也就无法获得新的知识。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s314",
+      "sec": 6,
+      "it": "Ho sentito dire che ciò ha riscosso grande ammirazione.",
+      "zh": "据说这件事博得了一片喝彩。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s315",
+      "sec": 6,
+      "it": "La loro è davvero una buona idea!",
+      "zh": "他们这个主意实在好得很！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s316",
+      "sec": 6,
+      "it": "Ma ciò avviene solo nella scuola X?",
+      "zh": "但这只是某一所学校如此吗？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s317",
+      "sec": 6,
+      "it": "Nemmeno per sogno!",
+      "zh": "做梦也休想！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s318",
+      "sec": 6,
+      "it": "Sembra quasi che tutte le scuole dello Hunan si siano alleate.",
+      "zh": "湖南所有的学校简直像是结成了同盟。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s319",
+      "sec": 6,
+      "it": "Un’improvvisa metamorfosi Alcuni insegnanti burocrati, di fronte a questa grande corrente mondiale, se non stanno attenti rischiano di perdere la loro scodella di riso. Ecco allora l’improvvisa metamorfosi.",
+      "zh": "突然的转变 某些官僚教员面对着这股世界的大潮流，稍不留神，就有丢掉自己饭碗的危险。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s320",
+      "sec": 6,
+      "it": "Essi si danno un po’ meno arie da burocrati.",
+      "zh": "于是便来了这个突然的转变，他们的官僚架子多少收敛了一些。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s321",
+      "sec": 6,
+      "it": "Per coloro che sono veramente cambiati io ho molto rispetto, invece quelli che fingono di cambiare non riescono a nascondere a lungo la loro zampa di cavallo.",
+      "zh": "对于真正转变的人，我是十分尊敬的；至于那些假装转变的人，他们的马脚终究掩藏不了多久。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s322",
+      "sec": 6,
+      "it": "Provo soltanto vergogna di fronte a questo genere di persone!",
+      "zh": "面对这等人，我只有羞耻！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s323",
+      "sec": 6,
+      "it": "E non sto affatto tranquillo!",
+      "zh": "而且我决不能安之若素！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s324",
+      "sec": 6,
+      "it": "Abbiamo molta fame Noi giovani siamo prigionieri del lago Tungting e abbiamo molta fame! Le nostre pance hanno davvero fame.",
+      "zh": "肚子饿得很 我们青年被囚在东洞庭湖，肚子饿得很！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s325",
+      "sec": 6,
+      "it": "I nostri cervelli hanno ancora più fame! Il fatto è che i nostri cuochi non hanno nulla da cucinare, non hanno nulla da fare.",
+      "zh": "我们的肚皮实在饿了，我们的头脑更是饿得慌！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s326",
+      "sec": 6,
+      "it": "Noi non sappiamo che fare!",
+      "zh": "无奈我们的厨子不会做菜，不会做事，我们也不知道怎么办！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s327",
+      "sec": 6,
+      "it": "L’unica cosa è alzarsi in piedi e fare da sé.",
+      "zh": "唯一的办法就是站起来自己动手。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s328",
+      "sec": 6,
+      "it": "Questo è il grido di disperazione della nostra grande fame!",
+      "zh": "这就是我们大饥饿的绝叫！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s329",
+      "sec": 6,
+      "it": "Per favore, non ci guardate male!",
+      "zh": "请诸位不要见怪！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s330",
+      "sec": 6,
+      "it": "È mai possibile che solo i ragazzi possano camminare?",
+      "zh": "难道只有小孩子才可以走路吗？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s331",
+      "sec": 6,
+      "it": "Gli amministratori di una scuola femminile considerano le studentesse come fossero documenti preziosi, le tengono quindi nascoste e hanno paura che, se escono fuori, vedano i diavoli.",
+      "zh": "某女校的管理者把女学生当作珍贵的东西看待，所以将她们藏起来，生怕她们走出校门看见魔鬼。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s332",
+      "sec": 6,
+      "it": "Non permettono loro di leggere pubblicazioni diaboliche come Gioventù nuova¹⁷.",
+      "zh": "不准她们阅读《新青年》¹⁷之类的邪说出版物。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s333",
+      "sec": 6,
+      "it": "A Pechino c’è stata una grande manifestazione studentesca e le studentesse si sono recate a Hsin Hua Men a protestare.",
+      "zh": "北京发生了大规模的学生游行，女学生们到新华门去请愿。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s334",
+      "sec": 6,
+      "it": "Le ragazzine di un orfanotrofio sono andate di loro spontanea volontà in prigione per essere punite al posto degli studenti.",
+      "zh": "孤儿院里的小姑娘们还自愿入监，代替学生受罚。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s335",
+      "sec": 6,
+      "it": "Soltanto le studentesse della scuola femminile di cui parlavamo all’inizio sono tenute chiuse tra quattro mura e non viene loro permesso di fare un passo fuori della scuola.",
+      "zh": "唯独我们开头所说的那所女校的学生，被关在四堵墙内，连校门一步也不许迈出。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s336",
+      "sec": 6,
+      "it": "È mai possibile che solo i ragazzi possano camminare?",
+      "zh": "难道只许男孩子在外面走动吗？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s337",
+      "sec": 6,
+      "it": "Ah!",
+      "zh": "哈！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s338",
+      "sec": 6,
+      "it": "Ah!",
+      "zh": "哈！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s339",
+      "sec": 6,
+      "it": "I fatti di Tsingtao si sono verificati¹⁸.",
+      "zh": "青岛的事变¹⁸发生了。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s340",
+      "sec": 6,
+      "it": "Gli studenti dello Hunan sono in grande fermento, mettono in scena nuovi spettacoli, fanno discorsi, circola dappertutto una ventata nuova.",
+      "zh": "湖南的学生大为振奋，排演新剧，发表演说，到处吹起一股新风。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s341",
+      "sec": 6,
+      "it": "Un amico mi ha detto che un signore si è arrabbiato moltissimo perché suo figlio ha preso parte tutto truccato a uno spettacolo.",
+      "zh": "有位朋友告诉我：一位先生大为恼火，因为他的儿子化了妆参加演戏。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s342",
+      "sec": 6,
+      "it": "Allora si è recato alla scuola e ha detto al professore: “Perché la mia vita è così disgraziata?",
+      "zh": "于是他跑到学校对教师说：“为什么我的命这么苦？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s343",
+      "sec": 6,
+      "it": "Io ho dato tutto a mio figlio e lui mi ha fatto una cosa tanto vergognosa!”.",
+      "zh": "我把我的一切都给了儿子，他却给我干了这么一件丢脸的事！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s344",
+      "sec": 6,
+      "it": "Io, sentite queste parole, non sono riuscito a trattenere il riso: Ah, Ah!",
+      "zh": "”我听了这话，忍不住大笑起来：哈，哈！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s345",
+      "sec": 6,
+      "it": "L’esercito rivoluzionario delle donne La testa degli uomini e delle donne è uguale, come pure uguale è il loro giro di vita.",
+      "zh": "女子革命军 男人和女人的头是一样的，腰也一样粗。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s346",
+      "sec": 6,
+      "it": "Perché allora le donne portano sulla testa una grande, alta treccia mossa dal vento?",
+      "zh": "那为什么女人头上要顶着一根风吹得飘动的大辫子？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s347",
+      "sec": 6,
+      "it": "Perché il giro di vita delle donne viene stretto dalla cintura di una gonna che struscia per terra?",
+      "zh": "为什么女人的腰要被拖到地上的裙子束紧？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s348",
+      "sec": 6,
+      "it": "Io ritengo che le donne siano per loro natura innocenti e che le pettinature alte, le gonne lunghe fino a terra siano mezzi con cui gli uomini le tengono prigioniere.",
+      "zh": "我认为女人天生是无辜的，高耸的发式、拖地的长裙，都是男人用来囚禁她们的手段。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s349",
+      "sec": 6,
+      "it": "Poi ci sono i vari tipi di belletti per il viso che non sono altro che un marchio d’infamia.",
+      "zh": "还有那各式各样的脂粉，不过是耻辱的印记。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s350",
+      "sec": 6,
+      "it": "I gioielli, che altro non sono che catene.",
+      "zh": "首饰，不过是锁链。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s351",
+      "sec": 6,
+      "it": "I buchi nelle orecchie e la fasciatura dei piedi, che altro non sono che terribili punizioni.",
+      "zh": "耳朵上的孔和缠足，更是可怕的刑罚。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s352",
+      "sec": 6,
+      "it": "La scuola e la famiglia, che altro non sono che prigioni.",
+      "zh": "学校和家庭，无异于监狱。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s353",
+      "sec": 6,
+      "it": "La sofferenza è talmente grande che non la si può esprimere a parole.",
+      "zh": "痛苦之深，非言语所能表达。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s354",
+      "sec": 6,
+      "it": "Una volta chiuse dentro non è più possibile uscirne.",
+      "zh": "一旦关进去，便再也无法出来。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s355",
+      "sec": 6,
+      "it": "Come possono dunque sfuggire da tutti questi tipi di oppressione dolorosa?",
+      "zh": "那么，怎样才能摆脱这一切痛苦的压迫呢？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s356",
+      "sec": 6,
+      "it": "Secondo me, l’unico modo è organizzare l’esercito rivoluzionario delle donne.",
+      "zh": "依我看，唯一的办法就是组织女子革命军。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s357",
+      "sec": 6,
+      "it": "NOTE",
+      "zh": "注",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s358",
+      "sec": 6,
+      "it": "1..Il riferimento è alla Rivoluzione d’Ottobre e agli altri movimenti rivoluzionari che",
+      "zh": "1. 此处指的是十月革命以及第一次世界大战结束后相继发生的其他革命运动。²",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s359",
+      "sec": 6,
+      "it": "seguirono la conclusione della Prima guerra mondiale.",
+      "zh": "²（续）……",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s360",
+      "sec": 6,
+      "it": "2..Il lago Tungting è il più grande dello Hunan.",
+      "zh": "2. 洞庭湖是湖南最大的湖泊。湘江是最长的河流，贯穿湖南全省，最终注入洞庭湖。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s361",
+      "sec": 6,
+      "it": "Il fiume Hsiang è il più lungo e attraversa",
+      "zh": "因此，它们（湖与河）常被作为该省的象征。⁴",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s362",
+      "sec": 6,
+      "it": "l’intera provincia dello Hunan per finire nel lago Tungting. Perciò essi (lago e fiume) vengono presi spesso come simbolo della provincia.",
+      "zh": "⁴（续）……",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s363",
+      "sec": 6,
+      "it": "3..Chen Tu-hsiu, nato nella provincia dell’Anhwei nel 1879, dopo aver studiato all’estero",
+      "zh": "3．陈独秀，1879年生于安徽省，曾留学国外，",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s364",
+      "sec": 6,
+      "it": "rientrò in Cina e aderì al movimento repubblicano.",
+      "zh": "回国后参加了共和运动。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s365",
+      "sec": 6,
+      "it": "Divenne celebre in tutto il paese come animatore del rinnovamento culturale della Cina, in particolare per mezzo della rivista Gioventù nuova che fondò a Shanghai nel 1915.",
+      "zh": "他以中国新文化运动的倡导者而闻名全国，特别是通过1915年在上海创办的《新青年》杂志。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s366",
+      "sec": 6,
+      "it": "Fu uno dei promotori della fondazione del PCC e suo primo segretario generale.",
+      "zh": "他是中国共产党成立的倡导者之一，并担任党的第一任总书记。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s367",
+      "sec": 6,
+      "it": "In tale carica divenne esponente della linea opportunista di destra e, dopo il 1927, del liquidazionismo e del trotzkismo.",
+      "zh": "在任此职期间，他成为右倾机会主义路线的代表人物，1927年以后又成为取消主义和托洛茨基主义的代表人物。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s368",
+      "sec": 6,
+      "it": "Fu espulso dal PCC nel 1929 e morì nel 1942.",
+      "zh": "1929年他被中国共产党开除，1942年去世。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s369",
+      "sec": 6,
+      "it": "Nel 1919 Chen Tu-hsiu era docente all’Università di Pechino.",
+      "zh": "1919年，陈独秀任北京大学教授。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s370",
+      "sec": 6,
+      "it": "4..I sei personaggi richiamati erano tutti alti esponenti del Governo di Pechino che",
+      "zh": "4. 被传讯的六人都是北京政府的高级官员，他们",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s371",
+      "sec": 6,
+      "it": "avevano avuto un ruolo di rilievo nell’accettazione della penetrazione dell’imperialismo giapponese in Cina nel corso e immediatamente dopo la Prima guerra mondiale.",
+      "zh": "它们在日本帝国主义于第一次世界大战期间及战后立即对中国进行渗透的过程中，扮演了重要的角色。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s372",
+      "sec": 6,
+      "it": "5..Wang Ke-min nel 1919 era Ministro delle finanze del Governo di Pechino e autorevole",
+      "zh": "5. 王克敏一九一九年曾任北京政府财政部长，颇有势力。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s373",
+      "sec": 6,
+      "it": "esponente del mondo finanziario (era stato e sarebbe ridiventato direttore della Banca di Cina).",
+      "zh": "金融界要人（他曾任中国银行行长，后来还再度担任此职）。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s374",
+      "sec": 6,
+      "it": "6..Nella stampa di reazionari e conservatori cinesi ci si riferiva al partito comunista con",
+      "zh": "6. 中国反动派和保守派的报刊提及共产党时，用",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s375",
+      "sec": 6,
+      "it": "l’espressione di “partito estremista” per screditarlo.",
+      "zh": "“极端派”这一提法来诋毁它。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s376",
+      "sec": 6,
+      "it": "Qui e in altri scritti Mao Tse-tung usa polemicamente l’espressione.",
+      "zh": "毛泽东在这里和其他著作中都是带论战性地使用这一提法。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s377",
+      "sec": 6,
+      "it": "7..Lo scritto si riferisce all’aggressione commerciale, finanziaria e infine militare dei",
+      "zh": "7. 这篇著作论述的，是对中国的商业侵略、金融侵略，直至军事侵略",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s378",
+      "sec": 6,
+      "it": "governi imperialisti contro la Repubblica dei consigli instaurata in Ungheria nel marzo 1919 con a capo Bela Kun e soffocata nel sangue nell’agosto dello stesso anno.",
+      "zh": "帝国主义各国政府反对1919年3月在匈牙利建立的苏维埃共和国，该共和国由库恩·贝拉¹领导，同年8月被血腥镇压。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s379",
+      "sec": 6,
+      "it": "8..Lo scritto si riferisce alla terza guerra anglo-afghana (maggio-giugno 1919).",
+      "zh": "8. 本文指的是第三次英阿战争（1919年5月至6月）。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s380",
+      "sec": 6,
+      "it": "9..La classe dirigente indiana aveva accettato in definitiva di collaborare con il governo",
+      "zh": "9. 印度统治阶级最终同意同政府",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s381",
+      "sec": 6,
+      "it": "britannico alla Prima guerra mondiale.",
+      "zh": "英国在第一次世界大战中合作。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s382",
+      "sec": 6,
+      "it": "Quasi a scherno, uno dei membri della delegazione britannica alla Conferenza di pace di Versailles era indiano.",
+      "zh": "颇具讽刺意味的是，英国出席凡尔赛和谈的代表团中有一名成员竟是印度人。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s383",
+      "sec": 6,
+      "it": "Da ricordare che in Cina, quando il Governo di Pechino aderì alle pressioni dell’Intesa di mandare “carne da cannone” in suo aiuto, Sun Yat-sen si ribellò e creò un governo dissidente.",
+      "zh": "应当记得，在中国，当北京政府屈从于协约国的压力、派出“炮灰”前去援助时，孙中山奋起反抗，另立了一个政府。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s384",
+      "sec": 6,
+      "it": "10..Nel 1905 il governo giapponese aveva sottoposto la Corea a protettorato e nel 1910",
+      "zh": "10. 1905年，日本政府把朝鲜置于保护国地位，1910年",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s385",
+      "sec": 6,
+      "it": "l’aveva annessa al Giappone.",
+      "zh": "已将其并入日本。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s386",
+      "sec": 6,
+      "it": "11..W. Wilson, presidente degli Stati Uniti d’America e apparentemente il personaggio più",
+      "zh": "11．美国总统威尔逊，表面上似乎是",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s387",
+      "sec": 6,
+      "it": "importante alla Conferenza della pace di Versailles. Qui e in altri scritti che seguono W.",
+      "zh": "凡尔赛和会上最重要的人物。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s388",
+      "sec": 6,
+      "it": "Wilson è fatto particolare oggetto di scherno per la contraddizione eclatante tra i programmi da lui proclamati e la sua reale attività.",
+      "zh": "在这里及此后的一些著作中，特别以威尔逊为嘲讽对象，因为其所宣扬的纲领与他实际的活动之间存在极其显眼的矛盾。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s389",
+      "sec": 6,
+      "it": "Nel 1916 fu rieletto presidente degli USA su un programma pacifista e nel 1917 fece entrare gli USA in guerra con un programma di autodeterminazione delle nazioni e nel 1919 sanzionò i trattati di pace di rapina.",
+      "zh": "1916年，他以和平主义的纲领再度当选美国总统；1917年，又以民族自决的纲领使美国参加战争；到1919年，他认可了掠夺性的和约。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s390",
+      "sec": 6,
+      "it": "12..Gli attentati dinamitardi (maggio-giugno 1919) a cui l’articolo si riferisce diedero modo",
+      "zh": "12．本文所提及的1919年5月至6月的炸弹袭击事件，使……得以发生",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s391",
+      "sec": 6,
+      "it": "al governo del presidente Wilson di ampliare la grande “caccia alle streghe” in corso allora negli Stati Uniti d’America (Sacco e Vanzetti ne furono le vittime più celebri).",
+      "zh": "威尔逊总统政府试图扩大当时在美利坚合众国进行的大规模\"搜捕女巫\"行动（萨科和万泽蒂是其中最著名的受害者）。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s392",
+      "sec": 6,
+      "it": "Migliaia di “estremisti” vennero arrestati in pochi giorni in tutto il paese e internati in campi di concentramento, nel tentativo di arginare il “pericolo rosso”.",
+      "zh": "几天之内，全国有数千名\"极端分子\"被捕，并被关进集中营，以图遏制\"赤色危险\"。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s393",
+      "sec": 6,
+      "it": "13..Samuel Gompers (1850-1924) era il presidente dell’American Federation of Labour",
+      "zh": "13. 塞缪尔·冈帕斯（1850-1924）是美国劳工联合会的",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s394",
+      "sec": 6,
+      "it": "(AFL), allora la maggiore confederazione sindacale negli USA.",
+      "zh": "主席，美国劳工联合会是当时美国最大的工会联合会。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s395",
+      "sec": 6,
+      "it": "14..Kang Yu-wei era un intellettuale confuciano esponente del “movimento di",
+      "zh": "14. 康有为是儒家知识分子、\"自强运动\"的代表人物，参加了1898年的\"百日维新\"。维新运动被政变终止后，他在国外和中国之间往来，密谋复辟清朝。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s396",
+      "sec": 6,
+      "it": "autorafforzamento” e partecipò alla “Riforma dei cento giorni” nel 1898. Dopo il colpo di Stato che pose fine al tentativo riformista, visse un po’ all’estero e un po’ in Cina tramando per la restaurazione della dinastia dei Ching.",
+      "zh": "（无对应段落）",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s397",
+      "sec": 6,
+      "it": "15..Chen Chun-hsuan (o anche Chen Wu) era un ex funzionario di alto livello della corte",
+      "zh": "15. 陈春煊（又名陈武）是中国朝廷的前高级官员。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s398",
+      "sec": 6,
+      "it": "imperiale cinese. Dopo il 1911 si avvicinò a Sun Yat-sen e nel 1918-1919 fu a capo del Governo repubblicano di Canton.",
+      "zh": "1911年后，他接近孙中山，1918—1919年间任广州军政府首脑。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s399",
+      "sec": 6,
+      "it": "16..Si tratta di Kang Yu-wei (vedasi nota¹⁴).",
+      "zh": "16. 这是康有为（见注¹⁴）。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s400",
+      "sec": 6,
+      "it": "17..La grande rivista del movimento di rinnovamento culturale pubblicata a Shanghai dal",
+      "zh": "17. 新文化运动的大型杂志，在上海出版，自",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s401",
+      "sec": 6,
+      "it": "1915 e a circolazione nazionale.",
+      "zh": "1915年，具有全国性的影响范围。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s402",
+      "sec": 6,
+      "it": "18..Tsingtao, capoluogo della provincia dello Shantung, venne assegnata dalla Conferenza",
+      "zh": "18. 青岛是山东省省会，由会议决定划归……",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s403",
+      "sec": 6,
+      "it": "di Versailles al governo giapponese.",
+      "zh": "尔的赛和约转交给日本政府。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s404",
+      "sec": 6,
+      "it": "Il³ maggio 1919 la stampa di Pechino diede notizia del fatto e il⁴ maggio una grande manifestazione di studenti diede inizio a Pechino al Movimento del⁴ maggio.",
+      "zh": "³一九一九年五月一日，北京报纸报道了此事，五月⁴四日，北京学生举行大规模示威游行，由此揭开了五四⁴运动的序幕。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s405",
+      "sec": 6,
+      "it": "Il numero² della Rivista del fiume Hsiang uscì il²¹ luglio 1919 con due annunci: “1..Questa rivista si interessa specificatamente dello studio e della ricerca di teorie culturali e di critica sociale.",
+      "zh": "《湘江评论》第二²期于一九一九年七月二¹日出版，刊登了两则启事：“一、本刊专门研究学术理论，进行社会批评。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s406",
+      "sec": 6,
+      "it": "Non interviene su fatti di attualità politica.",
+      "zh": "不议论当前的政治时事。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s407",
+      "sec": 6,
+      "it": "19..Duemila copie del primo numero della nostra rivista sono andate esaurite nel primo",
+      "zh": "十九、本刊创刊号两千份，第一天公开发售即告售罄。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s408",
+      "sec": 6,
+      "it": "giorno di vendita al pubblico. Avevamo intenzione di ristamparne altre duemila copie ma, poiché la tipografia ha troppo lavoro, è necessario attendere alcuni giorni per la ristampa.",
+      "zh": "本拟再加印两千份，但因印刷厂业务繁忙，加印需等数日。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s409",
+      "sec": 6,
+      "it": "Di ciò chiediamo scusa ai lettori”.",
+      "zh": "对此谨向读者致歉”。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s410",
+      "sec": 6,
+      "it": "Come annunciato, vennero stampate altre².000 copie del numero¹, ma del numero² ne vennero stampate⁵.000 copie.",
+      "zh": "如前所述，第一期又重印了².000份，而第二期则重印了⁵.000份。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s411",
+      "sec": 6,
+      "it": "La rivista ebbe ampia diffusione non solo nello Hunan, ma anche nel Kwangtung, nel Szechwan e a Wuhan.",
+      "zh": "该刊不仅行销湖南，还流传到广东、四川和武汉。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s412",
+      "sec": 6,
+      "it": "L’articolo editoriale del numero² era costituito dalla prima puntata di La grande unione delle masse popolari che pubblichiamo assieme alle puntate successive dopo il numero⁴.",
+      "zh": "第二期的社论为《民众的大联合》的第一部分，现将该文连同第四期以后刊载的各部分一并发表。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s413",
+      "sec": 7,
+      "it": "COMMENTO DEI PRINCIPALI AVVENIMENTI DELL’OCCIDENTE",
+      "zh": "《西方大事记评》",
+      "head": true,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s414",
+      "sec": 7,
+      "it": "L’odiata firma del trattato da parte dei tedeschi Prima della firma del trattato.",
+      "zh": "德国人在条约上签字前，对条约的憎恨签字",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s415",
+      "sec": 7,
+      "it": "I rappresentanti della Germania sconfitta ma non prostrata, il conte Brockdorff- Rantzau e altri, sono giunti a Parigi nella prima decade di maggio.",
+      "zh": "战败但未屈服的德国代表——布洛克多夫-伦佐伯爵等人——于5月上旬抵达巴黎。5月7日⁷举行了和平条约交付的隆重仪式。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s416",
+      "sec": 7,
+      "it": "Il⁷ maggio ha avuto luogo la solenne cerimonia della consegna del trattato di pace.",
+      "zh": "德国代表的表现十分庄重。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s417",
+      "sec": 7,
+      "it": "Il comportamento dei rappresentanti tedeschi è stato molto dignitoso.",
+      "zh": "在会议上，克列孟梭起立致开幕词。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s418",
+      "sec": 7,
+      "it": "Alla riunione, Clemenceau si è alzato in piedi per pronunciare il discorso di apertura.",
+      "zh": "而德国代表布洛克多夫-伦佐却坐着发表讲话。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s419",
+      "sec": 7,
+      "it": "Invece il rappresentante della Germania, Brockdorff-Rantzau, ha pronunciato il suo discorso rimanendo seduto.",
+      "zh": "其讲话内容如下：\"德军已被击败，我们深知自己失败到了何等程度。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s420",
+      "sec": 7,
+      "it": "Eccolo qui di seguito: “L’esercito tedesco è stato sconfitto e siamo ben consapevoli fino a che punto siamo stati sconfitti.",
+      "zh": "然而这次对战争负有责任的并非德国一国，而是整个欧洲。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s421",
+      "sec": 7,
+      "it": "Tuttavia questa volta non è la Germania la sola responsabile della guerra, bensì tutta l’Europa.",
+      "zh": "事实是，近五十年来欧洲各国的帝国主义构成了一种国际性的毒素。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s422",
+      "sec": 7,
+      "it": "Il fatto è che in questi ultimi cinquant’anni l’imperialismo di ciascuna nazione europea ha costituito una sorta di veleno internazionale.",
+      "zh": "德国在战争中的罪责固然无法掩盖，但众所周知，在战争中各国人民的良知被感情所蒙蔽，而这正是罪过所在。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s423",
+      "sec": 7,
+      "it": "Non si possono certo nascondere le colpe della Germania nel corso della guerra, ma tutti sanno che in guerra la coscienza dei popoli è ingannata dai sentimenti e questa è la colpa.",
+      "zh": "然而不应忘记，去年11月11日¹¹以后，许许多多与战争毫无关系的德国人因封锁而死亡，而协约国对此却冷眼旁观。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s424",
+      "sec": 7,
+      "it": "Non bisogna tuttavia dimenticare che dopo l’¹¹ novembre dello scorso anno, moltissimi tedeschi che non hanno nulla a che fare con la guerra, sono morti a causa del blocco e l’Intesa guarda a ciò con freddezza.",
+      "zh": "Rivista del Fiume Hsiang — numero 2 (21 luglio 1919)\n\nTutto il mondo è d’accordo con i¹⁴ punti del presidente Wilson, anche l’Intesa ha dichiarato di voler preparare il trattato di pace basandosi su quel programma, così che si darebbe la possibilità alla Germania di risollevarsi. Ogni paese pertanto deve poter aderire alla Società delle Nazioni, non è dunque possibile lasciare la Germania fuori della porta. La Germania vorrebbe che le si mostrasse uno spirito di buona volontà nello studiare e preparare il trattato di pace”.\n\nIl segretario della Conferenza di pace, Dolfmann, ha consegnato a Brockdorff- Rantzau un grosso volume rilegato con una stoffa grigia e gialla e cioè il trattato di pace. Brockdorff-Rantzau, rientrato nella sua residenza, durante la cena non pronuncia neppure una parola. Dopo la cena, chiede che venga subito tradotto il trattato di pace, lavoro questo che, terminato alle tre del mattino, è subito portato nella stanza da letto di Brockdorff-Rantzau. Egli lo legge fino a mattino inoltrato e, fattene fare parecchie copie, le invia tramite un corriere speciale a Berlino. Il giorno⁸ il Gabinetto tedesco tiene una lunga riunione. Il primo ministro Scheidemann pronuncia un discorso davanti alla commissione incaricata del trattato di pace. Lo riportiamo qui di seguito: “Le condizioni del trattato di pace condannano a morte la Germania. Il governo deve tenere un comportamento politico calmo nel discutere questo disgustoso e folle documento ufficiale [...]”.\n\nLe condizioni del trattato di pace vengono immediatamente telegrafate a tutti i governi federali, con la preghiera di esprimere i loro pareri. A causa delle profonde sofferenze subite, viene ingiunto al pubblico di astenersi per una settimana dal frequentare i locali di divertimento. A teatro si possono rappresentare solo tragedie che abbiano riferimento alle sofferenze della patria. Persino la Borsa viene chiusa per tre giorni a causa del dolore nazionale. Famose personalità, sentito che la Conferenza di pace vuole costringere la Germania alla firma, sono furibonde e discutono delle conseguenze del rifiuto della firma. Nessuno è dell’idea che si debbano accettare le condizioni. Tutti i giornali di Berlino lanciano insulti, uno dice: “La durezza del trattato di pace è peggio di quanto potessimo immaginare, è il prodotto di pazzi e ignoranti; se non viene cambiato l’unica cosa è di rispondere no!”. Un altro dice: “Se noi firmassimo questo trattato di pace, significherebbe nient’altro che prostrarsi di fronte alla forza militare. I nostri cuori devono con risolutezza rifiutare”. Soltanto l’organo del partito socialdemocratico si dichiara d’accordo alla firma del trattato, dicendo: “In base all’esperienza passata, rifiutare significherebbe andare incontro a guai peggiori”.\n\nIn questo momento la cosa su cui bisogna prestare maggiore attenzione è il comportamento dei partiti politici tedeschi. I membri della maggioranza del partito socialista che partecipano al governo non vogliono la firma. Anche il partito popolare e il partito moderato hanno la stessa posizione. Il partito socialista indipendente invece non la pensa allo stesso modo. Questo, il giorno¹², in una riunione decide di accettare il trattato di pace e afferma inoltre che “se il governo tedesco seguiterà a conservare il suo atteggiamento militarista ciò produrrà negli altri sfiducia e paura. La Germania, per quanto la cosa sia ingiusta, non può fare altro che firmare. I trattati di pace tra Germania e Russia e tra Germania e Romania avranno vita breve, verranno tra poco annullati. Inoltre il trattato di pace di Versailles potrebbe essere cancellato dallo sviluppo della rivoluzione”.\n\nNoi riteniamo che se la Germania non vuole accettare il trattato di pace, deve prendere esempio dalla Russia e dall’Ungheria, cioè fare una grande rivoluzione sociale. Questo è ciò che più teme l’Intesa. I russi e gli ungheresi non inviano rappresentanti, non parlano di pace, combattono apertamente l’Intesa e l’Intesa fino a oggi non ha saputo cosa fare contro di loro. L’inverno scorso i rivoluzionari del partito socialista tedesco hanno fatto con successo la rivoluzione sociale, unendosi a est con i russi, a sud con gli austriaci e con gli ungheresi e i cecoslovacchi, per diffondere l’ideale della rivoluzione mondiale. Inaspettata-mente i partiti socialisti inglese, francese e americano, da molto tempo tranquilli, hanno fatto eco e i governi dei paesi dell’Intesa come possono tollerare questa situazione? Il partito socialista indipendente e i rivoluzionari del partito socialista sono fondamentalmente uno stesso partito diviso in due, non è quindi strano che abbia fatto questo discorso. Utilizzare il propagarsi della rivoluzione per cancellare il trattato di pace, sono intenzioni che non vanno prese alla leggera. Lo stesso giorno l’assemblea nazionale ha discusso le condizioni del trattato di pace.\n\nScheidemann ha detto: “Oggi i tedeschi si trovano di fronte a una decisione di vita o di morte! Dobbiamo assolutamente essere uniti! Noi cerchiamo soltanto di far sopravvivere il nostro paese, non abbiamo altri obiettivi. Noi non ci sognamo di applicare lo statalismo.\n\nNon abbiamo il problema di darci da fare per la gloria, usurpando il potere. Oggi la gola di ciascuno di noi è stretta da una mano che ci impedisce di respirare. La dignità del popolo è nelle vostre mani!”.\n\nIl giorno¹⁴ Brockdorff-Rantzau ha inviato a Clemenceau una nota ufficiale, i cui punti salienti sono: “Le condizioni di pace contenute nel trattato riguardo alla cessione di territori obbligano la Germania alla perdita di un importante settore produttivo. Il raccolto di patate e cereali diminuirà del²⁰ per cento. La produzione di carbone diminuirà del³⁰ per cento. L’acciaio del⁷⁵ per cento. Lo zinco del⁶⁰ per cento. La Germania ha già perduto le colonie e la flotta commerciale e ciò porta l’economia alla stagnazione. Già oggi non possiamo avere materie prime e sicuramente in seguito sarà ancora peggio. Allo stesso tempo le importazioni di cereali sicuramente diminuiranno in modo notevole. La vita di alcuni milioni di persone dipende dai commerci e dai trasporti marittimi, il governo tedesco non sarà in grado in seguito di garantire lavoro e cereali e si sarà allora costretti a emigrare in altri paesi per vivere. Ma i paesi più importanti non permettono ai tedeschi di emigrare. Pertanto firmare il trattato di pace significa condannare a morte milioni di tedeschi”.\n\nBrockdorff-Rantzau oltre a questa nota ufficiale ne ha inviate altre due a Clemenceau. La prima dice all’incirca: “L’Intesa vuole impossessarsi dei nostri territori, ma ciò non corrisponde a quanto ha dichiarato il presidente Wilson”. La seconda concerne il rigetto della clausola del risarcimento. Egli dice: “La Germania intende risarcire, ma non perché è responsabile della guerra”.\n\nAnalizziamo ora il rifiuto della Germania. Probabilmente i punti principali sono: l. non intende essere considerata come l’unica responsabile della guerra. 2. Non intende perdere i territori perché danno materie prime. Rifiutano anche altre clausole, ma meno importanti.\n\nLa sera del giorno¹³ a Berlino si è svolta una grande manifestazione e la maggioranza del partito socialista ha innalzato una tribuna e fatto un comizio dicendo che: “Le condizioni del trattato di pace sono più gravose e vergognose di quelle che Roma impose alle popolazioni sottomesse della Palestina”.\n\nMoltissime persone hanno manifestato per le strade e si sono fermate davanti all’Adlon Hotel, in cui erano scesi i membri del comitato dell’Intesa. Alcuni hanno tenuto discorsi, l’atmosfera si è fatta incandescente e hanno tentato di fare irruzione nell’albergo, ma la polizia lo ha impedito. Allora si sono recati davanti all’abitazione del primo ministro tedesco Scheidemann che ha fatto un discorso dalla finestra. La mattina presto ancora moltissime persone si trovavano davanti all’Adlon Hotel a cantare canzoni e a gridare: “Abbasso questo brutale trattato di pace! A morte Clemenceau! A morte l’Inghilterra!”. Altri vanno di nuovo davanti alla abitazione di Scheidemann e lo invitano a fare un discorso. Allora mentre Scheidemann parla dei¹⁴ punti di Wilson, la gente immediatamente grida: “A morte Wilson!”. Lo stesso giorno il partito socialista indipendente ha tenuto riunioni a Berlino e nelle campagne, in quaranta luoghi diversi.\n\nIl giorno¹⁹ i giornali di Berlino riportano il discorso del leader del partito socialdemocratico dottor Bernstein, in cui dice: “Le condizioni del trattato di pace sono durissime, tuttavia non nascono soltanto da odio esasperato. In realtà la politica portata avanti dalla Germania non dà alcun affidamento, perciò ora essa deve accettare questo trattamento. La Germania è responsabile di quanto è stato distrutto. Adesso la Germania deve far fronte a quanto le viene chiesto, non deve far altro che pagare dei debiti a chi ha derubato in passato. Io non sono d’accordo con tutta quella gente che fa discorsi esasperati. Io li avverto che non si possono dare più tante arie come il¹⁴ agosto 1914!”. Queste parole sono state per gli scalmanati tedeschi un vero e proprio secchio d’acqua gelida sulla testa.\n\nIl giorno²⁰ Brockdorff-Rantzau invia alla Conferenza di pace una nota in cui si chiede di modificare, attraverso una discussione, le condizioni di pace e l’ultimatum. Il giorno²² Clemenceau risponde promettendo di spostare l’ultimatum al²⁹ maggio. La sera del giorno²³ l’ambasciatore plenipotenziario tedesco, assieme ai ministri venuti da Berlino, si reca a Spa per avere un colloquio sulla decisione da prendere. Il giorno²⁴ Stresemann ed Erzberger sono arrivati in treno da Berlino a Spa, come pure Brockdorff-Rantzau e altri sedici membri della delegazione, per tenere un consulto, presieduto da Stresemann, per far passare la mozione contraria della Germania. Finito il consulto, i membri del governo rientrano a Berlino, mentre Brockdorff-Rantzau e gli altri tornano a Versailles.\n\nIl²⁷ maggio la Germania risponde alla Conferenza di pace. La prima parte della risposta, piuttosto importante, è come segue: l. la Germania è d’accordo nel ridurre l’esercito a centomila effettivi.\n《湘江评论》——第二期（1919年7月21日）",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s425",
+      "sec": 7,
+      "it": "全世界都赞成威尔逊总统的十四点¹⁴，协约国也已宣布愿意依据这一纲领筹备和约，从而使德国获得重新振兴的可能。因此每个国家都应能够加入国际联盟，把德国拒之门外是不可能的。德国希望在和约的审议与筹备中，能表现出善意精神。",
+      "zh": "",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s426",
+      "sec": 7,
+      "it": "和平会议秘书长多尔曼交给布罗克多夫-兰曹一个用灰黄两色布面装帧的大册子，即和约。布罗克多夫-兰曹回到住所后，晚餐时一言不发。饭后，他立即要求和约的译文，这项工作在凌晨三点完成，随即送到布罗克多夫-兰曹的卧室。他一直读到天光大亮，并让人誊写多份，由特别信使送往柏林。八日⁸，德国内阁举行了长时间的会议。总理谢德曼向负责和约的委员会发表讲话，现照录如下：“和约的条件置德国于死地。政府在讨论这一丑恶而疯狂的官方文件时，必须保持冷静的政治态度〔……〕。”",
+      "zh": "",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s427",
+      "sec": 7,
+      "it": "和约的条件立即电告各联邦政府，请其发表意见。由于遭受深重苦难，当局责令公众一周内不得进入娱乐场所。剧院只能上演与祖国苦难有关的悲剧。甚至连证券交易所也因举国悲痛而停市三天。闻悉和平会议要强迫德国签字，著名人士无不义愤填膺，纷纷讨论拒绝签字的后果。没有人主张接受这些条件。柏林各报纷纷痛骂，一家报纸说：“和约的苛刻程度超乎我们的想象，它是疯子和无知之徒的产物；若不修改，唯一的回答就是不！”另一家说：“倘若我们签署这一和约，那就无非是向武力屈服。我们的心必须坚决拒绝。”只有社会民主党的机关报表示赞同签字，说：“根据过去的经验，拒绝签字只会招致更大的灾难。”",
+      "zh": "",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s428",
+      "sec": 7,
+      "it": "此时此刻最值得注意的是德国各政党的态度。参加政府的社会党多数派成员不愿签字。人民党和温和党也持同样立场。独立社会党则不然。该党十二日¹²开会决定接受和约，并声称：“如果德国政府继续保持其军国主义姿态，这将在别国引起不信任和恐惧。德国纵然觉得不公正，也别无选择，只能签字。德国同俄国、德国同罗马尼亚之间的和约寿命不长，不久即会被废除。此外，凡尔赛和约也可能被革命的发展所取消。”",
+      "zh": "",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s429",
+      "sec": 7,
+      "it": "我们认为，倘若德国不愿接受和约，就应当效法俄国和匈牙利，即举行伟大的社会革命。这正是协约国最害怕的。俄国人和匈牙利人不派代表，不谈和平，公开同协约国作战，而协约国至今对他们束手无策。去年冬天，德国社会党的革命家们成功地进行了社会革命，东联俄国，南结奥国、匈牙利人和捷克斯洛伐克人，传播世界革命的理想。出乎意外，久已沉寂的英国、法国、美国社会党竟发出呼应之声，协约国诸国的政府怎能容忍这种局面？独立社会党和社会党革命家本来就是一个党分成的两半，所以发表这种言论不足为奇。利用革命的传播来取消和约，此等用心不可等闲视之。同日，国民会议讨论了和约的条件。",
+      "zh": "",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s430",
+      "sec": 7,
+      "it": "谢德曼说：“今天德国人面临生死存亡的抉择！我们必须绝对团结！我们只图国家的生存，别无他求。我们丝毫不想实行国家主义。",
+      "zh": "",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s431",
+      "sec": 7,
+      "it": "我们不求为争虚名而钻营夺权。今天我们每个人的咽喉都被一只扼住我们呼吸的手紧紧卡住。人民的尊严就在你们手中！”",
+      "zh": "",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s432",
+      "sec": 7,
+      "it": "十四日¹⁴，布罗克多夫-兰曹向克列孟梭递交一份照会，其要点是：“和约中关于割让领土的和平条件，迫使德国丧失重要的生产部门。马铃薯和谷物的收获将减少百分之二十²⁰。煤的产量将减少百分之三十³⁰。钢铁减少百分之七十五⁷⁵。锌减少百分之六十⁶⁰。德国已经失去殖民地和商船队，这使经济陷于停滞。今天我们已得不到原料，今后势必更糟。同时谷物的进口必然大幅减少。数百万人的生计仰赖海上贸易和运输，德国政府今后将无法保障工作和口粮，届时人们将被迫移居他国谋生。但各主要国家不允许德国人移居。因此签署和约，就意味着宣判数百万德国人的死刑。”",
+      "zh": "",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s433",
+      "sec": 7,
+      "it": "除这份照会外，布罗克多夫-兰曹还向克列孟梭另发了两份。第一份大意是：“协约国想霸占我们的领土，但这同威尔逊总统的声明不符。”第二份涉及拒绝赔偿条款。他说：“德国愿意赔偿，但不是因为德国对战争负有责任。”",
+      "zh": "",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s434",
+      "sec": 7,
+      "it": "现在来分析德国的拒绝。大概其要点是：一、不愿被视为对战争负唯一责任者。二、不愿丧失产原料的领土。其他条款他们也有反对的，但都是次要的。",
+      "zh": "",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s435",
+      "sec": 7,
+      "it": "十三日¹³晚，柏林举行了大规模示威，社会党多数派搭起讲坛，举行集会，说：“和约的条件比罗马强加于被征服的巴勒斯坦各民族的更为苛刻、更为耻辱。”",
+      "zh": "",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s436",
+      "sec": 7,
+      "it": "极多的人上街示威，在协约国委员会下榻的阿德隆饭店前停留。有人发表演说，气氛白热化，有人试图冲入饭店，被警察阻止。于是人群来到德国总理谢德曼住所前，他从窗口发表演说。次日清晨，仍有极多的人在阿德隆饭店前唱歌喊口号：“打倒这个残暴的和约！克列孟梭该死！英国该死！”另一些人又来到谢德曼住所前，请他演说。当谢德曼谈到威尔逊的十四点¹⁴时，群众立即高喊：“威尔逊该死！”同日，独立社会党在柏林和各地农村举行了集会，共达四十处。",
+      "zh": "",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s437",
+      "sec": 7,
+      "it": "十九日¹⁹，柏林各报刊载社会民主党领袖伯恩斯坦博士的演说，他说：“和约的条件极其苛刻，但并不仅仅是出于狂暴的仇恨。实际上德国推行的政策毫无信誉可言，因此现在它必须接受这种待遇。德国对被摧毁的一切负有责任。现在德国必须承受对它的要求，无非是偿还过去劫掠所得。我不同意那些说激烈话的人。我警告他们，不能像1914年8月十四日¹⁴那样再趾高气扬了！”这番话对于发狂的德国人，无异于一桶冰水浇在头上。",
+      "zh": "",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s438",
+      "sec": 7,
+      "it": "二十日²⁰，布罗克多夫-兰曹致函和平会议，请求通过讨论修改和平条件及最后通牒。二十二日²²，克列孟梭答复允诺把最后通牒期限推迟至五月二十九日²⁹。二十三日²³晚，德国全权大使同从柏林赶来的各位部长前往斯帕，会商应采取的决策。二十四日²⁴，施特雷泽曼和埃茨贝格尔乘火车从柏林抵达斯帕，布罗克多夫-兰曹及其他十六名代表团成员也来到斯帕，由施特雷泽曼主持举行协商会议，以使德国的反建议案获得通过。协商结束后，政府成员返回柏林，布罗克多夫-兰曹等人则返回凡尔赛。",
+      "zh": "",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s439",
+      "sec": 7,
+      "it": "五月二十七日²⁷，德国答复和平会议。答复的第一部分颇为重要，内容如下：一、德国同意将军队裁减至十万人。",
+      "zh": "",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s440",
+      "sec": 7,
+      "it": "1..È d’accordo a consegnare le sue corazzate, ma conservando le navi",
+      "zh": "1. 他同意交出他的战列舰，但保留着舰船",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s441",
+      "sec": 7,
+      "it": "commerciali.",
+      "zh": "商业的。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s442",
+      "sec": 7,
+      "it": "2..È contro la decisione per quanto concerne i territori orientali.",
+      "zh": "2. 反对关于东方领土的决议。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s443",
+      "sec": 7,
+      "it": "Chiede che le",
+      "zh": "要求……",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s444",
+      "sec": 7,
+      "it": "popolazioni della Prussia orientale tengano un plebiscito.",
+      "zh": "东普鲁士各居民点举行公民投票。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s445",
+      "sec": 7,
+      "it": "3..È d’accordo che Danzica diventi un porto aperto.",
+      "zh": "3. 同意但泽成为开放港口。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s446",
+      "sec": 7,
+      "it": "4..Chiede che le truppe dell’Intesa vengano ritirate dopo quattro mesi dalla",
+      "zh": "4．要求协约国军队于四个月之后撤回",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s447",
+      "sec": 7,
+      "it": "firma del trattato.",
+      "zh": "条约的签订。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s448",
+      "sec": 7,
+      "it": "5..Chiede di entrare a far parte della Società delle Nazioni.",
+      "zh": "5. 请求加入国际联盟。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s449",
+      "sec": 7,
+      "it": "6..Chiede con risolutezza di poter esercitare il protettorato sulle colonie.",
+      "zh": "6. 坚决要求对殖民地行使保护权。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s450",
+      "sec": 7,
+      "it": "7..Per la questione del pagamento dei danni di guerra, non può pagare più di",
+      "zh": "7. 关于战争赔款问题，付款不得超过",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s451",
+      "sec": 7,
+      "it": "un miliardo di marchi.",
+      "zh": "十亿马克。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s452",
+      "sec": 7,
+      "it": "8..Rifiuta di estradare il kaiser e altre personalità.",
+      "zh": "8. 拒绝引渡德皇及其他重要人物。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s453",
+      "sec": 7,
+      "it": "9..La Germania deve avere ancora la possibilità di svolgere il commercio con",
+      "zh": "9．德国还应当有可能同",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s454",
+      "sec": 7,
+      "it": "l’estero.",
+      "zh": "外国进行贸易。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s455",
+      "sec": 7,
+      "it": "La seconda parte della risposta comprende alcuni punti importanti che sono: l. nel periodo di transizione la Germania deve conservare tutto l’esercito per garantire la pace.",
+      "zh": "答复的第二部分包括一些要点，它们是：一、在过渡时期，德国应当保留全部军队，以保障和平。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s456",
+      "sec": 7,
+      "it": "10..Si deve garantire ai tedeschi la possibilità di riunire l’assemblea dei cittadini,",
+      "zh": "10．应当保证德国人有召集公民大会的可能，",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s457",
+      "sec": 7,
+      "it": "per discutere il problema della cessione dei territori.",
+      "zh": "以讨论领土割让问题。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s458",
+      "sec": 7,
+      "it": "Si deve inoltre garantire agli austriaci di potersi unire liberamente alla Germania.",
+      "zh": "此外，还应当保证奥地利人可以自由地与德国联合。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s459",
+      "sec": 7,
+      "it": "11..Rifiuta di cedere l’Alta Slesia.",
+      "zh": "十一、拒绝割让上西里西亚。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s460",
+      "sec": 7,
+      "it": "12..Rifiuta di concedere alla Russia il diritto a indennità.",
+      "zh": "十二、拒绝给予俄国取得赔款的权利。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s461",
+      "sec": 7,
+      "it": "13..Non sente il dovere di indennizzare l’Italia, la Romania, la Polonia e altri paesi.",
+      "zh": "十三、认为自己没有赔偿意大利、罗马尼亚、波兰及其他国家的义务。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s462",
+      "sec": 7,
+      "it": "Questa la risposta della Germania.",
+      "zh": "这就是德国的答复。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s463",
+      "sec": 7,
+      "it": "I rappresentanti delle quattro grandi potenze, dopo una lunga discussione, rispondono a loro volta con un documento in cui rigettano ogni punto delle richieste tedesche.",
+      "zh": "四大强国的代表经过长时间的讨论，也提出一份文件作为答复，驳回了德国要求的每一条。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s464",
+      "sec": 7,
+      "it": "Il documento è molto lungo.",
+      "zh": "这份文件很长。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s465",
+      "sec": 7,
+      "it": "In esso si afferma che la Germania non può disconoscere la propria grande responsabilità nella guerra; che la Germania deve pagare tutti i danni di guerra; che il comandante in capo delle forze armate deve essere consegnato assieme a quei personaggi che durante la guerra hanno commesso delle atrocità e che tutti costoro vanno puniti secondo la legge; che per parecchi anni debbono essere sorvegliati in modo particolare; che i principi fondamentali del trattato di pace dell’Intesa non possono in alcun modo essere modificati; che tuttavia si possono fare delle piccole concessioni in base alle proposte pratiche della Germania, ecc.",
+      "zh": "其中宣称：德国无法推卸自身在战争中的重大责任；德国必须偿付全部战争损失；武装部队总司令连同那些在战争期间犯下暴行的人物必须交出，所有这些人都要依法惩处；今后若干年内必须受到特别监视；协约国和约的根本原则绝不容许修改；不过，根据德国提出的实际可行的建议，可以作一些小的让步，等等。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s466",
+      "sec": 7,
+      "it": "Dopo il²⁸ maggio il rappresentante tedesco avanza nuove richieste, per cui il giorno della firma viene spostato parecchie volte.",
+      "zh": "5月²⁸日之后，德国代表又提出新的要求，因而签字日期一再推迟。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s467",
+      "sec": 7,
+      "it": "Il giorno ultimo per la firma viene fissato al²⁸ giugno.",
+      "zh": "最后的签字日期定在6月²⁸日。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s468",
+      "sec": 7,
+      "it": "La prima metà di giugno è un susseguirsi di riunioni.",
+      "zh": "6月上半月，会议接连不断。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s469",
+      "sec": 7,
+      "it": "Si arriva al¹⁸ giugno e la delegazione tedesca rientra in Germania dalla capitale francese e sono tutti d’accordo nell’esortare il Gabinetto tedesco a rifiutare la firma del trattato.",
+      "zh": "到了6月¹⁸日，德国代表团从法国首都返回德国，一致敦促德国内阁拒绝在和约上签字。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s470",
+      "sec": 7,
+      "it": "Il Gabinetto tedesco prepara a Weimar una conferenza di tutti i gruppi, per deliberare su questo importante problema.",
+      "zh": "德国内阁在魏玛筹备召开各党团会议，商讨这一重大问题。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s471",
+      "sec": 7,
+      "it": "Nello stesso momento, l’Intesa ha già mobilitato gli eserciti perché intervengano immediatamente qualora la Germania rifiuti la firma del trattato.",
+      "zh": "与此同时，协约国已经动员了军队，一旦德国拒绝签字，便立即出兵干涉。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s472",
+      "sec": 7,
+      "it": "Adesso, di fronte a tale situazione, la Germania non può fare a meno di firmare.",
+      "zh": "现在，面对这种形势，德国不得不签字。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s473",
+      "sec": 7,
+      "it": "Il²² giugno l’Intesa presenta alla Germania il suo ultimatum, che viene consegnato al rappresentante tedesco: entro cinque giorni la Germania deve accettare il trattato di pace. Il contenuto dell’ultimatum dice che è possibile fare delle piccole concessioni riguardo alle condizioni, come segue: l.",
+      "zh": "6月22²²日，协约国向德国递交最后通牒，并将其交给德国代表：德国必须在五日内接受和平条约。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s474",
+      "sec": 7,
+      "it": "l’Alta Slesia deve tenere un referendum popolare.",
+      "zh": "通牒内容称，可在条件方面作出若干小的让步，如下：一、上西里西亚应举行公民投票。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s475",
+      "sec": 7,
+      "it": "14..La linea di confine della Prussia occidentale deve essere ridefinita.",
+      "zh": "一四、西普鲁士的边界线应重新划定。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s476",
+      "sec": 7,
+      "it": "15..L’esercito tedesco può temporaneamente ammontare a due milioni di",
+      "zh": "一五、德国军队可暂时增至二百万人",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s477",
+      "sec": 7,
+      "it": "effettivi.",
+      "zh": "员。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s478",
+      "sec": 7,
+      "it": "16..La Germania deve rendere noti, entro un mese, i nomi di coloro che durante",
+      "zh": "16. 德国必须在一月之内公布战争期间",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s479",
+      "sec": 7,
+      "it": "la guerra hanno agito contro le leggi.",
+      "zh": "违反法律者的姓名。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s480",
+      "sec": 7,
+      "it": "17..La Germania deve mettere a punto le clausole del problema finanziario.",
+      "zh": "17. 德国必须制定出财政问题各条款的细则。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s481",
+      "sec": 7,
+      "it": "18..Una volta soddisfatte tutte le condizioni, alla Germania sarà garantito in",
+      "zh": "18. 在所有条件都得到满足之后，将保证德国在",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s482",
+      "sec": 7,
+      "it": "futuro di poter entrare a far parte della Società delle Nazioni.",
+      "zh": "将来可能加入国际联盟。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s483",
+      "sec": 7,
+      "it": "Il Gabinetto Scheidemann è consapevole di non avere alcuna possibilità di sottrarsi al trattato di pace, pertanto decide di dare le dimissioni.",
+      "zh": "沙伊德曼内阁深知自己已无任何可能摆脱和约，遂决定辞职。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s484",
+      "sec": 7,
+      "it": "Il giorno²² viene formato un nuovo Gabinetto: il primo ministro di Stato è Bauer, ministro degli esteri Muller, ministro delle finanze Erzberger, ministro degli interni David, ministro delle colonie Bell, ministro delle poste e comunicazioni Giesberts, ministro del lavoro Schnicke, ministro dell’ingegneria Schlike, ministro dell’economia pubblica Vissel, ministro del tesoro Schiele, ministro degli approvvigionamenti Schmidt.",
+      "zh": "当天²²组成了新内阁：国务总理为鲍尔，外交部长为米勒，财政部长为艾兹伯格，内政部长为达维德，殖民部长为贝尔，邮电部长为吉斯贝茨，劳动部长为施尼克，工程部长为施利克，公共经济部长为维塞尔，国库部长为希勒，供应部长为施密特。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s485",
+      "sec": 7,
+      "it": "Bauer e la maggior parte dei membri del Gabinetto appartengono alla maggioranza del partito socialista e sono colleghi di partito dei membri del Gabinetto precedente; nell’attuale urgente situazione diplomatica, si trovano a dover affrontare il difficile problema della firma del trattato.",
+      "zh": "鲍尔和内阁多数成员均属社会党多数派，与上届内阁成员同属一党；在当前紧急的外交形势下，他们面临着签署和约这一棘手问题。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s486",
+      "sec": 7,
+      "it": "Un Gabinetto formato in tal modo è probabile che sia già pronto a firmare il trattato.",
+      "zh": "以这种方式组成内阁，很可能已准备好在和约上签字。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s487",
+      "sec": 7,
+      "it": "Scheidemann si è dimesso e naturalmente tutti gli inviati alla Conferenza di pace nominati dal suo Gabinetto hanno fatto lo stesso.",
+      "zh": "沙伊德曼既已辞职，自然由他内阁所派的出席和平会议的全部代表亦已辞职。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s488",
+      "sec": 7,
+      "it": "Pertanto la Germania ha cambiato gli inviati ai negoziati di pace.",
+      "zh": "因此德国更换了参加和平谈判的代表。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s489",
+      "sec": 7,
+      "it": "La nuova delegazione è formata dal ministro degli esteri del nuovo Gabinetto, Muller, dal ministro delle poste e comunicazioni Giesberts e altri.",
+      "zh": "新代表团由新内阁外交部长米勒、邮电部长吉斯贝茨等人组成。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s490",
+      "sec": 7,
+      "it": "Contemporaneamente il parlamento ha tenuto a Weimar un’assemblea e Bauer vi si è subito recato e ha fatto un discorso pieno di angosciato rimorso.",
+      "zh": "与此同时，议会在魏玛召开了会议，鲍尔随即赶赴会场，发表了一篇充满痛苦悔恨的演说。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s491",
+      "sec": 7,
+      "it": "Ha spiegato con quanto dolore sia entrato a far parte del nuovo governo; ha pregato il parlamento di prendere una decisione sul da fare altrimenti sarà di nuovo la guerra.",
+      "zh": "他说明自己是怀着何等沉痛的心情参加新政府的；他请求议会对何去何从作出决定，否则战事将再起。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s492",
+      "sec": 7,
+      "it": "Bauer ha detto inoltre: “Io, nel momento estremo in cui la Germania è libera, mi oppongo a un trattato di pace distruttivo e violento!",
+      "zh": "鲍尔还说道：\"在德国获得解放的紧要关头，我反对这个破坏性和暴力的和平条约！我反对自决这个面具！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s493",
+      "sec": 7,
+      "it": "Mi oppongo alla maschera dell’autodeterminazione!",
+      "zh": "我反对这些危害世界和平的新工具！\"然而，议会在一片\"赞成！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s494",
+      "sec": 7,
+      "it": "Mi oppongo a questi nuovi strumenti che mettono a repentaglio la pace del mondo!”.",
+      "zh": "\"\"反对！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s495",
+      "sec": 7,
+      "it": "Il parlamento ha tuttavia approvato la decisione di firmare il trattato, in un coro di: “Siamo d’accordo!”, “Ci opponiamo!”.",
+      "zh": "\"的喧哗声中，通过了签署条约的决定。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s496",
+      "sec": 7,
+      "it": "Una volta approvata la decisione di firmare il trattato, il giorno²³ Bauer si reca di nuovo in parlamento per spiegare la necessità di firmare il trattato senza condizioni, dicendo quanto segue: “Un paese che ha perso la guerra, viene umiliato nell’animo e violentato nel corpo dal mondo!",
+      "zh": "签署条约的决定一经通过，鲍尔于²³日再次前往议会，解释无条件签署条约的必要性，他说了如下的话：\"一个战败的国家，在精神上受到世界的凌辱，在肉体上受到世界的摧残！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s497",
+      "sec": 7,
+      "it": "Noi per il momento firmiamo il trattato di pace.",
+      "zh": "我们暂时签署和平条约。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s498",
+      "sec": 7,
+      "it": "Abbiamo ancora un po’ di respiro e speriamo di vedere il giorno in cui coloro che hanno distrutto il nostro onore la pagheranno”.",
+      "zh": "我们还有一口气，我们希望看到摧毁我们荣誉的人付出代价的那一天。\"",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s499",
+      "sec": 7,
+      "it": "In questo momento la destra protesta violentemente.",
+      "zh": "这时，右派激烈抗议。然而还是进行了表决。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s500",
+      "sec": 7,
+      "it": "Si procede tuttavia alla votazione.",
+      "zh": "终于就签署达成了协议。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s501",
+      "sec": 7,
+      "it": "Finalmente l’accordo sulla firma è raggiunto.",
+      "zh": "议长费伦巴赫起身作简短演说：\"我们把多灾多难的祖国托付给上帝的慈悲！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s502",
+      "sec": 7,
+      "it": "Il presidente del parlamento Fehrenbach si alza per fare un breve discorso: “Affidiamo la nostra sfortunata patria alla misericordia di Dio!” e seguita: “Signori dirigenti di tutti i partiti, promettete di dichiarare ai circoli militari che tutto il paese si augura che fanteria e marina siano pronte a fornire un eccellente esempio di spirito di sacrificio, siano pronte ad aiutare i lavoratori a ricostruire la patria!”.",
+      "zh": "\"他接着说：\"各党的领袖先生们，请你们向军方人士声明，全国都希望步兵和海军做好准备，树立自我牺牲精神的榜样，准备帮助工人重建祖国！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s503",
+      "sec": 7,
+      "it": "La firma del trattato di pace della Germania, motivo di pace o di pericolo per tutto il mondo, viene decisa definitivamente in una baraonda di comizi e discorsi tristi e amari.",
+      "zh": "\"德国的和平条约的签署——它是全世界的和平还是危险——就在一片混乱的集会和悲哀苦涩的演说中最后决定了。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s504",
+      "sec": 7,
+      "it": "In tutta la storia tedesca non si trova una ricorrenza come questa!",
+      "zh": "在全部德国历史上，找不到这样的一次事件！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s505",
+      "sec": 7,
+      "it": "Passata in parlamento la mozione della firma, la nuova delegazione dei rappresentanti tedeschi si reca a Parigi per presentare alla Conferenza di pace il documento con cui la Germania si impegna a firmare il trattato di pace.",
+      "zh": "缔结条约的动议在国会通过后，德国新的代表代表团前往巴黎，向和平会议递交德国承诺签署和平条约的文件。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s506",
+      "sec": 7,
+      "it": "Il contenuto del documento è riassunto in quanto segue: “Il governo della Repubblica tedesca sa che l’Intesa aveva deciso di ricorrere alla forza per costringere la Germania a subire le condizioni del trattato di pace.",
+      "zh": "文件内容概述如下：“德意志共和国的政府知道，协约国已决定使用武力，迫使德国接受和平条约的条件。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s507",
+      "sec": 7,
+      "it": "Queste condizioni, sebbene non abbiano un significato molto importante, tuttavia defraudano la Germania del proprio onore.",
+      "zh": "这些条件虽然并无十分重大的意义，然而却剥夺了德国的荣誉。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s508",
+      "sec": 7,
+      "it": "Il governo tedesco, sebbene sia stato messo in ginocchio da una forza superiore alla sua e condizioni di pace tanto ingiuste siano qualcosa che non si è mai visto fin dai tempi più antichi, tuttavia nei confronti di tali condizioni non è disposto a ritornare sulle proprie idee!",
+      "zh": "德国政府虽然被比自己强大的武力所压倒，而且自古以来从未见过如此不公正的和平条件，然而对于这些条件，它却不愿意放弃自己的主张！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s509",
+      "sec": 7,
+      "it": "Oggi rilascia una dichiarazione speciale in cui si dice pronto ad accettare le condizioni proposte dall’Intesa”.",
+      "zh": "今天它发表了一项特别声明，表示准备接受协约国所提出的条件”。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s510",
+      "sec": 7,
+      "it": "Una volta fatta la dichiarazione che abbiamo appena riportato, i diversi paesi sono talmente sollevati che non è possibile esprimerlo a parole.",
+      "zh": "发表了我们刚刚转述的声明之后，各国都感到如此如释重负，简直无法用言语来表达。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s511",
+      "sec": 7,
+      "it": "Il giorno²⁸ è l’ultimo giorno per la firma del trattato di pace.",
+      "zh": "这一天²⁸是签署和平条约的最后一天。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s512",
+      "sec": 7,
+      "it": "Nella reggia di Versailles non si era mai tenuta una riunione simile per la firma di un trattato di pace.",
+      "zh": "在凡尔赛宫里，从未举行过类似的和平条约签字仪式。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s513",
+      "sec": 7,
+      "it": "Il momento in cui viene firmato il trattato.",
+      "zh": "条约签署的时刻。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s514",
+      "sec": 7,
+      "it": "Il giorno²⁸ giugno 1919 alle ore³,05 del pomeriggio, nella reggia di Versailles si tiene la riunione.",
+      "zh": "1919年6月²⁸日下午3时³,05分，凡尔赛宫举行会议。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s515",
+      "sec": 7,
+      "it": "Una grande tribuna, assai imponente, è stata allestita nella Sala degli specchi.",
+      "zh": "在镜厅内设有一座十分宏伟的大台。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s516",
+      "sec": 7,
+      "it": "I primi ad arrivare nella sala sono i plenipotenziari dell’Intesa.",
+      "zh": "最先进人会场的是协约国的全权代表。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s517",
+      "sec": 7,
+      "it": "Successivamente è la volta dei plenipotenziari tedeschi.",
+      "zh": "随后进来的是德国全权代表。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s518",
+      "sec": 7,
+      "it": "Entrano soltanto il ministro degli esteri Muller e il ministro dei trasporti e comunicazioni Bell, essendosi gli altri rifiutati di partecipare.",
+      "zh": "由于其他代表拒绝参加，到会的只有外交部长缪勒和交通、通讯部长贝尔。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s519",
+      "sec": 7,
+      "it": "Per prima cosa, il presidente Clemenceau rilascia una breve dichiarazione in cui dice: “L’Intesa e i governi dei paesi che hanno preso parte alla guerra sono tutti d’accordo sulle condizioni del trattato di pace.",
+      "zh": "首先，克列孟梭主席发表简短声明，说道：“协约国以及参战国各政府，对和平条约的条件意见完全一致。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s520",
+      "sec": 7,
+      "it": "La firma di oggi sta a dimostrare quanto la nostra comprensione si basi su onestà e serietà”.",
+      "zh": "今天的签字，足以证明我们的谅解是建立在诚实和严肃的基础之上的。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s521",
+      "sec": 7,
+      "it": "Subito dopo invita il rappresentante della repubblica germanica a firmare.",
+      "zh": "”接着，他请德意志共和国的代表签字。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s522",
+      "sec": 7,
+      "it": "All’improvviso il rappresentante tedesco che gli siede accanto grida: “Tedesca!",
+      "zh": "突然，坐在他旁边的德国代表喊道：“德国！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s523",
+      "sec": 7,
+      "it": "Tedesca!”.",
+      "zh": "德国！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s524",
+      "sec": 7,
+      "it": "Clemenceau si corregge e dice: “Tedesca”.",
+      "zh": "”克列孟梭随即改口说道：“德国。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s525",
+      "sec": 7,
+      "it": "A quel punto i rappresentanti tedeschi si alzano per apporre la firma sul trattato, Bell è il primo a firmare.",
+      "zh": "”于是德国代表起身到条约上签字，贝尔第一个签署。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s526",
+      "sec": 7,
+      "it": "Sono le³,12 del pomeriggio, in questo preciso momento le fontane del parco zampillano e vengono sparate alcune salve di cannone.",
+      "zh": "此时是下午3时³,12分，就在这一刻，公园的喷泉喷起水柱，并鸣放了数响礼炮。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s527",
+      "sec": 7,
+      "it": "Mentre i rappresentanti tedeschi ritornano ai loro posti, tutta l’assemblea è visibilmente contenta.",
+      "zh": "当德国代表回到座位时，全场明显流露出喜悦之情。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s528",
+      "sec": 7,
+      "it": "Il secondo a firmare è il rappresentante americano, seguito dall’inglese, francese, italiano, giapponese e per ultimo dal cecoslovacco.",
+      "zh": "第二个签字的是美国代表，随后依次是英国、法国、意大利、日本代表，最后签字的是捷克斯洛伐克代表。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s529",
+      "sec": 7,
+      "it": "Alle³,35 pomeridiane tutti avevano finito di firmare.",
+      "zh": "下午3时³,35分，全体签字完毕。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s530",
+      "sec": 7,
+      "it": "Clemenceau dichiara allora chiusa la riunione.",
+      "zh": "克列孟梭随即宣布会议结束。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s531",
+      "sec": 7,
+      "it": "Dopo la firma.",
+      "zh": "签字之后。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s532",
+      "sec": 7,
+      "it": "Quando il parlamento tedesco diffonde la notizia che ha dato il permesso di firmare il trattato di pace, immediatamente in tutta la Germania hanno luogo manifestazioni patriottiche.",
+      "zh": "当德国议会公布已准许签署和平条约的消息后，整个德国立即举行了爱国示威。人民列队高唱战歌和国歌，以欢呼和致敬向旧军官们表示庆贺。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s533",
+      "sec": 7,
+      "it": "Il popolo canta in corteo canzoni di guerra e l’inno nazionale, festeggiando con grida di gioia e saluti i vecchi ufficiali.",
+      "zh": "所有报纸对审判皇帝问题表现出极大的愤慨。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s534",
+      "sec": 7,
+      "it": "Tutti i giornali mostrano una grande indignazione riguardo al problema del processo all’imperatore.",
+      "zh": "有一家报纸甚至宣称，如果德国皇帝接受协约国的审判，那么1914年的陆军军官们也应当同样受审。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s535",
+      "sec": 7,
+      "it": "Un giornale arriva a dichiarare che se l’imperatore della Germania accetterà il processo dell’Intesa, allora dovranno fare altrettanto gli ufficiali dell’esercito del 1914.",
+      "zh": "它还号召组织一支志愿队伍前往荷兰，以保护德国皇帝。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s536",
+      "sec": 7,
+      "it": "Inoltre invita a formare un contingente che si rechi in Olanda al fine di proteggere l’imperatore tedesco.",
+      "zh": "全国各地不断发生示威和罢工。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s537",
+      "sec": 7,
+      "it": "In tutto il paese hanno luogo manifestazioni e scioperi in continuazione.",
+      "zh": "这一天²⁸，和约业已签署的消息传到柏林。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s538",
+      "sec": 7,
+      "it": "Il giorno²⁸ arriva a Berlino la notizia dell’avvenuta firma del trattato di pace.",
+      "zh": "一家柏林报纸立即发表文章说：“德国人必将回敬1919年的耻辱！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s539",
+      "sec": 7,
+      "it": "Un giornale berlinese pubblica immediatamente un articolo che dice: “I tedeschi risponderanno sicuramente alla vergogna del 1919!”.",
+      "zh": "”",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s540",
+      "sec": 7,
+      "it": "Ma il governo ne vieta la distribuzione.",
+      "zh": "但是政府禁止散发该报。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s541",
+      "sec": 7,
+      "it": "Il giorno²⁹ tutti i giornali tedeschi escono listati a lutto in segno di dolore e di tristezza.",
+      "zh": "这一天²⁹，所有德国报纸都出了黑边版，以示悲痛和哀伤。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s542",
+      "sec": 7,
+      "it": "Tutti i giornali riportano che i commenti sono pessimistici.",
+      "zh": "各报报道，舆论评论悲观。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s543",
+      "sec": 7,
+      "it": "A Berlino e in tutto il paese, i lavoratori delle ferrovie e dei tram scendono in sciopero.",
+      "zh": "柏林及全国铁路工人和电车工人举行罢工。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s544",
+      "sec": 7,
+      "it": "Nella città di Berlino tutto il settore dei trasporti rimane fermo.",
+      "zh": "柏林市整个运输部门陷于停顿。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s545",
+      "sec": 7,
+      "it": "Ad Amburgo si verificano disordini in diversi posti.",
+      "zh": "汉堡多处发生骚乱。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s546",
+      "sec": 7,
+      "it": "Gli scioperi in tutto il paese diventano sempre più numerosi.",
+      "zh": "全国各地的罢工日益增多。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s547",
+      "sec": 7,
+      "it": "Commento.",
+      "zh": "评论。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s548",
+      "sec": 7,
+      "it": "Queste sono le notizie.",
+      "zh": "这些就是报道。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s549",
+      "sec": 7,
+      "it": "Ho riportato soltanto le notizie sulla firma del trattato di pace da parte della Germania.",
+      "zh": "我只引述了关于德国签订和约的报道。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s550",
+      "sec": 7,
+      "it": "Per quanto concerne questa firma, ho riportato soprattutto notizie riguardanti la reazione addolorata del popolo.",
+      "zh": "关于这一签订，我引述的主要是关于人民悲痛反应的报道。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s551",
+      "sec": 7,
+      "it": "Che cosa significa?",
+      "zh": "这意味着什么？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s552",
+      "sec": 7,
+      "it": "Con questo trattato di pace, oltre alla Società delle Nazioni, tutti sono contro la Germania.",
+      "zh": "根据这项和约，除国际联盟外，人人都是反对德国的。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s553",
+      "sec": 7,
+      "it": "La Germania è formata dalle nazionalità germaniche.",
+      "zh": "德国是由日耳曼民族组成的。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s554",
+      "sec": 7,
+      "it": "Se si guarda alla storia, vediamo che già da molto tempo esse godevano di una grande reputazione e che il loro carattere era particolarmente deciso.",
+      "zh": "只要看一看历史，就知道他们早已享有很大的声誉，而且他们的性格特别刚强。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s555",
+      "sec": 7,
+      "it": "Se in un solo giorno la vecchia spada viene spezzata, allora una nuova spada la sostituirà immediatamente e in quel momento la razza umana del mondo intero non sarà in grado di far nulla per opporvisi.",
+      "zh": "如果旧剑有朝一日被折断，那么立即就会有一把新剑取而代之，那时全世界人类将无力加以抵抗。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s556",
+      "sec": 7,
+      "it": "Non dobbiamo ritenere che il militarismo e l’aggressività della Germania siano stati messi in moto soltanto dall’imperatore tedesco.",
+      "zh": "我们不要以为德国的军国主义和侵略性只是由德皇发动起来的。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s557",
+      "sec": 7,
+      "it": "L’imperatore della Germania è la cristallizzazione della nazionalità tedesca.",
+      "zh": "德国的皇帝是德意志民族性的结晶。既然存在德意志民族性，那么就存在德意志皇帝。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s558",
+      "sec": 7,
+      "it": "Se esiste la nazionalità tedesca allora esiste l’imperatore tedesco.",
+      "zh": "今天的德意志民族性，是由莱布尼茨、费希特、歌德、泡尔生等人所阐发的哲学思想塑造而成的。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s559",
+      "sec": 7,
+      "it": "La nazionalità tedesca di oggi è stata plasmata dal pensiero filosofico elaborato da Leibniz, Fichte, Goethe, Paulsen, ecc. È così che i tedeschi sono diventati potenti e hanno atteso il momento per uscire allo scoperto.",
+      "zh": "德国人也正是由此变得强大起来，并等待着出头露面的时机。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s560",
+      "sec": 7,
+      "it": "Fino a oggi seguitano ad affermare: “Non abbiamo perduto la guerra, la colpa della guerra non è nostra.",
+      "zh": "直至今天，他们仍在不断宣称：“我们没有输掉战争，战争的罪责不在我们。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s561",
+      "sec": 7,
+      "it": "Il popolo tedesco è al mondo il più ricco spiritualmente.",
+      "zh": "德意志民族是世界上精神上最富有的民族。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s562",
+      "sec": 7,
+      "it": "Questa alta spiritualità da sola è in grado di eliminare tutte le nostre difficoltà e siamo capaci di mettere in pratica questa alta spiritualità”.",
+      "zh": "单凭这种崇高的精神，就足以消除我们的一切困难，而我们也有能力把这种崇高的精神付诸实践。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s563",
+      "sec": 7,
+      "it": "Nei confronti dell’imperatore tedesco, da una parte proviamo odio per il suo militarismo aggressivo, per il suo abuso della forza, dall’altra non possiamo non compatirlo e versare per lui un po’ di lacrime di simpatia, proprio perché la sua “alta” spiritualità ci commuove.",
+      "zh": "”对于德国皇帝，我们一方面憎恨其侵略性的军国主义，憎恨其滥用武力；另一方面，又不得不对他寄予同情，为他洒一掬同情之泪，因为他那“崇高”的精神确实感动了我们。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s564",
+      "sec": 7,
+      "it": "Il popolo tedesco ha perso ed è stato fermato.",
+      "zh": "德国人民吃了败仗，被阻挡住了。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s565",
+      "sec": 7,
+      "it": "Pure essendo le condizioni di resa così umilianti, esso sopporta questo dolore con pazienza.",
+      "zh": "尽管投降的条件如此屈辱，他们却忍耐着这种痛苦。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s566",
+      "sec": 7,
+      "it": "Per la prima volta ha cambiato faccia e si è trasformato da impero in repubblica.",
+      "zh": "第一次他们换了一副面孔，由帝国变成了共和国。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s567",
+      "sec": 7,
+      "it": "Il suo secondo cambiamento forse lo porterà a compimento rifiutando anche la repubblica.",
+      "zh": "这第二次的变化，也许会使他们连共和国也不要，而趋于完成。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s568",
+      "sec": 7,
+      "it": "Quanto ho detto corrisponde a ciò che penso in via preliminare.",
+      "zh": "我上面所说的，是我初步的想法。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s569",
+      "sec": 7,
+      "it": "Proviamo a prendere in considerazione il fatto che Inghilterra e Francia formino una sorta di muraglia in occidente; non significa forse che sono nemici dei tedeschi?",
+      "zh": "我们不妨想一想，英国和法国在西部构成了一道什么样的墙，这难道不意味着它们是德国人的敌人吗？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s570",
+      "sec": 7,
+      "it": "Inghilterra e Francia sono i loro nemici, dunque i loro buoni amici non sono forse la Russia, l’Austria, l’Ungheria, la Cecoslovacchia e la Polonia che formano una sorta di paravento a est e a sud?",
+      "zh": "英国和法国是德国人的敌人，那么，在东部和南部构成一道屏障的俄国、奥地利、匈牙利、捷克斯洛伐和波兰，难道不是他们的好朋友吗？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s571",
+      "sec": 7,
+      "it": "Se non fanno riferimento a Russia, Austria, Ungheria, Cecoslovacchia e altri paesi, a chi devono fare riferimento?",
+      "zh": "他们如果不学俄国、奥地利、匈牙利、捷克斯洛伐克等国的榜样，又应当学谁呢？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s572",
+      "sec": 7,
+      "it": "Se vogliono fare riferimento a Russia, Austria, Ungheria, Cecoslovacchia dovranno inevitabilmente mutare il loro sistema in uno uguale a quello della Russia, Austria, Ungheria e Cecoslovacchia.",
+      "zh": "他们如果要学俄国、奥地利、匈牙利、捷克斯洛伐克，就非把他们的制度改变成与俄国、奥地利、匈牙利、捷克斯洛伐克相同不可。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s573",
+      "sec": 7,
+      "it": "Inutile ricordare che Russia e Ungheria hanno già fatto con successo la rivoluzione sociale.",
+      "zh": "无庸讳言，俄国和匈牙利已经成功地进行了社会革命。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s574",
+      "sec": 7,
+      "it": "Anche Ungheria e Cecoslovacchia hanno questa tendenza, infatti, l’altro ieri un telegramma ha diffuso la notizia che la Cecoslovacchia ha dato vita a una repubblica di operai e soldati.",
+      "zh": "匈牙利和捷克斯洛伐克也有这种趋势，前天的电报就传播了捷克斯洛伐克成立了工人士兵共和国的消息。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s575",
+      "sec": 7,
+      "it": "Il gruppo spartachista dei rivoluzionari tedeschi ha dato vita a una rivolta che per un soffio non ha avuto successo.",
+      "zh": "德国革命者的斯巴达克派举行了一次暴动，几乎获得成功。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s576",
+      "sec": 7,
+      "it": "Il governo Ebert è in mano alla maggioranza del partito socialista e costoro tengono sotto controllo i rivoluzionari e per far ciò si appoggiano alla forza armata.",
+      "zh": "埃伯特政府掌握在社会党多数派手中，他们控制着革命者，为此他们依靠武装力量。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s577",
+      "sec": 7,
+      "it": "Ma una volta concluso il trattato di pace, i soldati saranno smobilitati e i fucili riconsegnati.",
+      "zh": "但是一旦和约缔结，士兵就要复员，枪支就要交还。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s578",
+      "sec": 7,
+      "it": "In quel momento, su cosa farà affidamento il governo?",
+      "zh": "到那时候，政府将依靠什么呢？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s579",
+      "sec": 7,
+      "it": "In Germania industria e commercio sono completamente distrutti, devono ancora essere rimessi in piedi, pertanto il governo non potrà fare a meno di affidarsi alla forza dei lavoratori.",
+      "zh": "德国的工商业完全破坏了，还有待恢复，所以政府不能不依靠工人的力量。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s580",
+      "sec": 7,
+      "it": "In seguito dovrà affrontare problemi della massima importanza e quindi dovrà inchinarsi di fronte ai lavoratori.",
+      "zh": "以后它将面临极其重大的问题，因此它不得不在工人面前低头。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s581",
+      "sec": 7,
+      "it": "Ma le armi dei rivoluzionari non sono altro che i lavoratori stessi.",
+      "zh": "而革命者的武器无非就是工人本身。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s582",
+      "sec": 7,
+      "it": "Stando a come vanno le cose a livello diplomatico, sono certo che sicuramente la Germania non potrà fare altro che allearsi a Russia, Austria, Ungheria e Cecoslovacchia per trasformare il paese in una repubblica comunista.",
+      "zh": "就外交上的情形来看，我敢断定德国非与俄国、奥地利、匈牙利、捷克斯洛伐克联合，把国家变为共产主义共和国不可。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s583",
+      "sec": 7,
+      "it": "Stando a come vanno le cose all’interno del governo, mi sento autorizzato a dare il medesimo giudizio.",
+      "zh": "就政府内部的情形来看，我同样有权作出这样的判断。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s584",
+      "sec": 7,
+      "it": "Prima del 1919 la Germania era la nazione più potente del mondo.",
+      "zh": "1919年以前，德国是世界上最强大的国家。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s585",
+      "sec": 7,
+      "it": "Dopo il 1919 Francia, Inghilterra e Stati Uniti d’America saranno le nazioni più potenti del mondo.",
+      "zh": "1919年以后，法国、英国和美国将成为世界上最强大的国家。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s586",
+      "sec": 7,
+      "it": "La potenza tedesca era una potenza a livello internazionale.",
+      "zh": "德国的势力是国际性的势力。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s587",
+      "sec": 7,
+      "it": "Questa volta, la conseguenza della grande guerra ha significato che la forza politica internazionale dell’Intesa è riuscita a rovesciare la potenza politica internazionale della Germania e dell’Austria.",
+      "zh": "这次大战的结果，意味着协约国的国际政治势力推翻了德国和奥地利的国际政治势力。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s588",
+      "sec": 7,
+      "it": "Dopo il 1919 la potenza della Francia, dell’Inghilterra e degli Stati Uniti d’America sarà una potenza sociale e finanziaria.",
+      "zh": "1919年以后，法国、英国和美国的势力将是一种社会势力和金融势力。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s589",
+      "sec": 7,
+      "it": "Dopo il 1919, se ci saranno guerre, saranno guerre di classe.",
+      "zh": "1919年以后，如果还有战争，那将是阶级战争。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s590",
+      "sec": 7,
+      "it": "La fine della guerra di classe consisterà proprio nel successo degli ideali dei paesi dell’Europa orientale.",
+      "zh": "阶级斗争的终结，恰恰在于东欧各国理想的胜利。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s591",
+      "sec": 7,
+      "it": "Vale a dire nel successo dei socialisti.",
+      "zh": "也就是说，在于社会主义者的胜利。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s592",
+      "sec": 7,
+      "it": "Noi non dovremo disprezzare i tedeschi per ciò che faranno in seguito.",
+      "zh": "我们不应该因为德国人日后的所作所为而鄙视他们。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s593",
+      "sec": 7,
+      "it": "Noi non dobbiamo affatto tenere in considerazione questi grandi signori della Conferenza di pace che si danno un sacco di arie.",
+      "zh": "我们完全不必要理会那些在和平会议上摆足架子的老爷们。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s594",
+      "sec": 7,
+      "it": "Costoro hanno i giorni contati per continuare a mangiar bene!",
+      "zh": "这些人好吃好喝的日子屈指可数了！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s595",
+      "sec": 7,
+      "it": "Verrà sicuramente il giorno in cui costoro sapranno cos’è il mal di testa!",
+      "zh": "总有一天，这些人也会尝到头痛的滋味！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s596",
+      "sec": 7,
+      "it": "Sappiamo bene che questo trattato di pace non è per niente sicuro.",
+      "zh": "我们很清楚，这个和约一点也不牢靠。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s597",
+      "sec": 7,
+      "it": "Se prendiamo ad esempio il trattato di pace tra Germania e Russia, il trattato di pace tra Germania e Romania, io temo che prima o poi costituiranno un problema.",
+      "zh": "拿德国同俄国之间的和约、德国同罗马尼亚之间的和约来说，我担心迟早会成为一个问题。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s598",
+      "sec": 7,
+      "it": "Questo vecchio ignorante di Clemenceau si tiene stretto tra le braccia il volume grigio e giallo del trattato di pace, pensa solo alle firme che ci sono dentro e se ne sta tutto tranquillo e fermo come le Alpi.",
+      "zh": "克列孟梭这个老糊涂，把那本灰黄色的和约文本紧紧搂在怀里，满脑子只想着上面签的那些名字，安安稳稳、像阿尔卑斯山一样岿然不动。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s599",
+      "sec": 7,
+      "it": "Povero illuso!",
+      "zh": "可怜的痴人！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s600",
+      "sec": 8,
+      "it": "MISCELLANEA INTERNAZIONALE",
+      "zh": "《国际杂谈》",
+      "head": true,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s601",
+      "sec": 8,
+      "it": "Gioia e dolore Clemenceau, saputo per telefono che la Germania ha accettato il trattato di pace, ne è molto felice.",
+      "zh": "喜悦与悲痛 克列孟梭从电话中得知德国已接受和平条约，非常高兴。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s602",
+      "sec": 8,
+      "it": "Si alza in piedi, stringe la mano ai membri del Gabinetto e ai colleghi presenti nell’ufficio e dice: “Signori!",
+      "zh": "他站起身来，与在场的内阁成员及办公室的同事们一一握手，说道：“先生们！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s603",
+      "sec": 8,
+      "it": "Aspetto questo istante da quarantanove anni!”.",
+      "zh": "我等待这一时刻已经四十九年了！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s604",
+      "sec": 8,
+      "it": "Quanta gioia in queste parole.",
+      "zh": "”这话语中蕴含着多么巨大的喜悦。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s605",
+      "sec": 8,
+      "it": "Per quanto esse siano parole di gioia, racchiudono tuttavia tanto dolore.",
+      "zh": "然而，尽管这些话是喜悦之词，其中却又包含着多少悲痛。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s606",
+      "sec": 8,
+      "it": "Nel 1871 Guglielmo I e Bismarck a Versailles nel momento in cui ricevettero il documento della resa della Francia furono enormemente felici.",
+      "zh": "一八七一年，威廉一世和俾斯麦在凡尔赛收到法国投降书的时刻，高兴极了。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s607",
+      "sec": 8,
+      "it": "Ecco il risultato di aver provocato la guerra.",
+      "zh": "这就是发动战争的后果。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s608",
+      "sec": 8,
+      "it": "Sebbene Guglielmo I e Bismarck non potessero che essere felici, tuttavia non poterono neppure esimersi dal provare un senso di dolore.",
+      "zh": "威廉一世和俾斯麦固然不能不感到喜悦，然而他们也不能不感到悲痛。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s609",
+      "sec": 8,
+      "it": "Dal 1800 al 1805 Napoleone mise a ferro e fuoco la Germania, spezzettando tutto il paese, occupandone i territori e obbligando la Germania a smobilitare l’esercito.",
+      "zh": "一八〇〇年至一八〇五年，拿破仑对德国实行烧杀掳掠，把整个国家搞得四分五裂，占领其领土，并迫使德国解散军队。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s610",
+      "sec": 8,
+      "it": "L’imperatore di Prussia fu costretto ad arrendersi e a diventare un vassallo.",
+      "zh": "普鲁士皇帝被迫投降，沦为附庸。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s611",
+      "sec": 8,
+      "it": "Napoleone ne fu enormemente felice.",
+      "zh": "拿破仑对此高兴极了。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s612",
+      "sec": 8,
+      "it": "Il risultato fu poi la guerra del 1871.",
+      "zh": "其后果便是一八七一年的战争。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s613",
+      "sec": 8,
+      "it": "Napoleone non poteva fare a meno di essere felice, tuttavia non potè neppure esimersi dal provare un senso di dolore.",
+      "zh": "拿破仑固然不能不感到喜悦，然而他也不能不感到悲痛。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s614",
+      "sec": 8,
+      "it": "Tra il 1789 e il 1790 Germania e Austria si erano unite in un sacro e grandioso patto militare, perché avevano in odio le libertà dei diritti civili della Francia e più di una volta misero a ferro e fuoco la Francia e assediarono Parigi.",
+      "zh": "一七八九年至一七九〇年间，德国和奥国结成了神圣而宏伟的军事同盟，因为它们仇恨法国的公民权利自由，并且不止一次地烧杀掳掠法国，围攻巴黎。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s615",
+      "sec": 8,
+      "it": "Il risultato di tutto ciò fu che l’unica forza politica a emergere fu Napoleone, che a sua volta mise a ferro e fuoco la Germania, cosa questa che provocò ai tedeschi non poche noie.",
+      "zh": "这一切的后果是，唯一崛起的政治力量便是拿破仑，而拿破仑又反过来对德国实行烧杀掳掠，这件事给德国人造成了不少的祸害。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s616",
+      "sec": 8,
+      "it": "Quando guardiamo alla storia dobbiamo tener presente causa ed effetto, gioie e dolori, che sempre sono legati gli uni agli altri e non si possono scindere.",
+      "zh": "我们观察历史时，必须注意到因果相连、悲喜相生，二者始终相互依存，不可分割。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s617",
+      "sec": 8,
+      "it": "Se da un lato la gioia raggiunge il suo culmine, dall’altro anche il dolore non può che raggiungere inevitabilmente il suo culmine.",
+      "zh": "一方面欢乐达到了顶点，另一方面悲痛也必然达到顶点。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s618",
+      "sec": 8,
+      "it": "Se ci proviamo a confrontare cosa c’è scritto sul trattato di pace di oggi con il modo in cui Napoleone si comportò con la Germania, qual è la differenza?",
+      "zh": "试把今天和约上的条文同当年拿破仑对待德国的做法比较一下，区别在哪里呢？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s619",
+      "sec": 8,
+      "it": "Spezzettare la Germania oggi, occuparne i territori, smobilitarne l’esercito, qual è la differenza?",
+      "zh": "今日分割德国，占领其领土，解除其军队武装，区别又在哪里呢？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s620",
+      "sec": 8,
+      "it": "Clemenceau ha toccato il culmine della gioia, proprio come la Germania ha toccato il culmine del dolore.",
+      "zh": "克列孟梭达到了欢乐的顶点，德国也达到了悲痛的顶点。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s621",
+      "sec": 8,
+      "it": "Sono certo che voi francesi tra dieci o vent’anni avrete a che fare con parecchi problemi.",
+      "zh": "我相信你们法国人过十年二十年以后，将会遇到许多问题。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s622",
+      "sec": 8,
+      "it": "Vorrei che vi ricordaste di queste parole.",
+      "zh": "希望你们记住我这些话。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s623",
+      "sec": 8,
+      "it": "Karl e Pu Yi L’imperatore d’Austria Karl si è rifugiato in Svizzera.",
+      "zh": "卡尔和溥仪 奥地利皇帝卡尔逃到了瑞士。有位记者要求会见他，但只被允许会见他的侍从人员。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s624",
+      "sec": 8,
+      "it": "Un giornalista ha chiesto di incontrarlo, ma gli è stato permesso solo di incontrare i suoi attendenti.",
+      "zh": "侍从人员对记者说：“皇帝是不愿意退位的。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s625",
+      "sec": 8,
+      "it": "Costoro gli hanno detto: “L’imperatore ha abdicato contro la sua volontà.",
+      "zh": "不过他希望恢复帝制。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s626",
+      "sec": 8,
+      "it": "Tuttavia spera di poter ristabilire il sistema imperiale.",
+      "zh": "目前他已退居民间，不愿过问政治。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s627",
+      "sec": 8,
+      "it": "Ma in questo momento si è ritirato a vita privata e non vuole sentir parlare di politica”.",
+      "zh": "”做过皇帝的人，总想再做皇帝。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s628",
+      "sec": 8,
+      "it": "Chi è stato imperatore, vuole inevitabilmente esserlo di nuovo.",
+      "zh": "做过官的人，总想再做官。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s629",
+      "sec": 8,
+      "it": "Chi è stato funzionario, vuole inevitabilmente esserlo di nuovo.",
+      "zh": "心理状态总是如此。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s630",
+      "sec": 8,
+      "it": "L’atteggiamento psicologico rimane sempre lo stesso.",
+      "zh": "欧洲人做事喜欢做绝。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s631",
+      "sec": 8,
+      "it": "Agli europei, quando fanno qualcosa, piace andare sino in fondo; nella storia parecchie volte si è verificato che i re siano stati condannati a morte.",
+      "zh": "历史上国王被判处死刑的事已经有过多次。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s632",
+      "sec": 8,
+      "it": "Gli inglesi giustiziarono (nel 1648) Carlo I.",
+      "zh": "英国人处死（一六四八年）了查理一世。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s633",
+      "sec": 8,
+      "it": "I francesi (nel 1793) hanno giustiziato Luigi XVI.",
+      "zh": "法国人（一七九三年）处死了路易十六。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s634",
+      "sec": 8,
+      "it": "I russi hanno giustiziato (nel 1918) Nicola II. Hanno cercato di eliminare il male alla radice.",
+      "zh": "俄国人在一九一八年枪毙了尼古拉二世²。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s635",
+      "sec": 8,
+      "it": "Rispetto a Napoleone che venne esiliato a S.",
+      "zh": "他们是想斩草除根。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s636",
+      "sec": 8,
+      "it": "Elena, oggi potrebbe sembrare che Guglielmo I, com’è stato giudicato dall’Intesa, se la sia cavata a buon mercato.",
+      "zh": "拿拿破仑被流放到圣赫勒拿相比，被协约国宣判的威廉二世³，如今看来倒算是占了便宜。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s637",
+      "sec": 8,
+      "it": "Karl che è scappato in Svizzera e Pu Yi¹ che si nasconde a Pechino prima o poi saranno di nuovo radici velenose se il popolo non vi presterà particolare attenzione.",
+      "zh": "卡尔躲到瑞士去了，溥仪¹躲在北京，如果人民不加注意，他们迟早还是会成为毒根。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s638",
+      "sec": 9,
+      "it": "MISCELLANEA DEL FIUME HSIANG",
+      "zh": "湘江杂记",
+      "head": true,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s639",
+      "sec": 9,
+      "it": "La professione di insegnante “La professione di insegnante” è diventata l’espressione favorita di insegnanti burocrati e insegnanti di vecchio tipo nel nostro Hunan.",
+      "zh": "教师职业 “教师职业”已经成为我们湖南官僚教师和旧式教师爱用的口头禅。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s640",
+      "sec": 9,
+      "it": "Essi da sempre se hanno orecchi non hanno occhi, se hanno la testa non hanno il cervello.",
+      "zh": "他们历来是有耳朵没有眼睛，有头没有脑。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s641",
+      "sec": 9,
+      "it": "Se sentono dire da altri che la ginnastica è importante allora mettono più ore di ginnastica; se sentono dire da altri che è bene organizzare un gruppo di boy-scout allora organizzano subito i boy-scout.",
+      "zh": "听别人说体育重要，便多排几小时体操；听别人说应当组织童子军，便马上组织童子军。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s642",
+      "sec": 9,
+      "it": "Ma in realtà sanno che cos’è la ginnastica?",
+      "zh": "可是他们实在知道体育是什么吗？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s643",
+      "sec": 9,
+      "it": "Sanno cosa sono i boy-scout?",
+      "zh": "实在知道童子军是什么吗？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s644",
+      "sec": 9,
+      "it": "Non gliene importa proprio nulla.",
+      "zh": "他们简直毫不关心。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s645",
+      "sec": 9,
+      "it": "In questi ultimi due anni hanno sentito dire da altri che la professione di insegnante è una cosa buona, allora non fanno altro che parlare della professione di insegnante.",
+      "zh": "这两年他们又听别人说教师职业是一件好事，于是满口不离教师职业。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s646",
+      "sec": 9,
+      "it": "In realtà queste due parole, “professione di insegnante”, sono davvero delle brutte parole, perché insegnare è proprio una professione e una professione serve solo per vivere².",
+      "zh": "其实“教师职业”这两个字真是难听的话，因为教书本来就是一种职业，而职业只为谋生²。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s647",
+      "sec": 9,
+      "it": "A parte ciò cosa c’è mai da dire sull’insegnamento?",
+      "zh": "除此之外，教书还有什么可说的呢？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s648",
+      "sec": 9,
+      "it": "Se c’è chi parla della “professione di insegnante”, c’è anche chi dice che “non esiste la professione di insegnante”.",
+      "zh": "既有人说“有教师职业”，也就有人说“没有教师职业”。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s649",
+      "sec": 9,
+      "it": "Se si invertono le parole abbiamo che l’insegnamento non serve a vivere e quindi è un mestiere da vagabondi.",
+      "zh": "倒转来说，便是教书不能谋生，因此是流氓的勾当。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s650",
+      "sec": 9,
+      "it": "Allora vorrei chiedere: l’insegnamento è questo tipo di mestiere?",
+      "zh": "那么我就要问：教书难道是这种勾当吗？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s651",
+      "sec": 10,
+      "it": "TRIBUNA APERTA",
+      "zh": "《自由论坛》",
+      "head": true,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s652",
+      "sec": 10,
+      "it": "Questo va bene Oggi nel mondo è venuto fuori un santo dei lavoratori il cui nome è “bolscevico”.",
+      "zh": "这就好 今日世界上出来一位劳动者的圣人，名叫\"布尔什维克\"。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s653",
+      "sec": 10,
+      "it": "Costui ha detto che gli eruditi e i signori del nostro paese guardano con disprezzo chi impara a coltivare la terra e chi impara a tenere un orto; che essi provano fastidio quando guardano il comportamento di chi mangia grazie al risultato della propria fatica e affermano che gli “anziani eroi” dei lavoratori non sono altro che bestiacce.",
+      "zh": "他说：我们国家的读书人和老爷看不起学种田、学种菜圃的人，看见自食其力者的一举一动就感到厌恶，还说劳动者中的\"老英雄\"不过是些蠢物。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s654",
+      "sec": 10,
+      "it": "Ecco dunque che eruditi e signori ci costringono con la forza a considerare chi lavora con la mente un signore, mentre chi lavora con le mani è un povero disgraziato.",
+      "zh": "于是，读书人和老爷们就强迫我们认定：用脑工作的是老爷，用手工作的是可怜的倒霉鬼。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s655",
+      "sec": 10,
+      "it": "Il bolscevico di fronte a tutto ciò prova un grandissimo odio e decide quindi di venire qui da noi per discutere con eruditi e signori.",
+      "zh": "布尔什维克面对这一切，心中怀着极大的仇恨，因此决定到我们这里来，同读书人和老爷们理论。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s656",
+      "sec": 10,
+      "it": "Allo stesso tempo prepara un sacco di cose pericolose, terrificanti e paurose.",
+      "zh": "同时，他还准备了许多危险的、可怕的、令人恐惧的东西。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s657",
+      "sec": 10,
+      "it": "Gli eruditi e i signori del nostro paese, sentita questa notizia, non fanno altro che andare avanti e indietro, come se stesse per capitare una grande disgrazia, e anch’io faccio lo stesso.",
+      "zh": "我国的读书人和老爷们听到这个消息，只是来回奔走，好像大祸即将临头，我也一样。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s658",
+      "sec": 10,
+      "it": "Un amico mi ha detto: “Non ti preoccupare.",
+      "zh": "一个朋友对我说：\"不必担忧。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s659",
+      "sec": 10,
+      "it": "Ho sentito dire che il bolscevico vuole solo costringerci a lavorare.",
+      "zh": "听说布尔什维克只是要强迫我们劳动。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s660",
+      "sec": 10,
+      "it": "Noi abbiamo sempre il vecchio metodo di usare un nemico per attaccarne un altro.",
+      "zh": "我们一贯有以敌制敌的老办法。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s661",
+      "sec": 10,
+      "it": "Noi tutti dobbiamo cominciare a lavorare e allora che ci potrà mai dire?”.",
+      "zh": "我们大家都要开始劳动，那他又还能对我们说什么呢？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s662",
+      "sec": 10,
+      "it": "Io dico: “Questo va bene”.",
+      "zh": "\"我说：\"这就好\"。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s663",
+      "sec": 10,
+      "it": "Il sig. Dewey ci ha annoiato La dottrina del signor Dewey³ è arrivata nello Hunan e coloro che monopolizzano l’istruzione hanno sentito di colpo che la scuola di prima non era aperta alla società, che l’insegnamento di prima non aveva vitalità; ma poiché costoro dopo tutto non sanno come operare cambiamenti radicali, allora sussurrano di nascosto: “Il signor Dewey ci ha annoiato”.",
+      "zh": "杜威先生使我们厌烦了 杜威先生³的学说传到了湖南，垄断教育的人突然觉得从前的学校不对社会开放，从前的教学没有生命力；但是这些人毕竟不知道如何进行彻底的变革，于是偷偷嘀咕说：\"杜威先生使我们厌烦了。\"",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s664",
+      "sec": 10,
+      "it": "Se è un po’ meglio, allora facciamolo C’è chi dice: “Il nostro lavoro dev’essere senz’altro perfetto”.",
+      "zh": "稍好一点，就做它 有人说：\"我们的工作必须绝对完善。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s665",
+      "sec": 10,
+      "it": "Queste parole sono assolutamente sbagliate.",
+      "zh": "\"这些话是完全错误的。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s666",
+      "sec": 10,
+      "it": "Noi pensiamo che se siamo in grado di farlo soltanto un po’ meglio, allora lo dobbiamo fare.",
+      "zh": "我们认为，只要能够使事情稍微好一点，我们就应当去做。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s667",
+      "sec": 10,
+      "it": "Chi vuole che tutto sia senz’altro perfetto, temo che giunto in punto di morte non avrà combinato proprio nulla.",
+      "zh": "凡要求一切都必须绝对完善的人，恐怕到死也不会做出任何事情来。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s668",
+      "sec": 10,
+      "it": "Non c’è niente di male a non mettere su famiglia C’è chi dice: “Se le donne si liberano, c’è il rischio che non vogliano più mettere su famiglia”.",
+      "zh": "不结婚没有什么不好 有人说：\"如果妇女解放了，恐怕她们就不愿意再成家了。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s669",
+      "sec": 10,
+      "it": "Io affermo che la famiglia di oggi, priva com’è di organizzazione, distrugge la personalità, la famiglia si preoccupa solo di darti da mangiare e da vestire, pertanto quale vantaggi porta mettere su famiglia?",
+      "zh": "\"我认为，今天这种没有组织、摧残个性的家庭，只负责给你吃穿，那么成家又有什么好处呢？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s670",
+      "sec": 10,
+      "it": "Non c’è dunque niente di male a non mettere su famiglia.",
+      "zh": "所以不结婚没有什么不好。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s671",
+      "sec": 10,
+      "it": "Lasciamolo morire di fame C’è chi pensa che l’eliminazione del sistema della proprietà privata porterebbe a una mancanza di competizione, per cui nessuno vorrà più lavorare.",
+      "zh": "让他饿死 有人认为，废除私有制度会导致缺乏竞争，因而谁也不愿意再劳动。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s672",
+      "sec": 10,
+      "it": "Io rispondo che Confucio non è mai rimasto a casa tanto a lungo da scaldare la sua sedia, Mozi⁴ non si è mai trattenuto in casa fino a che il fuoco nel camino fosse completamente consumato e forse costoro erano per la proprietà privata?",
+      "zh": "我回答说，孔子从来没有安坐家中久烤他的椅子，墨子⁴也从来没有守在家里等到灶火完全熄灭，难道这些人是赞成私有制度的吗？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s673",
+      "sec": 10,
+      "it": "A chi non vorrà lavorare non verrà dato da mangiare, lo lasceremo morire di fame.",
+      "zh": "谁不愿劳动，就不给他饭吃，让他饿死。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s674",
+      "sec": 11,
+      "it": "LA NUOVA LETTERATURA E ARTE",
+      "zh": "新文艺运动的方向",
+      "head": true,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s675",
+      "sec": 11,
+      "it": "Il viaggio l.",
+      "zh": "旅程 l。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s676",
+      "sec": 11,
+      "it": "Quando il sole scende sott’acqua, me ne sto dentro una barca come su una foglia, seguendo la corrente del fiume Zi.",
+      "zh": "当太阳沉入水下，我如同乘着一片树叶，独坐小舟之中，顺资江之水漂流而去。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s677",
+      "sec": 11,
+      "it": "La luna crescente, le stelle come puntini sospesi sulle cime degli alberi delle due rive del fiume.",
+      "zh": "一弯新月，点点繁星，悬浮在河两岸的树梢之上。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s678",
+      "sec": 11,
+      "it": "Ah!",
+      "zh": "啊！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s679",
+      "sec": 11,
+      "it": "Che cos’è mai?",
+      "zh": "这究竟是什么？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s680",
+      "sec": 11,
+      "it": "Pesci bianchi a coppie danzano senza sosta.",
+      "zh": "白鱼成双成对，不停地游舞。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s681",
+      "sec": 11,
+      "it": "2\\. Da molto lontano un nuovo villaggio si intravede in mezzo ai moltissimi",
+      "zh": "2. 远远望去，一个新村庄在茂密的树林中隐约可见。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s682",
+      "sec": 11,
+      "it": "alberi.",
+      "zh": "树影重重。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s683",
+      "sec": 11,
+      "it": "I cani non abbaiano, le galline e i grilli non cantano, solo si vedono l’uno dopo l’altro i peschi, e laggiù le fronde ondeggiano al vento.",
+      "zh": "犬不吠，鸡与蟋蟀不鸣，只看见桃树一棵接一棵，那边树叶在风中摇曳。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s684",
+      "sec": 11,
+      "it": "I fiori dei peschi sono già caduti, i frutti sono ormai maturi, perché allora nel corso dell’anno, per quattro stagioni, la chiami sempre “la collina dei fiori di pesco”?",
+      "zh": "桃花已经落尽，果实已经成熟，为何一年四季，总叫它\"桃花山\"？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s685",
+      "sec": 11,
+      "it": "Una casa dopo l’altra, vecchi e giovani, uomini e donne, suoni di risa, suoni di canti, suoni di pianto confusi si sentono e non si sentono.",
+      "zh": "一家接着一家，老的少的，男的女的，笑声、歌声、哭声，时隐时现。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s686",
+      "sec": 11,
+      "it": "Il nuovo villaggio!",
+      "zh": "新村！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s687",
+      "sec": 11,
+      "it": "“La collina dei fiori di pesco”.",
+      "zh": "\"桃花山\"。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s688",
+      "sec": 11,
+      "it": "3\\. Alberi vecchi di migliaia d’anni, case vecchie di centinaia d’anni, tutto il",
+      "zh": "3. 千年古树，百年老屋，终日",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s689",
+      "sec": 11,
+      "it": "giorno completamente sprangate.",
+      "zh": "全部紧紧地关闭着。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s690",
+      "sec": 11,
+      "it": "Solo le fredde onde vanno e vengono in mezzo al fiume, solo i corvi volano su e giù attorno alle cime degli alberi, il vento della montagna va e viene.",
+      "zh": "只有冰冷的江水在河中来来去去，只有乌鸦在树梢上飞来飞去，山风一阵又一阵地吹。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s691",
+      "sec": 11,
+      "it": "Sopra la porta d’ingresso al villaggio sta scritto: “Civiltà”, lungo la strada sulla porta di pietra ci sono incise due parole: “Frontiera della cultura”.",
+      "zh": "村子的正门上写着“文明”二字，路旁的石门上刻着两个字：“文化边疆”。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s692",
+      "sec": 11,
+      "it": "Proviamo ad ammirare la bocca spalancata del lago Tungting, le onde in mezzo al fiume aumentano, il vento della montagna si fa sempre più forte.",
+      "zh": "请看那洞庭湖大张着的口，江中的波浪越来越高，山风越吹越紧。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s693",
+      "sec": 11,
+      "it": "Ah!",
+      "zh": "啊！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s694",
+      "sec": 11,
+      "it": "Vecchi corvi che venite a coppie, andatevene altrove a cercare la vostra strada.",
+      "zh": "成双成对的老乌鸦啊，请到别处去寻找你们的出路吧。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s695",
+      "sec": 11,
+      "it": "NOTE",
+      "zh": "请提供需要翻译的意大利语原文。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s696",
+      "sec": 11,
+      "it": "1..Pu Yi (1906-1967) fu l’ultimo imperatore cinese. Incoronato ancora bambino nel 1908",
+      "zh": "¹爱新觉罗·溥仪（1906—1967）是中国末代皇帝，1908年尚幼时即被立为帝。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s697",
+      "sec": 11,
+      "it": "e spodestato dalla rivoluzione repubblicana del 1911, collaborò con gli occupanti giapponesi come imperatore dello stato fantoccio del Manciukuo.",
+      "zh": "后于1911年辛亥革命中被废黜；日本占领期间，充任伪满洲国傀儡皇帝。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s698",
+      "sec": 11,
+      "it": "Processato nel 1949 dopo la Liberazione, venne graziato nel 1959.",
+      "zh": "1949年解放后被审判，1959年获特赦。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s699",
+      "sec": 11,
+      "it": "2..Il significato di queste affermazioni è illustrato per esteso nel Discorso di inaugurazione dell’Università di autoapprendimento dello Hunan dell’agosto 1921, in cui Mao Tse-tung mette in evidenza gli aspetti negativi del rapporto “commerciale” insegnantestudente che predomina nella scuola dei paesi capitalisti.",
+      "zh": "²毛泽东1921年8月在《湖南自修大学创办宣言》中，对上述言论的含义作了详尽阐述，指出资本主义国家学校中占主导地位的师生“交易”关系具有种种弊端。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s700",
+      "sec": 11,
+      "it": "3..Il filosofo americano John Dewey (il cui pensiero di filosofia sociale e sull’educazione",
+      "zh": "³美国哲学家约翰·杜威（其社会哲学与教育思想",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s701",
+      "sec": 11,
+      "it": "aveva da molti anni esercitato una notevole influenza nel mondo intellettuale cinese) si recò in Cina nel 1919 e vi si trattenne per oltre due anni.",
+      "zh": "多年在中国知识界颇有影响），于一九一九年来到中国，逗留了两年多。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s702",
+      "sec": 11,
+      "it": "Nel corso di questa sua lunga visita tenne nelle maggiori università cinesi molte conferenze che lo resero popolare tra studenti e intellettuali.",
+      "zh": "在访问期间，他在中国各主要大学作了许多讲演，受到学生与知识分子的欢迎。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s703",
+      "sec": 11,
+      "it": "4..Mozi (480-390 a.C. circa) fu in Cina il fondatore di una setta che predicava l’uguaglianza,",
+      "zh": "4. 墨子（约公元前四八○年至三九○年）在中国创立了一个宣扬平等、",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s704",
+      "sec": 11,
+      "it": "l’altruismo, la non-violenza, ecc.",
+      "zh": "兼爱、非攻等的学派。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s705",
+      "sec": 11,
+      "it": "Il²¹ luglio 1919 assieme al numero² della Rivista del Fiume Hsiang uscì anche il Supplemento al numero¹.",
+      "zh": "一九一九年七月²¹日，《湘江评论》第²期出版的同时，也出版了第¹期增刊。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s706",
+      "sec": 11,
+      "it": "Oltre al testo che pubblichiamo, esso conteneva per la prima volta la rubrica Corrispondenza dalla Francia a cura degli studenti rivoluzionari cinesi che erano andati in Francia durante la Prima guerra mondiale nell’ambito dello Schema lavorostudio e la prima puntata di Comunicato pubblico sul movimento per salvare la patria.",
+      "zh": "除本刊载的这篇外，它还首次刊出了由第一次世界大战期间按照勤工俭学计划赴法国的中国革命学生主编的《法国通信》专栏和《救国运动公共通告》第一期。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s707",
+      "sec": 12,
+      "it": "LA FONDAZIONE E L’ANDAMENTO DELL’ASSOCIAZIONE PER IL PERFEZIONAMENTO NELLO STUDIO",
+      "zh": "《新民学会的发起与进展》",
+      "head": true,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s708",
+      "sec": 12,
+      "it": "I circoli intellettuali dello Hunan prima della fondazione dell’Associazione per il perfezionamento nello studio I circoli intellettuali dello Hunan da vent’anni a questa parte si trovano nel buio più assoluto.",
+      "zh": "湖南成立学会以前之思想界湖南二十年来的思想界，极端黑暗。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s709",
+      "sec": 12,
+      "it": "Vent’anni fa Tan Ssu-tung¹ fondò nello Hunan l’Associazione meridionale per lo studio e chiamò a farvi parte Liang Chi-chao, Mai Men-hua e altri personaggi famosi; a Changsha aprirono la Scuola di storia contemporanea e pubblicarono il Giornale del fiume Hsiang e il Giornale di storia contemporanea.",
+      "zh": "二十年前，谭嗣同¹在湖南组织南学会，招揽梁启超、麦孟华诸名流加入，在长沙创办时务学堂，出版《湘报》和《时务报》。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s710",
+      "sec": 12,
+      "it": "Queste iniziative ebbero enorme successo, come una ventata impetuosa in un cielo pieno di nuvole, come la corsa verso la cima di un monte per gridare.",
+      "zh": "这些事业搞得轰轰烈烈，如同满天的乌云里刮起一阵狂风，如同奔上山头大声疾呼。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s711",
+      "sec": 12,
+      "it": "Dato che il grande impero millenario cinese aveva più volte subito l’attacco delle potenze straniere, avendo costoro provato dolore e indignazione, decisero di mettersi al lavoro con grande energia.",
+      "zh": "中国这个千年大帝国既然多次遭到外国列强的攻击，他们便感到痛苦和愤慨，决心奋发努力。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s712",
+      "sec": 12,
+      "it": "Erano inoltre consapevoli che la Grande Muraglia e il Mar Giallo da soli non avrebbero potuto arrestare i cannoni e le grandi navi da guerra.",
+      "zh": "他们又深知，单凭长城和黄河挡不住大炮和军舰。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s713",
+      "sec": 12,
+      "it": "Il vecchio metodo cinese non era più praticabile.",
+      "zh": "中国旧有的办法再也行不通了。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s714",
+      "sec": 12,
+      "it": "La voce della grande proposta delle riforme e dell’autorafforzamento risuonò attraverso il cielo.",
+      "zh": "变法自强的伟大号召响彻云霄。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s715",
+      "sec": 12,
+      "it": "La questione centrale in quel momento era cambiare la situazione della Cina.",
+      "zh": "当时问题的中心在于改变中国的现状。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s716",
+      "sec": 12,
+      "it": "Anche lo Hunan seguì quel cambiamento, diventando in quel momento un centro assai importante.",
+      "zh": "湖南也随着这个变化，成为当时一个十分重要的中心。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s717",
+      "sec": 12,
+      "it": "Cambiato modo di pensare, quale era in quel momento il modo di pensare?",
+      "zh": "改变了思想方法，那么当时是什么思想方法呢？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s718",
+      "sec": 12,
+      "it": "E nei circoli intellettuali quale era il centro del dibattito?",
+      "zh": "在知识界中争论的中心问题又是什么呢？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s719",
+      "sec": 12,
+      "it": "Queste sono domande a cui bisogna rispondere.",
+      "zh": "这些都是必须回答的问题。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s720",
+      "sec": 12,
+      "it": "1..Il modo di pensare di allora era arrogante.",
+      "zh": "1. 当时的思想作风是傲慢的。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s721",
+      "sec": 12,
+      "it": "Che cosa voleva dire “imparare",
+      "zh": "什么叫“学习”",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s722",
+      "sec": 13,
+      "it": "SUPPLEMENTO",
+      "zh": "补遗",
+      "head": true,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s723",
+      "sec": 13,
+      "it": "(21 luglio 1919) dall’occidente”, “esaminare con modestia”, se non “apprendere per poi restituire con rispetto”?",
+      "zh": "（1919年7月21日）向西方学习”，要“虚心考察”，甚至不是“学了再恭恭敬敬地归还”吗？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s724",
+      "sec": 13,
+      "it": "Tutti erano intimamente convinti che in dieci o vent’anni avrebbero potuto imparare i nuovi metodi occidentali e una volta che se ne fossero impossessati si sarebbero autorafforzati.",
+      "zh": "他们内心都确信，只要十年二十年，就能学会西方的新方法；一旦掌握了这些方法，便会自我强大起来。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s725",
+      "sec": 13,
+      "it": "Raggiunto l’obiettivo dell’autorafforzamento, sarebbero stati finalmente più forti dei diavoli stranieri e sarebbe stato possibile annientarli tutti.",
+      "zh": "实现了自我强大的目标以后，最终就能比外国鬼子更强，因而可以把他们一举消灭。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s726",
+      "sec": 13,
+      "it": "Come un bambino che, avendo subito una umiliazione da parte del bambino di un vicino, di notte va a rubare un bastone e pensa di andare l’indomani a picchiare l’altro.",
+      "zh": "这好比一个小孩子受了邻家孩子的侮辱，夜里便去偷来一根棍子，心想第二天拿去打那个孩子。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s727",
+      "sec": 13,
+      "it": "Che altro significa “imparare dall’occidente i nuovi metodi”, se non proprio il bambino che prende il bastone?",
+      "zh": "所谓“向西方学习新方法”，不正是这个小孩拿棍子吗？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s728",
+      "sec": 13,
+      "it": "2..Il modo di pensare di allora era un modo di pensare vuoto.",
+      "zh": "2．当时的思想方式，是一种空虚的思想方式。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s729",
+      "sec": 13,
+      "it": "La cosa è evidente",
+      "zh": "这是显而易见的，",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s730",
+      "sec": 13,
+      "it": "se proviamo a leggere gli incitamenti a cambiar metodo contenuti nelle pubblicazioni di allora.",
+      "zh": "只要我们读一读当时出版物中那些鼓吹改变方法的号召就可以明白。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s731",
+      "sec": 13,
+      "it": "L’unica cosa è lo spreco di Ah!",
+      "zh": "其中唯一的本钱，无非是“啊！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s732",
+      "sec": 13,
+      "it": "Eh!",
+      "zh": "”“唉！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s733",
+      "sec": 13,
+      "it": "che doveva servire a provocare emozioni nella gente.",
+      "zh": "”一类叹词，用来激起人们的感情。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s734",
+      "sec": 13,
+      "it": "Il contenuto era completamente vuoto, raramente rifletteva i problemi reali della società umana.",
+      "zh": "内容则空空洞洞，很少反映人类社会中的实际问题。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s735",
+      "sec": 13,
+      "it": "In quel momento ci fu la moda di “fondare scuole”, “occuparsi dell’autogoverno”, “fare riunioni”, ma se analizziamo a fondo questo fenomeno vediamo che la maggior parte di tutto ciò serviva tanto per fare qualcosa.",
+      "zh": "那时正风行“办学”“办理自治”“开会”等等，但若把这种现象深加分析，就可以看出，其中绝大多数都是为做事而做事。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s736",
+      "sec": 13,
+      "it": "Con la moda di fare riunioni tanto per fare qualcosa, è difficile portare la gente a studiare, con un modo di pensare corretto, la realtà e a ricercare la verità nella pratica.",
+      "zh": "既然把开会当作为做事而做事的风气，就很难引导人们以正确的思想方法去研究现实，并在实践中寻求真理。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s737",
+      "sec": 13,
+      "it": "3..Il modo di pensare di allora era del tipo: “La cultura cinese come fondamento,",
+      "zh": "3. 那时的思想方法是：\"以中国文化为本，",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s738",
+      "sec": 13,
+      "it": "la cultura occidentale come strumento”.",
+      "zh": "以西方文化为用\"。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s739",
+      "sec": 13,
+      "it": "“La Cina è un paese famoso per i suoi beni culturali, il codice morale della Cina è il primo in tutti i paesi, gli occidentali sono forti solo perché hanno cannoni e pistole e sarà pertanto sufficiente studiare soltanto questo”.",
+      "zh": "\"中国是文明古国，中国的道德规范为各国之首，西方人只是因为有枪炮才强大，所以只需学这个就够了\"。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s740",
+      "sec": 13,
+      "it": "Se la discussione si allontanava anche di poco da quanto detto prima, allora la gente ti guardava come “una persona col cuore ubriaco di moda europea” meritevole quindi di essere insultata per tutta la vita.",
+      "zh": "如果讨论稍有超出上述范围，人们就把你当作\"醉心欧化之人\"，一辈子该受辱骂。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s741",
+      "sec": 13,
+      "it": "4..Il modo di pensare di allora era un modo di pensare il cui perno era costituito",
+      "zh": "4. 那时的思想方法，是以孔子为中心的思想方法。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s742",
+      "sec": 13,
+      "it": "da Confucio. In quel momento i movimenti politici erano il movimento per scacciare i mancesi e il movimento politico che chiedeva un sistema di governo di tipo rappresentativo.",
+      "zh": "当时的政治运动，有排满运动和主张建立代议制政府的政治运动。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s743",
+      "sec": 13,
+      "it": "In campo accademico venne abolito il sistema degli esami imperiali², vennero create numerose scuole e adottato un metodo scientifico.",
+      "zh": "在学术方面，废除了科举制度²，兴办了许多学校，采用了科学方法。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s744",
+      "sec": 13,
+      "it": "Tuttavia, per quanto riguardava Confucio non era ancora possibile dire no!",
+      "zh": "然而，对于孔子却还不能说个\"不\"字！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s745",
+      "sec": 13,
+      "it": "Si consigliava persino di praticare la teoria assurda “La cultura deve essere nuova, la morale deve essere antica”, dove “la morale deve essere antica” non era altro che un modo diverso per dire “la morale deve seguire gli insegnamenti di Confucio”.",
+      "zh": "甚至有人提倡实行\"文化要新，道德要旧\"这种荒谬的理论，所谓\"道德要旧\"，不过是\"道德要遵孔子之道\"的另一种说法罢了。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s746",
+      "sec": 13,
+      "it": "Quanto è stato sopra detto rifletteva la situazione di tutta la Cina e lo Hunan si trovò al centro di questa situazione con un suo posto preciso.",
+      "zh": "上面所说的，反映了全中国的情况，湖南正处于这种情况的中心，占有确定的位置。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s747",
+      "sec": 13,
+      "it": "Se è pur vero che il modo di pensare cambiò con una certa rapidità, tuttavia non si trattò di un mutamento profondo.",
+      "zh": "思想固然变化得相当迅速，但终究不是深刻的变化。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s748",
+      "sec": 13,
+      "it": "Si può soltanto parlare di cambiamento superficiale, di cambiamento cieco, di cambiamento temporaneo.",
+      "zh": "只能说是表面的变化、盲目的变化、暂时的变化。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s749",
+      "sec": 13,
+      "it": "Dal 1898 fino a oggi i circoli intellettuali dello Hunan sono stati pertanto soggetti a cambiamenti superficiali, ciechi e temporanei.",
+      "zh": "因此，自1898年迄今，湖南知识界一直经历着表面的、盲目的和暂时的变化。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s750",
+      "sec": 13,
+      "it": "Da una ventina d’anni nello Hunan si è alla ricerca di una nuova cultura, ma non si ha uno stile di studio veramente nuovo.",
+      "zh": "二十年来，湖南在寻求新文化，却没有真正新的学风。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s751",
+      "sec": 13,
+      "it": "I vecchi circoli culturali dello Hunan si dividono in due gruppi: la scuola di filologia classica Han e la scuola di filologia classica Sung; vent’anni fa questa situazione regnava incontrastata.",
+      "zh": "湖南旧的文化界分为两派：汉学的古典文献学派和宋学的古典文献学派；二十年前，这种局面曾占绝对的统治地位。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s752",
+      "sec": 13,
+      "it": "Da vent’anni a questa parte la situazione non è ancora completamente mutata.",
+      "zh": "二十年来，这一局面尚未完全改变。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s753",
+      "sec": 13,
+      "it": "Le nuove scuole hanno preso il posto delle accademie per lo studio dei classici e gli studenti, pur essendo attirati dalle scienze, annegano nello stagno della società.",
+      "zh": "新学校取代了经学书院，学生们虽然被科学所吸引，却淹没在社会的大染缸之中。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s754",
+      "sec": 13,
+      "it": "Il motivo per cui la nuova cultura non ha ancora trovato un suo spazio incontrastato, va ricercato nel fatto che essa non offre un centro di pensiero ben definito.",
+      "zh": "新文化之所以至今尚未取得独占的地位，原因在于它没有提供一个明确的中心思想。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s755",
+      "sec": 13,
+      "it": "Il motivo per cui questo centro di pensiero non è mai ben definito, sta nelle ragioni che do qui di seguito:",
+      "zh": "而这个中心思想之所以始终不明确，其原因如下：",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s756",
+      "sec": 13,
+      "it": "1..un’associazione di studio con un suo carattere assolutamente incontaminato",
+      "zh": "1. 一个具有绝对纯洁性的学习团体",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s757",
+      "sec": 13,
+      "it": "non esiste.",
+      "zh": "并不存在。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s758",
+      "sec": 13,
+      "it": "2..Non ci sono università.",
+      "zh": "2. 没有大学。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s759",
+      "sec": 13,
+      "it": "3..Pochi sono gli studenti che si sono recati in occidente.",
+      "zh": "3. 到过西方的学生为数很少。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s760",
+      "sec": 13,
+      "it": "Quando ci vanno il",
+      "zh": "他们到那里去的时候，这",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s761",
+      "sec": 13,
+      "it": "problema di mangiare e la vanità di competere rendono inutile qualsiasi tipo di studio e non è loro possibile seguire studi specialistici.",
+      "zh": "吃饭问题和争面子的虚荣使他们无法专心任何学业，也不可能接受专门的教育。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s762",
+      "sec": 13,
+      "it": "Gli studenti che sono andati in Giappone venivano attirati da Huang Hsing³ per partecipare a movimenti politici.",
+      "zh": "去日本留学的学生则受黄兴³的吸引而参加政治运动。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s763",
+      "sec": 13,
+      "it": "4..Essendo poi la situazione politica assai confusa non ci sono le premesse per",
+      "zh": "4. 再者，由于政治局势十分混乱，没有安心从事研究的前提条件，",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s764",
+      "sec": 13,
+      "it": "compiere le ricerche in tranquillità.",
+      "zh": "因而无法专心致志地进行研究。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s765",
+      "sec": 13,
+      "it": "Questi sono i motivi per cui i nuovi circoli culturali non sono ancora riusciti a stabilire un centro di pensiero ben definito.",
+      "zh": "这些就是新文化团体之所以至今尚未能确立一个明确的思想中心的原因。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s766",
+      "sec": 13,
+      "it": "Questi sono i motivi per cui manca uno stile di studio.",
+      "zh": "这也就是缺少研究风气的原因。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s767",
+      "sec": 13,
+      "it": "Dal 1911 in poi, coloro che si sono impossessati dell’istruzione non sono altro che sordidi mercanti.",
+      "zh": "1911年以来，那些把教育据为己有的人，无非是些卑鄙的商人。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s768",
+      "sec": 13,
+      "it": "Le opinioni di costoro sono il risultato di una infarinatura culturale, cosa questa che crea una situazione assolutamente ambigua.",
+      "zh": "这些人的所谓见解，不过是一点肤浅的文化皮毛，因而造成了极其暧昧的局面。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s769",
+      "sec": 13,
+      "it": "Per cui non sono in alcun modo affrontati i problemi concernenti lo studio e il centro del pensiero.",
+      "zh": "关于研究和思想中心的问题，他们根本没有触及。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s770",
+      "sec": 13,
+      "it": "In anni recenti, in Cina la situazione generale è mutata.",
+      "zh": "近年来，中国的整个形势发生了变化。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s771",
+      "sec": 13,
+      "it": "Tsai Yuan-pei, Chiang Kang-hu, Wu Ching-heng, Liu Shih-fu, Chen Tu-hsiu e altri sono stati i primi a promuovere la riforma.",
+      "zh": "蔡元培、江亢虎、吴敬恒、刘师复、陈独秀等最先倡导改良。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s772",
+      "sec": 13,
+      "it": "La dottrina della riforma non tocca un solo punto.",
+      "zh": "改良的学说所涉及的不止一点。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s773",
+      "sec": 13,
+      "it": "Essa comprende ogni sorta di teorie di rinnovamento, dal pensiero alla letteratura, alla politica, dalla religione, all’arte.",
+      "zh": "它包罗万象，从思想到文学，从政治到宗教、艺术，各种革新理论皆在其中。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s774",
+      "sec": 13,
+      "it": "Stiamo oggi affrontando lo studio di problemi quali: vogliamo o no lo Stato, vogliamo o no la famiglia, vogliamo o no il matrimonio, se la proprietà debba essere privata o pubblica.",
+      "zh": "我们今天正在研究诸如要不要国家、要不要家庭、要不要婚姻、财产应当私有还是公有等问题。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s775",
+      "sec": 13,
+      "it": "Inoltre, a causa della grande guerra in Europa, in Russia è scoppiata la rivoluzione che come una marea Supplemento montante dall’occidente si riversa in oriente; ad essa gli studiosi dell’Università statale di Pechino sono stati i primi a dare il benvenuto e i giovani delle scuole delle province dell’intero paese hanno fatto eco.",
+      "zh": "此外，由于欧洲大战，俄国爆发了革命，它像一股自西方涌向东方的涨潮；国立北京大学的学者最先表示欢迎，全国各省学校的青年群起响应。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s776",
+      "sec": 13,
+      "it": "Essa come una gigantesca onda del mare è arrivata nello Hunan e perciò è stata fondata l’Associazione per il perfezionamento nello studio.",
+      "zh": "它像大海的巨浪涌到了湖南，因此便成立了学习改造协会。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s777",
+      "sec": 13,
+      "it": "La fondazione dell’Associazione per il perfezionamento nello studio Il⁵ giugno, Chen Jun-lin, presidente dell’Associazione provinciale per l’istruzione, ha invitato gli insegnanti delle diverse scuole della capitale della provincia, Hsu Te-li, Chu Chien-fang, Tang Sung, Tsai Hsiang, Chung Kuo-tao, Yang Shu-ta, Li Yun-han, Hsiang Shao-hsuan, Peng Kuo-chun, Fang Ke-kang, Ou Yang-ting, He Ping-lin, Li Chin-chiao, Chao Yi e altri a tenere a battesimo l’Associazione per il perfezionamento nello studio.",
+      "zh": "学问进修会的成立⁵六月，省教育会会长陈俊林邀请省会各校教师徐特立、朱剑帆、唐松、蔡翔、钟国陶、杨树达、李云汉、向绍轩、彭国钧、方克刚、欧阳亭、何炳麟、李金翘、赵毅等人，为学问进修会举行成立大会。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s778",
+      "sec": 13,
+      "it": "La riunione si è tenuta nella scuola Chuyi.",
+      "zh": "会议在楚怡学校召开。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s779",
+      "sec": 13,
+      "it": "Riporto qui di seguito quanto scritto dai giornali riguardo alla conferenza di Chen Jun-lin su ciò che si prefigge l’Associazione: “L’ultima volta che sono stato a Pechino, ho visto qualcosa che mi ha profondamente commosso.",
+      "zh": "现将报纸所载陈俊林关于本会宗旨的讲话转录如下：“我上次在北京，见到了一件使我深受感动的事。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s780",
+      "sec": 13,
+      "it": "Quattro anni fa gli studenti dell’Università di Pechino si prefiggevano come unico scopo di diventare funzionari.",
+      "zh": "四年前，北京大学的学生唯一的目标是当官。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s781",
+      "sec": 13,
+      "it": "Non solo gli studenti universitari, ma anche gli altri studenti avevano la medesima aspirazione.",
+      "zh": "不仅大学生如此，其他学生也抱有同样的志愿。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s782",
+      "sec": 13,
+      "it": "Invece, l’ultima volta che sono stato a Pechino, ho notato una grande differenza.",
+      "zh": "而这次我到了北京，却发现大不相同。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s783",
+      "sec": 13,
+      "it": "Il modo di pensare degli studenti universitari è notevolmente cambiato, tutti oggi sono consapevoli che il fatto più importante è prestare attenzione alla vita.",
+      "zh": "大学生的思想有了显著的变化，现在大家都有一个觉悟，认为最要紧的是留心人生问题。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s784",
+      "sec": 13,
+      "it": "Questo risulta evidente dalle loro riviste e giornali.",
+      "zh": "这一点从他们的杂志和报纸上就可以看得出来。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s785",
+      "sec": 13,
+      "it": "Pertanto gli studenti dei diversi istituti della capitale hanno cambiato le loro vecchie opinioni e questa volta hanno dato vita al movimento per la salvezza nazionale⁴.",
+      "zh": "因此，京城各校的学生改变了他们旧的观念，这一次发起了救国运动⁴。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s786",
+      "sec": 13,
+      "it": "Come mai ciò è avvenuto?",
+      "zh": "为什么会发生这种变化呢？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s787",
+      "sec": 13,
+      "it": "Perché da quando il signor Tsai Yuan-pei è rettore dell’Università di Pechino, ha riempito la mente degli studenti di pensiero filosofico, di concezione della vita e in questo modo è riuscito a far cambiare il vecchio modo di pensare.",
+      "zh": "这是因为蔡元培先生担任北京大学校长以来，以哲学思想、人生观灌输了学生的头脑，从而使他们改变了旧的思维方式。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s788",
+      "sec": 13,
+      "it": "Si è ritenuto erroneamente che il movimento studentesco per la salvezza nazionale fosse opera di uomini politici e non si sa che invece si tratta di un movimento messo in piedi autonomamente dagli studenti, della lotta tra il vecchio e il nuovo modo di pensare.",
+      "zh": "过去人们误以为学生救国运动是政客所操纵，殊不知这实在是学生自动发起的运动，是新思想与旧思想的斗争。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s789",
+      "sec": 13,
+      "it": "Da quando in Russia è stato cambiato sistema politico, il socialismo è arrivato passo dopo passo in oriente.",
+      "zh": "俄国自从改变政治制度之后，社会主义便一步一步传到东方。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s790",
+      "sec": 13,
+      "it": "Per quanto ci siano parecchi gruppi politici, tuttavia questa marea è inarrestabile.",
+      "zh": "尽管有种种政治派别，但这股潮流是不可阻挡的。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s791",
+      "sec": 13,
+      "it": "Per esempio il governo giapponese in passato ha trattato in modo crudele coloro che difendevano il partito socialista, in tempi recenti invece ha permesso inaspettatamente ai socialisti di svolgere attività politica.",
+      "zh": "例如日本政府过去残酷迫害社会主义党的拥护者，近来却出人意料地允许社会主义者开展政治活动。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s792",
+      "sec": 13,
+      "it": "Ad esempio, il dottor Yoshino Sakuzo e altri hanno proposto di mitigare l’estremismo con una sorta di socialismo di Stato, per seguire la corrente mondiale, per fare in modo che il sistema politico giapponese cambi e diventi simile alla monarchia inglese in cui il re è privo di potere reale.",
+      "zh": "又如吉野作造博士等人主张以某种国家社会主义来缓和极端主义，以顺应世界潮流，使日本的政治制度发生变化，变成像英国那样国王没有实权的君主制。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s793",
+      "sec": 13,
+      "it": "Da ciò si comprende quanto sia cambiata rapidamente la corrente di pensiero mondiale e quanta influenza abbia.",
+      "zh": "由此可见，世界思潮变化之迅速及其影响之大。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s794",
+      "sec": 13,
+      "it": "Nel nostro paese si sta sviluppando una nuova corrente di pensiero e non è più possibile arrestarla, i nostri connazionali devono in questo momento compiere ricerche con rapidità e seguire la giusta strada.",
+      "zh": "我国正在兴起一股新的思潮，已不可能再加以阻挡，我国同胞必须趁此迅速进行研究，走上正确的道路。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s795",
+      "sec": 13,
+      "it": "Noi colleghi siamo qui per organizzare quest’Associazione di studio, e, adottando queste dottrine giuste e salutari, dobbiamo studiare in modo preciso e profondo [...]”.",
+      "zh": "我们同人在这里组织这个学习会，就是要采取这些正确而有益的学说，进行精密而深入的研究[……]”。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s796",
+      "sec": 13,
+      "it": "Nella riunione di quel giorno, ho sentito dire che anche il signor Chu Chien-fang ha tenuto un discorso sulla necessità che tutti abbandonino i pregiudizi, studino il nuovo pensiero mondiale e obbediscano alla verità; anche il signor Hsiang Shao-hsuan ha sostenuto la necessità di adottare il “socialismo di Stato”.",
+      "zh": "当日会上，据我听说，朱剑凡先生也发表演说，主张大家抛弃成见，研究世界新思潮，服从真理；向绍轩先生也主张实行“国家社会主义”。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s797",
+      "sec": 13,
+      "it": "Non si può dunque dire che nello Hunan il pensiero mondiale sia qualcosa di cui si sente parlare per la prima volta.",
+      "zh": "可见世界思潮在湖南并非闻所未闻之物。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s798",
+      "sec": 13,
+      "it": "Riporto qui di seguito lo statuto dell’Associazione com’è stato pubblicato:",
+      "zh": "兹将会章照刊如下：",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s799",
+      "sec": 13,
+      "it": "1..questa nostra Associazione è stata fondata da un gruppo di soci per importare",
+      "zh": "一、本会由一群会员发起成立，以输入",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s800",
+      "sec": 13,
+      "it": "la nuova corrente di pensiero mondiale, per studiare insieme, sceglierne e diffonderne le cose più importanti.",
+      "zh": "世界思想新潮流，共同研究，选择其最重要者加以传播为宗旨。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s801",
+      "sec": 13,
+      "it": "2..Il nome di quest’Associazione è: “Associazione per il perfezionamento nello",
+      "zh": "2. 本会名称为：“学习促进会”。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s802",
+      "sec": 13,
+      "it": "studio”.",
+      "zh": "（此句并入上文）",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s803",
+      "sec": 13,
+      "it": "3..L’indirizzo della Associazione in questo momento è presso la scuola",
+      "zh": "3. 本会现址暂设长沙楚盈苑区楚一小学内。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s804",
+      "sec": 13,
+      "it": "elementare Chuyi nel quartiere Chuyingyuan di Changsha.",
+      "zh": "（此句并入上文）",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s805",
+      "sec": 13,
+      "it": "4..Chi vuole entrare a far parte dell’Associazione, deve essere presentato da un",
+      "zh": "4. 凡欲加入本会者，须经本会会员一人介绍，方为会员。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s806",
+      "sec": 13,
+      "it": "membro dell’Associazione e in tal modo diventa a sua volta membro.",
+      "zh": "（由会员介绍后）即成为会员。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s807",
+      "sec": 13,
+      "it": "5..Sul modo in cui importare la nuova corrente di pensiero:",
+      "zh": "5. 关于输入新思潮之方法：",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s808",
+      "sec": 13,
+      "it": "5.1. l’Associazione raccoglie ogni tipo di riviste e libri e li dà in lettura ai suoi membri.",
+      "zh": "5.1. 本会搜集各种杂志书籍，供会员阅读。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s809",
+      "sec": 13,
+      "it": "I membri che possiedono libri e riviste sono tenuti a darli in prestito agli altri membri dell’Associazione. Donazioni di libri e riviste saranno bene accolti; 5.2.",
+      "zh": "会员藏有书籍杂志者，有义务借予本会其他会员借阅。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s810",
+      "sec": 13,
+      "it": "i membri che si trovano sia in Cina che all’estero sono tenuti a fare inchieste e inviare rapporti; 5.3. si è tenuti a rendere noti i discorsi di uomini importanti.",
+      "zh": "捐赠书籍杂志者，概受欢迎；5.2. 凡会员在国内及国外者，均有义务进行调查并寄送报告；5.3. 有义务传播重要人物之演说。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s811",
+      "sec": 13,
+      "it": "6..Per quanto concerne il metodo di studio:",
+      "zh": "六、关于学习方法：",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s812",
+      "sec": 13,
+      "it": "6.1. i campi di studio saranno grosso modo: filosofia, pedagogia, psicologia, etica, letteratura, estetica, sociologia, politica, economia; tutti i membri della Associazione dovranno occuparsi di tali problemi separatamente, uno dopo l’altro; 6.2. il problema principale è che i membri dell’Associazione studino insieme; 6.3. i membri che desiderano studiare le lingue straniere, verranno aiutati dai membri che già le conoscono.",
+      "zh": "6.1. 学习领域大体为：哲学、教育学、心理学、伦理学、文学、美学、社会学、政治学、经济学；本会全体成员均应分别研究上述各项问题，逐一进行；6.2. 主要问题在于本会成员共同研究；6.3. 愿学习外国语之成员，由已通晓该语言之成员予以帮助。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s813",
+      "sec": 13,
+      "it": "7..Per quanto concerne il metodo di diffusione:",
+      "zh": "七、关于传播方法：",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s814",
+      "sec": 13,
+      "it": "7.1. fare conferenze sia in date fisse che no. La conferenza in data fissa si terrà ogni domenica mattina dalle ore⁸ alle¹⁰ e vi parleranno a turno i membri dell’Associazione.",
+      "zh": "7.1. 定期与不定期举行讲演。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s815",
+      "sec": 13,
+      "it": "L’oratore e il tema della conferenza dovranno essere stabiliti con una settimana di anticipo.",
+      "zh": "定期讲演定于每星期日上午⁸时¹⁰至举行，由本会成员轮流讲演。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s816",
+      "sec": 13,
+      "it": "L’oratore è tenuto a preparare la conferenza per iscritto, l’Associazione si fa carico della stampa.",
+      "zh": "讲演人及题目须提前一周确定。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s817",
+      "sec": 13,
+      "it": "La conferenza Supplemento fuori programma verterà su temi di particolare rilievo e sarà tenuta o da membri dell’Associazione o, su invito, da personaggi famosi.",
+      "zh": "讲演人应将讲演内容写成书面文稿，本会负责付印。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s818",
+      "sec": 13,
+      "it": "Bisognerà allora cercare un luogo diverso e fissare una data diversa; 7.2.",
+      "zh": "临时增刊之讲演，内容以特别重要之问题为限，由本会成员担任，或应邀由知名人士担任。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s819",
+      "sec": 13,
+      "it": "pubblicazioni.",
+      "zh": "届时须另觅场所，另定日期；7.2. 出版物。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s820",
+      "sec": 13,
+      "it": "8..L’Associazione ha un economo e un bibliotecario.",
+      "zh": "8. 协会有一个司务长和一个图书管理员。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s821",
+      "sec": 13,
+      "it": "Delle altre cose, tutti i",
+      "zh": "其他各项事务，全体……",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s822",
+      "sec": 13,
+      "it": "membri sono responsabili.",
+      "zh": "各位成员均须负责。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s823",
+      "sec": 13,
+      "it": "Ogni volta che si tiene una riunione verrà eletto un presidente.",
+      "zh": "每次开会均须选举一名主席。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s824",
+      "sec": 13,
+      "it": "9..I membri dell’Associazione devono osservare le seguenti regole comuni:",
+      "zh": "9. 协会会员须遵守下列共同规则：",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s825",
+      "sec": 13,
+      "it": "9.1. essere puntuali; 9.2. impegnarsi molto nello studio; 9.3. aiutarsi reciprocamente nello studio; 9.4. discutere liberamente ciò che si studia; 9.5. la cosa principale è essere sinceri e non falsamente gentili.",
+      "zh": "9.1. 要守时；",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s826",
+      "sec": 13,
+      "it": "9.2.",
+      "zh": "",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s827",
+      "sec": 13,
+      "it": "学习要努力；",
+      "zh": "",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s828",
+      "sec": 13,
+      "it": "9.3.",
+      "zh": "",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s829",
+      "sec": 13,
+      "it": "学习上互相帮助；",
+      "zh": "",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s830",
+      "sec": 13,
+      "it": "9.4.",
+      "zh": "",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s831",
+      "sec": 13,
+      "it": "对所学习的东西自由讨论；",
+      "zh": "",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s832",
+      "sec": 13,
+      "it": "9.5.",
+      "zh": "",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s833",
+      "sec": 13,
+      "it": "最主要的是要真诚，而不要虚假客套。",
+      "zh": "",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s834",
+      "sec": 13,
+      "it": "10..I membri dell’Associazione pagano² yuan all’anno per le spese dell’Asso-ciazione. Saranno bene accette offerte maggiori da parte di chi ne ha la possibilità.",
+      "zh": "十、本会会员每年缴纳会费²元，经济条件许可者可自愿多捐，多多益善。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s835",
+      "sec": 13,
+      "it": "11..Se l’Associazione si trova di fronte a problemi particolarmente importanti,",
+      "zh": "十一、本会遇有特别重要问题，",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s836",
+      "sec": 13,
+      "it": "deve discuterne dopo la conferenza in data fissa e quando ciò si verifica deve darne pubblica notizia e tenere una riunione.",
+      "zh": "须由定期会议加以讨论；如情况需要，则应公之于众，并召集会议。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s837",
+      "sec": 13,
+      "it": "I punti più importanti di questo statuto sono il⁵, 6, 7 e⁹. Il punto⁹ è particolarmente importante per lo studio, per sbarazzarsi del pregiudizio di essere convinti di avere ragione, e costituisce un approccio eccellente.",
+      "zh": "这个章程最重要的几条是第五、第六、第七⁵和第九⁹条。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s838",
+      "sec": 13,
+      "it": "Mi auguro che oltre a questo spirito per lo studio, in seguito ci sia anche uno spirito critico.",
+      "zh": "第九条⁹对于学习、对于去掉自以为是的偏见特别重要，是一个极好的方法。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s839",
+      "sec": 13,
+      "it": "Lo sviluppo delle dottrine moderne è per la maggior parte creazione e risultato di singole persone.",
+      "zh": "我希望除这种学习精神外，还加上一种批评精神。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s840",
+      "sec": 13,
+      "it": "La cosa più importante, assieme alle abitudini cinesi, è l’“Io”, è la “Personalità”; si discute soltanto di morti, se si scrivono libri non si riportano i discorsi degli uomini di oggi; bisogna invertire questa tendenza.",
+      "zh": "近代学理的发达，大半为个人的创造与结果。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s841",
+      "sec": 13,
+      "it": "Noi svolgiamo attività usando sempre un modo di pensare individuale.",
+      "zh": "中国的事，最要紧的是“我”，是“个人”；只讲死者，著书不引今人言论，这种风气应当倒转过来。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s842",
+      "sec": 13,
+      "it": "Come il sole che dà luce a tutto il mondo, come un faro che proietta luce verso l’esterno.",
+      "zh": "我们行事，总是采取个人的思想。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s843",
+      "sec": 13,
+      "it": "Non ci si deve preoccupare se ciò fa piacere o meno alla gente.",
+      "zh": "如太阳之普照世界，如灯塔之放射光芒。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s844",
+      "sec": 13,
+      "it": "L’unica cosa che si desidera è che la tranquillità del cuore corrisponda alla ragione reale.",
+      "zh": "不管人们喜不喜欢，只求心安理得。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s845",
+      "sec": 13,
+      "it": "Ciò che i vecchi signori detestano è l’arroganza.",
+      "zh": "老先生们所讨厌的，是傲慢。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s846",
+      "sec": 13,
+      "it": "Ma costoro non sanno che dai tempi antichi fino a oggi le verità della teoria, le grandi imprese, sono state create proprio da coloro che vengono definiti arroganti.",
+      "zh": "他们不知道自古至今的学理真理、伟大事业，正是这些被称为傲慢的人所创造的。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s847",
+      "sec": 13,
+      "it": "Noi ci troviamo a vivere in una società complicata, in un mondo sleale e se si manca di spirito critico è facile allora diventare schiavi degli altri.",
+      "zh": "我们生活在一个复杂的社会、一个不忠实的世界里，缺乏批评精神，很容易变成别人的奴隶。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s848",
+      "sec": 13,
+      "it": "C’è chi dice che la maggior parte dei cinesi è schiava e io credo che questa opinione non sia del tutto errata.",
+      "zh": "有人说大多数中国人是奴隶，我以为这话不无道理。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s849",
+      "sec": 13,
+      "it": "Il punto⁹, discutere liberamente ciò che si studia, è il principio stesso della libertà di pensiero e della libertà di parola.",
+      "zh": "第九条⁹，自由讨论所学，正是思想自由、言论自由的原则。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s850",
+      "sec": 13,
+      "it": "Questo punto rappresenta per il genere umano la cosa più preziosa, che dà maggiore felicità.",
+      "zh": "这一点对人类来说是最宝贵、最能带来幸福的东西。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s851",
+      "sec": 13,
+      "it": "Nella ricerca accademica ciò che bisogna evitare è l’atteggiamento arbitrario rappresentato dal metodo deduttivo.",
+      "zh": "在学术研究中，必须避免的正是演绎法所代表的那种武断态度。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s852",
+      "sec": 13,
+      "it": "In Cina quei modi di dire come “Se il maestro è severo, gli scolari sono rispettosi”, “Il Saggio dice”, “Ortodossia morale”, “Le diverse sette” sono una vera e propria calamità, sono la grande malattia prodotta dall’atteggiamento arbitrario del metodo deduttivo.",
+      "zh": "在中国，“师严而后道尊”“子曰诗云”“道德正统”“异端邪说”之类的说法，实在是一场灾祸，是演绎法的武断态度造成的重疾。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s853",
+      "sec": 13,
+      "it": "Tutte queste cose sono assai potenti nel mondo del pensiero e bisogna in ogni modo infrangerle.",
+      "zh": "这些东西在思想界中势力极大，无论如何必须将其打破。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s854",
+      "sec": 13,
+      "it": "Chi come noi si oppone a Confucio ha anche altre ragioni per farlo.",
+      "zh": "像我们这样反对孔子的人，还有别的理由。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s855",
+      "sec": 13,
+      "it": "Ma occorre opporsi non fosse altro che per una ragione sola: il suo dominio incontrastato del mondo del pensiero cinese ha portato alla mancanza di qualsiasi libertà e reso la gente schiava silenziosa degli idoli per duemila anni.",
+      "zh": "但哪怕只为一条理由，也必须反对：他对中国思想界两千年的独霸统治，造成了毫无自由的局面，使人们两千年来成为偶像的沉默奴隶。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s856",
+      "sec": 13,
+      "it": "Per tutto ciò non possiamo fare a meno di ribellarci.",
+      "zh": "凡此种种，我们不能不奋起反抗。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s857",
+      "sec": 13,
+      "it": "L’andamento dell’Associazione per il perfezionamento nello studio Ciò che l’Associazione per il perfezionamento nello studio ha intrapreso, ciò che con la sua fondazione intende fare è studiare e diffondere le nuove dottrine.",
+      "zh": "修学励进会的宗旨 修学励进会正在从事的事业，以及它创立时所打算做的，是研究和传播新的学说。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s858",
+      "sec": 13,
+      "it": "Prendiamo adesso in esame un aspetto importante di questo studio.",
+      "zh": "现在我们来考察这项研究的一个重要方面。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s859",
+      "sec": 13,
+      "it": "Abbiamo già mandato alcune persone a Pechino e a Shanghai allo scopo di acquistare nuovi libri, riviste e giornali.",
+      "zh": "我们已经派了一些人到北京和上海去购买新书、杂志和报纸。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s860",
+      "sec": 13,
+      "it": "Nel capoluogo della nostra provincia è stata messa in piedi una classe di inglese per permettere ai membri della nostra Associazione di studiare l’inglese allo scopo di prepararsi allo studio della cultura occidentale.",
+      "zh": "在本省省会开办了一所英语班，使我们学会的会员能够学习英语，为研究西方文化作准备。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s861",
+      "sec": 13,
+      "it": "Tra costoro ci sono membri dell’Associazione che hanno quaranta e cinquant’anni e tutti sono desiderosi di studiare.",
+      "zh": "其中有些会员年已四、五十岁，然而个个都渴望学习。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s862",
+      "sec": 13,
+      "it": "Abbiamo anche costituito una classe in cui i membri dell’Associazione esprimono a turno le proprie opinioni, per praticare una sorta di scambio culturale.",
+      "zh": "我们还组织了一个班级，学会会员轮流发表意见，以实行一种文化交流。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s863",
+      "sec": 13,
+      "it": "Quei signori che si davano arie da burocrati sono diventati improvvisamente umili e modesti e vengono a studiare.",
+      "zh": "那些摆官僚架子的先生们忽然变得谦逊了，也来学习。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s864",
+      "sec": 13,
+      "it": "Tuttavia alcuni non sono troppo contenti, perché c’è ancora chi si dà arie da burocrate e quando fanno delle conferenze usano un tono di comando come se parlassero a dei subordinati.",
+      "zh": "不过有些人不太满意，因为仍有人摆官僚架子，演说时使用命令的口吻，好像在对下级讲话。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s865",
+      "sec": 13,
+      "it": "Alcuni dicono di costoro che sono come vermi verdi su foglie verdi.",
+      "zh": "有人说这些人像青菜叶上的青虫。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s866",
+      "sec": 13,
+      "it": "Io invece non sono d’accordo con chi pretende da costoro la perfezione.",
+      "zh": "然而，我并不同意那种苛求这些人臻于至善的论调。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s867",
+      "sec": 13,
+      "it": "Lo Hunan assomigliava a una donna dall’aspetto delicato e apatica.",
+      "zh": "从前的湖南，宛如一位面容娇嫩而神情倦怠的女子。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s868",
+      "sec": 13,
+      "it": "Ora, con uno schiocco di dita, è come un prigioniero appena uscito di prigione senza preoccupazioni.",
+      "zh": "如今，弹指之间，她恰似一名甫出牢笼的囚徒，了无挂碍。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s869",
+      "sec": 13,
+      "it": "Alle prime luci dell’alba, una vallata vuota risuona del rumore di passi, noi dobbiamo applaudire e dare il benvenuto e mi auguro che ciò sia il preannuncio del cambiamento dello Hunan.",
+      "zh": "黎明破晓，空旷的山谷响起脚步声，我们应当鼓掌欢迎，并祝愿此举成为湖南变局的先声。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s870",
+      "sec": 13,
+      "it": "Io li ho osservati quando hanno tenuto ben quattro conferenze, come: I nostri connazionali hanno un’idea sbagliata della vita e della morte , Come essere uomini , Istruzione e uso della lingua parlata, Usare la pedagogia di Dewey e debbo dire che sono state buone; se riusciranno a togliersi di dosso le cattive abitudini e a fare conferenze aperte a tutti, che tutti possano ascoltare, la diffusione sarà rapida e i benefici grandi e incalcolabili.",
+      "zh": "我曾聆听他们先后举行的四次演讲，如《吾人对生死之误解》《如何做人》《口语之教授与应用》《采用杜威教学法》¹，我认为这些都很好；倘若他们亦能革除陋习，举办面向大众的公开演讲，使人人都能聆听，则传播必然迅速，而其益处必将广大而无可限量。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s871",
+      "sec": 13,
+      "it": "Supplemento NOTE",
+      "zh": "补充注释",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s872",
+      "sec": 13,
+      "it": "1..Tan Ssu-tung (1865-1898) proveniva da una famiglia di mandarini dello Hunan.",
+      "zh": "¹ 谭嗣同（1865-1898），出身于湖南官宦之家。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s873",
+      "sec": 13,
+      "it": "Esponente del “movimento di autorafforzamento” e protagonista della “Riforma dei cento giorni” nel 1898, dopo il colpo di Stato dell’imperatrice vedova Tzu Hsi, venne decapitato.",
+      "zh": "他是“自强运动”的代表人物，1898年“百日维新”的主要参与者，在慈禧太后发动政变后遭斩首。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s874",
+      "sec": 13,
+      "it": "2..Il sistema degli esami imperiali venne abolito nel 1905.",
+      "zh": "2. 科举制度于1905年废除。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s875",
+      "sec": 13,
+      "it": "3..Huang Hsing (1874-1916) fu un rivoluzionario repubblicano molto noto ai suoi tempi,",
+      "zh": "3. 黄兴（1874-1916）是当时非常著名的共和派革命家，",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s876",
+      "sec": 13,
+      "it": "che soggiornò frequentemente in Giappone da dove fece varie spedizioni in Corea per organizzare attentati e insurrezioni (1904, 1905, 1907, 1911).",
+      "zh": "他常住日本，并从那里多次前往朝鲜组织暗杀和起义（1904、1905、1907、1911）。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s877",
+      "sec": 13,
+      "it": "Dopo il 1911 fu un esponente di spicco del gruppo dirigente repubblicano.",
+      "zh": "1911年以后，他是共和派领导集团中的杰出人物。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s878",
+      "sec": 13,
+      "it": "Aveva insegnato per vari mesi (a cavallo tra il 1903 e il 1904) in una scuola di Changsha.",
+      "zh": "他曾在1903年至1904年之交在长沙一所学校任教数月。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s879",
+      "sec": 13,
+      "it": "4..Il riferimento è al Movimento del⁴ maggio.",
+      "zh": "4. 这里指的是五四运动⁴。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s880",
+      "sec": 13,
+      "it": "Il numero³ della Rivista del fiume Hsiang uscì il²⁸ luglio 1919.",
+      "zh": "《湘江评论》第³期于1919年7月²⁸日出版。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s881",
+      "sec": 13,
+      "it": "L’articolo di apertura era costituito dalla seconda puntata dello scritto La grande unione delle masse popolari  (qui viene pubblicato a sé dopo il numero⁴).",
+      "zh": "刊首文章为《民众的大联合》一文的续篇（该文单独刊于第⁴期之后）。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s882",
+      "sec": 13,
+      "it": "Il secondo scritto era, nell’ambito della rubrica Commento dei principali avvenimenti dell’oriente, la prima puntata de Il movimento popolare in Giappone (che parimenti pubblichiamo a sé dopo il numero⁴).",
+      "zh": "第二篇文章为《东方大事述评》专栏中《日本民众运动》的第一篇（该文同样单独刊于第⁴期之后）。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s883",
+      "sec": 13,
+      "it": "Il numero³ conteneva inoltre gli scritti di Mao Tse-tung pubblicati qui di seguito.",
+      "zh": "第³期还载有毛泽东发表于下文的几篇文章。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s884",
+      "sec": 14,
+      "it": "MISCELLANEA INTERNAZIONALE",
+      "zh": "国际杂评",
+      "head": true,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s885",
+      "sec": 14,
+      "it": "La Francia teme la Germania come se si trattasse di una tigre La Francia è spaventata dalla Germania come se si trovasse di fronte a tigri e lupi.",
+      "zh": "法国怕德国就像怕老虎 法国面对德国，犹如面对虎狼，胆战心惊。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s886",
+      "sec": 14,
+      "it": "Sebbene sia la Germania ad aver subito una grande sconfitta, la Francia nutre un vero e proprio terrore nei confronti della Germania: eppure è la Francia che ha preso i bacini carboniferi della Saar, ha dichiarato indipendente la riva sinistra del Reno, ha distrutto le fortificazioni dell’isola di Heligoland, ha appoggiato l’indipendenza della Polonia in modo che essa costituisca una sorta di scudo nei confronti dell’est, ha appoggiato l’indipendenza della Cecoslovacchia, in modo da ostacolare alla Germania lo sbocco meridionale.",
+      "zh": "虽然吃大败仗的是德国，法国对德国却怀有一种真正的恐惧：然而正是法国夺取了萨尔煤矿区，宣布莱茵河左岸独立，摧毁了赫利戈兰岛的工事，支持波兰独立，使其成为对付东方的屏障，又支持捷克斯洛伐克独立，以阻碍德国向南方的出路。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s887",
+      "sec": 14,
+      "it": "La Francia ha fatto di tutto per impedire l’unione dell’Austria tedesca alla Germania, non risparmiando mezzi per distruggere il concetto stesso di autodeterminazione dei popoli.",
+      "zh": "法国竭尽一切手段，阻挠德意志奥地利并入德国，不惜用尽办法来摧毁民族自决这一概念本身。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s888",
+      "sec": 14,
+      "it": "Ha fatto di tutto per ridurre gli armamenti di terra, cielo e mare della Germania e le sue colonie.",
+      "zh": "它还竭尽全力削减德国在陆上、空中和海上的军备，并剥夺其殖民地。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s889",
+      "sec": 14,
+      "it": "Ha costretto la Germania a consegnare gran parte della sua marina mercantile in modo da renderle impossibile la ripresa del commercio con l’estero.",
+      "zh": "法国还迫使德国交出大部分商船队，使其不可能恢复对外贸易。这一切本该绰绰有余了，然而不然。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s890",
+      "sec": 14,
+      "it": "Tutto ciò dovrebbe essere più che sufficiente e invece no. Ha anche chiesto all’Inghilterra e agli Stati Uniti d’America di fare da garanti.",
+      "zh": "法国还要求英国和美国作担保。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s891",
+      "sec": 14,
+      "it": "È di ieri la notizia che Wilson, prima di lasciare la Francia, ha firmato un patto in base al quale, se la Francia venisse attaccata, gli Stati Uniti si impegnano a intervenire immediatamente al suo fianco.",
+      "zh": "昨日消息，威尔逊在离开法国之前签署了一项协定，规定如果法国遭到攻击，美国承诺立即站在法国一边进行干预。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s892",
+      "sec": 14,
+      "it": "Nel frattempo, Lloyd George, a nome del governo inglese, ha firmato un patto il cui contenuto è simile a quello or ora riportato.",
+      "zh": "与此同时，劳合·乔治代表英国政府签署了一项内容与此相似的协定。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s893",
+      "sec": 14,
+      "it": "Che significato profondo!",
+      "zh": "真是意味深长！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s894",
+      "sec": 14,
+      "it": "Che significato oscuro!",
+      "zh": "真是意味深长！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s895",
+      "sec": 14,
+      "it": "Come mai la Francia ha tanta paura?",
+      "zh": "法国何以如此害怕？莫非它隐藏着什么见不得人、不能向任何人透露的意图？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s896",
+      "sec": 14,
+      "it": "Forse nasconde intenzioni talmente vergognose che non possono essere rivelate ad alcuno?",
+      "zh": "Rivista del Fiume Hsiang — numero 3 (28 luglio 1919)\n《湘江评论》第3期",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s897",
+      "sec": 14,
+      "it": "La nazione francese ha sempre dimostrato un grande coraggio morale, ma oggi si comporta come una donnicciola, come un bimbetto e va mendicando garanzie da tutti.",
+      "zh": "法兰西民族历来表现出极大的道德勇气，但今日却表现得像个婆娘、像个小孩子，到处乞求保障。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s898",
+      "sec": 14,
+      "it": "Io ritengo che tale fenomeno non sia per niente positivo per la Francia!",
+      "zh": "我认为这种现象对法国毫无益处！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s899",
+      "sec": 14,
+      "it": "Il contenuto del trattato di pace Il generale Smuts¹ ha dichiarato: “Anche se ho firmato il trattato di pace, ciò non significa che esso sia perfetto.",
+      "zh": "和平条约的内容 斯穆茨¹将军宣称：“虽然我签署了和平条约，但这并不意味着它是完善的。为了结束战争，我不得不签署它。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s900",
+      "sec": 14,
+      "it": "Per mettere fine alla guerra non ho potuto fare a meno di firmarlo” e ha continuato: “Naturalmente non sono state incluse nel trattato di pace, come era stato promesso, le nuove condizioni di vita, la vittoria dell’umanitarismo, l’aspirazione dei popoli a un nuovo sistema internazionale, a un mondo pacifico e onesto, l’attuazione pratica delle speranze.",
+      "zh": "”他接着说道：“和平条约中自然没有包含原先所许诺的新的生活条件、人道主义的胜利、各族人民对新国际制度、对和平而诚实的世界的渴望，以及对愿望的实际兑现。目前，能够解决政治家们在和平会议上所面临的难题的，在于赋予各族人民内心所表达的人道主义和正义感以新的、真实的意义。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s901",
+      "sec": 14,
+      "it": "Attualmente, ciò che può risolvere il difficile problema che i politici si sono trovati ad affrontare alla Conferenza di pace, sta nel dare nuovo e reale significato all’umanitarismo e al senso di giustizia espressi dal cuore dei popoli”.",
+      "zh": "”他还说：“最使我感到遗憾的是，军国主义只在敌国被清除了。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s902",
+      "sec": 14,
+      "it": "Ha detto inoltre: “Ciò che più mi rincresce è che sia stato cancellato il militarismo soltanto nei paesi nemici”.",
+      "zh": "”",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s903",
+      "sec": 14,
+      "it": "Smuts è un militare inglese, è tra i firmatari del trattato di pace e ha rilasciato questa dichiarazione dopo la firma del trattato.",
+      "zh": "斯穆茨是一名英国军人，是和平条约的签署人之一，他在条约签署后发表了这一声明。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s904",
+      "sec": 14,
+      "it": "Da ciò siamo in grado di indovinare il contenuto di questo trattato di pace.",
+      "zh": "由此可见，我们便能猜出这个和平条约的内容了。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s905",
+      "sec": 14,
+      "it": "Il patto segreto tra Giappone e Germania La dichiarazione di Parigi di Lloyd George² dice: “Recentemente si è sentito parlare di un patto segreto tra Giappone e Germania”.",
+      "zh": "日本和德国之间的秘密条约 劳合·乔治²的巴黎声明说：“最近人们听到了关于日本和德国之间秘密条约的传闻。”",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s906",
+      "sec": 14,
+      "it": "Che cosa sarà mai un patto segreto?",
+      "zh": "秘密条约究竟是什么东西？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s907",
+      "sec": 14,
+      "it": "Chi sarà mai quella persona ignorante e presuntuosa che si proverà a scoprire ciò che ci riserva un patto segreto tra Giappone e Germania?",
+      "zh": "那个妄自尊大、无知的人，他何曾想到去揭露日本和德国之间的秘密条约给我们带来了什么？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s908",
+      "sec": 14,
+      "it": "Il patto segreto tra Giappone e Russia, reso pubblico dal governo di Lenin, non ha avuto per niente successo e il Giappone ha perso così la faccia.",
+      "zh": "列宁政府所公布的日俄秘密条约，根本就没有得逞，日本因此大丢脸面。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s909",
+      "sec": 14,
+      "it": "È invece in vigore il patto tra Giappone, Inghilterra e Francia e pertanto il nostro Shantung è in pericolo.",
+      "zh": "然而日、英、法之间的条约却在生效，因此我们的山东正处在危险之中。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s910",
+      "sec": 14,
+      "it": "Per cosa mai sarà stato fatto il patto segreto tra Giappone e Germania, di cui già da due anni si sente parlare in parecchie occasioni?",
+      "zh": "两年来多次传闻的日德秘密条约，究竟是为了什么而订立的？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s911",
+      "sec": 14,
+      "it": "Si dice che nel 1917 la Germania avesse promesso al Giappone di disporre liberamente delle colonie olandesi, inclusa Sumatra, ma la manovra venne sventata per il fatto che il governo inglese, venutone a conoscenza, avvertì l’Olanda.",
+      "zh": "据说1917年德国曾答应日本自由处置荷兰的殖民地，包括苏门答腊在内，但英国政府得知后警告了荷兰，这一阴谋才被挫败。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s912",
+      "sec": 14,
+      "it": "Noi dobbiamo essere assolutamente consapevoli che Giappone e Germania già in numerose occasioni si sono comportati come stupratori di donne e sebbene non abbiano avuto successo, tuttavia hanno ancora in testa le loro malvagie intenzioni di stupratori.",
+      "zh": "我们必须充分认识，日本和德国早已屡次扮演强奸妇女的歹徒，虽然未能得逞，但他们歹徒的恶毒企图仍然盘踞在脑际。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s913",
+      "sec": 14,
+      "it": "Il potente governo giapponese, i signori della guerra, i mascalzoni non verranno eliminati se il governo tedesco Ebert non potrà fare la rivoluzione, se non verranno separati gli stupratori dalle donne.",
+      "zh": "如果德国的艾伯特政府不能进行革命，如果不把这些强奸妇女的歹徒同妇女们分隔开来，那么强大的日本政府、军阀先生们、恶棍们就不会被消灭。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s914",
+      "sec": 14,
+      "it": "In tale caso sì che si correranno non pochi pericoli.",
+      "zh": "果真如此，那就确实会招致不少危险。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s915",
+      "sec": 14,
+      "it": "I politici Smuts³ ha dichiarato: “Solo i nuovi reali desideri dei popoli possono risolvere i difficili problemi che i politici si sono trovati ad affrontare alla Conferenza di pace”.",
+      "zh": "斯穆茨³之类的政治家宣称：\"唯有人民的真实愿望，才能解决政治家们在和会上所面临的种种难题。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s916",
+      "sec": 14,
+      "it": "Perché dunque c’è tanta discrepanza tra i reali desideri dei popoli e il punto di vista dei politici?",
+      "zh": "\"既然如此，为什么人民的真正愿望同政治家的观点之间会有这么大的差距呢？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s917",
+      "sec": 14,
+      "it": "Perché i popoli non temono le difficoltà?",
+      "zh": "为什么人民不害怕困难呢？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s918",
+      "sec": 14,
+      "it": "Quale spiegazione possiamo dare?",
+      "zh": "对此我们能作何解释？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s919",
+      "sec": 14,
+      "it": "Io ho sempre diffidato dei cosiddetti politici e temuto che non fossero proprio niente di buono.",
+      "zh": "我一向不信任所谓的政治家，总疑心他们实在不是什么好东西。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s920",
+      "sec": 14,
+      "it": "Adesso ne ho le prove.",
+      "zh": "现在我有了证据。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s921",
+      "sec": 14,
+      "it": "Dopo la firma del trattato di pace di Parigi, Lloyd George, una volta rientrato in Inghilterra, ha tenuto un discorso alla Camera dei Comuni in cui ha detto: “I numerosi successi riscossi dalla nostra Inghilterra sono il risultato della solidarietà del nostro grande popolo.",
+      "zh": "巴黎和约签字之后，劳合·乔治回到英国，在下议院发表演说，他说：\"我们大不列颠所取得的众多成就，是我们伟大人民团结一致的结果。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s922",
+      "sec": 14,
+      "it": "Oggi giubiliamo, ma non dobbiamo ritenere che le calamità siano tutte passate.",
+      "zh": "今天我们欢庆，但切不可认为灾难已经全部过去。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s923",
+      "sec": 14,
+      "it": "Dobbiamo ancora conservare il nostro spirito combattivo, in modo da essere preparati ad affrontare gli avvenimenti futuri.",
+      "zh": "我们仍须保持斗志，以便准备应付未来的事变。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s924",
+      "sec": 14,
+      "it": "Non dobbiamo sprecare energie in controversie tra di noi”.",
+      "zh": "我们不应把精力浪费在彼此之间的争论上。\"",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s925",
+      "sec": 14,
+      "it": "Proprio questa è la grande abilità dei politici. Proprio questo è il fascino incantatore dei politici.",
+      "zh": "这正是政治家的高明之处，这正是政治家迷人的魅力所在。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s926",
+      "sec": 14,
+      "it": "“Non bisogna sprecare energie in controversie tra di noi” non significa altro che voi popolo non dovete rendere difficili le cose al nostro governo col pretesto delle penose condizioni di vita, con ciò che il popolo realmente desidera, con tanti noiosi problemi.",
+      "zh": "\"不应把精力浪费在彼此之间的争论上\"，说穿了就是：你们人民不要以生活困苦、以人民的真正愿望、以许许多多讨厌的问题为借口，给我们的政府制造困难。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s927",
+      "sec": 14,
+      "it": "Tutti questi problemi sono cosucce da nulla, sono cose senza alcuna importanza.",
+      "zh": "所有这些问题都是微不足道的小事，都是无关紧要的东西。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s928",
+      "sec": 14,
+      "it": "Quando in futuro si verificheranno incidenti, dovremo di nuovo fare guerra contro altri paesi, le cose veramente importanti saranno patriottismo, mobilitazione, solidarietà, prontezza a contrattaccare.",
+      "zh": "将来一旦发生事端，我们又要同别的国家打仗，那时真正重要的东西就是爱国主义、动员、团结、奋起反击的准备。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s929",
+      "sec": 14,
+      "it": "Io desidero a questo punto dire apertamente ai politici del tipo di Lloyd George: i vostri discorsi sono un ammasso di “bugie”, un ammasso di “stupidaggini”. Ci siamo ormai svegliati.",
+      "zh": "现在我要公开对劳合·乔治之流的老爷们说：你们的言论是一堆“谎言”，一堆“蠢话”。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s930",
+      "sec": 14,
+      "it": "Non siamo più come prima.",
+      "zh": "我们已经觉醒了，不再是从前的样子。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s931",
+      "sec": 14,
+      "it": "La dovete piantare, la dovete smettere una volta per tutte.",
+      "zh": "你们必须停止，必须从此彻底停止。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s932",
+      "sec": 14,
+      "it": "Le caratteristiche della Cina Lo starsene tranquillamente seduti era originariamente un modo di fare dello sport, un’attività anche se statica!",
+      "zh": "中国的特点 安坐不动原本是一种运动的方式，一种虽然是静态的活动！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s933",
+      "sec": 14,
+      "it": "Non c’è niente di strano e di straordinario.",
+      "zh": "这没有什么奇怪和特别之处。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s934",
+      "sec": 14,
+      "it": "Oggigiorno, invece, le persone che se ne stanno tranquillamente sedute sono convinte di “fare qualcosa di miracoloso”. Queste persone possono essere divise in sedici tipi ed essere arrivati a dividerle è stata una fatica non da poco; con le orecchie sono in grado di sentire voci da oltre¹⁰ li di distanza, con gli occhi di distinguere i colori da molto lontano, con le gambe di percorrere strade lunghe parecchi li, non muoiono né di fame né di freddo, diventano semplicemente degli “esseri soprannaturali”.",
+      "zh": "可是如今，安坐不动的人自以为在“做神奇的事情”。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s935",
+      "sec": 14,
+      "it": "Ah!",
+      "zh": "这些人可以分为十六种类型，能把他们分得如此细致，实在费了一番功夫；他们耳朵能听到十里之外¹⁰的声音，眼睛能分辨很远地方的颜色，双腿能走好几里长的路，既不饿死也不冻死，简直成了“神仙”。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s936",
+      "sec": 14,
+      "it": "Ah!",
+      "zh": "啊！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s937",
+      "sec": 14,
+      "it": "Oggigiorno, la scienza del XX secolo è straordinariamente avanzata.",
+      "zh": "啊！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s938",
+      "sec": 14,
+      "it": "La nostra Cina invece ha questo tipo di scorciatoia per diventare “esseri soprannaturali”.",
+      "zh": "如今二十世纪科学非常发达，我们中国却有这种成为“神仙”的捷径。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s939",
+      "sec": 14,
+      "it": "È mai possibile che siano queste le caratteristiche della Cina?",
+      "zh": "难道这就是中国的特点吗？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s940",
+      "sec": 14,
+      "it": "I cinesi ciechi I contemporanei definiscono coloro che tentano con le parole e i fatti di far piazza pulita del vecchio modo di pensare e delle vecchie abitudini come “partito estremista”.",
+      "zh": "当代的盲人中国人，把那些以言论和行动力图扫除旧思想和旧习惯的人称为“过激党”。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s941",
+      "sec": 14,
+      "it": "In realtà non si trova in nessuna lingua occidentale questo termine “partito estremista”.",
+      "zh": "其实，西方任何语言中都没有“过激党”这个名词。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s942",
+      "sec": 14,
+      "it": "Per quanto riguarda il termine russo “bolsevichi” esso indica il partito della maggioranza; dal punto di vista ideologico significa che ha intenzione di costruire una vera repubblica popolare operaia, in modo che gli operai abbiano il diritto di occuparsi degli affari dello Stato, con un governo e una costituzione.",
+      "zh": "就俄文“布尔什维克”一词而言，它指的是多数派；从思想上说，它是要建设一个真正的劳农平民共和国，使工人有权参与国家事务，并有政府和宪法。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s943",
+      "sec": 14,
+      "it": "Non si tratta per niente, dunque, di “anarchia”.",
+      "zh": "因此，它完全不是什么“无政府主义”。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s944",
+      "sec": 14,
+      "it": "Gli aristocratici e i signori della guerra giapponesi temono questa corrente di pensiero e non vogliono farla penetrare nel loro paese, perché farebbe vacillare il sistema di classe ed è per questo che hanno tradotto il termine con “partito estremista”.",
+      "zh": "日本的贵族和军阀害怕这种思想潮流，不愿让它传入自己的国家，因为它会动摇阶级制度，所以他们把这个名词译成了“过激党”。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s945",
+      "sec": 14,
+      "it": "Tuttavia c’è chi, non conoscendone il significato, ha sempre sulla bocca l’espressione “partito estremista” e il solo pronunciarla è già un reato.",
+      "zh": "然而有些人不懂得它的含义，却把“过激党”一词时时挂在嘴上，仿佛仅仅说出这个词就已经是一种罪过。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s946",
+      "sec": 14,
+      "it": "Ciò che in realtà si verifica è che costoro non capendo cosa si intenda con “partito estremista” si domandano se si tratti o meno dei “bolscevichi” e non vi prestano troppa attenzione.",
+      "zh": "实际发生的情形是：这些人不明白“过激党”指的是什么，便寻思它是不是“布尔什维克”，却并不十分留意。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s947",
+      "sec": 14,
+      "it": "Ricordandomi poi che un uomo importante ha detto che socialismo significa prendere con la forza le terre ai ricchi e farle proprie, allora tutto mi è immediatamente chiaro, so bene che noi cinesi siamo sempre ciechi.",
+      "zh": "后来我想起一位要人说过，社会主义就是用强力夺取富人的土地并据为己有，于是我立刻明白了一切，深知我们中国人总是盲目的。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s948",
+      "sec": 14,
+      "it": "È veramente una cosa assurda Di recente tutti i giornali hanno riportato la notizia che i giapponesi a Chinan hanno picchiato senza ragione i nostri commercianti, arrestato i nostri studenti, distrutto i nostri negozi: hanno perquisito chi si trovava per strada, hanno compiuto ogni sorta di brutalità.",
+      "zh": "真是岂有此理 近来各报都登载消息，说日本人在济南无故殴打我国商人，逮捕我国学生，捣毁我国商店；他们搜查行人，干尽了种种暴行。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s949",
+      "sec": 14,
+      "it": "La cosa veramente assurda è che gli ospiti hanno preso il posto del padrone di casa.",
+      "zh": "真正岂有此理的是：客人竟然喧宾夺主，取而代之。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s950",
+      "sec": 14,
+      "it": "Il nostro governo non se la sente di affrontare il problema, chiede soltanto ai diplomatici di ogni paese di intervenire in qualità di mediatori, comportandosi alla fine come un uomo a cui abbiano violentato la moglie e che, non avendo il coraggio di denunciare il crimine, implora gli altri di intervenire al suo posto.",
+      "zh": "我们政府不敢出面交涉，只请各国公使出来调停，结局就如同一个妻子被人强奸的丈夫，自己没有胆量告发罪行，反倒央求别人代他出头。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s951",
+      "sec": 14,
+      "it": "Secondo voi è o no una vergogna?",
+      "zh": "你们说这是不是可耻？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s952",
+      "sec": 14,
+      "it": "Confucio e Avalokitesvara Tre settimane fa ho partecipato a una riunione e ho detto: “È nell’aver impedito ad altri di criticare la dottrina di Confucio, avendolo considerato per tanti secoli personaggio di esemplare virtù, la radice della schiavitù in cui ci troviamo”. Pur non avendo strappato neppure un pelo a Confucio, c’è stata una certa persona che, pur essendo nata più di duemila anni dopo la morte di Confucio, se ne è avuta a male e ha scritto un bagu⁴ per prendere le difese di Confucio.",
+      "zh": "孔子与观音 三个星期以前我参加了一次会议，在会上说：“我们几千年把孔子当作大圣人，不准人家批评他，这正是我们深陷奴隶状态的总根源。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s953",
+      "sec": 14,
+      "it": "Ah!",
+      "zh": "”我并没有拔掉孔子一根毛，可是有个人，生在孔子死后两千多年，却为此抱不平，写了一篇八股⁴来为孔子辩护。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s954",
+      "sec": 14,
+      "it": "Ah!",
+      "zh": "哈哈！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s955",
+      "sec": 14,
+      "it": "Tanto potente è ancora il fascino incantatore di Confucio!",
+      "zh": "孔子的魔力真大呀！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s956",
+      "sec": 14,
+      "it": "Ieri era il¹⁶ e mi sono recato sulla montagna Yuchun dove ho incontrato molte persone (uomini e donne, vecchi e bambini) che portavano ogni sorta di offerte: candele, bastoncini d’incenso, denaro finto e immagini di carta; erano tutti bagnati di sudore e stavano andando al tempio che sta sulla cima della montagna Yuchun.",
+      "zh": "昨天是十六日¹⁶，我上了玉泉山，遇见许多人（男女老少都有），他们带着各种各样的供品：蜡烛、香、纸钱和纸像。他们个个汗流浃背，正往玉泉山顶的庙里去。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s957",
+      "sec": 14,
+      "it": "In quel momento non mi resi conto di cosa stessero facendo.",
+      "zh": "当时我并不知道他们在做什么。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s958",
+      "sec": 14,
+      "it": "A un certo punto ho incontrato un amico che mi ha detto: “Oggi la montagna Yuchun è piena di animazione perché ricorre l’anniversario della nascita di Avalokitesvara⁵ e un sacco di gente vi si reca per celebrare la ricorrenza”.",
+      "zh": "后来遇见一位朋友，他对我说：“今天玉泉山十分热闹，因为正是观音菩萨⁵的诞辰，许多人都赶去庆祝。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s959",
+      "sec": 14,
+      "it": "Ah!",
+      "zh": "”啊！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s960",
+      "sec": 14,
+      "it": "Ah!",
+      "zh": "啊！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s961",
+      "sec": 14,
+      "it": "Avalokitesvara non pronuncia parola, ha gli occhi privi di luce, eppure guardate quanto è grande il suo fascino incantatore!",
+      "zh": "观音菩萨不言不语，双目无光，可是他迷人的魅力多么大啊！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s962",
+      "sec": 14,
+      "it": "Se non si ha fiducia nella scienza è la morte Due settimane fa, sulla città di Changsha si sono abbattuti fulmini che hanno causato la morte di parecchie persone. In una casa sotto un vecchio albero sulla montagna Yalu molte persone hanno trovato la morte a causa di un fulmine. La città è piena di strade e canali di scarico malsani, di impianti elettrici, per cui è necessario costruire una grande torre di collegamento. È inoltre necessario installare parafulmini in più luoghi. I vecchi alberi attirano molti fulmini e non bisogna quindi costruirvi sotto abitazioni. Tutti devono avere una almeno minima informazione scientifica. La città di Changsha conta circa trecentomila abitanti, eppure nessuno tra le forze dell’ordine si preoccupa minimamente di fatti tanto importanti. Alcuni hanno detto: “cinquecento fulmini non sono altro che la punizione del cielo”.",
+      "zh": "如果不相信科学，便是死亡",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s963",
+      "sec": 14,
+      "it": "两个星期以前，长沙市遭到雷击，死了好几个人。岳麓山一棵古树底下的一所房子里，许多人被雷击死。城内到处是沟渠陋巷，又有电气设备，因此必须修建一座高大的接线塔。此外，还必须在多处安装避雷设备。古树容易招引雷电，所以不可在它下面建造房屋。人人都至少应当具备最低限度的科学知识。长沙市约有三十万居民，可是警察方面竟无一人关心如此重要的事情。有人说：“五百个雷，不过是天降的惩罚。”",
+      "zh": "",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s964",
+      "sec": 14,
+      "it": "Nessuno capisce di che morte è morta la gente.",
+      "zh": "没有人知道这些人是怎么死的。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s965",
+      "sec": 14,
+      "it": "Poveri noi!",
+      "zh": "我们真可怜啊！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s966",
+      "sec": 14,
+      "it": "Topi morti I topi sono portatori di pestilenze, eppure nella città di Changsha si possono vedere ovunque topi morti.",
+      "zh": "死老鼠 老鼠是瘟疫的携带者，然而在长沙城里，到处可以看到死老鼠。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s967",
+      "sec": 14,
+      "it": "La gente guarda con gli occhi spalancati i poliziotti, i quali se ne stanno tranquillamente in piedi accanto ai topi morti.",
+      "zh": "人们睁大眼睛看着那些警察，他们却若无其事地站在死老鼠旁边。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s968",
+      "sec": 14,
+      "it": "In anni passati la città di Changsha non conosceva questo fenomeno.",
+      "zh": "往年长沙城并没有这种现象。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s969",
+      "sec": 14,
+      "it": "Signori poliziotti, per cortesia, prestatevi almeno un po’ di attenzione!",
+      "zh": "警察先生们，请你们还是稍微注意一下吧！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s970",
+      "sec": 14,
+      "it": "Chi è un “estremista”",
+      "zh": "谁是“极端分子”",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s971",
+      "sec": 14,
+      "it": "Se osservo la situazione attuale, noto che la maggior parte della gente è letteralmente terrorizzata e si dice che la situazione della provincia dello Hunan sia disastrosa poiché sta per arrivare il “partito estremista”; ma tutto questo gran parlare non è forse andare a caccia di fantasmi?",
+      "zh": "我看现在的情形，大多数人都吓得要命，据说湖南省的形势很糟糕，因为“极端派”就要来了；但这一切喧嚣，岂不都是捕风捉影吗？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s972",
+      "sec": 14,
+      "it": "Io vi domando, che cos’è mai il “partito estremista”?",
+      "zh": "我问你们，“极端派”究竟是什么？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s973",
+      "sec": 14,
+      "it": "Qual è l’ideologia del “partito estremista”?",
+      "zh": "“极端派”的意识形态是什么？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s974",
+      "sec": 14,
+      "it": "Che tipo di persone sono i membri del “partito estremista”?",
+      "zh": "“极端派”是些什么样的人？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s975",
+      "sec": 14,
+      "it": "Coloro che affermano che sta per arrivare il “partito estremista”, sono o no in grado di rispondere a queste domande?",
+      "zh": "那些声称“极端派”就要来的人，能不能回答这些问题？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s976",
+      "sec": 14,
+      "it": "Oggigiorno chi veramente è “estremista”?",
+      "zh": "如今谁才是真正的“极端分子”？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s977",
+      "sec": 14,
+      "it": "Se il “partito estremista” arriva nello Hunan, io credo che si tratterà di una provocazione proprio di coloro che dicono che il “partito estremista” sta per arrivare.",
+      "zh": "如果“极端派”来到湖南，我相信这正是那些说“极端派”就要来的人所挑起的。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s978",
+      "sec": 14,
+      "it": "Se si dice che sono “estremiste” quelle persone di animo nobile pronte a dare la vita per salvare la patria, quelle persone di animo nobile pronte a conquistare con la propria coscienza il diritto per il paese di liberarsi dai potenti (di costringere i potenti a restituire la libertà), allora ritengo necessario che lor signori si puliscano bene gli occhi per meglio distinguere!",
+      "zh": "如果说，那些心地高尚、甘愿献出生命以拯救祖国的人，那些心地高尚、决心凭自己的觉悟为国家争得摆脱强权者的权利（迫使强权者归还自由）的人，就是“极端分子”，那么我认为诸位先生必须把眼睛擦得更亮一些，以便更好地分辨清楚！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s979",
+      "sec": 14,
+      "it": "Che lor signori abbassino un tantino la testa!",
+      "zh": "请诸位先生把头稍微放低一点！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s980",
+      "sec": 14,
+      "it": "La volontà del popolo e il denaro Il parlamento è un organismo che rappresenta la volontà del popolo, è un luogo che dà dignità a chi vi siede e grandi responsabilità, pertanto nel momento delle elezioni è necessario avere molta prudenza, in modo tale che si sia in grado di esprimere la vera volontà del popolo.",
+      "zh": "人民的意志与金钱 议会是一个代表人民意志的机构，是一个赋予在座者以尊严和重大责任的场所，因此在选举之时必须十分谨慎，务使人民的真实意志得以表达。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s981",
+      "sec": 14,
+      "it": "Di recente tutto questo è cambiato.",
+      "zh": "近来这一切都已改变。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s982",
+      "sec": 14,
+      "it": "Infatti, se è in atto un movimento, allora non c’è bisogno di elezioni.",
+      "zh": "事实上，只要有运动，就无需选举。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s983",
+      "sec": 14,
+      "it": "Se c’è denaro, allora non c’è bisogno della volontà popolare.",
+      "zh": "只要有金钱，就无需人民的意志。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s984",
+      "sec": 14,
+      "it": "Eccetto pochi, la maggior parte dei membri del parlamento sono stati eletti attraverso un movimento di denaro.",
+      "zh": "除极少数人外，议会中的大多数议员都是借金钱运动当选的。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s985",
+      "sec": 14,
+      "it": "Ahimè!",
+      "zh": "唉！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s986",
+      "sec": 14,
+      "it": "Denaro, denaro, quante colpe hai commesso!",
+      "zh": "金钱，金钱，你犯下了多少罪过！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s987",
+      "sec": 14,
+      "it": "Davvero troppe!",
+      "zh": "实在太多了！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s988",
+      "sec": 14,
+      "it": "I lasciti dannosi In Cina ci sono antichissimi lasciti dannosi, vale a dire gli ornamenti delle donne, che hanno indebolito la loro salute, arrecato sofferenze, limitato la loro libertà; per esempio i capelli acconciati come un serpente boa, le ciglia da farfalla, la bocca dipinta di rosso, la vita sottilissima, i piedi minuscoli fasciati, le dita sottilissime delle mani.",
+      "zh": "有害的旧俗 中国有极其有害的旧俗，即妇女的装饰，这些装饰损害了她们的健康，造成了痛苦，限制了她们的自由；例如盘成蟒蛇般的发髻、蝴蝶般的睫毛、涂红的嘴唇、极细的腰、裹缠的小脚、纤细的手指。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s989",
+      "sec": 14,
+      "it": "Tutto ciò non è che un ammasso di inutili assurdità.",
+      "zh": "这一切都不过是堆砌的无用荒谬之物。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s990",
+      "sec": 14,
+      "it": "Molte donne non hanno esitato a far proprio un cattivo gusto innaturale, rinunciando a una vita libera e felice pur di far divertire gli uomini.",
+      "zh": "许多妇女不惜以这种不自然的恶趣味为时尚，宁可放弃自由幸福的生活，也要供男人取乐。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s991",
+      "sec": 14,
+      "it": "Questi fatti sono legati alle sofferenze delle donne.",
+      "zh": "这些事实与妇女的痛苦息息相关。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s992",
+      "sec": 14,
+      "it": "Sono legati alla razza umana e alla potenza e debolezza di un paese: questo problema è assai importante e bisogna fare di tutto per eliminare queste tradizioni.",
+      "zh": "它们又与人类和国家的强弱息息相关：这个问题十分重要，必须竭尽全力消除这些旧俗。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s993",
+      "sec": 14,
+      "it": "E le donne che cosa ne pensano?",
+      "zh": "妇女们对此又作何感想呢？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s994",
+      "sec": 14,
+      "it": "Sarebbe meglio trasformarsi in plebe Il partito moderato imperiale giapponese teme di offendere il “signore del momento”, altrimenti sarebbe costretto a lasciare il proprio seggio.",
+      "zh": "还是化为平民的好 日本温和的帝国主义政党怕得罪“当今”的主子，否则就得被迫让出座位。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s995",
+      "sec": 14,
+      "it": "Allora fa di tutto per trovare un metodo per trasformare la democrazia occidentale in una democrazia giapponese che non è né carne né pesce.",
+      "zh": "于是它想方设法，要把西方民主改造成一种非驴非马的日本式民主。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s996",
+      "sec": 14,
+      "it": "Giapponesi!",
+      "zh": "日本人！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s997",
+      "sec": 14,
+      "it": "Vi do un consiglio formale.",
+      "zh": "我正式给你们一个劝告。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s998",
+      "sec": 14,
+      "it": "Tre potenti imperi dell’Europa orientale sono stati già abbattuti.",
+      "zh": "东欧三个强大的帝国已经被推翻了。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s999",
+      "sec": 14,
+      "it": "In America presto avrà luogo una rivoluzione sociale.",
+      "zh": "美国很快将发生社会革命。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1000",
+      "sec": 14,
+      "it": "I potenti verranno abbattuti.",
+      "zh": "有权势的人将被推翻。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1001",
+      "sec": 14,
+      "it": "Le maschere verranno strappate.",
+      "zh": "假面具将被撕掉。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1002",
+      "sec": 14,
+      "it": "Sarebbe meglio quindi che voi vi trasformaste in plebe.",
+      "zh": "所以你们还是化为平民的好。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1003",
+      "sec": 14,
+      "it": "Sarebbe uguale I miei compatrioti dicono spesso che il governo attuale è inutile, che è capace solo di vendere la patria, arraffare denaro, umiliare la povera gente.",
+      "zh": "也是一样 我的同胞们常说，现在的政府是无用的，只会卖国、抓钱、欺压穷苦百姓。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1004",
+      "sec": 14,
+      "it": "Io vorrei fare alcune precisazioni in merito al governo.",
+      "zh": "关于政府，我倒想说几句澄清的话。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1005",
+      "sec": 14,
+      "it": "Al mondo qualsiasi posizione prestigiosa può corrompere e annientare la natura degli uomini.",
+      "zh": "世界上任何尊贵的地位都能腐蚀并毁灭人的本性。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1006",
+      "sec": 14,
+      "it": "Osservate una nobile famiglia: esclusi pochi, gli altri sono tutte persone tutt’altro che buone.",
+      "zh": "你们看那些贵族世家：除了极少数人之外，其余全不是什么好东西。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1007",
+      "sec": 14,
+      "it": "Liu Pang⁶ era originariamente un plebeo, dopo pochi anni come imperatore ha voluto elaborare dei regolamenti governativi.",
+      "zh": "刘邦⁶原本是个平民，当了几年皇帝之后，便要制定政府的规章。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1008",
+      "sec": 14,
+      "it": "Quando ha oltrepassato la Grande Muraglia aveva già una costituzione provvisoria, che ha voluto portare da tre a nove articoli.",
+      "zh": "他越过长城时，已经有了临时宪法，还想把它从三条增加到九条。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1009",
+      "sec": 14,
+      "it": "Mencio una volta ha detto: “Se si è ricchi non si è pietosi, se si è pietosi non si è ricchi”.",
+      "zh": "孟子说过：“为富不仁，为仁不富”。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1010",
+      "sec": 14,
+      "it": "I governi di qualsiasi tempo sono così.",
+      "zh": "任何时代的政府都是如此。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1011",
+      "sec": 14,
+      "it": "I governi di qualsiasi paese sono così.",
+      "zh": "任何国家的政府都是如此。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1012",
+      "sec": 14,
+      "it": "Se noi fossimo al governo, sarebbe uguale.",
+      "zh": "倘若我们掌了权，也是一样。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1013",
+      "sec": 14,
+      "it": "La tendenza è buona Qualcuno dice: “Bene!",
+      "zh": "潮流是好的 有人说：“好！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1014",
+      "sec": 14,
+      "it": "Adesso nello Hunan c’è chi fa funzionare la scuola, costoro compiono ricerche sulla nuova corrente di pensiero”.",
+      "zh": "现在湖南有人办学，他们研究新思潮。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1015",
+      "sec": 14,
+      "it": "C’è chi dice: “Non è necessariamente così; temo che non riescano a spezzare la tendenza”.",
+      "zh": "”有人说：“未必如此，我怕他们搞不成潮流。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1016",
+      "sec": 14,
+      "it": "Io ritengo che la lezione del “signore del momento” sia buona, l’unica cosa da fare è di non creare ostacoli.",
+      "zh": "”我认为这位“时先生”的教训是好的，唯一的办法就是不要制造障碍。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1017",
+      "sec": 14,
+      "it": "Non temiamo che non si risolva Un amico mi ha detto: “Siamo sempre pieni di paure che tutto vada male, anche la repubblica non è una cosa buona.",
+      "zh": "不怕解决不了 一位朋友对我说：“我们总是怕这怕那，事事弄不好，连共和也不是好东西。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1018",
+      "sec": 14,
+      "it": "Non sappiamo cosa fare per risolvere il problema, a che serve avere tante parole sulla bocca?”.",
+      "zh": "我们不知道怎么办才能解决问题，满嘴空话有什么用？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1019",
+      "sec": 14,
+      "it": "Io dico che se studiamo il problema riusciremo a risolverlo.",
+      "zh": "”我说，只要我们研究问题，就能把它解决。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1020",
+      "sec": 14,
+      "it": "NOTE",
+      "zh": "注释",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1021",
+      "sec": 14,
+      "it": "1..Il generale Smuts faceva parte della delegazione inglese presente alla Conferenza di",
+      "zh": "1. 斯穆茨将军是英国出席会议的代表团成员",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1022",
+      "sec": 14,
+      "it": "pace di Parigi.",
+      "zh": "巴黎和会。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1023",
+      "sec": 14,
+      "it": "2..Lloyd George era il famoso statista inglese alle cui direttive si atteneva la delegazione",
+      "zh": "2. 劳合·乔治是英国著名的政治家，英国出席巴黎和会的代表团",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1024",
+      "sec": 14,
+      "it": "del suo paese alla Conferenza di Parigi.",
+      "zh": "受其指挥。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1025",
+      "sec": 14,
+      "it": "3..Vedasi nota¹.",
+      "zh": "3. 见注¹。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1026",
+      "sec": 14,
+      "it": "4..Il bagu era una particolare forma di componimento che a partire dal XV secolo",
+      "zh": "4. 八股是中国特有的一种文体，自十五世纪起",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1027",
+      "sec": 14,
+      "it": "dovevano svolgere coloro che in Cina sostenevano esami di Stato.",
+      "zh": "便是中国应考国家考试者所必须写作的。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1028",
+      "sec": 14,
+      "it": "Venne abolito nel 1905.",
+      "zh": "八股文于一九〇五年被废止。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1029",
+      "sec": 14,
+      "it": "Si teneva conto solo della forma e non si dava alcuna importanza al contenuto.",
+      "zh": "这种文体只注重形式，而不顾内容。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1030",
+      "sec": 14,
+      "it": "Il componimento era composto da un’enunciazione del tema, dalle tesi fondamentali, da una premessa allo svolgimento, dall’inizio dello svolgimento, dalla parte principale dello svolgimento, dalla fine dello svolgimento e da una conclusione.",
+      "zh": "八股文由破题、承题、起讲、入手、起股、中股、后股和束股构成。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1031",
+      "sec": 14,
+      "it": "Ciascuna delle ultime quattro parti constava di una tesi e di un’antitesi e per questo tutto il componimento veniva chiamato “componimento classico in otto parti” o “saggio a otto gambe”.",
+      "zh": "最后四个部分各有两股，每股一正一反，因此全篇称为“八股文”或“八股”。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1032",
+      "sec": 14,
+      "it": "5..Il “signor Avalokita” (Avalokitesvara) nella tradizione buddista (della corrente cinoindiana detta “Mahayana” o del “Grande veicolo”), era il santo (il Bodisattva) della",
+      "zh": "5. “观音大士”（观世音）在佛教（中国—印度流派，即所谓“大乘”佛教）传统中，是慈悲的圣者（菩萨）之",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1033",
+      "sec": 14,
+      "it": "bontà e della compassione.",
+      "zh": "仁善与慈悲。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1034",
+      "sec": 14,
+      "it": "6..Liu Pang fu il fondatore della dinastia degli Han occidentali, che regnò dal 206 a.C.",
+      "zh": "6. 刘邦是西汉王朝的开创者，该王朝自公元前206年",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1035",
+      "sec": 14,
+      "it": "all’anno⁹ d.C.",
+      "zh": "延续至公元⁹年。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1036",
+      "sec": 14,
+      "it": "Questa petizione dell’Associazione degli studenti dello Hunan, redatta il³⁰ luglio 1919, venne pubblicata sul numero⁴ della Rivista del fiume Hsiang.",
+      "zh": "这篇湖南学生联合会的请愿书起草于1919年7月³⁰日，发表在《湘江评论》第⁴期上。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1037",
+      "sec": 14,
+      "it": "Il governatore Chang Ching-yao era un brutale signore della guerra impadronitosi dello Hunan nel 1918 a seguito della vittoria dei signori della guerra del Chihli-Anhwei sui signori della guerra dello Hunan- Kwangsi.",
+      "zh": "省长张敬尧是一个残暴的军阀，1918年直皖军阀战胜湘桂军阀后，他攫取了湖南。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1038",
+      "sec": 14,
+      "it": "Era filogiapponese e particolarmente oppressivo contro la popolazione.",
+      "zh": "他亲日，对人民压迫尤为残酷。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1039",
+      "sec": 14,
+      "it": "Nel-l’estate del 1919 l’opposizione a Chang Ching-yao raggiunse un punto di non ritorno.",
+      "zh": "1919年夏，反对张敬尧的斗争达到了顶点。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1040",
+      "sec": 14,
+      "it": "Inutilmente soppresse vari periodici (tra cui la Rivista del fiume Hsiang in agosto e Nuovo Hunan in ottobre).",
+      "zh": "他徒然查禁了多种报刊（其中有八月的《湘江评论》和十月的《新湖南》）。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1041",
+      "sec": 14,
+      "it": "Dal settembre 1919 l’Associazione degli studenti dello Hunan condusse una sistematica campagna contro di lui e, alleandosi ad altri signori della guerra, nel giugno 1920, riuscì a cacciarlo definitivamente dallo Hunan.",
+      "zh": "从一九一九年九月起，湖南学生联合会对展开了有系统的斗争，并联合其他军阀，终于在一九二〇年六月把他永远逐出湖南。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1042",
+      "sec": 14,
+      "it": "A Chang, governatore generale e comandante in capo dello Hunan.",
+      "zh": "致湖南督军兼总司令张。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1043",
+      "sec": 14,
+      "it": "Con questa petizione chiediamo che vengano puniti i despoti locali e che il nostro giornale sia rimesso in circolazione.",
+      "zh": "我们此次呈请，要求惩办地方上的土皇帝，并要求我们的报纸恢复发行。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1044",
+      "sec": 14,
+      "it": "Questa volta di fronte al problema di Tsingtao, gli studenti di tutto il paese e diverse organizzazioni pubbliche non hanno esitato a fare ogni sorta di sacrifici, a gridare ad alta voce per svegliare i nostri compatrioti, per salvare il paese da mortali pericoli.",
+      "zh": "这次面对青岛问题，全国学生和各界团体不惜作出各种牺牲，大声疾呼，唤醒同胞，使国家免于危亡。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1045",
+      "sec": 14,
+      "it": "Gli studenti del nostro Hunan tutti insieme si sono mobilitati, con la consapevolezza di amare la patria e allo scopo di salvare il proprio paese; parecchi mesi sono trascorsi e si sono fatti molti progressi.",
+      "zh": "我们湖南全体学生亦一致奋起，本着爱国之心，以救国为目的，数月已经过去，取得了许多进展。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1046",
+      "sec": 14,
+      "it": "Da una parte gli studenti si sono mobilitati con entusiasmo, con la speranza che nord e sud possano riappacificarsi e uniti combattere lo straniero; dall’altra inaspettatamente i rifiuti del sistema imperiale hanno portato acqua al loro mulino e per arraffare un po’ di potere personale non hanno esitato a ricorrere a parole suadenti per ingannare lei governatore.",
+      "zh": "一方面学生热情动员起来，希望南北得以重新和好，联合一致对外；另一方面，不料帝制余孽乘机兴风作浪，为攫取一点个人权力，竟不惜用甜言蜜语欺骗您督军大人。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1047",
+      "sec": 14,
+      "it": "Nell’inverno dello scorso anno sono in parte cessate le elezioni illegali, ma le ceneri spente si sono ravvivate e le elezioni primarie si sono dovute rifare.",
+      "zh": "去年冬天，非法选举曾一度停止，但死灰复燃，初选又不得不重新举行。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1048",
+      "sec": 14,
+      "it": "La nostra Associazione ritiene che il motivo per cui la Conferenza di pace è stata a lungo rimandata è da ricercare nel fatto che la provincia dello Hunan non è unita, che riguardo al problema dell’abolizione o meno dei parlamenti sia nuovi che vecchi non è stata ancora presa una decisione, che le autorità hanno discusso a lungo e per tutto questo la Conferenza di pace è stata a lungo rimandata.",
+      "zh": "本会认为，和平会议之所以长期拖延，其原因在于湖南全省未能统一，新旧议会应否废除的问题尚未作出决定，当局为此长期争论不休，和平会议遂因之而久悬不决。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1049",
+      "sec": 14,
+      "it": "Se in un’epoca piena di tempeste si ricorre a elezioni illegali, il risultato non può che ostacolare la Conferenza di pace e aumentare il peso sulle sue spalle.",
+      "zh": "在风雨飘摇的时代，如果诉诸非法选举，其结果只会阻碍和平会议，增加它肩上的负担。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1050",
+      "sec": 14,
+      "it": "Gli",
+      "zh": "那些",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1051",
+      "sec": 15,
+      "it": "PETIZIONE DELL’ASSOCIAZIONE DEGLI STUDENTI DELLO HUNAN AL GOVERNATORE GENERALE DELLA PROVINCIA",
+      "zh": "湖南学生联合会呈省督军请愿书",
+      "head": true,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1052",
+      "sec": 15,
+      "it": "(30 luglio 1919) studenti, come altri, sono preoccupati per lei ed è per questo che vogliamo esprimere il nostro punto di vista con assoluta chiarezza.",
+      "zh": "（1919年7月30日）我们学生同其他人一样，对您深为关切，因此愿把我们的意见明白陈述出来。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1053",
+      "sec": 15,
+      "it": "I despoti locali, come Ku Tien-yu, Huang Chang, Li Fan-hsi e altri hanno manipolato la volontà del popolo e, approfittando del nome dell’Associazione per l’istruzione, hanno organizzato una conferenza generale dei cittadini fasulla.",
+      "zh": "顾天裕、黄昌、李藩熙等地方豪绅，操纵人民意志，借教育会之名，组织了一个冒牌的公民大会。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1054",
+      "sec": 15,
+      "it": "La nostra Associazione riteneva che loro avessero cattive intenzioni ed essendo il problema assai importante, abbiamo invitato i nostri rappresentanti a parteciparvi.",
+      "zh": "本会认为他们居心不良，而问题又极关重要，故特派代表参加。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1055",
+      "sec": 15,
+      "it": "In quel momento c’era un nugolo di poliziotti che presidiavano il luogo dentro e fuori. Sul palco, Ku e Huang non fecero altro che calunniare gli hunanesi perché si erano opposti alle elezioni illegali.",
+      "zh": "当时有大批警察在场内外守卫。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1056",
+      "sec": 15,
+      "it": "Il presidente della nostra Associazione, Peng Huang, e il nostro rappresentante, Chun Wei-ching, a nome di tutti gli studenti, hanno espresso la vera volontà del popolo.",
+      "zh": "台上，古、黄二人一味诬蔑湖南人，因为湖南人反对非法选举。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1057",
+      "sec": 15,
+      "it": "Immediatamente vengono arrestati dalla polizia militare su istigazione di Ku, Huang e altri e minacciati di venire fucilati.",
+      "zh": "本协会主席彭璜及代表魏振中代表全体学生，表达了人民的真实意愿，竟被古、黄等人唆使的军警当场逮捕，并扬言要处决他们。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1058",
+      "sec": 15,
+      "it": "Grazie all’intervento del comandante del reggimento, Chang, incaricato di sorvegliare la conferenza, non vennero uccisi.",
+      "zh": "幸得负责监视集会的团长张君出面干预，才得以不死。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1059",
+      "sec": 15,
+      "it": "Lei questa volta ha appoggiato e aiutato gli studenti, la nostra Associazione la ringrazia vivamente.",
+      "zh": "张君此次拥护并帮助了学生，本协会深致谢意。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1060",
+      "sec": 15,
+      "it": "Ma i despoti locali Ku Tien-Yu, Huang Chang, Li Fan-hsi e altri sono i principali colpevoli, costoro guardano dall’alto in basso gli hunanesi.",
+      "zh": "然而土豪古天育、黄彰、李藩熙等人乃是罪魁祸首，他们蔑视湖南人，欺骗阁下，侮辱学生；我们因此请您惩办这些土豪，使他们得到应有的教训。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1061",
+      "sec": 15,
+      "it": "La ingannano, umiliano gli studenti; queste sono le ragioni per cui le chiediamo di punire questi despoti locali, in modo da dare loro una lezione.",
+      "zh": "本协会不知您的意见如何。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1062",
+      "sec": 15,
+      "it": "La nostra Associazione non conosce il suo parere, eppure il Ta Kung Pao  era una pubblicazione che esprimeva la volontà vera del popolo dello Hunan ed è sempre stato stimato e lodato sia nella nostra provincia che fuori.",
+      "zh": "大公报一向是表达湖南人民真实意愿的报纸，省内外素为民众所敬重。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1063",
+      "sec": 15,
+      "it": "Ma a causa del fatto che ha riportato la dichiarazione dell’Unione delle varie organizzazioni contro le elezioni illegali, il Ta Kung Pao è stato chiuso, i redattori arrestati e fino a oggi, pur essendo passato parecchio tempo, non sono ancora stati rilasciati.",
+      "zh": "只因刊登了各界联合会反对非法选举的宣言，大公报竟被封禁，编辑人员被捕，至今时日已久，仍未获释。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1064",
+      "sec": 15,
+      "it": "Gli studenti, come pure altra gente, ritenevano che non fosse una sua idea, che in poco tempo la cosa si sarebbe risolta e per questo per molto tempo si sono astenuti dall’esprimere opinioni.",
+      "zh": "学生和其他人士都认为这并非您的本意，以为不久即可解决，因此久未发表意见。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1065",
+      "sec": 15,
+      "it": "Le diverse organizzazioni sono responsabili della dichiarazione riportata dal giornale, il popolo di tutta la provincia si è opposto alle elezioni illegali, tante bocche ma una sola la voce.",
+      "zh": "该宣言系各团体所发表，全省人民反对非法选举，人同此心，众口一辞。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1066",
+      "sec": 15,
+      "it": "Lei dovrebbe quindi agire secondo la volontà del popolo e creare le condizioni favorevoli a raggiungere il fine comune e allora gli hunanesi avrebbero nei suoi confronti un debito di gratitudine.",
+      "zh": "您应当顺乎人民的意愿，创造有利条件，以实现共同的目标，湖南人民必将对您感恩戴德。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1067",
+      "sec": 15,
+      "it": "Si parla tanto di sistema repubblicano, di libertà di parola, eppure si fa chiudere un giornale stimato e lodato da tutti.",
+      "zh": "口头上大谈共和制度、言论自由，却将一份深受各界敬重推崇的报纸查封。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1068",
+      "sec": 15,
+      "it": "Ciò non può che significare che il governo tiene sotto chiave la libertà di parola, perché è più importante controllare una piccola falla della diga che tutto il fiume, perché se si vuole controllare l’acqua che bolle non si può far altro che buttare via l’acqua.",
+      "zh": "这只能说明政府把言论自由锁在箱中，因为与其防大河之决，不如先塞小穴；要止住沸腾的水，唯有把水泼掉。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1069",
+      "sec": 15,
+      "it": "Lei è senz’altro in grado di vedere a¹⁰.000 li di distanza, ma se ne sta del tutto indifferente.",
+      "zh": "您固然是明察秋毫、一望千里之人，却对此全然无动于衷。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1070",
+      "sec": 15,
+      "it": "È una fortuna che lei, avendo dato ascolto all’opinione pubblica, abbia rinviato le elezioni, ma i redattori del Ta Kung Pao non sono stati ancora rilasciati; fino a quando non verrà risolto il problema di questo giornale, la gente sarà spaventata, non saprà cosa fare.",
+      "zh": "您顺应舆论，缓办选举，实乃幸事，但大公报编辑至今未获释放；若不解决该报问题，人们惶恐不安，不知所措。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1071",
+      "sec": 15,
+      "it": "Allora è la nostra Associazione che la prega di dare ascolto all’opinione pubblica, di liberare i redattori, di far riprendere le pubblicazioni del giornale.",
+      "zh": "因此我们恳请您体察舆论，释放编辑，使该报复刊。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1072",
+      "sec": 15,
+      "it": "Da molto tempo si sa che lei odia le persone malvage come i banditi e che fa il bene con naturalezza e gioia, pertanto la preghiamo con tutto il cuore e la massima sincerità di far riprendere le pubblicazioni al giornale e di punire i despoti locali.",
+      "zh": "久闻您嫉恶如仇，如同深恶土匪一般，行善乐善出自天性，故我们以最诚挚之心，恳求您使该报复刊，并惩办土豪。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1073",
+      "sec": 15,
+      "it": "La preghiamo ardentemente ancora una volta di concederci attenzione.",
+      "zh": "特此再三恳请，望予垂察。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1074",
+      "sec": 15,
+      "it": "Noi aspettiamo con impazienza.",
+      "zh": "翘首以待。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1075",
+      "sec": 15,
+      "it": "Petizione dell’Associazione  degli studenti dello Hunan Il numero⁴ della Rivista del fiume Hsiang uscì il⁴ agosto e fu l’ultimo numero.",
+      "zh": "湖南学生联合会请愿书 《湘江杂志》第⁴期于⁴八月出版，这是最后一期。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1076",
+      "sec": 15,
+      "it": "Quando il numero⁵ era già pronto, il governatore della provincia Chang Ching-yao fece chiudere manu militari la rivista e sequestrare il numero.",
+      "zh": "当第⁵期已经印好的时候，湖南督军张敬尧以武力查封了该杂志，并将该期予以没收。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1077",
+      "sec": 15,
+      "it": "Ma di lì a poco Mao Tse-tung assumerà la direzione del settimanale Nuovo Hunan e lo dirigerà fino alla sua soppressione in ottobre.",
+      "zh": "但不久之后，毛泽东即接任《新湖南》周刊的主编，一直主持到同年十月该刊被取缔为止。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1078",
+      "sec": 15,
+      "it": "Nel numero⁴ oltre alla Petizione dell’Associazione degli studenti dello Hunan al governatore della provincia (vedasi testo precedente) e alle puntate de La grande unione delle masse popolari e de Il movimento popolare in Giappone, comparvero gli articoli di Mao Tse-tung qui di seguito pubblicati.",
+      "zh": "第⁴期除刊载《湖南学生联合会请愿书》（见前文）以及《民众的大联合》和《日本民众运动》两篇连载外，还发表了毛泽东撰写的下列文章，现予以刊载。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1079",
+      "sec": 16,
+      "it": "TRASFORMARE LA FAMIGLIA E TRASFORMARE IL MODO DI PENSARE",
+      "zh": "改造家庭与改造思想",
+      "head": true,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1080",
+      "sec": 16,
+      "it": "La maggior parte di noi cinesi si sacrifica per la famiglia.",
+      "zh": "我们中国人大多数是为家庭而牺牲。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1081",
+      "sec": 16,
+      "it": "La vita di questi cinesi è una vita priva di consapevolezza, una vita da schiavi, una vita amorale.",
+      "zh": "这些中国人的生活，是无意识的生活，是奴隶的生活，是非道德的生活。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1082",
+      "sec": 16,
+      "it": "Perché?",
+      "zh": "为什么？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1083",
+      "sec": 16,
+      "it": "Perché il fine di tutta la loro vita è la ricerca di cibo e vestiario per la famiglia: in una famiglia chi è in grado di garantire cibo e vestiario ha il dovere di procurare cibo e vestiario a genitori, zii, fratelli e sorelle.",
+      "zh": "因为他们一生的目的，就是为家庭寻求衣食：在一个家庭里，谁有能保证衣食的能力，就有为父母、叔伯、兄弟姐妹供给衣食的责任。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1084",
+      "sec": 16,
+      "it": "Se poi qualcuno è particolarmente capace nel garantire cibo e vestiario, allora i suoi doveri saranno moltiplicati: qualsiasi appartenente allo stesso clan familiare, qualsiasi parente, è autorizzato a vivere alle sue spalle poiché egli viene considerato come la montagna Tai.",
+      "zh": "如果某人特别有能力保证衣食，那么他的责任就会成倍增加：凡是同族的人，凡是亲戚，都有权靠他生活，因为他被看作泰山。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1085",
+      "sec": 16,
+      "it": "Se egli si preoccupa solo della propria esistenza, solo dei propri affari, allora gli pioveranno addosso parole come “vile”, “privo di affetto”, “senza pietà”, “ingiusto”.",
+      "zh": "如果他只顾自己的生存，只顾自己的事情，那么“懦夫”“无情”“无义”“不仁”之类的话就会落到他的头上。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1086",
+      "sec": 16,
+      "it": "Così, circondato da siffatte chiacchiere, costui non può fare a meno di sacrificare le proprie aspirazioni, per diventare un “vero uomo” (secondo il detto popolare che recita: un vero uomo può sfamare mille bocche, un poveraccio si trova in situazioni difficili), vale a dire che deve occuparsi solo di garantire cibo e vestiario alla propria famiglia.",
+      "zh": "这样，被这类空话所包围，此人便不得不牺牲自己的志向，去当一个“真男子”（俗话说：一个真男子可以养活千张嘴，一个穷光蛋则处境艰难），也就是说，他只需操心保证自己一家的衣食。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1087",
+      "sec": 16,
+      "it": "Di colui che ha intenzione di diventare questo tipo di “vero uomo”, possiamo forse dire che la sua vita sia consapevole?",
+      "zh": "对于那种打算成为这种“真男子”的人，我们难道能说他的生活是有觉悟的吗？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1088",
+      "sec": 16,
+      "it": "Costui sacrifica tutta la sua vita per la famiglia e diventa schiavo della famiglia: possiamo forse dire che la sua natura sia indipendente?",
+      "zh": "此人把一生全部牺牲给家庭，成为家庭的奴隶：我们难道能说他的本性是独立的吗？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1089",
+      "sec": 16,
+      "it": "Chi dunque procura cibo e vestiario ad altri, già non riconosce la natura umana degli altri, pertanto, non saremmo costretti a dire che non ha virtù?",
+      "zh": "那么，为他人谋取衣食的人，已经不承认他人的人性，因此，我们岂不是不得不说他没有道德？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1090",
+      "sec": 16,
+      "it": "Non è certo mia intenzione combattere il “guadagnarsi da vivere”, né consigliare agli altri di farsi monaci.",
+      "zh": "我决不是要反对“自食其力”，也不是劝别人都去当和尚。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1091",
+      "sec": 16,
+      "it": "Io ritengo che la difficoltà dei miei",
+      "zh": "我认为我的难处……\nRivista del Fiume Hsiang — numero 4 (4 agosto 1919)\n湘江评论 第四号",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1092",
+      "sec": 16,
+      "it": "connazionali a guadagnarsi da vivere sia la conseguenza nefasta del sistema familiare.",
+      "zh": "同胞被迫自谋生路，正是家族制度的恶果。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1093",
+      "sec": 16,
+      "it": "Bene ha detto Yang Huai-chung¹: “I figli e i fratelli minori non devono dipendere dai genitori e dai fratelli maggiori”, “I genitori e i fratelli maggiori non devono dipendere dai figli e fratelli minori”, “I fratelli non devono dipendere gli uni dagli altri” (Gioventù nuova, volume II, n. 4). Ho pure apprezzato molto ciò che Chen Tu-hsiu ha detto in modo preciso e conciso: “Dal punto di vista economico le risorse personali sono indipendenti” ( ibidem).",
+      "zh": "杨怀中说得好¹：“子弟不能依赖父兄”，“父兄不能依赖子弟”，“兄弟不能相互依赖”（《新青年》第2卷第4号）。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1094",
+      "sec": 16,
+      "it": "Queste due affermazioni sono assolutamente logiche e giuste.",
+      "zh": "陈独秀说得很精确也很简括：“经济方面，个人财产独立”（同上）。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1095",
+      "sec": 16,
+      "it": "Una persona usa dunque la propria vitalità e abilità per sfamare più di dieci persone (questo avviene comunemente nel sistema familiare cinese).",
+      "zh": "这两段话是绝对合逻辑、绝对正确的。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1096",
+      "sec": 16,
+      "it": "Quali che siano i principi soprannaturali, la umana solidarietà del mondo, ciò che importa è che di fatto non ci si riesce.",
+      "zh": "一个人用自己的精力和本事养活十几口人（这在中国家族制度下是常有的事），任凭什么天经地义、人类世谊的道理，事实上总是做不到的。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1097",
+      "sec": 16,
+      "it": "Un tale mi ha chiesto: “Hai detto che non ci si riesce e che questo avviene comunemente nel sistema familiare cinese, eppure com’è che nella società ci sono parecchi veri uomini che ci riescono?”.",
+      "zh": "有人曾问我：“你说做不到，说这是中国家族制度下常有的事，那么社会上何以又有许多堂堂的男子汉做得到呢？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1098",
+      "sec": 16,
+      "it": "Questo è un problema che vale la pena di studiare ed è proprio a causa di ciò che propongo di trasformare la famiglia.",
+      "zh": "”这是一个值得研究的问题，我正是因为这个缘故才主张改造家族。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1099",
+      "sec": 16,
+      "it": "Se soffermiamo la nostra attenzione sulla gente che fa diversi mestieri, vediamo che la maggior parte di costoro oltre a usare la propria abilità per guadagnarsi da vivere, ricorre anche a metodi di lavoro per guadagnare denaro sporco.",
+      "zh": "我们留心观察操各种职业的人，就会看到这些人当中大多数除了用自己的本领谋生之外，还要采用不正当的手段来赚钱。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1100",
+      "sec": 16,
+      "it": "Oltre ai burocrati che praticano la corruzione in spregio alla legge, che saccheggiano le risorse del popolo, che percepiscono commissioni sulle vendite, ci sono anche i politicanti che giocano con le parole, gli avvocati che giocano con la legge, i grandi luminari della medicina che ingannano la gente per guadagnare denaro, i commercianti disonesti che imbrogliano, chi ruba alla luce del giorno e chi di nascosto: sono talmente tanti che è impossibile tenerne il conto.",
+      "zh": "除了那些违法舞弊、掠夺民财、拿回扣的官僚，还有那些玩弄文字的政治家、玩弄法律的律师、卖药骗人的医学名流、行奸使诈的奸商、明火执仗的盗贼、暗地偷窃的小贼，简直多得数不清。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1101",
+      "sec": 16,
+      "it": "Che cos’è che produce una siffatta società di banditi?",
+      "zh": "是什么样的社会造成了这般多强盗？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1102",
+      "sec": 16,
+      "it": "Per dirla francamente, coloro i quali sono malvagi di natura e commettono azioni spregevoli sono pochissimi; la maggioranza, a causa della famiglia numerosa, delle condizioni di vita difficili e perché incapace di tollerare le chiacchiere della gente, non ha altra scelta che diventare “veri uomini”.",
+      "zh": "坦率地说，生性恶劣、行为卑鄙的人是极少的；大多数人是因为家庭人口众多、生活困难，又受不了别人的闲言碎语，才不得不去做“堂堂男子汉”的。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1103",
+      "sec": 16,
+      "it": "Se si fa tutto il possibile per diventare un “vero uomo”, mettendo a frutto la propria capacità per guadagnarsi da vivere, ricorrendo a metodi onesti, facendo il proprio mestiere, nei fatti ciò è assolutamente impossibile.",
+      "zh": "如果竭尽全力去做一个“堂堂男子汉”，凭自己的能力，用正当的方法，经营自己的职业，来谋取生计，事实上是绝对不可能的。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1104",
+      "sec": 16,
+      "it": "Eppure nella nostra società sono in tanti a essere diventati “veri uomini”, per il semplice fatto che sono stati costretti dalle chiacchiere della gente a ricorrere a metodi da banditi.",
+      "zh": "然而在我们的社会里，却有许多人因为受不了人言的逼迫，而采取土匪般的手段，仅仅为此就成了“真人”。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1105",
+      "sec": 16,
+      "it": "È per questi motivi che il sistema familiare deve essere trasformato.",
+      "zh": "正是由于这些缘故，家庭制度必须改造。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1106",
+      "sec": 16,
+      "it": "Tuttavia le chiacchiere della gente costituiscono un vero e proprio scudo protettivo per questo tipo di sistema familiare e sono assai profondamente radicate nella mente del popolo; per esempio il toching² di Chang Chu-cheng è giustificabile, non ha arrecato danni alla sua reputazione.",
+      "zh": "然而人言却是这种家庭制度的真正护身盾牌，并且在人民的思想中根深蒂固；例如张居正的夺情²，本是情有可原的，并没有损害他的名誉。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1107",
+      "sec": 16,
+      "it": "Eppure in quel momento fu oggetto di tante chiacchiere di rimprovero.",
+      "zh": "然而当时却遭到许多人言的责难。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1108",
+      "sec": 16,
+      "it": "Pertanto, se vogliamo trasformare la famiglia, dobbiamo prima di tutto trasformare le chiacchiere.",
+      "zh": "所以，我们要改造家庭，首先就必须改造人言。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1109",
+      "sec": 16,
+      "it": "Oltre a ciò di cui abbiamo parlato fino ad ora, esiste l’altro problema che concerne il fatto che la mente della maggior parte dei miei compatrioti è piena di teorie e pensieri sbagliati, vecchi e da schiavi: quale sarà dunque il metodo a cui ricorrere per cambiare il loro punto di vista?",
+      "zh": "除了以上所说的之外，还有一个问题，即我的大多数同胞的脑子里充满了错误的、陈旧的、奴隶性的理论和思想：那么究竟应当采取什么方法来改变他们的观点呢？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1110",
+      "sec": 16,
+      "it": "Non bisogna far altro, se si vuole trasformare le chiacchiere, che trasformare prima di tutto il modo di pensare.",
+      "zh": "要想改造人言，首先就要改造思想，舍此别无他法。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1111",
+      "sec": 16,
+      "it": "Ecco qui di seguito, in breve, le mie proposte: se si vuole trasformare la famiglia allora bisogna prima trasformare le chiacchiere; se si vogliono trasformare le chiacchiere, bisogna prima di tutto trasformare il modo di pensare.",
+      "zh": "现将我的主张简述如下：要改造家庭，必先改造人言；要改造人言，必先改造思想。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1112",
+      "sec": 16,
+      "it": "Ancora a questo proposito, se non viene rinnovato il modo di pensare dei miei compatrioti, non solo non c’è speranza alcuna di riformare il sistema famigliare, ma non sarà neppure possibile far progredire la trasformazione di tutto il sistema sociale.",
+      "zh": "关于这一点，我的同胞若不更新思想，不仅改良家庭制度毫无希望，就是整个社会制度的改造也无从进步。同胞们！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1113",
+      "sec": 16,
+      "it": "Allora, compatrioti, volete seguitare a occupare sempre il posto degli schiavi?",
+      "zh": "你们难道愿意继续做奴隶吗？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1114",
+      "sec": 16,
+      "it": "Compatrioti!",
+      "zh": "同胞们！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1115",
+      "sec": 16,
+      "it": "Compatrioti!",
+      "zh": "同胞们！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1116",
+      "sec": 16,
+      "it": "Ripulite subito le vostre menti!",
+      "zh": "赶快清理你们的头脑！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1117",
+      "sec": 16,
+      "it": "Ripulitele subito e bene!",
+      "zh": "赶快把它清理得干干净净！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1118",
+      "sec": 17,
+      "it": "RAPPORTO SOMMARIO SULL’ASSOCIAZIONE DEGLI STUDENTI DELLO HUNAN",
+      "zh": "湖南学生联合会简明报告",
+      "head": true,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1119",
+      "sec": 17,
+      "it": "Per quanto concerne la situazione della nostra Associazione, siamo in attesa di raccogliere materiale.",
+      "zh": "关于本会情形，我们正在收集材料。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1120",
+      "sec": 17,
+      "it": "Poiché come giornalisti non possiamo essere dappertutto, non possiamo essere a conoscenza di tutto, il presente articolo potrà contenere inesattezze e insufficienze.",
+      "zh": "因为我们当记者不能到处都去，不能事事皆知，本文难免有不准确和不足之处。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1121",
+      "sec": 17,
+      "it": "Speriamo dunque che coloro i quali conoscono bene la situazione ci inviino parecchio materiale, come pure preghiamo chi ha già scritto articoli per noi di correggere i nostri errori.",
+      "zh": "因此希望熟悉情况的人多给我们寄来材料，也请已经为本会撰稿的人指正我们的错误。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1122",
+      "sec": 17,
+      "it": "La nostra Associazione vi sarà molto riconoscente.",
+      "zh": "本会不胜感谢。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1123",
+      "sec": 17,
+      "it": "Il settore studentesco nello Hunan prima della fondazione della nostra Associa-zione.",
+      "zh": "本会成立以前湖南的学生界。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1124",
+      "sec": 17,
+      "it": "Nello Hunan ci sono state scuole fin dalla primavera del 1898, quando venne fondata la Scuola di storia contemporanea.",
+      "zh": "湖南自1898年春创办时务学堂以来，就有了学校。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1125",
+      "sec": 17,
+      "it": "Sebbene la vita della scuola sia stata breve, è riuscita a formare parecchi giovani coraggiosi e determinati.",
+      "zh": "该校虽历时不久，却培养了不少勇敢坚定的青年。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1126",
+      "sec": 17,
+      "it": "Nel corso della battaglia di Hankow guidata da Tang Tsai-chang³, tra gli studenti morti e feriti molti appartenevano a questa scuola.",
+      "zh": "在唐才常³领导的汉口战役中，死伤学生很多属于这所学校。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1127",
+      "sec": 17,
+      "it": "Nelle scuole di allora si respirava un’atmosfera rivoluzionaria, gli studenti discutevano di parecchi problemi, come ad esempio la corruzione dello Stato, il modo in cui rovesciare il governo mancese, come far avanzare l’esercito, come costruire il paese.",
+      "zh": "当时的学校里洋溢着革命空气，学生们讨论种种问题，如国家腐败、如何推翻清政府、如何推进军队、如何建设国家。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1128",
+      "sec": 17,
+      "it": "In seguito venne fondata la scuola “Luminosa virtù”, il cui fine era il medesimo e gli studenti di questa scuola godevano di grande stima presso i circoli studenteschi della capitale verso la fine del periodo di Kuang Hsu⁴.",
+      "zh": "后来又创办了“明德”学堂，其宗旨也是相同的，光绪末期，该校学生在首都学界享有很高声望。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1129",
+      "sec": 17,
+      "it": "La peculiarità degli studenti di allora era di occuparsi degli affari politici e di non temere la morte, di manifestare apertamente la propria opposizione ai funzionari e di non lasciarsi inibire.",
+      "zh": "当时学生的特点，是关心国家政治，不怕死，公开与官府对抗，无所顾忌。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1130",
+      "sec": 17,
+      "it": "Chen Pao-chien era governatore dello Hunan e aveva intenzione di far progredire e sviluppare lo Hunan, tant’è vero che fu Chen il fondatore della Scuola di storia contemporanea e di altre scuole.",
+      "zh": "陈宝箴任湖南巡抚，有意使湖南进步发展，他创办了时务学堂和其他学校，即是明证。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1131",
+      "sec": 17,
+      "it": "Con il colpo di stato del 1898, Chen Pao-chien se ne andò, Tan Ssu-tung venne giustiziato, Liang Chi-chao fu costretto a fuggire, Hsiung Hsi-lin fu destituito dalla carica di hanlin, i libri del saggio Kang vennero bruciati in un campo fuori della piccola porta orientale della città.",
+      "zh": "戊戌政变发生后，陈宝箴去职，谭嗣同被杀，梁启超被迫逃走，熊希龄被革去翰林之职，康有为的著作在长沙东门外旷地被焚毁。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1132",
+      "sec": 17,
+      "it": "Fu allora che la Scuola di storia contemporanea venne chiusa.",
+      "zh": "时务学堂便是在那时被封闭的。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1133",
+      "sec": 17,
+      "it": "Se la Scuola di storia contemporanea venne chiusa, la scuola “Luminosa virtù” invece prosperava.",
+      "zh": "时务学堂虽被封闭，“明德”学堂却日益兴盛。当时创办了几所官办学校，如久中中学、第一流的师范学堂、高等学校等等。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1134",
+      "sec": 17,
+      "it": "In quel tempo vennero fondate diverse scuole pubbliche come ad esempio la scuola media Chiu Chung, un istituto di pedagogia di primissimo ordine, istituti di istruzione superiore, ecc. Allo stesso tempo venivano fondate parecchie scuole private come ad esempio le scuole Chounan e Chuyi e le scuole di distretto con sede nel capoluogo provinciale.",
+      "zh": "与此同时，还创办了若干私立学校，如周南、楚怡两校以及设于省城的区立学校。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1135",
+      "sec": 17,
+      "it": "Le scuole pubbliche si può dire che erano impregnate di burocratismo.",
+      "zh": "公立学校可以说是浸透了官僚主义。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1136",
+      "sec": 17,
+      "it": "Queste scuole erano piene di Chien Tu e Chien Hsueh che portavano in testa il cappello rosso con le piume, indossavano la veste lunga con le maniche a zampa di cavallo, calzavano scarpe con la suola alta.",
+      "zh": "这些学校里尽是做\"荐头\"和\"荐学\"的人，他们头戴红顶翎帽，身穿马蹄袖长袍，足蹬厚底鞋。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1137",
+      "sec": 17,
+      "it": "Ogni primo e quindici del mese lunare costoro guidavano gli studenti (che a loro volta indossavano la veste lunga con la giacca da cavallo) a rendere omaggio prima davanti al pannello su cui era scritto “Lunga, lunga vita all’imperatore di oggi”, poi davanti al pannello con su scritto “Il Saggio, il Maestro”, omaggio che consisteva nell’inginocchiarsi tre volte e nel battere il capo a terra nove volte.",
+      "zh": "每逢阴历初一、十五，这些人便带领学生（学生也穿着长袍马褂），先向写着\"当今皇上万岁\"的牌位行礼，再向写着\"圣人先师\"的牌位行礼，所谓行礼，就是三跪九叩。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1138",
+      "sec": 17,
+      "it": "Nella sala centrale di ogni scuola, nel mezzo, era sospeso un grande pannello con su un’iscrizione con un editto imperiale che diceva: “Prima essere fedeli, secondo essere onesti, terzo onorare Confucio...” e questo pannello era splendido, una cosa davvero magnifica!",
+      "zh": "每所学校的大堂正中，悬挂着一块大匾，匾上刻着一道圣旨，写道：\"第一要忠，第二要诚，第三要敬孔……\"这块匾真是金碧辉煌，壮观得很！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1139",
+      "sec": 17,
+      "it": "Ogni giorno, al momento di mangiare, gli studenti dovevano indossare le vesti lunghe; se li si andava a visitare nel momento in cui consumavano i pasti, in un mese di giugno in cui faceva molto caldo, vi potete immaginare che splendido spettacolo da vedere!",
+      "zh": "每天吃饭的时候，学生们都必须穿上长袍。如果有人在他们吃饭的时候前去拜访，在酷暑的六月，大家可以想见那是一幅何等壮观的景象！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1140",
+      "sec": 17,
+      "it": "Quando gli studenti si diplomavano, i “messaggeri governativi” si recavano nelle scuole e chiedevano al controllore degli studenti o al bidello di copiare nomi e indirizzi degli studenti diplomati in modo tale da poter compilare in fretta parecchi diplomi, con su scritto: “Il signorino X del Chinchai Tachen, del Luchunpu Shihlan, dello Yufutu Yushih, dello Hsunfupu Yuan X dello Hunan, del Tihsuehshih Shih X dello Hunan, dello X Hunan Kuanli, dello X Hsuehhsiao Chientu ha ottenuto il primo posto riportando un grande successo”.",
+      "zh": "学生毕业时，\"官府的差役\"就到学校来，请学监或校工抄录毕业学生的姓名和住址，以便赶制出许多份文凭。文凭上写道：\"湖南省候补府经历某、浏阳县训导某、御封翰林院某、钦赐翰林院某、湖南提学使司某、湖南省立某学校监某某，高中一等，成绩优异。\"",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1141",
+      "sec": 17,
+      "it": "Questi messaggeri governativi si recavano con grande slancio nelle campagne, nelle case degli studenti neodiplomati e, con gesti di saluto e di augurio, appendevano sopra il muro della stanza centrale della casa i diplomi.",
+      "zh": "这些报喜的官府人员兴致勃勃地跑到乡村，跑到新毕业学生的家中，作揖道贺，把毕业证书挂在正厅的墙壁上。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1142",
+      "sec": 17,
+      "it": "Quando i familiari degli studenti diplomati, uscendo di casa per accogliere i messaggeri governativi, vedevano il diploma con il suo fondo rosso, i bordi bianchi, i motivi decorativi a fiori, i caratteri in oro, ne rimanevano davvero entusiasti!",
+      "zh": "毕业学生的家属听到报喜人来了，出门迎接，看见那张红底白边、饰有花纹、字迹烫金的毕业证书，真是喜出望外！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1143",
+      "sec": 17,
+      "it": "A questo punto lo studente diplomato, saputa la notizia ufficiale, si recava in visita da parenti e amici con la portantina (se la famiglia non la possedeva, ne doveva costruire una nuova) su cui veniva sistemata una lampada con la scritta: “Certificato dell’Ufficio imperiale dei diplomi”.",
+      "zh": "这时候，毕业的学生得到官报，便坐着轿子（家中没有的，就得新做一乘）去亲友家拜谒，轿子上挂着写有\"钦授文凭\"字样的灯笼。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1144",
+      "sec": 17,
+      "it": "Dopo la visita dello studente diplomato, parenti e amici con fare orgoglioso si recavano presso la famiglia dello studente diplomato per complimentarsi.",
+      "zh": "毕业学生拜谒之后，亲友们又得意洋洋地到毕业学生家中道贺。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1145",
+      "sec": 17,
+      "it": "Inoltre sul portone principale della casa dello studente diplomato veniva appeso un pannello con il fondo rosso e i caratteri in oro con su scritto: “Costui ha ottenuto il secondo grado” oppure: “Costui ha ottenuto il terzo grado”.",
+      "zh": "此外，在毕业学生家的大门上，还要挂上一块红底金字的大匾，上面写着：\"某人中举\"或者\"某人出贡\"。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1146",
+      "sec": 17,
+      "it": "Quale splendido spettacolo da vedere!",
+      "zh": "这是何等壮观的一幕！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1147",
+      "sec": 17,
+      "it": "Veniva poi offerto un grande banchetto e quando gli ospiti se ne erano andati ciò che restava erano i diversi nomi che si danno al “banchetto”, chiamato anche tapashih o tachiufeng.",
+      "zh": "随后大摆筵席，宾客散去之后，剩下的就是那被称做\"塌耙士\"或\"打秋风\"的各种名目了。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1148",
+      "sec": 17,
+      "it": "Il settore studentesco pertanto era corrotto, se si volevano cercare vigore, coraggio e vivacità, essi si trovavano al di fuori degli insegnanti burocrati e degli amministratori burocrati, erano in quei numerosi studenti che tenevano nascoste nei mucchi di libri accanto ai letti e nei cassetti due cose: il Giornale dei nuovi cittadini scritto da Liang Chi-chao e altri e il Giornale del popolo scritto da Wang Ching-wei, Sung Chiao-jen e altri.",
+      "zh": "因此，学界已经腐败；若说要寻找朝气、胆魄与活跃，那不在官僚教员和官僚办事员之中，而在那些众多的学生中间。他们床头书堆里、抽屉深处，藏着两样东西：梁启超等人撰的《新民丛报》，和汪精卫、宋教仁等人撰的《民报》。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1149",
+      "sec": 17,
+      "it": "Queste due cose erano vietate e non si sa come potessero arrivare dal Giappone nello Hunan.",
+      "zh": "这两样都是禁物，不知怎的竟能从日本传到湖南。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1150",
+      "sec": 17,
+      "it": "Nel frattempo, Huang Hsing e Yu Chih-mo, non intimiditi da morti e massacri, a Changsha organizzavano clandestinamente ogni sorta di attività politiche, fino a che nel 1904 la sollevazione da loro organizzata a Yehhsing e Pingti fallì.",
+      "zh": "与此同时，黄兴、禹之谟不惧死亡与屠杀，在长沙秘密组织各种政治活动，直到1904年他们在浏阳、醴陵发动的起义失败。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1151",
+      "sec": 17,
+      "it": "Ma Fu-i venne decapitato fuori delle porte della città di Liuyang, Huang Hsing fingendosi straniero fuggì su una portantina dalla porta occidentale.",
+      "zh": "傅义在浏阳城门外被斩首，黄兴扮作洋人，乘轿从西门逃走。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1152",
+      "sec": 17,
+      "it": "Tuttavia più si faceva violenta la repressione più aumentava lo spirito di lotta nello Hunan.",
+      "zh": "然而镇压越残酷，湖南的斗争精神越增长。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1153",
+      "sec": 17,
+      "it": "In quel periodo, con Yu Chih-mo ancora a capo dei circoli studenteschi dello Hunan, si verificò un avvenimento di importanza tale da meritare di essere ricordato.",
+      "zh": "那时，禹之谟仍主持湖南学界团体，发生了一件重要到值得记载的事。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1154",
+      "sec": 17,
+      "it": "Chen Tien-hua e Yao Hung-yeh, il primo uno studente di Anhua, il secondo uno studente di Yuehyang, entrambi residenti in Giappone, mentre ritornavano al proprio paese, disgustati dalla corruzione della patria e angosciati dai pericoli mortali che correva, si suicidarono gettandosi in un fiume.",
+      "zh": "陈天华和姚宏业，前者是安化学生，后者是岳阳学生，都住在日本，因痛恨祖国腐败、痛愤祖国面临致命危险，在回国途中投江自杀。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1155",
+      "sec": 17,
+      "it": "Gli studenti dello Hunan venuti a conoscenza dell’accaduto, quando arrivarono le bare trasportate lungo il fiume Hsiang chiesero al governo di poterli seppellire sulla montagna Yuehlu.",
+      "zh": "湖南学生得知此事后，当灵柩沿湘江运抵时，请求政府准其葬于岳麓山。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1156",
+      "sec": 17,
+      "it": "Ma Yu Chien-san governatore dello Hunan e il tixueshimu si mostrarono del tutto insensibili e non vollero dare il permesso, avendo evidentemente intenzione di tingere di rosso i loro cappelli da funzionari con il sangue dei membri del partito rivoluzionario e degli studenti.",
+      "zh": "但湖南巡抚俞廉三和提学使却全然无动于衷，不肯批准，显然是想用革命党人和学生的鲜血染红自己的顶子。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1157",
+      "sec": 17,
+      "it": "Visto che la loro richiesta era risultata inefficace, gli studenti decisero di ricorrere allo “spontaneismo”; il¹ ° aprile del 1907 gli studenti universitari e medi della città di Changsha si mobilitarono per attraversare il fiume tutti insieme in due punti, al traghetto chuchang e alla piccola porta occidentale.",
+      "zh": "学生们见请愿无效，决定采取“自发行动”；1907年1月4日，长沙市各大学和中学学生全体动员，在小西门和渡船两处同时渡江。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1158",
+      "sec": 17,
+      "it": "Agitando bandiere dai colori brillanti, indossando abiti bianchi, sotto la luce del sole rosso-fuoco, cantando in coro canzoni funebri, in fila per due o per tre, formarono un corteo lungo oltre¹⁰ li.",
+      "zh": "他们挥舞着色彩鲜艳的旗帜，身穿白衣，在火红的阳光下，齐声高唱挽歌，两人或三人一排，组成了长达十余¹⁰里的送葬队伍。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1159",
+      "sec": 17,
+      "it": "I poliziotti immobili come pezzi di legno stavano a guardare, non avendo il coraggio di intervenire.",
+      "zh": "警察呆若木鸡地站着旁观，不敢干预。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1160",
+      "sec": 17,
+      "it": "In tal modo Chen e Yao vennero sepolti.",
+      "zh": "于是陈、姚二人得以安葬。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1161",
+      "sec": 17,
+      "it": "I funzionari governativi non poterono far altro che reprimere la loro rabbia e starsene buoni, non avendo neppure loro il coraggio di intervenire.",
+      "zh": "政府官员们也只能强压怒火，不敢作声，连干预的勇气也没有。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1162",
+      "sec": 17,
+      "it": "Lo spirito di lotta dello Hunan in quella circostanza divenne ancora più forte, raggiungendo il culmine.",
+      "zh": "当时湖南人民的斗争精神更加高涨，达到了顶点。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1163",
+      "sec": 17,
+      "it": "Ma i funzionari governativi, avendo dovuto in quel momento cacciare il loro odio in fondo al cuore, poco tempo dopo colsero l’occasione, offerta loro da alcuni incidenti, per fucilare Yu Chih-mo!",
+      "zh": "但是那些政府官员，当时把仇恨埋藏在心底，不久便利用某些事件提供的机会，枪杀了禹之谟！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1164",
+      "sec": 17,
+      "it": "E successivamente fecero disseppellire i corpi di Chen e Yao!",
+      "zh": "随后又挖出了陈、姚两人的尸体！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1165",
+      "sec": 17,
+      "it": "Per i circoli studenteschi dello Hunan l’avvenimento più importante, dopo la sepoltura di Chen e Yao, fu l’assemblea generale del movimento studentesco di tutte le scuole della città capoluogo della provincia, che si tenne nel mese di maggio del 1910.",
+      "zh": "对湖南学生界来说，继陈、姚安葬之后最重要的事件，是1910年5月在省会长沙举行的全省各校学生运动联合大会。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1166",
+      "sec": 17,
+      "it": "Siamo ormai abituati a vedere le assemblee precedenti del movimento studentesco e che cosa c’è di tanto particolare?",
+      "zh": "我们早已看惯了以往的学生运动集会，这次又有什么特别之处呢？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1167",
+      "sec": 17,
+      "it": "Ma l’assemblea del movimento del 1910 è stata qualcosa di diverso.",
+      "zh": "但1910年的那次运动集会确实不同。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1168",
+      "sec": 17,
+      "it": "Quest’assemblea del movimento ebbe un carattere di protesta e un colore rivoluzionario.",
+      "zh": "这次运动集会具有抗议的性质和革命的色彩。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1169",
+      "sec": 17,
+      "it": "In quel momento i funzionari governativi ebbero una gran paura, e anche il tixueshi Wu X era morto di paura.",
+      "zh": "当时政府官员大为恐慌，连提学使吴某人也被吓死了。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1170",
+      "sec": 17,
+      "it": "I promotori, con i loro discorsi in cui sottolineavano i pericoli mortali che correva il paese e l’umiliazione dell’invasione straniera, fecero una grande opera di propaganda e fu un grande successo. La sede del movimento si trovava nel campo di addestramento militare fuori della piccola porta Wu di Changsha.",
+      "zh": "倡导者们发表演说，痛陈国家危亡之险、外敌入侵之辱，做了大量的宣传工作，取得了极大的成功。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1171",
+      "sec": 17,
+      "it": "Tutti gli studenti furono mobilitati per fare un corteo. E quante volte hanno dato vita a manifestazioni, sfidando il vento freddo, alla luce chiara dell’alba!",
+      "zh": "运动的总部设在长沙小吴门外的军事训练场。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1172",
+      "sec": 17,
+      "it": "L’impressione più profonda lasciata sulla gente era costituita dagli studenti che mentre partecipavano alle manifestazioni cantavano a squarciagola l’inno del movimento studentesco. Sebbene nessuno ricordi chi lo abbia composto e siano trascorsi quasi dieci anni, tuttavia, gli studenti dello Hunan sono ancora in grado di recitarne i versi.",
+      "zh": "全体学生被动员起来举行游行。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1173",
+      "sec": 17,
+      "it": "Riporto qui di seguito i versi dell’inno: “Nello Hunan c’è battaglia, la montagna Hengyueh è alta come il cielo, sopra il lago Tungting nuvole e sogni. Il fiume Yuan ha la sua sorgente, l’acqua del fiume Li ha la sua storia, innumeri nascono i fiori.",
+      "zh": "多少次，他们冒着寒风，迎着黎明的曙光举行示威！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1174",
+      "sec": 17,
+      "it": "Si alza il vento, la volontà di lotta guida gli uomini, cento le battaglie combattute, cento volte più forti si diventa. Le coraggiose truppe del fiume Hsiang porteranno ovunque la pace, la nostra è una generazione di eroi.",
+      "zh": "给人们留下最深刻印象的，是学生们在参加示威时高唱学联会歌。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1175",
+      "sec": 17,
+      "it": "Si intonano inni militari, le bandiere sventolano al vento. Il campo di battaglia è come una foresta di fucili e una pioggia di proiettili.",
+      "zh": "虽然已没有人知道这首歌是谁作的，而且将近十年过去了，但湖南的学生至今还能背诵它的歌词。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1176",
+      "sec": 17,
+      "it": "Lo spirito di un esercito nazionale, figli e fratelli dello Hunan, questa è la caratteristica nuova della civiltà”.",
+      "zh": "现将歌词录于下：",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1177",
+      "sec": 17,
+      "it": "\"衡山高耸入云霄，洞庭云梦起波涛。",
+      "zh": "",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1178",
+      "sec": 17,
+      "it": "沅水有源澧有本，无数英豪竞折腰。",
+      "zh": "",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1179",
+      "sec": 17,
+      "it": "风起潮涌斗志昂，百战归来气更豪。",
+      "zh": "",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1180",
+      "sec": 17,
+      "it": "湘军子弟安天下，英雄一代看今朝。",
+      "zh": "",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1181",
+      "sec": 17,
+      "it": "军歌高唱旗帜飘，弹雨枪林战场遥。",
+      "zh": "",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1182",
+      "sec": 17,
+      "it": "国民军威昭日月，湖南子弟竞英豪，",
+      "zh": "",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1183",
+      "sec": 17,
+      "it": "此是文明新气象。\"",
+      "zh": "",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1184",
+      "sec": 17,
+      "it": "Per esempio, “lo spirito di un esercito nazionale” rappresentava in quel momento il fine dell’insegnamento e il fine per cui gli studenti studiavano.",
+      "zh": "例如，“国民军的精神”在当时便是教育的目的和学生求学所要达到的目的。这个目的，一方面是针对外国列强，另一方面是为了推翻满人。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1185",
+      "sec": 17,
+      "it": "Tale fine da una parte riguardava i paesi stranieri, dall’altra serviva a rovesciare i mancesi.",
+      "zh": "武汉起义一爆发，湖南最先响应，不到四个月，南北十七个地方相继响应，推翻了专制暴君，建立了共和国。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1186",
+      "sec": 17,
+      "it": "Appena scoppiata l’insurrezione di Wuhan, lo Hunan è stato il primo a fare eco e, trascorsi meno di quattro mesi, diciassette luoghi sia a sud che a nord facevano a loro volta eco, il despota venne rovesciato, fu fondata la repubblica e certo non si può fare a meno di riconoscere che tra i tanti motivi del successo uno sia da ricercare nel contributo dell’insegnamento e nella forza degli studenti.",
+      "zh": "当然不能否认，在诸多成功的原因之中，有一个应当从教育的贡献和学生的力量中去寻找。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1187",
+      "sec": 17,
+      "it": "Parliamo ora del movimento dei circoli studenteschi dello Hunan prima della rivoluzione, dal maggio all’agosto 1911, cioè del movimento di opposizione riguardo alla nazionalizzazione delle ferrovie.",
+      "zh": "现在我们来谈谈革命前湖南学生社团的运动，即1911年5月至8月间反对铁路国有化的运动。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1188",
+      "sec": 17,
+      "it": "Il¹⁹ marzo del 1911, Huang Hsing dette inizio alla ribellione di Canton.",
+      "zh": "1911年3月¹⁹，黄兴发动了广州起义。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1189",
+      "sec": 17,
+      "it": "Tutto il paese venne sconvolto.",
+      "zh": "全国为之震动。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1190",
+      "sec": 17,
+      "it": "Appena giunta la notizia nello Hunan, nei circoli studenteschi chi appoggiava la rivoluzione era pronto a intervenire.",
+      "zh": "消息传到湖南后，学生社团中拥护革命的人便准备采取行动。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1191",
+      "sec": 17,
+      "it": "Il corrotto governo mancese, con il pretesto che il piano di Sheng Hsuan-huai non era conveniente, nazionalizzò le principali linee ferroviarie del paese (le ferrovie dovevano essere nazionalizzate, ma l’azione del governo mancese fu del tutto intempestiva rispetto alla situazione di allora) inclusa la linea Szechwan-Hupeh.",
+      "zh": "腐败的满清政府借口盛宣怀的方案不妥当，将全国主要铁路线收归国有（铁路本应国有化，但满清政府此举在当时的情况下完全是不得人心的），其中包括川汉铁路。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1192",
+      "sec": 17,
+      "it": "Il Szechwan è stata la prima provincia a opporvisi e la situazione si è fatta sempre più grave.",
+      "zh": "四川是起来反对的第一个省份，形势日益严重。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1193",
+      "sec": 17,
+      "it": "Subito dopo è stata la volta dello Hunan.",
+      "zh": "接着湖南也行动起来。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1194",
+      "sec": 17,
+      "it": "In particolare i circoli studenteschi erano pieni di giusto sdegno e decisero di scendere in sciopero organizzando dappertutto comizi e dibattiti.",
+      "zh": "特别是学生界义愤填膺，决定罢课，到处组织集会和辩论。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1195",
+      "sec": 17,
+      "it": "Ma il governatore dello Hunan, Yang Wen-ting, uomo ignorante e stupido, fece numerosi interventi per impedire agli studenti i comizi alla luce del giorno, così che gli studenti furono costretti a organizzare segretamente i comizi, ma essendo impossibile organizzarli in città, allora li fecero sulla montagna Yuehlu.",
+      "zh": "但湖南巡抚杨文鼎是个无知蠢人，多方阻挠学生白天集会，学生只好秘密集会；城里既无法举行，便改在岳麓山上举行。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1196",
+      "sec": 17,
+      "it": "Chi scrive era tra i partecipanti.",
+      "zh": "笔者也在参加者之列。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1197",
+      "sec": 17,
+      "it": "Nella nostra scuola si tenevano dibattiti ogni giorno e molti studenti proposero con grande veemenza di fare la rivoluzione; chi scrive ricorda che una volta nel corso di un dibattito ci fu un compagno di scuola che toltasi di dosso la veste lunga, disse: “Dobbiamo fare addestramento militare, dobbiamo essere sempre pronti a combattere”.",
+      "zh": "我们学校每天举行辩论，许多学生激烈主张干革命；笔者记得有一次辩论中，有位同学脱下长衫说：“我们要受军事训练，要随时准备战斗。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1198",
+      "sec": 17,
+      "it": "Una sera parecchia gente venne risvegliata di soprassalto da grida, scese giù dai letti e venne a sapere che i rappresentanti della nostra e di altre scuole erano stati arrestati dalla polizia militare mentre tenevano un comizio clandestino.",
+      "zh": "”一天夜里，许多人被呼喊声惊醒，跳下床来，才知道本校和其他学校的代表在开秘密集会时被军警逮捕了。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1199",
+      "sec": 17,
+      "it": "Molti dissero che sarebbero stati senz’altro giustiziati.",
+      "zh": "许多人说一定会被枪毙。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1200",
+      "sec": 17,
+      "it": "Il nostro rettore era terrorizzato e con la lingua lunga circa quattro metri disse: “Che disastro!”.",
+      "zh": "我们的校长吓坏了，伸出约四米长的舌头说：“糟了！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1201",
+      "sec": 17,
+      "it": "Subito invitò i rettori degli altri istituti perché intercedessero presso i funzionari governativi.",
+      "zh": "”他立即请其他学校的校长去向官府求情。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1202",
+      "sec": 17,
+      "it": "All’alba gli studenti vennero liberati sotto garanzia del rettore, allora noi ce ne andammo a letto felici.",
+      "zh": "黎明时，学生在校长担保下获释，我们才高高兴兴地上床睡觉。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1203",
+      "sec": 17,
+      "it": "Quella volta lo scompiglio fu piuttosto grande.",
+      "zh": "那一次闹得相当大。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1204",
+      "sec": 17,
+      "it": "Il¹⁹ agosto lo Hupeh si dichiarò indipendente e lo Hunan gli fece immediatamente eco.",
+      "zh": "八月¹⁹日，湖北宣布独立，湖南立即响应。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1205",
+      "sec": 17,
+      "it": "Quindi nella nostra provincia dello Hunan facemmo uscire allo scoperto il nostro esercito studentesco.",
+      "zh": "于是我们在湖南本省便公开打出了我们学生军的旗帜。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1206",
+      "sec": 17,
+      "it": "Adesso affronterò l’argomento principale, tralasciando quelli secondari vale a dire l’esercito degli studenti dello Hunan⁵.",
+      "zh": "现在我要讲主要的，附带讲次要的——即湖南的学生军⁵。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1207",
+      "sec": 17,
+      "it": "NOTE",
+      "zh": "注释",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1208",
+      "sec": 17,
+      "it": "1..Yang Huai-chung (1870-1920), nativo di Changsha, studiò in Giappone e in Europa e",
+      "zh": "1. 杨怀中（1870—1920），长沙人，曾留学日本和欧洲，",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1209",
+      "sec": 17,
+      "it": "insegnò alla Scuola Normale di Changsha e all’Università di Pechino.",
+      "zh": "曾在长沙师范学校及北京大学任教。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1210",
+      "sec": 17,
+      "it": "Fu insegnante di Mao Tse-tung, che sposò sua figlia, Yang Kai-hui.",
+      "zh": "他是毛泽东的老师，毛泽东娶了他的女儿杨开慧。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1211",
+      "sec": 17,
+      "it": "2..Toching è il far violenza sui sentimenti.",
+      "zh": "2. 投井是对感情施加暴力。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1212",
+      "sec": 17,
+      "it": "Per esempio l’imperatore aveva il potere di",
+      "zh": "例如皇帝拥有对",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1213",
+      "sec": 17,
+      "it": "esercitare toching sui propri sudditi e dipendenti.",
+      "zh": "自己的臣民和属下实行投井的权力。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1214",
+      "sec": 17,
+      "it": "3..Tang Tsai-chang (1867-1900), riformatore dello Hunan, dopo il colpo di Stato del 1898",
+      "zh": "3. 唐才常（1867—1900），湖南改良派人士，在1898年政变之后",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1215",
+      "sec": 17,
+      "it": "che chiuse la “Riforma dei cento giorni” ritornò in Cina e si diede ad attività cospirative anti-mancesi, stabilendo legami anche con le società segrete.",
+      "zh": "结束了“百日维新”后回到中国，从事反满秘密活动，并同秘密会社建立了联系。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1216",
+      "sec": 17,
+      "it": "Organizzò un esercito (l’Armata indipendente) che doveva condurre un’insurrezione nello Hupeh.",
+      "zh": "他组织了一支军队（自立军），准备在湖南发动起义。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1217",
+      "sec": 17,
+      "it": "Ad Hankow fu fatto prigioniero e ucciso.",
+      "zh": "在汉口被捕遇害。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1218",
+      "sec": 17,
+      "it": "4..Kuang Hsu (1875-1908) fu il penultimo imperatore della dinastia Ching.",
+      "zh": "4. 光绪（1875—1908）是清朝倒数第二代皇帝。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1219",
+      "sec": 17,
+      "it": "Appoggiò la",
+      "zh": "他支持1898年的",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1220",
+      "sec": 17,
+      "it": "“Riforma dei cento giorni” del 1898 ma venne emarginato dal colpo di Stato diretto dall’imperatrice vedova Tzu Hsi (1834-1908).",
+      "zh": "“百日维新”，但遭到慈禧太后（1834—1908）发动的政变的排挤。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1221",
+      "sec": 17,
+      "it": "5..Questo scritto sul sistema scolastico e lo sviluppo del movimento studentesco doveva",
+      "zh": "5. 这篇关于学制的文章和学生运动的发展，本应",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1222",
+      "sec": 17,
+      "it": "continuare nel successivo numero⁵ della Rivista del fiume Hsiang, ma la rivista, come già detto, venne soppressa.",
+      "zh": "在下期《湘江评论》⁵上续载，但如前文所述，该刊已被查封。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1223",
+      "sec": 17,
+      "it": "Questo scritto venne pubblicato in due puntate nella rubrica Commento dei principali avvenimenti dell’oriente sui numeri³ (28 luglio 1919) e⁴ (4 agosto 1919) della Rivista del fiume Hsiang.",
+      "zh": "本文分两部分刊载于《湘江评论》“东方大事述评”专栏第³期（1919年7月28日）和第⁴期（1919年8月4日）。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1224",
+      "sec": 17,
+      "it": "Lo scritto doveva continuare nel numero⁵, che non uscì perché venne sequestrato e la rivista soppressa.",
+      "zh": "本文原拟在第⁵期续载，但因刊物被没收、杂志遭查封而未能出版。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1225",
+      "sec": 17,
+      "it": "La grande guerra in Europa è finita lo scorso anno ed è iniziata la conferenza di alcuni boss di ladroni per spartirsi la refurtiva; anche il Giappone ha subito inviato come rappresentanti degli aristocratici per la spartizione della refurtiva.",
+      "zh": "去年欧洲大战告终，一群强盗头子们开始举行分赃会议；日本也赶忙派了几位分赃贵族做代表。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1226",
+      "sec": 17,
+      "it": "Appena arrivati là, gli inviati imperiali si sono autoproclamati una delle cinque grandi potenze, dandosi un sacco di arie in ogni loro attività ed è inutile dire che il governo del loro paese ne è rimasto estremamente contento. In breve tempo la Conferenza di pace senz’altro esaudirà i suoi desideri.",
+      "zh": "这几位帝国主义使者一到那里，便自封为五大强国之一，事事大摆其威风，他们的政府自然欢喜得了不得，不久和会一定要如他的意。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1227",
+      "sec": 17,
+      "it": "Noi credevamo che il vecchio millenario impero giapponese fosse sempre rimasto uguale, dal momento che esteriormente appariva “grosso e lungo come una balena”, mentre all’interno era “tranquillo come una grande pietra”.",
+      "zh": "我们一向以为千年古国日本，外观既“大而且长若鲸”，内观又“稳静若磐石”，当无变动。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1228",
+      "sec": 17,
+      "it": "Ma se si osserva meglio non è proprio così.",
+      "zh": "但仔细考察，实在不然。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1229",
+      "sec": 17,
+      "it": "Oggi voglio parlare di alcuni importanti avvenimenti verificatisi questo mese all’interno del paese e il lettore dopo potrà vedere chiaramente che anche il vecchio impero millenario non può fare a meno di trovarsi di fronte a una situazione instabile.",
+      "zh": "今天我要说说本月内该国国内发生几件大事，读者看后，便可明了这千年古国也不免要遇着不稳的局势。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1230",
+      "sec": 17,
+      "it": "Il movimento per l’indipendenza della Corea La Corea, a partire dal 1905, è stata inghiottita dal Giappone un po’ con la forza e un po’ con metodi subdoli.",
+      "zh": "朝鲜独立运动 朝鲜自1905年以来，一部分是被武力、一部分是用阴险手段，为日本所吞并。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1231",
+      "sec": 17,
+      "it": "Ma il popolo coreano non si è rassegnato e, sotto lo stimolo del principio dell’autodeterminazione dei popoli, sarà impossibile arrestarlo.",
+      "zh": "但朝鲜人民不甘屈服，在民族自决原则的激励下，必将无法阻挡。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1232",
+      "sec": 17,
+      "it": "Nel momento in cui in Europa si svolge la Conferenza di pace, i coreani inviano una petizione e organizzano a Los Angeles un ufficio di collegamento per raccogliere i coreani di ogni luogo.",
+      "zh": "当欧洲举行和会之际，朝鲜人递交了请愿书，并在洛杉矶设立联络机关，以联络各地朝鲜人。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1233",
+      "sec": 17,
+      "it": "A Tokyo vengono tenute numerose riunioni segrete ma la polizia giapponese interviene regolarmente e non si ottengono quindi grandi risultati.",
+      "zh": "在东京举行了多次秘密会议，但日本警察经常进行干涉，因而未取得重大成果。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1234",
+      "sec": 17,
+      "it": "Il¹ ° marzo in Corea viene proclamata l’indipendenza, viene fatta una dichiarazione ufficiale ed elaborato un patto d’alleanza.",
+      "zh": "三月一日，朝鲜宣布独立，发表了正式宣言，并制定了同盟公约。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1235",
+      "sec": 17,
+      "it": "Do qui di seguito i tre punti del patto:",
+      "zh": "现将公约三项条款转录如下：",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1236",
+      "sec": 17,
+      "it": "1..abbiamo dato vita al movimento per sostenere la Giustizia, l’Esistenza, l’Uma-nità e la Dignità, cose conformi alla volontà delle nazioni di mettere in pratica il",
+      "zh": "1. 我们发起了这一运动，以伸张正义、生存、人道与尊严，此事符合各国实行",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1237",
+      "sec": 17,
+      "it": "principio dell’autodeterminazione.",
+      "zh": "自决原则的意愿。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1238",
+      "sec": 17,
+      "it": "Ciò non è affatto espressione di xenofobia.",
+      "zh": "这决不是什么排外情绪的表现。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1239",
+      "sec": 18,
+      "it": "IL MOVIMENTO POPOLARE IN GIAPPONE",
+      "zh": "日本人民运动",
+      "head": true,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1240",
+      "sec": 18,
+      "it": "(28 luglio, 4 agosto 1919)",
+      "zh": "（1919年7月28日、8月4日）",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1241",
+      "sec": 18,
+      "it": "2..La nostra nazione ritiene che, fino a quando esiste una sola persona, fino",
+      "zh": "2. 我国人民认为，只要还有一个人还在，",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1242",
+      "sec": 18,
+      "it": "all’ultimo momento, sia assolutamente necessario esprimere le proprie opinioni.",
+      "zh": "直到最后一刻，都有绝对必要表达自己的意见。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1243",
+      "sec": 18,
+      "it": "3..Tutte le nostre azioni seguono un ordine.",
+      "zh": "3．我们的一切行动都是有次序的。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1244",
+      "sec": 18,
+      "it": "Riteniamo che la nostra posizione",
+      "zh": "我们认为我们的立场",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1245",
+      "sec": 18,
+      "it": "sia corretta e il nostro comportamento onesto.",
+      "zh": "是正确的，我们的行为是诚实的。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1246",
+      "sec": 18,
+      "it": "La loro dichiarazione sulla situazione interna e internazionale corrisponde a quanto detto nei tre punti sopra riportati.",
+      "zh": "他们关于国内和国际形势的声明，与上面所引三点相符。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1247",
+      "sec": 18,
+      "it": "Tale dichiarazione è intesa a rendere nota la loro storia, le sofferenze subite negli ultimi anni a causa del Giappone e la loro ferma determinazione.",
+      "zh": "这项声明意在公布他们的历史、近年因日本而遭受的苦难以及他们坚定的决心。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1248",
+      "sec": 18,
+      "it": "Inoltre è stato inviato un comunicato a tutti i quotidiani del nostro paese in cui si porta a conoscenza che questo movimento è una decisa testimonianza a favore dell’autodeterminazione dei popoli, indirizzata alla Conferenza di pace.",
+      "zh": "此外，已向我国各报馆发出一项通告，告知这个运动是向和平会议发出的、拥护民族自决的坚决表示。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1249",
+      "sec": 18,
+      "it": "Dopo il l° marzo a Hansong, Kaepyong, Pyongyang, Chunghwa, Hwangju, Suwon, Hanju e in altri luoghi della penisola coreana si sente ovunque risuonare la voce dell’indipendenza.",
+      "zh": "三月一日以后，在汉城、开城、平壤、中和、黄州、水原、汉州以及朝鲜半岛其他地方，到处可以听到独立之声。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1250",
+      "sec": 18,
+      "it": "Chi con il pugno alzato, chi sventolando la bandiera nazionale, tutti inveiscono contro il Cielo buio.",
+      "zh": "有人高举拳头，有人挥舞国旗，人人都在痛斥这黑暗的苍天。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1251",
+      "sec": 18,
+      "it": "L’intervento armato, gli arresti, i massacri e le stragi operati dal Giappone non verranno più tollerati.",
+      "zh": "日本的武装镇压、逮捕、屠杀和血腥暴行，将再也不能被容忍。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1252",
+      "sec": 18,
+      "it": "Da marzo a maggio la voce che grida indipendenza non si è mai affievolita.",
+      "zh": "从三月到五月，高呼独立的声音从未减弱。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1253",
+      "sec": 18,
+      "it": "In seguito il movimento per l’indipendenza ha conosciuto apparentemente una battuta d’arresto a causa della forte repressione militare giapponese, ma l’indipendenza della Corea diventerà un giorno realtà perché essa è nello spirito di lotta del popolo.",
+      "zh": "后来，独立运动因日本严厉军事镇压而表面上出现了停顿，但朝鲜的独立终将成为现实，因为它存在于人民的斗争精神之中。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1254",
+      "sec": 18,
+      "it": "La campagna per le elezioni generali in Giappone Dopo la Riforma Meiji è stata promulgata la Costituzione. Ma esiste ancora un sistema classista, il potere è in mano a pochi padri fondatori, aristocratici della Camera alta e della Camera bassa, mentre la plebe non ha il diritto di far sentire la propria voce, anche se recentemente ha cominciato a farsi sentire. Il⁹ febbraio di quest’anno, in Giappone, ogni partito politico e ogni gruppo con nobili aspirazioni ha dato vita a un’assemblea a favore del suffragio universale, nella sede della Società di assicurazione marittima davanti alla stazione centrale di Tokyo. A questa conferenza hanno partecipato più di trecento persone. Hiratami ha tenuto un discorso in cui ha detto all’incirca: “Per quanto concerne il metodo elettivo, lo scopo di questa conferenza è di abolire l’attuale assegnazione del diritto di voto in base alle imposte pagate e migliorare la vita politica. La lezione della guerra mondiale ha fatto capire al popolo che un paese in cui il potere politico è concentrato nelle mani di poche persone non può che venire sconfitto e smembrato. Pertanto è necessario cambiare il metodo elettivo, la base del potere politico deve essere estesa a tutto il popolo. Questo è l’urgente compito che abbiamo di fronte”. L’¹¹ febbraio, l’Alleanza studentesca organizzata dagli studenti dell’Università imperiale di Tokyo e l’Alleanza per la promozione di elezioni generali hanno indetto una conferenza e una manifestazione per chiedere il suffragio universale. Tremila persone vi hanno preso parte. Inoltre a favore del suffragio universale sono stati organizzati comizi itineranti, dibattiti per le strade principali, una conferenza cittadina e altre attività. Questo tipo di movimenti, mediante i quali la plebe chiede libertà politiche, non sono affatto fuori del comune in Europa e in America, ma per noi orientali, per i giapponesi, è qualcosa che si verifica per la prima volta.",
+      "zh": "日本普选运动",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1255",
+      "sec": 18,
+      "it": "明治维新之后，虽然颁布了宪法，但阶级制度依然存在，政权掌握在少数元老、贵族院和众议院的贵族手中，平民毫无发言权，尽管近来已开始发出自己的声音。本年二月九⁹日，日本各政党及有志团体，在东京中央车站前的海上保险会社内，召开了要求普选权的群众大会，到会者三百余人。平谷在会上演说，大意是：“关于选举方法，此次大会的目的，在于废除现行以纳税额决定选举权的办法，改善政治生活。世界大战的教训使人民认识到，政治权力集中于少数人之手的国家，必然遭到失败和瓜分。因此必须改变选举方法，将政治权力的基础扩展到全体人民。这是我们当前的迫切任务。”二月十一¹¹日，由东京帝国大学学生组织的“学生同盟”与“促进普选同盟”召开了要求普选权的大会和示威游行，参加者达三千人。此外，还组织了巡回演讲、街头辩论、市民大会等活动，宣传普选。平民要求政治自由的这类运动，在欧洲和美国原是司空见惯之事，但对东方人、对日本人来说，却是破天荒的第一次。",
+      "zh": "",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1256",
+      "sec": 18,
+      "it": "Il movimento nel settore dei lavoratori in Giappone I lavoratori giapponesi, per chiedere al governo di elaborare uno statuto del lavoro, hanno fondato una Lega dei lavoratori. Il¹⁵ maggio nella sede dell’Asso-ciazione della gioventù di Kanda si è tenuta la prima assemblea di lavoratori. I partecipanti erano circa¹⁰.000. Il presidente di quest’assemblea era un operaio in carne e ossa e la segretaria una giovane operaia. Hanno discusso numerosi problemi, prestando particolare attenzione al salario e all’orario di lavoro. Il¹⁵ maggio gli operai di due stabilimenti tipografici giapponesi, Shueisha e Hakubum Toyo, assieme agli impiegati dell’Istituto di lingue occidentali hanno tenuto una assemblea generale dell’Associazione amici per corrispondenza, nel padiglione di Matsumoto a Kanda, prendendo la decisione di chiedere ai capitalisti un aumento salariale del³⁰ per cento. Il giorno²⁵ si è svolta un’assemblea provvisoria nel club Yayoi del quartiere Kashiba, in cui è stato eletto presidente l’impiegato Mizunuma. È intervenuta la polizia giapponese. Allora l’assemblea è stata spostata al padiglione Matsumoto a Kanda e la polizia è intervenuta di nuovo. I congressisti hanno discusso con la polizia per spiegare lo scopo dell’assemblea, sottolineando che essa riguardava i problemi concernenti le loro condizioni di vita. I giapponesi vivono da tempo sotto un sistema classista ed è ben noto il loro spirito di sottomissione. Da uno o due anni a questa parte, a causa delle difficili condizioni di vita, i lavoratori hanno cominciato a ribellarsi almeno un po’ ai capitalisti.",
+      "zh": "日本工人运动",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1257",
+      "sec": 18,
+      "it": "日本工人为要求政府制定劳动法令，成立了工人同盟。5月15日¹⁵，在神田青年协会会所举行了工人第一次大会。参加者约一万人¹⁰。大会主席是一名真正的工人，书记则是一名年轻女工。他们讨论了各种问题，特别注意工资和工时问题。5月15日¹⁵，日本两家印刷厂——秋荣社和博文堂东洋——的工人，同外国语研究所的职员一起，在神田松本馆举行通信友协会全体会议，决定向资本家要求增加工资³⁰%。25日²⁵，在柏原区弥生俱乐部举行临时大会，推选举职员水沼为主席。日本警察到场干涉。于是大会改到神田松本馆举行，警察再次干涉。与会者同警察辩论，说明大会目的，强调这关系到他们的生活状况问题。日本人长期处于等级制度之下，其顺从精神是众所周知的。近一两年来，由于生活困难，工人至少已开始对资本家有所反抗。",
+      "zh": "",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1258",
+      "sec": 18,
+      "it": "Questa è una tendenza naturale contro la quale è inutile opporsi.",
+      "zh": "这是一种自然的趋势，反对它是没有用的。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1259",
+      "sec": 18,
+      "it": "Se continueranno su questa strada, ritengo che ben presto questo sarà un problema che non riguarderà soltanto la società giapponese.",
+      "zh": "如果他们继续沿着这条路走下去，我认为这个问题很快就会不再仅仅是日本社会的问题了。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1260",
+      "sec": 18,
+      "it": "Quanto abbiamo detto è forse un po’ confuso, non siamo riusciti a centrare il problema fondamentale.",
+      "zh": "我们所说的也许有些杂乱无章，没有抓住根本问题。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1261",
+      "sec": 18,
+      "it": "Qual è il problema fondamentale?",
+      "zh": "根本问题是什么？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1262",
+      "sec": 18,
+      "it": "È la trasformazione in atto nel loro paese.",
+      "zh": "是他们国家正在发生的变革。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1263",
+      "sec": 18,
+      "it": "Il cambiamento del Giappone nel settore ideologico Per quanto concerne la penetrazione del pensiero russo in Estremo Oriente, ci sono persone che se ne occupano come materia di studio, ma non ci sono persone in grado di metterlo in pratica. Invece in Giappone ci sono questi due tipi di persone.",
+      "zh": "日本在思想界的变动 关于俄国思想在远东的传播，有研究这种思想的人，却没有能够实行的人。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1264",
+      "sec": 18,
+      "it": "Nel 1910 Mushakoji Saneatsu ha raccolto un gruppo di compagni con i quali a Tokyo ha dato vita alla rivista Betulla bianca¹. Nell’arco di tre o quattro anni l’influenza di questa rivista è diventata via via molto grande e hanno progettato la costruzione di un “nuovo villaggio”² in cui mettere in pratica i Il movimento popolare in Giappone principi della nuova corrente di pensiero.",
+      "zh": "日本却有这两种人。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1265",
+      "sec": 18,
+      "it": "Io ritengo che ciò sia la realizzazione di un ideale.",
+      "zh": "一九一〇年，武者小路实笃⁴聚集了一班同志，在东京创办了《白桦》¹杂志。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1266",
+      "sec": 18,
+      "it": "Nel novembre dello scorso anno, hanno mandato più di dieci persone nel distretto di ...",
+      "zh": "经过三四年，这杂志的影响日渐扩大，他们便计划建设\"新村\"²，实行新思潮的原理。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1267",
+      "sec": 18,
+      "it": "dove vicino al fiume avevano acquistato un pezzo di terra e hanno dato vita al primo “nuovo villaggio”.",
+      "zh": "我认为这是理想的实现。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1268",
+      "sec": 18,
+      "it": "Hanno iniziato a coltivare la terra.",
+      "zh": "去年十一月，他们派了十几个人到……地方，在河边购得一块土地，建立了第一个\"新村\"。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1269",
+      "sec": 18,
+      "it": "A Tokyo hanno iniziato la pubblicazione e distribuzione della rivista mensile Nuovo villaggio, per esprimere le loro opinioni e far conoscere la situazione.",
+      "zh": "他们开始耕种土地。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1270",
+      "sec": 18,
+      "it": "Di recente...",
+      "zh": "在东京又开始出版发行月刊《新村》，发表他们的意见，介绍情况。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1271",
+      "sec": 18,
+      "it": "e altri hanno organizzato l’Associazione Aurora, il cui scopo è di studiare le tendenze ideologiche della società e diffondere il nuovo pensiero.",
+      "zh": "近来，……等人组织了\"黎明会\"，其宗旨是研究社会思想潮流、传播新思想。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1272",
+      "sec": 18,
+      "it": "Hanno inoltre dato vita a una rivista dal titolo Liberazione, il cui primo numero è uscito il²⁵ maggio; il suo manifesto di fondazione è assai chiaro e penetrante.",
+      "zh": "他们又创办了一种杂志，名叫《解放》，其第一期已于五月²⁵日出版；其创刊宣言十分明白透彻。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1273",
+      "sec": 18,
+      "it": "La rivista di Pechino Rivista settimanale³ ha già tradotto il manifesto di fondazione e ne riportiamo qui di seguito un paragrafo: “Bisogna trasformare il mondo.",
+      "zh": "北京的《每周评论》³杂志已将该创刊宣言译出，现节录如下：\"必须改造世界。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1274",
+      "sec": 18,
+      "it": "L’alba di un nuova civiltà comincia a brillare.",
+      "zh": "新文明的曙光已经开始闪耀。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1275",
+      "sec": 18,
+      "it": "Il suono delle campane della liberazione infrange il nostro silenzio. Il nostro manifesto di fondazione ha intenzione di risvegliare gli uomini di oggi perché si liberino dal giogo del militarismo e dell’autocrazia.",
+      "zh": "解放的钟声打破了我们的沉默。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1276",
+      "sec": 18,
+      "it": "Di risvegliare tutte le nazioni del mondo perché si liberino dalla politica di aggressione e dal dispotismo. Di risvegliare alla vita i paesi civili perché si liberino dalla soffocante oppressione dell’oro e del denaro.",
+      "zh": "我们的创立宣言，意在唤醒当代的人们，使之摆脱军国主义和专制政治的枷锁；唤醒世界各国，使之摆脱侵略政策和专制暴政；唤醒文明各国，使之摆脱黄金与金钱的令人窒息的压迫；唤醒劳动者，使之摆脱贫困和骇人的劳动条件；唤醒妇女，使之摆脱男子摧残性的压迫。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1277",
+      "sec": 18,
+      "it": "Di risvegliare i lavoratori perché si liberino dalla povertà e dalle spaventose condizioni di lavoro. Di risvegliare le donne perché si liberino dall’oppressione devastante degli uomini.",
+      "zh": "这就是我们的解放学说。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1278",
+      "sec": 18,
+      "it": "Questa è la nostra dottrina di liberazione.",
+      "zh": "这就是我们的解放主张。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1279",
+      "sec": 18,
+      "it": "Questa è la nostra proposta di liberazione.",
+      "zh": "这就是我们的解放目的。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1280",
+      "sec": 18,
+      "it": "Questo è il nostro scopo di liberazione.",
+      "zh": "这就是我们的解放理想。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1281",
+      "sec": 18,
+      "it": "Questo è il nostro ideale di liberazione”.",
+      "zh": "”",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1282",
+      "sec": 18,
+      "it": "Il²⁰ giugno il movimento sociale delle classi intellettuali, patrocinato dai professori Yoshino Sakuzo, Fukuda Tokuzo e altri dell’università Waseda, ha tenuto nella sede dell’Associazione della gioventù di Kanda una conferenza per la fondazione di un’associazione culturale.",
+      "zh": "6月2⁰日，由早稻田大学吉野作造、福田德三等教授发起知识阶层社会运动，在神田青年会馆召开了创立文化协会的筹备会。据安倍能成教授说：“日本应当顺应世界潮流，以最良好的方式发展文化；为此，必须改善社会政治、经济的各个方面。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1283",
+      "sec": 18,
+      "it": "Secondo quanto ha detto il professor Abe Isoo: “Il Giappone deve seguire la corrente mondiale, al fine di sviluppare nel modo migliore possibile la cultura: per far ciò è necessario migliorare tutti gli aspetti politici ed economici della società.",
+      "zh": "如何实行这种改善呢？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1284",
+      "sec": 18,
+      "it": "In che modo operare tale miglioramento?",
+      "zh": "必须从多种观点研究这个问题。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1285",
+      "sec": 18,
+      "it": "Bisogna studiare il problema da numerosi punti di vista.",
+      "zh": "为了实行这种改善应当如何研究呢？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1286",
+      "sec": 18,
+      "it": "In che modo bisogna studiare per operare tale miglioramento?",
+      "zh": "从研究现代社会的生活方式入手，加以改变，并确立哲学科学的基础。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1287",
+      "sec": 18,
+      "it": "Iniziando con lo studiare i modelli di vita della società attuale per cambiarli e definendo i fondamenti della scienza filosofica.",
+      "zh": "因此，有必要创立一个文化协会，其宗旨在于研究产生现代文化的各种理论，研究世界文化的发展，从而引导对当前诸问题的批判性解决。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1288",
+      "sec": 18,
+      "it": "Di qui la necessità di fondare un’associazione culturale, il cui scopo sia di studiare le diverse teorie da cui nasce la cultura moderna e di studiare lo sviluppo della cultura mondiale, in modo tale da guidare alla soluzione critica dei problemi attuali.",
+      "zh": "此外，它还将通过辩论和文章，成为宣传的机关。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1289",
+      "sec": 18,
+      "it": "Essa sarà inoltre, attraverso dibattiti e articoli, un organismo di propaganda”.",
+      "zh": "”",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1290",
+      "sec": 18,
+      "it": "Da quanto su riportato possiamo osservare che il “nuovo villaggio” è il primo passo verso la costruzione di una nuova società.",
+      "zh": "由上所述可以看出，“新村”是建设新社会的第一步。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1291",
+      "sec": 18,
+      "it": "L’Associazione Aurora e l’Associazione culturale sono organismi per lo studio e la diffusione del Il movimento popolare in Giappone socialismo.",
+      "zh": "曙光社与文化协会是研究和传播社会主义的机关。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1292",
+      "sec": 18,
+      "it": "Questi diversi avvenimenti si sono verificati nell’arco di mezzo anno.",
+      "zh": "日本群众运动中的这些不同事件，都是在半年之内发生的。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1293",
+      "sec": 18,
+      "it": "Di recente si sono inoltre avute delle manifestazioni nel settore dell’istruzione di cui parleremo in seguito.",
+      "zh": "此外，最近教育界也发生了一些风潮，我们将在后面谈到。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1294",
+      "sec": 18,
+      "it": "NOTE",
+      "zh": "注释",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1295",
+      "sec": 18,
+      "it": "1..Attorno alla rivista Betulla bianca si raccoglieva un gruppo di intellettuali e artisti di",
+      "zh": "1. 围绕着《白桦》杂志，聚集着一群知识分子和艺术家……",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1296",
+      "sec": 18,
+      "it": "orientamento mistico, romantico e individualista, influenzato principalmente dall’opera di Leone Tolstoj.",
+      "zh": "神秘主义、浪漫主义和个人主义的倾向，主要受列夫·托尔斯泰著作的影响。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1297",
+      "sec": 18,
+      "it": "2..Il “nuovo villaggio” fu un esperimento di comunità agricola grazie alla quale realizzare",
+      "zh": "2.“新村”是农业公社的一项实验，借以实行",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1298",
+      "sec": 18,
+      "it": "i principi del comunismo “naturale” di Kropotkin e del socialismo cristiano di Tolstoj.",
+      "zh": "克鲁泡特金“自然”共产主义的原则和托尔斯泰的基督教社会主义。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1299",
+      "sec": 18,
+      "it": "3.. La Rivista settimanale fu edita a Pechino da Li Ta-chao dal²² dicembre 1918 al³⁰",
+      "zh": "3.《每周评论》由李大钊²²于1918年12月³⁰",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1300",
+      "sec": 18,
+      "it": "agosto 1919.",
+      "zh": "日至1919年8月在北京编辑出版。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1301",
+      "sec": 18,
+      "it": "Questo scritto comparve in tre puntate sui numeri², 3 e⁴ della Rivista del fiume Hsiang.",
+      "zh": "此文分三次连载，发表于《湘江评论》第²、3和⁴期。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1302",
+      "sec": 18,
+      "it": "La situazione del paese è giunta all’estremo, le sofferenze del popolo sono giunte all’estremo, l’oscurità che avvolge la società è giunta all’estremo.",
+      "zh": "国家的处境已到极端，人民的苦难已到极端，笼罩社会的黑暗已到极端。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1303",
+      "sec": 18,
+      "it": "Il mezzo per risanare, il mezzo per trasformare?",
+      "zh": "救国之道，改造之道何在？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1304",
+      "sec": 18,
+      "it": "Istruzione, sviluppo industriale, impegno, rapido progresso, distruzione, costruzione.",
+      "zh": "教育、实业发展、奋斗、猛进、破坏、建设。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1305",
+      "sec": 18,
+      "it": "Tutti metodi buoni, ma vi è un mezzo che sta alla base di tutti gli altri metodi ed è la grande unione delle masse popolari.",
+      "zh": "都是好方法，但有一种方法是一切其他方法的基础，那就是民众的大联合。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1306",
+      "sec": 18,
+      "it": "Se prendiamo in esame la storia, vediamo che i movimenti storici di qualsiasi tipo, tutti senza eccezione, sono nati da un’unione di varie persone.",
+      "zh": "我们回顾一下历史，就会发现：无论何种历史运动，无一例外，都是由若干人的联合所发起。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1307",
+      "sec": 18,
+      "it": "Un movimento piuttosto ampio necessita di un’unione piuttosto ampia.",
+      "zh": "运动越广泛，所需要的联合就越广泛。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1308",
+      "sec": 18,
+      "it": "Un movimento della massima ampiezza necessita di un’unione della massima ampiezza.",
+      "zh": "运动越宏大，所需要的联合就越宏大。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1309",
+      "sec": 18,
+      "it": "Quando c’è una riforma o una resistenza, queste unioni vengono sempre alla luce.",
+      "zh": "凡有改革，凡有抵抗，这种联合就必然涌现出来。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1310",
+      "sec": 18,
+      "it": "Nel corso della storia sia le riforme che le resistenze religiose, accademiche, politiche e sociali hanno sempre avuto le loro grandi unioni.",
+      "zh": "在历史上，宗教的、学术的、政治的、社会的种种改革与抵抗，无一不有其伟大的联合。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1311",
+      "sec": 18,
+      "it": "La vittoria o la sconfitta dipendono direttamente dalla solidità o fragilità dell’unione che ne è alla base, dal fatto che si tratti di un’unione che si fonda su teorie vecchie o nuove, vere o false, l’unico denominatore comune essendo comunque l’unione intesa come mezzo.",
+      "zh": "其胜败，直接取决于作为基础的联合之巩固或脆弱，取决于这种联合是建立在旧的或新的、真的或假的理论之上；然而唯一的共同点，在于联合始终被当作一种手段。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1312",
+      "sec": 18,
+      "it": "Dall’antichità in poi, le numerose unioni che si sono avute sono state per lo più unioni tra potenti, aristocratici, capitalisti.",
+      "zh": "自古迄今，历来所生的联合，大多是强者的联合、贵族的联合、资本家的联合。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1313",
+      "sec": 18,
+      "it": "In campo internazionale le varie alleanze e intese sono state unioni delle grandi potenze mondiali.",
+      "zh": "在国际范围内，各种同盟与协定，都是世界列强的联合。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1314",
+      "sec": 18,
+      "it": "Così ad esempio la cricca di Peiyang e la cricca di Hsinan in Cina e il clan Satsuma e il clan Chosou in Giappone¹ sono unioni tra i potenti interni.",
+      "zh": "例如中国的北洋派与西南派¹，日本的萨摩派与长州派，便是国内强者的联合。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1315",
+      "sec": 18,
+      "it": "Per esempio i partiti politici e i parlamenti dei vari paesi sono unioni tra aristocratici e capitalisti (la Camera alta o senato è la tana in cui si riuniscono gli aristocratici; la Camera bassa, per le leggi elettorali che la rendono accessibile a chi possiede una certa ricchezza, è occupata per la maggior parte da capitalisti).",
+      "zh": "又如各国的政党和议院，便是贵族与资本家的联合（贵族院或参议院，是贵族聚集的窠穴；众议院因选举法规定须有一定财产者始得当选，故多为资本家所盘踞）。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1316",
+      "sec": 18,
+      "it": "Se prendiamo i vari trust (il trust dell’acciaio, il trust degli olii combustibili, ecc.) e le varie compagnie (la Compagnia dei trasporti marittimi, la Compagnia ferroviaria della Manciuria, ecc.), essi non sono altro che unioni di capitalisti.",
+      "zh": "再如各种托辣斯（钢铁托辣斯、煤油托辣斯之类）和各种公司（轮船公司、满洲铁路公司之类），亦无非资本家的联合。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1317",
+      "sec": 18,
+      "it": "Ai nostri tempi, le unioni tra potenti, aristocratici e capitalisti hanno raggiunto il loro culmine, per questo la situazione del paese è giunta all’estremo, le sofferenze del popolo sono giunte all’estremo, l’oscurità che avvolge la società è giunta all’estremo.",
+      "zh": "到了现代，强者、贵族、资本家的联合，已臻极盛，因之国事危殆至于极点，人民痛苦至于极点，社会黑暗亦至于极点。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1318",
+      "sec": 18,
+      "it": "Da qui sorgono esigenza di riforme e",
+      "zh": "于是改革之要求、",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1319",
+      "sec": 19,
+      "it": "LA GRANDE UNIONE DELLE MASSE POPOLARI",
+      "zh": "民众的大联合",
+      "head": true,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1320",
+      "sec": 19,
+      "it": "(21 luglio, 28 luglio, 4 agosto 1919) resistenze.",
+      "zh": "（1919年7月21日、7月28日、8月4日）的反抗。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1321",
+      "sec": 19,
+      "it": "Di qui viene fuori la grande unione delle masse popolari.",
+      "zh": "于是民众的大联合便由此而生。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1322",
+      "sec": 19,
+      "it": "Da quando in Francia la grande unione delle masse popolari, contro la grande unione dei monarchici, ha ottenuto la vittoria della riforma politica, in vari paesi si sono avute molte riforme politiche.",
+      "zh": "自从法国民众的大联合反对君党的大联合，获得政治改革的胜利以来，各国纷纷进行了许多政治改革。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1323",
+      "sec": 19,
+      "it": "Da quando lo scorso anno in Russia la grande unione delle masse popolari contro la grande unione di aristocratici e capitalisti ha ottenuto la vittoria della riforma sociale, in molti paesi come l’Ungheria, l’Austria, la Cecoslovacchia, la Germania si sono susseguite molte riforme sociali.",
+      "zh": "自从去年俄国民众的大联合反对贵族资本家的大联合，获得社会改革的胜利以来，匈牙利、奥地利、捷克斯洛伐克、德国等国相继进行了许多社会改革。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1324",
+      "sec": 19,
+      "it": "Anche se questa vittoria non è ancora completa, è tuttavia suscettibile di diventarlo, di diffondersi nel mondo intero, questo lo si può già intravedere.",
+      "zh": "这一胜利虽然尚未彻底完成，但它完全有可能彻底完成，并推及于全世界，这已经是显而易见了。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1325",
+      "sec": 19,
+      "it": "Perché la grande unione delle masse popolari è tanto forte?",
+      "zh": "民众的大联合何以如此强大？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1326",
+      "sec": 19,
+      "it": "Per il fatto che in ogni paese le masse sono molto più numerose di aristocratici, capitalisti e altri potenti.",
+      "zh": "因为各国民众的人数远多于贵族、资本家及其他权势者。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1327",
+      "sec": 19,
+      "it": "Se aristocratici, capitalisti e altri potenti sono così poco numerosi, come possono allora conservare i loro privilegi e sfruttare le plebi legate da comuni interessi e che sono la maggioranza?",
+      "zh": "贵族、资本家及其他权势者人数既然如此之少，他们又如何能保住自己的特权，剥削因共同利益而联结起来的、占多数的平民呢？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1328",
+      "sec": 19,
+      "it": "Attraverso la conoscenza, il denaro e la forza delle armi.",
+      "zh": "靠的是知识、金钱和武力。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1329",
+      "sec": 19,
+      "it": "Da sempre l’istruzione è stata appannaggio di aristocratici e capitalisti, la plebe non ha mai avuto la possibilità di accedervi.",
+      "zh": "教育从来就是贵族和资本家的专利，平民百姓从来没有机会接受教育。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1330",
+      "sec": 19,
+      "it": "Poiché soltanto aristocratici e capitalisti possedevano la conoscenza, da questo privilegio è sorta la divisione della popolazione nelle classi dei colti e degli ignoranti.",
+      "zh": "由于只有贵族和资本家占有知识，正是这种特权造成了人口中知识阶级与无知识阶级的分化。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1331",
+      "sec": 19,
+      "it": "Il denaro è un intermediario della vita sociale e un tempo tutti potevano usarne ma gli aristocratici e i capitalisti che possedevano la conoscenza hanno escogitato vari sistemi per concentrare le risorse produttive in modo tale che i soldi affluiscano progressivamente nelle mani di proprietari fondiari e padroni di fabbriche.",
+      "zh": "金钱是社会生活的中介，从前人人都可以使用，但是占有知识的贵族和资本家想出种种办法，把生产资料集中起来，使金钱逐渐流入地主和厂主的腰包。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1332",
+      "sec": 19,
+      "it": "Costoro hanno trovato il modo di impossessarsi della terra, delle macchine, delle case, di ciò che chiamano “beni immobili”.",
+      "zh": "这些人还找到了办法，把土地、机器、房屋据为己有，即所谓\"不动产\"。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1333",
+      "sec": 19,
+      "it": "Ciò che chiamano “beni mobili”, il denaro, lo presero e lo depositarono nei loro forzieri (le banche).",
+      "zh": "至于所谓\"动产\"，即金钱，则被他们拿去存放在自己的钱柜（银行）里。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1334",
+      "sec": 19,
+      "it": "Le migliaia e migliaia di persone che lavorano per loro ricevono occasionalmente pochi spiccioli, un franco o un penny.",
+      "zh": "千千万万为他们做工的人，偶尔只得到几个铜板、一个法郎或一个便士。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1335",
+      "sec": 19,
+      "it": "Chi lavora non ha soldi e quindi nascono la classe dei poveri e la classe dei ricchi.",
+      "zh": "做工的人没有钱，于是产生了穷人阶级和富人阶级。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1336",
+      "sec": 19,
+      "it": "Aristocratici e capitalisti che posseggono conoscenza e denaro, hanno creato campi di addestramento per i soldati e fabbriche per produrre fucili. Con la scusa dell’“aggressione esterna” hanno formato decine di divisioni e reggimenti, centinaia di compagnie.",
+      "zh": "有知识有钱的贵族和资本家，开办了培养士兵的学校和制造枪械的工厂，借口“外敌侵略”，建立起几十师、几百团，又发明了征兵制度。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1337",
+      "sec": 19,
+      "it": "Per di più hanno inventato il sistema della coscrizione obbligatoria. I figli robusti che sono entrati nell’esercito, quando si determinano situazioni critiche tirano fuori le mitragliatrici per sparare contro i loro stessi deboli genitori.",
+      "zh": "身体强壮的子弟当了兵，遇有危急，便拿出机关枪，对着自己的父母同胞射击。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1338",
+      "sec": 19,
+      "it": "Osserviamo ad esempio quello che è successo l’anno scorso quando l’armata meridionale sconfitta si è ritirata dallo Hunan²: non hanno forse ammazzato parecchi dei loro stessi vecchi?",
+      "zh": "请看去年南军战败退出湖南²时的情形，不是杀死了他们好些个自己的人吗？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1339",
+      "sec": 19,
+      "it": "Aristocratici e capitalisti si servono di questi bei metodi, la plebe non ha il coraggio di ribellarsi ed ecco che nascono le classi dei forti e dei deboli.",
+      "zh": "贵族和资本家用了这些美妙的方法，贫民不敢反抗，强者和弱者的阶级便由此产生了。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1340",
+      "sec": 19,
+      "it": "Ma, per fortuna, di questi loro tre metodi pian piano la plebe ne ha imparato di nascosto quanto basta.",
+      "zh": "所幸，平民百姓已经逐渐把这三套办法暗中学会了。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1341",
+      "sec": 19,
+      "it": "Senza dire niente a nessuno ha letto un po’ di libri di testo che loro tengono nascosti come “segreti sotto il cuscino” e pian piano ha acquisito anch’essa conoscenza.",
+      "zh": "他们不做声张，读了一些那些老爷们当作“枕下秘本”藏起来的教科书，也渐渐有了知识。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1342",
+      "sec": 19,
+      "it": "Da parecchio tempo la plebe vede il denaro che esce dai campi e dalle fabbriche perché ci sta dentro e guarda con gli occhi arrossati dal desiderio quel benessere di cui godono i capitalisti, vuole in qualche modo partecipare alla spartizione di tutto ciò.",
+      "zh": "长期以来，平民百姓亲眼看见田地和工厂里流出的钱，因为他们身在其中，他们眼睛发红、带着渴望，看着资本家们享受的那种富足，总想设法也来分上一杯羹。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1343",
+      "sec": 19,
+      "it": "I soldati che stanno nei campi militari non sono altro che i loro stessi figli, fratelli o mariti.",
+      "zh": "驻扎在军营里的士兵，不是别人，正是他们自己的儿女、兄弟或丈夫。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1344",
+      "sec": 19,
+      "it": "Nel momento in cui essi spareranno con le mitragliatrici contro la plebe, un grido potente si leverà e questo grido farà sì che i loro proiettili diventino ben presto fango molle.",
+      "zh": "等到他们举起机枪向平民扫射的时候，一声怒吼就会冲天而起，这怒吼将使他们的子弹很快变成软泥。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1345",
+      "sec": 19,
+      "it": "D’istinto si stringeranno le mani e quegli stessi soldati diventeranno i più valorosi oppositori di aristocratici e capitalisti.",
+      "zh": "他们会本能地互相握手言和，而那些士兵自己就会变成反对贵族和资本家的最英勇的战士。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1346",
+      "sec": 19,
+      "it": "Così è successo in Russia dove un esercito di centomila audaci all’improvviso ha sostituito la bandiera rossa alla bandiera con l’aquila.",
+      "zh": "俄国发生的事就是这样，一支十万人的无畏大军，忽然之间就把红旗换成了原来的旗帜。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1347",
+      "sec": 19,
+      "it": "Possiamo ora capire come in tutto ciò ci sia una ragione profonda.",
+      "zh": "现在我们可以明白，这一切之中自有深刻的道理。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1348",
+      "sec": 19,
+      "it": "La plebe ormai ha intravisto e scoperto i tre metodi usati da aristocratici e capitalisti.",
+      "zh": "民众如今已经看清并识破了贵族和资本家所采用的三套办法。他们懂得，这些人为了实际推行这三套办法，是借助于联合这一工具的。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1349",
+      "sec": 19,
+      "it": "Sa che costoro per dare attuazione pratica a questi tre metodi sono ricorsi allo strumento dell’unione.",
+      "zh": "不仅如此，他们还觉悟到：他们人数很少，而我们人数很多。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1350",
+      "sec": 19,
+      "it": "Non solo, ha anche preso coscienza del fatto che il loro numero è esiguo, mentre il nostro è grande.",
+      "zh": "因此我们必须大联合。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1351",
+      "sec": 19,
+      "it": "Per questo dobbiamo unirci su vasta scala.",
+      "zh": "联合起来之后，就有两条作法³。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1352",
+      "sec": 19,
+      "it": "Una volta fatta l’unione, due sono i modi di operare³.",
+      "zh": "有一派人，为了同贵族和资本家作一个了结，采用一种激烈的办法，即\"以其人之道还治其人之身\"。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1353",
+      "sec": 19,
+      "it": "C’è un gruppo che per farla finita con aristocratici e capitalisti adotta un metodo violento, vale a dire “combattere i nemici con gli stessi metodi dei nemici”.",
+      "zh": "这派最重要的代表人物，是一个生于德国名叫马克思的人。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1354",
+      "sec": 19,
+      "it": "L’esponente più importante di questo gruppo è un uomo nato in Germania di nome Marx.",
+      "zh": "另一派人则比较温和。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1355",
+      "sec": 19,
+      "it": "L’altro gruppo è piuttosto moderato.",
+      "zh": "他们不求立刻见到成效，而首先致力于了解民众的处境。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1356",
+      "sec": 19,
+      "it": "Non si preoccupa di vedere immediatamente i risultati, ma per prima cosa cerca di conoscere la situazione della plebe.",
+      "zh": "人人都要达到一种道德，即相互帮助、自觉工作。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1357",
+      "sec": 19,
+      "it": "Tutti devono raggiungere una morale che li porti ad aiutarsi gli uni con gli altri e a lavorare di loro propria iniziativa.",
+      "zh": "贵族和资本家，只要他们对自己的过去错误悔过自新，转而从事工作，帮助别人而不是损害别人，就不加以肉体消灭。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1358",
+      "sec": 19,
+      "it": "Aristocratici e capitalisti, nella misura in cui si pentono dei loro passati errori e si mettono a lavorare, aiutando gli altri invece di danneggiarli, non verranno eliminati fisicamente.",
+      "zh": "这派人的思想更为远大、更为深刻。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1359",
+      "sec": 19,
+      "it": "L’idea degli esponenti di questo gruppo è di più vasta portata e più profonda.",
+      "zh": "他们要把全世界合成一个国家，把全人类合成一个家族，相亲相爱（不是日本式的相爱！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1360",
+      "sec": 19,
+      "it": "Costoro vogliono fare del mondo un unico paese, degli uomini tutti un’unica famiglia, in pace e in amicizia (non la versione giapponese dell’amicizia!) 4 per raggiungere tutti un’epoca di benessere.",
+      "zh": "）⁴，共同达到一个幸福的时代。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1361",
+      "sec": 19,
+      "it": "L’esponente più importante di questo gruppo è un uomo nato in Russia di nome Kropotkin.",
+      "zh": "这派最重要的代表人物，是一个生于俄国名叫克鲁泡特金的人。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1362",
+      "sec": 19,
+      "it": "Noi dobbiamo sapere che nel mondo le cose sono per loro natura facili da fare; le cose che sono difficili, lo sono a causa della forza della storia, dell’abitudine.",
+      "zh": "我们应该知道，世界上的事情，本来是容易做的；之所以有难事，是由于历史势力、习惯势力的缘故。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1363",
+      "sec": 19,
+      "it": "Se riuscissimo a unirci tutti e a gridare assieme, cosa ne sarebbe di questa forza della storia?",
+      "zh": "如果我们能够团结起来，齐声呐喊，这股历史的力量将如何呢？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1364",
+      "sec": 19,
+      "it": "Se ci uniamo su scala ancora più grande, quando ci scontriamo con qualcosa che riteniamo ingiusto, serreremo i nostri ranghi e lanceremo un grande grido.",
+      "zh": "如果我们更大规模地联合起来，遇到我们认为不公的事情时，就会紧密团结，发出一声伟大的呐喊。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1365",
+      "sec": 19,
+      "it": "Ne abbiamo già avuto delle prove: i proiettili di Lu Jung-ting non sono mai riusciti ad abbattere traditori come Tsao Ju-lin⁵.",
+      "zh": "我们已经有过了这样的例证：陆荣廷的子弹从未能打倒曹汝霖⁵这样的卖国贼。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1366",
+      "sec": 19,
+      "it": "Ma quando noi ci leveremo in piedi e lanceremo il nostro grido, allora i traditori si alzeranno in piedi tremando La grande unione delle masse popolari e scapperanno a gambe levate.",
+      "zh": "但是当我们奋起发出呐喊时，卖国贼就会浑身发抖地站起来逃之夭夭。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1367",
+      "sec": 19,
+      "it": "Noi dobbiamo sapere che i fratelli di altri paesi hanno spesso usato questo metodo per conquistare vantaggi.",
+      "zh": "我们必须知道，别国的兄弟常常使用这种方法来争取利益。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1368",
+      "sec": 19,
+      "it": "Anche noi dobbiamo agire come loro, anche noi dobbiamo dar vita alla nostra grande unione!",
+      "zh": "我们也必须像他们一样行动，我们也必须实现我们民众的大联合！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1369",
+      "sec": 19,
+      "it": "Prendere come base una piccola unione Nella puntata precedente abbiamo parlato della possibilità e necessità della grande unione delle masse popolari.",
+      "zh": "以小联合为基础 上一篇我们谈了民众大联合的可能性和必要性。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1370",
+      "sec": 19,
+      "it": "In questa puntata affronteremo il problema: qual è il metodo migliore per realizzare questa grande unione?",
+      "zh": "这一篇我们要讨论的问题是：实现这一大联合的最好方法是什么？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1371",
+      "sec": 19,
+      "it": "Vale a dire le piccole unioni di masse popolari.",
+      "zh": "那就是民众的小联合。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1372",
+      "sec": 19,
+      "it": "Il nostro punto di partenza è che per far fronte ai potenti e velenosi uomini che si oppongono a noi e per perseguire i nostri interessi abbiamo bisogno di una grande unione.",
+      "zh": "我们的出发点是：为了对付反对我们的强暴而狠毒的人，为了追求我们的利益，我们需要一个大联合。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1373",
+      "sec": 19,
+      "it": "Ne segue che dobbiamo avere ogni genere di piccole unioni che servano di base alla grande unione⁶.",
+      "zh": "由此可以得出，我们必须建立各种各样的小联合，作为大联合的基础⁶。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1374",
+      "sec": 19,
+      "it": "Noi, razza umana, abbiamo per natura la dote innata di unirci assieme, vale a dire la dote di essere in grado di organizzare società.",
+      "zh": "我们人类天生有一种才能，即联合的才能，也就是能组成社会的才能。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1375",
+      "sec": 19,
+      "it": "Ciò che chiamiamo unioni non sono altro che i gruppi e le società.",
+      "zh": "我们所谓联合，无非是许多人和许多人集合起来。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1376",
+      "sec": 19,
+      "it": "Vi sono gruppi grandi e gruppi piccoli, società grandi e società piccole, unioni grandi e unioni piccole: tutto ciò non è altro che la medesima cosa sotto nomi diversi.",
+      "zh": "有大群，有小群，有大社会，有小社会，有大联合，有小联合：这不过是名目上的不同罢了。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1377",
+      "sec": 19,
+      "it": "Il motivo per cui vogliamo formare gruppi, società e unioni è perché vogliamo realizzare i nostri comuni interessi.",
+      "zh": "我们所以要结成团体、组成社会、实现联合，是因为要求得我们的共同利益。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1378",
+      "sec": 19,
+      "it": "Tuttavia, poiché le nostre condizioni e occupazioni sono diversificate, si riscontrano alcune differenze, sia grandi che piccole, anche nell’ambito dei nostri interessi comuni.",
+      "zh": "但是，因为我们的条件和职业各不相同，我们的共同利益之中不免有或大或小的差别。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1379",
+      "sec": 19,
+      "it": "Poiché si riscontrano differenze sia grandi che piccole nei nostri comuni interessi, il metodo (ovvero l’unione) per realizzare i nostri comuni interessi presenterà alcune differenze, sia grandi che piccole.",
+      "zh": "我们的共同利益之中既有或大或小的差别，那么实现我们共同利益的方法（即联合）也就不能不有或大或小的差别了。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1380",
+      "sec": 19,
+      "it": "Amici!",
+      "zh": "朋友们！我们是农夫。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1381",
+      "sec": 19,
+      "it": "Noi siamo contadini.",
+      "zh": "所以我们要求与种田的人结成联合，以求实现我们种田人的各种共同利益。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1382",
+      "sec": 19,
+      "it": "Pertanto vogliamo unirci a coloro che coltivano la terra, al fine di realizzare i vari interessi comuni di noi che coltiviamo la terra.",
+      "zh": "我们种田人的利益，只有我们种田人自己去求，别种人是不能帮我们实现的。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1383",
+      "sec": 19,
+      "it": "Gli interessi di noi che coltiviamo la terra siamo soltanto noi che possiamo farli valere, difatti coloro che non coltivano la terra hanno interessi diversi dai nostri e non possono assolutamente aiutarci a raggiungerli.",
+      "zh": "别种人的利益，和我们的利益完全不同，断不能帮我们一点忙。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1384",
+      "sec": 19,
+      "it": "Amici che coltivate la terra!",
+      "zh": "种田的朋友们！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1385",
+      "sec": 19,
+      "it": "Come ci trattano i proprietari terrieri?",
+      "zh": "地主是怎样待我们的？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1386",
+      "sec": 19,
+      "it": "Le tasse e gli affitti sono onerosi o leggeri?",
+      "zh": "捐税重呢，还是轻呢？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1387",
+      "sec": 19,
+      "it": "Le nostre case sono confortevoli o no?",
+      "zh": "我们的住屋舒服不舒服呢？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1388",
+      "sec": 19,
+      "it": "Le nostre pance sono piene o vuote?",
+      "zh": "我们的肚子饱不饱呢？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1389",
+      "sec": 19,
+      "it": "La terra è sufficiente?",
+      "zh": "我们的田地够不够种呢？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1390",
+      "sec": 19,
+      "it": "Nel villaggio ci sono o no persone che non hanno terra da coltivare?",
+      "zh": "村子里有没有没田种的人呢？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1391",
+      "sec": 19,
+      "it": "Dobbiamo con costanza cercare di trovare una soluzione a tutti questi problemi.",
+      "zh": "我们必须一一想法子解决这些问题。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1392",
+      "sec": 19,
+      "it": "Dobbiamo pertanto unirci a tutti coloro che fanno il nostro stesso lavoro e cercare assieme soluzioni chiare e concrete.",
+      "zh": "因此，我们必须同所有从事同样工作的人联合起来，共同寻求明确而具体的解决办法。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1393",
+      "sec": 19,
+      "it": "Amici!",
+      "zh": "朋友们！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1394",
+      "sec": 19,
+      "it": "Noi siamo operai.",
+      "zh": "我们是工人。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1395",
+      "sec": 19,
+      "it": "Pertanto vogliamo unirci a coloro che lavorano come noi, al fine di realizzare i diversi interessi di noi operai.",
+      "zh": "因此，我们要同和我们一样劳动的人联合起来，以实现我们工人的各种利益。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1396",
+      "sec": 19,
+      "it": "Non possiamo fare a meno di trovare una soluzione ai problemi che riguardano noi operai: il salario è tanto o poco?",
+      "zh": "我们必须解决涉及我们工人的种种问题：工资是多还是少？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1397",
+      "sec": 19,
+      "it": "La nostra giornata lavorativa è lunga o breve?",
+      "zh": "我们的工作日是长还是短？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1398",
+      "sec": 19,
+      "it": "I prodotti del lavoro vengono ripartiti in maniera equa o no?",
+      "zh": "劳动产品分配得公平不公平？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1399",
+      "sec": 19,
+      "it": "Le nostre possibilità di svago sono aumentate o no?",
+      "zh": "我们的娱乐机会增加了没有？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1400",
+      "sec": 19,
+      "it": "Dobbiamo pertanto unirci a tutti coloro che fanno il nostro stesso lavoro, cercare assieme soluzioni chiare e concrete.",
+      "zh": "因此，我们必须同所有从事同样工作的人联合起来，共同寻求明确而具体的解决办法。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1401",
+      "sec": 19,
+      "it": "Amici!",
+      "zh": "同学们！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1402",
+      "sec": 19,
+      "it": "Noi siamo studenti.",
+      "zh": "我们是学生。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1403",
+      "sec": 19,
+      "it": "Viviamo in modo penoso.",
+      "zh": "我们过着困苦的生活。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1404",
+      "sec": 19,
+      "it": "I professori che ci fanno lezione ci trattano come fossimo dei delinquenti, ci umiliano come fossimo degli schiavi, ci tengono sotto chiave come fossimo dei prigionieri.",
+      "zh": "给我们讲课的先生把我们当犯人看待，像对待奴隶一样侮辱我们，又像关押囚犯一样把我们锁起来。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1405",
+      "sec": 19,
+      "it": "Nelle nostre aule le finestre sono talmente minuscole che neppure un raggio di sole arriva a toccare la lavagna, per questo diventiamo miopi.",
+      "zh": "我们的教室窗户小得连一线阳光都照不到黑板上，因此我们成了近视眼。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1406",
+      "sec": 19,
+      "it": "I banchi sono assolutamente inadatti e se ci rimaniamo seduti troppo a lungo ci viene la scoliosi.",
+      "zh": "课桌完全不合适，坐得久了便患上脊椎病。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1407",
+      "sec": 19,
+      "it": "L’unico interesse dei professori è di farci leggere un sacco di libri e ne abbiamo letti davvero parecchi, ma non ci capiamo niente e non facciamo altro che esercitare a vuoto la nostra memoria.",
+      "zh": "先生们唯一关心的事就是逼我们读一大堆书，书我们确实读了不少，但什么都不懂，不过是在徒然地操练我们的记忆力罢了。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1408",
+      "sec": 19,
+      "it": "La nostra vista è annebbiata, il nostro cervello è confuso, il sangue non circola come dovrebbe, i nostri volti sono pallidi e diventiamo anemici.",
+      "zh": "我们视线模糊，头脑昏沉，血液不能照常流通，面色苍白，患了贫血症。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1409",
+      "sec": 19,
+      "it": "Ci ammaliamo di esaurimento nervoso.",
+      "zh": "我们还害了神经衰弱。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1410",
+      "sec": 19,
+      "it": "Per questo motivo ci riduciamo a essere più morti che vivi.",
+      "zh": "这样一来，我们简直变得半死不活。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1411",
+      "sec": 19,
+      "it": "Perché mai siamo tanto privi di vivacità?",
+      "zh": "为什么我们如此没有生气？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1412",
+      "sec": 19,
+      "it": "Perché siamo tanto appassiti?",
+      "zh": "为什么我们如此萎靡不振？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1413",
+      "sec": 19,
+      "it": "Ahimè!",
+      "zh": "唉！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1414",
+      "sec": 19,
+      "it": "Per il semplice fatto che i professori ci costringono a stare immobili e sempre zitti.",
+      "zh": "无非是因为先生们强迫我们一动不动、成天默不作声。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1415",
+      "sec": 19,
+      "it": "E così ci viene una sorta di rigor mortis.",
+      "zh": "于是我们身上便有一种死尸僵硬之感。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1416",
+      "sec": 19,
+      "it": "Eppure tutte queste sofferenze fisiche non sono la cosa peggiore, signori!",
+      "zh": "然而诸位！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1417",
+      "sec": 19,
+      "it": "Date un po’ un’occhiata ai nostri laboratori!",
+      "zh": "这一切肉体上的痛苦还算不得最糟的事。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1418",
+      "sec": 19,
+      "it": "Angusti, miseri; solo qualche apparecchio a tal punto scassato che non riusciamo più a fare esperimenti di sorta.",
+      "zh": "请你们看看我们的实验室吧！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1419",
+      "sec": 19,
+      "it": "I nostri professori di lingua cinese sono dei capoccioni ostinati.",
+      "zh": "又窄又破，只有几件仪器，还破烂得根本无法做任何实验。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1420",
+      "sec": 19,
+      "it": "Hanno la bocca sempre piena di “come si legge nel Libro delle odi”, oppure di “il maestro dice”, ma alla fine non capiscono assolutamente nulla.",
+      "zh": "我们的国文先生都是些顽固的老朽。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1421",
+      "sec": 19,
+      "it": "Non si rendono conto che viviamo nel XX secolo, ci costringono a osservare i “riti antichi” e a seguire le “antiche regole”, ci riempiono la testa di un sacco di composizioni che puzzano di morto scritte in stile classico.",
+      "zh": "他们满口\"诗云\"\"子曰\"，其实什么都不懂。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1422",
+      "sec": 19,
+      "it": "Le nostre sale di lettura sono deserte.",
+      "zh": "他们不明白我们生活在二十世纪，硬逼我们遵守\"古礼\"，遵循\"古训\"，拿一大堆散发着陈腐气味的古文把我们的头脑塞满。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1423",
+      "sec": 19,
+      "it": "Le nostre sale di ricreazione sono luride.",
+      "zh": "我们的阅览室空空如也，我们的游艺室肮脏不堪。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1424",
+      "sec": 19,
+      "it": "Il paese è sul punto di crollare, eppure costoro attaccano avvisi in cui ci viene proibito di amare come si deve la patria.",
+      "zh": "国家危在旦夕，这些人却张贴告示，禁止我们正当地爱国。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1425",
+      "sec": 19,
+      "it": "Avete visto quanto favore ha incontrato da parte loro l’attuale movimento⁷ per la salvezza nazionale!",
+      "zh": "诸位看见了他们对待当前的救国运动⁷是何等的敌视！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1426",
+      "sec": 19,
+      "it": "Ahimè!",
+      "zh": "唉！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1427",
+      "sec": 19,
+      "it": "Chi è che ci ha tanto torturato, sia fisicamente sia moralmente e ci ha reso tanto infelici?",
+      "zh": "是谁使我们受到这样的痛苦，无论是肉体上还是精神上，使我们如此不幸？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1428",
+      "sec": 19,
+      "it": "Se non ci uniamo per dedicarci alla nostra autoistruzione, allora cosa aspettiamo?",
+      "zh": "如果我们不团结起来致力于自我教育，那我们还等待什么呢？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1429",
+      "sec": 19,
+      "it": "Siamo già annegati in un mare di sofferenze e chiediamo che ci venga dato il modo di salvare noi stessi.",
+      "zh": "我们已经沉溺于苦海的深渊，我们要求得到自救的方法。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1430",
+      "sec": 19,
+      "it": "L’autoistruzione inventata da Rousseau è quanto di più adatto ci sia al nostro scopo.",
+      "zh": "卢梭所创造的自我教育，正是最合乎我们目的的办法。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1431",
+      "sec": 19,
+      "it": "Uniamoci dunque con quanti più compagni possibili e studiamo per conto nostro.",
+      "zh": "让我们团结尽可能多的同伴，自己学习。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1432",
+      "sec": 19,
+      "it": "Non facciamo conto su quei signori che azzannano la gente.",
+      "zh": "我们不要依靠那些咬人的老爷们。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1433",
+      "sec": 19,
+      "it": "E se succede qualcosa, come la tirannia che i potenti del Giappone e i potenti di casa nostra esercitano su di noi, allora raduneremo le nostre schiere e leveremo contro costoro un grido grande e potente.",
+      "zh": "如果发生什么事情，比如日本强人和本国强人向我们施加暴政，那么我们就集合我们的队伍，向他们发出强大而响亮的怒吼。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1434",
+      "sec": 19,
+      "it": "Amici!",
+      "zh": "朋友们！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1435",
+      "sec": 19,
+      "it": "Noi siamo donne.",
+      "zh": "我们是女子。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1436",
+      "sec": 19,
+      "it": "Anneghiamo ancora di più in un mare di sofferenze!",
+      "zh": "我们更是沉溺于苦海的深渊之中！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1437",
+      "sec": 19,
+      "it": "Noi pure siamo esseri umani, perché dunque non ci viene concesso di prendere La grande unione delle masse popolari parte attivamente alla politica?",
+      "zh": "我们同样是人，为什么不允许我们积极参与平民大联合的政治？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1438",
+      "sec": 19,
+      "it": "Noi pure siamo esseri umani, perché dunque non ci viene concesso di avere normali contatti sociali?",
+      "zh": "我们同样是人，为什么不允许我们进行正常的社会交往？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1439",
+      "sec": 19,
+      "it": "Ce ne stiamo raggruppate in tante piccole tane le une separate dalle altre e non ci viene neppure permesso di uscire dal portone.",
+      "zh": "我们被封闭在许许多多彼此隔绝的小屋中，连大门也不许出。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1440",
+      "sec": 19,
+      "it": "Gli uomini svergognati, gli uomini malvagi ci usano come giocattoli e ci costringono a prostituirci a loro a tempo indeterminato.",
+      "zh": "无耻的男人们、邪恶的男人们把我们当作玩物，强迫我们无限期地委身于他们。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1441",
+      "sec": 19,
+      "it": "Sono demoni che distruggono la libertà dell’amore!",
+      "zh": "他们是毁灭恋爱自由的魔鬼！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1442",
+      "sec": 19,
+      "it": "Sono demoni che distruggono la sacralità dell’amore!",
+      "zh": "他们是毁灭恋爱神圣的魔鬼！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1443",
+      "sec": 19,
+      "it": "Ci ronzano attorno tutti i giorni, ma la cosiddetta castità è un problema circoscritto solo a noi donne!",
+      "zh": "他们终日在我们身边纠缠，而所谓贞操问题却只局限于我们女子！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1444",
+      "sec": 19,
+      "it": "“Templi dedicati alle donne virtuose” se ne trovano ovunque, ma dove sono i “Templi dedicati ai giovani casti”!",
+      "zh": "“贞女祠”到处都有，但“贞男祠”又在哪里！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1445",
+      "sec": 19,
+      "it": "Tra di noi alcune sono riunite assieme in scuole femminili, ma i nostri insegnanti non sono altro che uomini svergognati e malvagi.",
+      "zh": "我们之中有些人聚在女子学校里，但我们的教师无非是无耻邪恶的男人。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1446",
+      "sec": 19,
+      "it": "Ci parlano tutto il giorno di cose del tipo “come essere madri virtuose e brave spose”, ma in realtà non ci insegnano altro che a prostituirci a tempo indeterminato allo stesso uomo, hanno paura che non ci lasciamo imbrigliare e allora fanno di tutto per indottrinarci per bene.",
+      "zh": "他们整天对我们说什么“怎样做贤母良妻”，其实不过是教我们对同一个男人无限期地卖身，他们生怕我们不受束缚，于是竭力给我们灌输这些东西。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1447",
+      "sec": 19,
+      "it": "Sofferenza!",
+      "zh": "苦难！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1448",
+      "sec": 19,
+      "it": "Sofferenza!",
+      "zh": "苦难！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1449",
+      "sec": 19,
+      "it": "Spirito della libertà, dove sei!",
+      "zh": "自由之神，你在哪里！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1450",
+      "sec": 19,
+      "it": "Vieni presto a salvarci!",
+      "zh": "快快来拯救我们！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1451",
+      "sec": 19,
+      "it": "Oggi ci siamo risvegliate!",
+      "zh": "今天我们觉醒了！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1452",
+      "sec": 19,
+      "it": "Vogliamo mettere in piedi un’unione di noi donne.",
+      "zh": "我们要组织起我们女子的联合会。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1453",
+      "sec": 19,
+      "it": "Vogliamo spazzar via tutti quei demoni che ci violentano e distruggono la libertà dei nostri cuori e del nostro spirito!",
+      "zh": "我们要扫除一切强奸我们、摧残我们心灵与精神自由的魔鬼！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1454",
+      "sec": 19,
+      "it": "Amici!",
+      "zh": "朋友们！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1455",
+      "sec": 19,
+      "it": "Noi siamo maestri elementari, facciamo lezione tutto il giorno e non abbiamo un momento libero!",
+      "zh": "我们是小学教员，整天上课，没有一刻空闲！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1456",
+      "sec": 19,
+      "it": "Mangiamo tutto il giorno la polvere dei gessi e non abbiamo neppure un luogo dove riposarci.",
+      "zh": "整天吃着粉笔灰，连个休息的地方都没有。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1457",
+      "sec": 19,
+      "it": "In una città grande come questa ci sono alcune centinaia se non migliaia di maestri elementari, eppure non esiste un luogo di ricreazione a noi destinato.",
+      "zh": "像这样一个大城市，有几百乃至上千名小学教员，却连一个给我们娱乐的场所都没有。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1458",
+      "sec": 19,
+      "it": "Se dobbiamo insegnare, dobbiamo costantemente aumentare il nostro bagaglio di conoscenze, eppure non esiste un’organizzazione per l’aggiornamento scientifico di cui disporre.",
+      "zh": "要教书，就要不断增长学问，却没有一个进修科学文化的组织可供利用。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1459",
+      "sec": 19,
+      "it": "Ci sono tante ore di lezione scandite dal suono ricorrente della campanella e sono talmente tante che non ci rimane neanche un po’ di tempo, neanche un po’ di forza per lo studio e la ricerca; non ce la facciamo più.",
+      "zh": "上下课的铃声日复一日地响个不停，课时多得我们连一点时间、一点精力都无法用于学习和研究；我们实在吃不消了。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1460",
+      "sec": 19,
+      "it": "Per questo ci trasformiamo in grammofoni, non facciamo altro che recitare le lezioni che a suo tempo ci sono state impartite dai nostri vecchi professori.",
+      "zh": "因此我们变成了留声机，只会照本宣科地复述当年老教员给我们讲过的课程。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1461",
+      "sec": 19,
+      "it": "Le nostre pance hanno fame, il nostro stipendio mensile si aggira intorno agli⁸-10 yuan, e ci sono anche delle detrazioni.",
+      "zh": "我们的肚子在挨饿，月薪不过⁸⁻¹⁰元，还常有克扣。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1462",
+      "sec": 19,
+      "it": "Alcuni direttori didattici, imitando il metodo di “tagliare una parte di cereali al soldato”, intascano il denaro che il governo ha stanziato per la scuola.",
+      "zh": "有些教务主任模仿“吃空额”的办法，把政府拨给学校的钱中饱私囊。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1463",
+      "sec": 19,
+      "it": "Poiché mancano i soldi, ci troviamo a vivere nella condizione di scapoli pur avendo moglie.",
+      "zh": "由于缺钱，我们虽有妻室，却过着光棍的生活。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1464",
+      "sec": 19,
+      "it": "Noi e le nostre amate mogli viviamo ognuno per proprio conto, separati da parecchie decine o centinaia di li, con lo sguardo rivolto l’uno verso l’altra.",
+      "zh": "我们和心爱的妻子天各一方，隔着几十里、几百里，只能遥遥相望。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1465",
+      "sec": 19,
+      "it": "Essere maestri elementari dovrebbe essere una missione per tutta la vita, secondo quanto dice la pedagogia, ma come si può pretendere che restiamo per tutta la vita scapoli o vedove?",
+      "zh": "按教育学的说法，当小学教员应当是终身的事业，但怎能要求我们终身做光棍、守活寡呢？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1466",
+      "sec": 19,
+      "it": "Secondo la pedagogia i maestri con le famiglie dovrebbero vivere nella scuola, se si vuole che servano da modelli per gli alunni, ma oggi ciò non è possibile.",
+      "zh": "照教育学讲，教师须与家庭联合起来，共住学校内，方能使学生感化。但此事今日殊不可能。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1467",
+      "sec": 19,
+      "it": "Poiché non abbiamo soldi non possiamo comprare libri né fare viaggi di studio.",
+      "zh": "因为无钱，买书既不可能，出外考察也做不到。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1468",
+      "sec": 19,
+      "it": "Ma è inutile continuare.",
+      "zh": "但是不必多讲了。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1469",
+      "sec": 19,
+      "it": "I maestri elementari sono sotto ogni aspetto dei veri e propri schiavi.",
+      "zh": "小学教师是处于各种奴隶地位。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1470",
+      "sec": 19,
+      "it": "Se non vogliamo essere schiavi, non c’è altro modo che unirci con quelli come noi e fondare un’unione di maestri elementari.",
+      "zh": "我们不愿做奴隶，只有大家团结起来，组织小学教师联合会。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1471",
+      "sec": 19,
+      "it": "Amici! Noi siamo poliziotti.",
+      "zh": "朋友们！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1472",
+      "sec": 19,
+      "it": "Dobbiamo unirci a coloro che fanno il nostro stesso lavoro, per fare un’unione che porti beneficio al corpo e allo spirito.",
+      "zh": "我们是警察，我们应当联合我们同做这种工作的人，组织一个于身心有益的联合会。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1473",
+      "sec": 19,
+      "it": "I giapponesi dicono “mendicanti, maestri elementari e poliziotti sono coloro che soffrono più di tutti” e noi ne siamo consapevoli.",
+      "zh": "日本人说“最苦的是乞丐、小学教员、警察”，我们也确实如此。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1474",
+      "sec": 19,
+      "it": "Amici!",
+      "zh": "朋友们！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1475",
+      "sec": 19,
+      "it": "Noi tiriamo risciò.",
+      "zh": "我们拉黄包车。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1476",
+      "sec": 19,
+      "it": "Tutto il giorno tiriamo i nostri risciò e il sudore viene giù come pioggia.",
+      "zh": "我们成天拉着自己的黄包车，汗水像雨一样往下淌。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1477",
+      "sec": 19,
+      "it": "L’affitto che dobbiamo pagare ai padroni dei risciò è talmente alto!",
+      "zh": "要付给车主的租金那么高！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1478",
+      "sec": 19,
+      "it": "Quello che guadagniamo è talmente poco!",
+      "zh": "我们挣的钱又那么少！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1479",
+      "sec": 19,
+      "it": "Come possiamo andare avanti, c’è modo anche per noi di unirci?",
+      "zh": "我们怎么过得下去，难道我们就没有联合起来的办法了吗？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1480",
+      "sec": 19,
+      "it": "Le cose che ho detto nelle pagine precedenti non sono altro che le lamentele dei contadini, degli operai, degli studenti, delle donne, dei maestri elementari, dei poliziotti, dei tiratori di risciò, di gente di ogni sorta.",
+      "zh": "我前面所说的，无非是农民、工人、学生、妇女、小学教师、警察、黄包车夫以及各界人士的诉苦。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1481",
+      "sec": 19,
+      "it": "Le pene che debbono sopportare sono spaventose, perciò vogliono mettere in piedi ogni sorta di piccole unioni, in modo tale da cercare di realizzare i loro interessi.",
+      "zh": "他们所受的痛苦极其深重，因此想要组织各种小团体，设法实现自己的利益。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1482",
+      "sec": 19,
+      "it": "Fin qui ho parlato di svariate piccole unioni, come l’unione degli operai.",
+      "zh": "上面说的是各种小团体，比如工会。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1483",
+      "sec": 19,
+      "it": "Ma si tratta ancora di unioni abbastanza generali, vaste.",
+      "zh": "但这还是较为一般、较为广泛联合。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1484",
+      "sec": 19,
+      "it": "Se si scende più in dettaglio, ci sono le seguenti organizzazioni che corrispondono a unioni di livello inferiore:",
+      "zh": "若再分细一些，则有以下各种相当于更下层团体的组织：",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1485",
+      "sec": 19,
+      "it": "Unione dei ferrovieri, Unione dei minatori, Unione degli impiegati dei telegrafi, Unione degli impiegati dei telefoni, Unione degli operai dei cantieri navali, Unione dei marittimi, Unione degli operai metallurgici, Unione degli operai tessili, Unione dei tranvieri, Unione dei tiratori dei risciò, Unione degli operai edili, ecc.",
+      "zh": "铁路工会、矿业工会、电报员工会、电话员工会、造船工人会、海员工会、冶金工会、纺织工会、电车工会、黄包车夫会、建筑工会等等。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1486",
+      "sec": 19,
+      "it": "Gli operai dei paesi occidentali hanno tutti piccole associazioni in ciascuna attività e industria.",
+      "zh": "西方各国的工人，在每一种行业和产业中都各有小团体。例如，到处都有运输工人协会、电车工人协会之类的组织。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1487",
+      "sec": 19,
+      "it": "Per esempio, ovunque si trovano organizzazioni come l’associazione dei lavoratori dei trasporti, l’associazione dei tranvieri, ecc. Da tante piccole unioni si procede verso una grande unione, da tante grandi unioni si procede verso la formazione dell’unione più grande.",
+      "zh": "由许多小联合进而组成大联合，由许多大联合进而组成最大的联合。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1488",
+      "sec": 19,
+      "it": "In tal modo sorgono una dopo l’altra le cosiddette “associazioni” o “alleanze”, una sulle spalle di altre.",
+      "zh": "如此这般，所谓“协会”或“同盟”便一个叠着一个地相继产生。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1489",
+      "sec": 19,
+      "it": "Poiché comuni interessi concernono solo una piccola parte della popolazione, bisogna anzitutto mettere in piedi piccole unioni.",
+      "zh": "由于共同的利益只涉及一小部分人，所以必须首先建立小联合。许多小联合的利益有共同点，因此有可能建立大联合。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1490",
+      "sec": 19,
+      "it": "Gli interessi di molte piccole unioni hanno dei punti in comune, pertanto è possibile mettere in piedi grandi unioni.",
+      "zh": "例如，研究与学习是我们学生的事。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1491",
+      "sec": 19,
+      "it": "Per esempio, la ricerca e lo studio sono qualcosa che riguarda noi studenti, La grande unione delle masse popolari allora saremo noi studenti a fondare le nostre unioni per la ricerca e lo studio.",
+      "zh": "民众的大联合，就要由我们学生来建立自己的研究学习联合。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1492",
+      "sec": 19,
+      "it": "D’altro canto, cose quali la liberazione nazionale e la libertà riguardano tutti, pertanto bisognerà mettere insieme persone di ogni tipo per formare una grande unione.",
+      "zh": "另一方面，像民族解放和自由这类事情，同人人有关，因此必须把各种人都联合起来，组成一个大联合。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1493",
+      "sec": 19,
+      "it": "Poiché la grande unione viene dalle piccole unioni, dobbiamo scuoterci e seguire l’esempio dei nostri fratelli degli altri paesi.",
+      "zh": "由于大联合来自小联合，我们就应当振作起来，效法别国兄弟的榜样。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1494",
+      "sec": 19,
+      "it": "Dobbiamo mettere in piedi tante, tante nostre piccole unioni.",
+      "zh": "我们应当建立许许多多属于自己的小联合。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1495",
+      "sec": 19,
+      "it": "Le prospettive di una grande unione delle masse popolari in Cina Nelle due puntate precedenti abbiamo già parlato¹. della possibilità e necessità della grande unione delle masse popolari e². di come la grande unione delle masse popolari debba avere come base piccole unioni di masse popolari. Ora, nel portare avanti questa nostra discussione sulla grande unione delle masse popolari del nostro paese, ci troviamo di fronte alle seguenti domande. Abbiamo o no la consapevolezza necessaria? Abbiamo o no l’intenzione di farla? Abbiamo o no la capacità per crearla?",
+      "zh": "民众大联合的前途",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1496",
+      "sec": 19,
+      "it": "在前两篇文章中，我们已经谈到¹民众大联合的可能性和必要性，以及²民众大联合必须以民众的小联合为基础。现在，当我们继续讨论我国民众大联合的问题时，摆在我们面前的是这样几个问题：我们有没有这种觉悟？我们有没有这种愿望？我们有没有这种能力来创造它？",
+      "zh": "",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1497",
+      "sec": 19,
+      "it": "C’è o no nel nostro paese la consapevolezza necessaria per quanto concerne la grande unione delle masse popolari? La Rivoluzione del 1911 ha avuto l’apparenza di un’unione delle masse popolari, ma la realtà era diversa.",
+      "zh": "我们中国人民大众对于民众的大联合，究竟有没有这种觉悟呢？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1498",
+      "sec": 19,
+      "it": "La Rivoluzione del 1911 è stata opera¹. di studenti cinesi residenti all’estero che la progettarono e la diressero, 2..della Società dei fratelli⁸ che la incoraggiò e la sostenne, 3..della Nuova armata e di gruppi di disprezzati soldati degli eserciti provinciali, che “sfoderarono le loro spade e tesero i loro archi”.",
+      "zh": "辛亥年的事，似乎只算得民众大联合的虚影。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1499",
+      "sec": 19,
+      "it": "Essa non ha avuto niente a che fare con la maggior parte di noi, masse popolari.",
+      "zh": "辛亥革命的事实，是留学生¹做策动，哥老会⁸做赞助，新军和巡防营的土兵挥了枪杆，与我们大多数人无关。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1500",
+      "sec": 19,
+      "it": "Pur essendo d’accordo sui principi, tuttavia non abbiamo fatto nulla.",
+      "zh": "虽则同意其原则，然而我们没有做过一点事。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1501",
+      "sec": 19,
+      "it": "Del resto non hanno neppure avuto bisogno del nostro intervento.",
+      "zh": "其实他们也不必要我们帮忙。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1502",
+      "sec": 19,
+      "it": "Eppure ci ha fatto capire alcune cose.",
+      "zh": "但是他叫我们觉悟了些事。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1503",
+      "sec": 19,
+      "it": "Abbiamo imparato che è possibile abbattere persino imperatori straordinariamente abili sia nelle arti marziali che nelle discipline letterarie.",
+      "zh": "我们晓得了，就是极端反对拳术和文学的皇帝，都可以打倒。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1504",
+      "sec": 19,
+      "it": "Inoltre abbiamo imparato che è possibile edificare la democrazia, prima considerata cosa riprovevole.",
+      "zh": "我们又晓得，我们认定可以创办从前认作可鄙的民主。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1505",
+      "sec": 19,
+      "it": "Abbiamo imparato anche che se abbiamo delle cose da dire, possiamo dirle e se abbiamo delle cose da fare possiamo farle in qualsiasi momento.",
+      "zh": "我们还晓得，我们有话要说，随时都可以说，有事要做，随时都可以做。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1506",
+      "sec": 19,
+      "it": "Dopo la Rivoluzione del 1911, nel 1916 abbiamo abbattuto un altro imperatore, l’imperatore Hunghsien⁹.",
+      "zh": "辛亥革命之后，我们又于民国五年，打倒了洪宪皇帝⁹。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1507",
+      "sec": 19,
+      "it": "Sebbene anche ciò sia stato opera di una minoranza, noi ancora una volta abbiamo capito che anche l’imperatore Hunghsien, con tutta la sua terribile maestosità, poteva cionondimeno essere abbattuto. Se guardiamo agli anni recenti, con le guerre tra nord e sud e la guerra mondiale, le cose sono cambiate ancora di più.",
+      "zh": "虽然这也只是少数人的行动，但我们再次认识到，连洪宪皇帝纵然有他那可怕的威仪，也还是可以被打倒的。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1508",
+      "sec": 19,
+      "it": "Il risultato delle guerre tra nord e sud è stato di dimostrarci in modo assolutamente irrefutabile che burocrati, signori della guerra e politicanti danneggiano, avvelenano e sfruttano tutti noi.",
+      "zh": "试看近年来的南北战争和世界大战，情况变化更大了。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1509",
+      "sec": 19,
+      "it": "Come conseguenza della guerra mondiale e delle difficili condizioni di vita, le masse popolari di diversi paesi hanno intrapreso ogni sorta di iniziative.",
+      "zh": "南北战争的结果，绝对无可辩驳地告诉我们：官僚、军阀和政客损害我们、毒害我们、剥削我们。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1510",
+      "sec": 19,
+      "it": "In Russia hanno abbattuto gli aristocratici e hanno cacciato i ricchi; operai e contadini assieme hanno fondato un governo sovietico.",
+      "zh": "由于世界大战和生活艰难，各国民众采取了各种行动。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1511",
+      "sec": 19,
+      "it": "L’esercito della bandiera rossa si è spinto a combattere all’est e all’ovest, sbaragliando molti nemici.",
+      "zh": "俄国的民众推翻了贵族，赶走了富人，工人和农民共同建立了苏维埃政府。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1512",
+      "sec": 19,
+      "it": "L’Intesa si è di conseguenza trasformata.",
+      "zh": "红旗军东征西战，击溃了许多敌人。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1513",
+      "sec": 19,
+      "it": "Tutto il mondo è stato sconvolto.",
+      "zh": "协约国因此改观，全世界为之震动。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1514",
+      "sec": 19,
+      "it": "L’Ungheria è insorta ed è apparso a Budapest un nuovo governo di operai e contadini.",
+      "zh": "匈牙利奋起起义，布达佩斯出现了工农的新政府。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1515",
+      "sec": 19,
+      "it": "Tedeschi, austriaci e cèchi hanno fatto lo stesso, combattendo una lotta acerrima contro i partiti avversari all’interno di ciascun paese.",
+      "zh": "德国人、奥地利人、捷克人也如法炮制，在各国内部同敌对政党进行殊死斗争。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1516",
+      "sec": 19,
+      "it": "Le onde impetuose dell’indignazione avanzano in occidente e poi si rivolgono verso oriente.",
+      "zh": "汹涌的怒潮在西部推进，继而转向东方。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1517",
+      "sec": 19,
+      "it": "Numerosi grandi scioperi hanno avuto luogo in Inghilterra, Francia, Italia e Stati Uniti d’America; successivamente si sono verificate alcune grandi rivoluzioni in India e in Corea¹⁰.",
+      "zh": "英国、法国、意大利和美国爆发了多次大罢工；随后在印度和朝鲜也发生了若干大革命¹⁰。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1518",
+      "sec": 19,
+      "it": "Nuove forze sono sorte e nella zona compresa tra la Grande Muraglia e il Mar Giallo è esploso il Movimento del⁴ Maggio.",
+      "zh": "新势力已经兴起，在长城与黄海之间的地区爆发了五四运动⁴。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1519",
+      "sec": 19,
+      "it": "La sua bandiera ha raggiunto il meridione, ha attraversato il Fiume Giallo fino allo Yangtse, da Hankow a Canton vengono ripetutamente rappresentati drammi viventi, dal lago Tungting al fiume Min la marea si leva sempre più alta.",
+      "zh": "它的旗帜传到南方，渡过黄河直到扬子江，从汉口到广州，活报剧一再上演；从洞庭湖到闽江，浪潮日益高涨。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1520",
+      "sec": 19,
+      "it": "Grazie a ciò cielo e terra riprendono vigore, grazie a ciò i malvagi sono costretti a tirarsi da parte.",
+      "zh": "因此天地为之复苏，因此恶人不得不退避一旁。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1521",
+      "sec": 19,
+      "it": "Ecco!",
+      "zh": "看！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1522",
+      "sec": 19,
+      "it": "Ben lo sappiamo!",
+      "zh": "我们深知！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1523",
+      "sec": 19,
+      "it": "Ci siamo svegliati!",
+      "zh": "我们已经觉醒了！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1524",
+      "sec": 19,
+      "it": "Questo mondo è il nostro mondo.",
+      "zh": "这个世界是我们的世界。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1525",
+      "sec": 19,
+      "it": "Questo paese è il nostro paese.",
+      "zh": "这个国家是我们的国家。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1526",
+      "sec": 19,
+      "it": "Questa società è la nostra società.",
+      "zh": "这个社会是我们的社会。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1527",
+      "sec": 19,
+      "it": "Se non siamo noi a parlare, chi parlerà?",
+      "zh": "如果我们不说话，谁来说？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1528",
+      "sec": 19,
+      "it": "Se non siamo noi ad agire, chi agirà?",
+      "zh": "如果我们不行动，谁来行动？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1529",
+      "sec": 19,
+      "it": "Dobbiamo impegnarci con tutte le nostre forze per attuare la grande unione delle masse popolari, subito, senza perdere un attimo di tempo!",
+      "zh": "我们必须竭尽全力实现民众的大联合，立刻行动，刻不容缓！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1530",
+      "sec": 19,
+      "it": "Esistono già nel paese le forze motrici della grande unione delle masse popolari?",
+      "zh": "这个国家已经有了足以促成全国人民大联合的推动力了吗？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1531",
+      "sec": 19,
+      "it": "A questa domanda sono in grado di dare una risposta diretta: si!",
+      "zh": "对于这个问题，我的答案是：有！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1532",
+      "sec": 19,
+      "it": "Se voi, amici miei, non ci credete, ascoltate ciò che ho da dire.",
+      "zh": "诸位朋友，如果不信，请听我讲。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1533",
+      "sec": 19,
+      "it": "Se vogliamo risalire alla fonte dell’unione delle masse popolari del nostro paese, dobbiamo partire dalla creazione delle assemblee provinciali e dall’organizzazione del partito rivoluzionario, la Tung Meng Hui, nell’ultimo periodo della dinastia Ching¹¹. Una volta create, le assemblee delle varie province si allearono le une alle altre per presentare una petizione in cui si chiedeva l’apertura immediata di un parlamento.",
+      "zh": "若要追溯我国民众大联合的根源，须从清末各省咨议局的成立和革命党同盟会的创立讲起¹¹。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1534",
+      "sec": 19,
+      "it": "Una volta creato, il partito rivoluzionario ha fatto appello a tutti all’interno e all’estero, al fine di raccogliere truppe per combattere i mancesi. La Rivoluzione del 1911 fu un dramma “Affoghiamo il Dragone Giallo”¹², recitato assieme dal partito rivoluzionario e dalle assemblee provinciali.",
+      "zh": "各省咨议局一成立，便彼此联合，呈请立即召开国会；革命党一成立，便向海内外多方号召，以招集军队讨伐满清。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1535",
+      "sec": 19,
+      "it": "In seguito il partito rivoluzionario si trasformò nel Kuomintang e le assemblee provinciali nel Partito progressista. Questa fu l’origine dei partiti politici in Cina.",
+      "zh": "辛亥革命，乃是革命党与咨议局合演的一出“淹死黄龙”戏¹²。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1536",
+      "sec": 19,
+      "it": "Allora la repubblica venne fondata, il governo centrale convocò un parlamento e ogni provincia ebbe la sua assemblea provinciale.",
+      "zh": "后来革命党化为国民党，咨议局化为进步党，这便是中国政党的由来。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1537",
+      "sec": 19,
+      "it": "Sempre in quel periodo, ogni provincia dette vita ad altri tre organismi: un’associazione provinciale per l’istruzione, una camera di commercio provinciale, un’associazione agricola provinciale (alcune province hanno anche un’associazione sindacale provinciale.",
+      "zh": "其时民国成立，中央政府召集国会，各省都设省议会。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1538",
+      "sec": 19,
+      "it": "In molte essa è legata all’associazione agricola, come nello Hunan).",
+      "zh": "同时，每省又产生三种机关：省教育会、省商会、省农会（有些省还有省工会；许多省的工会与农会相连，湖南即是如此）。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1539",
+      "sec": 19,
+      "it": "Al contempo, anche ogni distretto ha dato vita a un’associazione per l’istruzione a livello di distretto, a una camera di commercio a livello di distretto, a un’associazione agricola a livello di distretto La grande unione delle masse popolari (solo pochi distretti non le hanno).",
+      "zh": "同时，每县也产生县教育会、县商会、县农会——民众大联合的规模（只有少数县没有）。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1540",
+      "sec": 19,
+      "it": "Ciò rappresenta un’unione assai solida e potente.",
+      "zh": "这是一种很坚强有力的联合。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1541",
+      "sec": 19,
+      "it": "Inoltre, diversi tipi di associazioni sono stati messi in piedi, secondo esigenze e posizioni di ciascuna categoria, come ad esempio: associazioni di studenti in varie scuole, associazioni di compaesani residenti fuori dal loro paese natale, associazioni generali e filiali di associazioni di studenti residenti all’estero, l’Associazione generale dei quotidiani di Shanghai, l’Associazione mondiale degli studenti cinesi, l’Associazione degli studenti rientrati dall’Europa e dagli Stati Uniti d’America a Pechino e a Shanghai, l’Associazione sino-francese per l’istruzione a Pechino, ogni sorta di società di studio (come la Società dell’autorafforzamento, la Società letteraria cristiana, la Società meridionale di studio, la Società degli aspiranti, l’Associazione cinese per l’insegnamento professionale, la Società scientifica cinese, l’Associazione generale della civiltà asiatica), le varie associazioni professionali (nei vari settori e professioni dell’industria e del commercio, come l’Associazione bancaria, l’Associazione dell’industria risicola, ecc.), le associazioni di ricerca nelle varie scuole, come l’Associazione per la ricerca sulla tecnica pittorica e l’Associazione per la ricerca filosofica dell’Università di Pechino, ecc. (ce ne sono a decine), diversi tipi di circoli, ecc.",
+      "zh": "此外，还按照各阶层的需要与地位，成立了各种团体，例如：各校学生会、旅外同乡会、留外学生总会及分会、上海日报公会、寰球中国学生会、北京及上海欧美同学会、北京中法教育协会、各种学会（如强学会、基督教青年会、南学会、心社、中华职业教育社、中国科学社、亚洲文明协会）、各业工会（工商各行业，如银行公会、米业公会等）、各校研究会（如北京大学画法研究会、哲学研究会等，不下数十）、各种俱乐部等。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1542",
+      "sec": 19,
+      "it": "Tutte queste cose sono il risultato della recente fioritura di iniziative politicoideologiche.",
+      "zh": "所有这些都是近顷政治思想发动的结果。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1543",
+      "sec": 19,
+      "it": "Ciò non sarebbe stato permesso né sarebbe stato possibile nel periodo dell’autocrazia.",
+      "zh": "在专制时代，这些既不容许，也不可能。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1544",
+      "sec": 19,
+      "it": "Gli esempi prima riportati sono molto semplici, si tratta più o meno di qualcosa di simile alle piccole unioni di cui abbiamo parlato nella puntata precedente.",
+      "zh": "上举各例都很简单，大抵类似我们上篇所说的小联合体。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1545",
+      "sec": 19,
+      "it": "Solo da poco, come conseguenza degli sconvolgimenti politici e dell’oppressione straniera, si è verificato un aumento di consapevolezza che ha prodotto la forza motrice capace di dare vita a grandi unioni.",
+      "zh": "只是近顷政治变动、外敌压迫的结果，才出现觉悟的提高，从而产生了推动力，能够造就大联合体。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1546",
+      "sec": 19,
+      "it": "A questa categoria appartengono le organizzazioni che seguono:",
+      "zh": "属于这一类的组织有：",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1547",
+      "sec": 19,
+      "it": "Unione nazionale per l’istruzione, Unione nazionale delle camere di commercio, Unione delle settantadue corporazioni di Canton, Unione delle cinquantatre organizzazioni pubbliche di Shanghai, Unione dei giornali commerciali, studenteschi e industriali, Unione nazionale per promuovere la pace, Unione nazionale per la pace, Associazione sino-francese di Pechino, Associazione generale dei cittadini per gli affari esteri, Associazione per la ricostruzione dello Hunan (a Shanghai), Associazione generale dello Shantung (a Shanghai), Associazioni degli studenti a Pechino, Shanghai e in varie città delle province, Unione di tutti i circoli, Unione nazionale degli studenti, ecc.",
+      "zh": "全国教育会联合会、全国商会联合会、广州七十二行联合会、上海五十三公团联合会、全国报界联合会、全国商界联合会、全国和平促进会、全国和平大会、北京中法协会、全国公民外交会、湖南改造促进会（在上海）、山东旅沪同乡会、北京、上海及各省学生联合会、各界联合会、全国学生联合会等。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1548",
+      "sec": 19,
+      "it": "Questi sono tutti esempi di grandi unioni.",
+      "zh": "这些都是大联合的实例。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1549",
+      "sec": 19,
+      "it": "In tutte codeste associazioni, società, circoli, associazioni generali, unioni ci saranno inevitabilmente parecchi agrari, parecchi politicanti, persone queste che non fanno parte delle masse popolari (organizzazioni quali il Parlamento, le Assemblee provinciali, le Associazioni provinciali per l’istruzione, le Associazioni provinciali per l’agricoltura, l’Unione nazionale per promuovere la pace, I’Unione nazionale per la pace non sono altro che associazioni composte esclusivamente da agrari e da politicanti).",
+      "zh": "在这些工会、学会、社、联合会、协会之中，必然夹杂许多地痞、许多政客，这些人本不属于民众之列（例如议会、省议会、教育会、农会、全国和平促进联合会、全国和平联合会等，不过是些纯粹由地痞和政客组成的团体）。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1550",
+      "sec": 19,
+      "it": "Ma le associazioni delle diverse professioni e industrie, nonché le varie società di studio e di ricerca sono raggruppamenti genuini di gente comune e di studiosi.",
+      "zh": "而各种职业、产业的协会，以及各种研究会、学术社，则是平民和求学者真正的结集。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1551",
+      "sec": 19,
+      "it": "Le associazioni degli studenti, l’Unione di tutti i circoli, ecc., sorte di recente, sono poi ancor più genuinamente grandi unioni di masse popolari, sorte per resistere ai potenti di casa nostra e stranieri.",
+      "zh": "至于新近成立的学生联合会、各界联合会等，更是真正广大的民众结集，为对抗国内外强权而起。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1552",
+      "sec": 19,
+      "it": "Secondo me è proprio qui che va cercata quella forza motrice capace di creare la grande unione delle masse popolari.",
+      "zh": "我以为，创造民众大联合所必需的那种动力，正是应当在这里寻求的。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1553",
+      "sec": 19,
+      "it": "Abbiamo o no la capacità di creare la grande unione delle masse popolari nel nostro paese?",
+      "zh": "我国有没有能力创造出广大民众的大联合呢？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1554",
+      "sec": 19,
+      "it": "Abbiamo o no la possibilità di riuscirvi?",
+      "zh": "有没有成功的可能呢？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1555",
+      "sec": 19,
+      "it": "Per quanto concerne la capacità sussiste qualche dubbio.",
+      "zh": "关于能力方面，还有几分疑问。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1556",
+      "sec": 19,
+      "it": "Finora la nostra gente è stata abituata a che ognuno si gestisce i suoi affari privati in modo da massimizzare il suo profitto personale, anche a scapito del beneficio sociale.",
+      "zh": "至今我们的人民习惯了各自经营私事，以图最大限度地获取个人利益，哪怕以损害社会公益为代价。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1557",
+      "sec": 19,
+      "it": "I commercianti non sapevano come mettere su una società, i lavoratori non sapevano dar vita a un partito del lavoro, chi studiava non conosceva che il vecchio metodo di “studiare da solo nella sua stanza”, senza preoccuparsi di fare ricerca insieme agli altri.",
+      "zh": "商人们不懂得如何组织公司，工人们不懂得如何组织劳工政党，读书人只知道“闭门独坐”的老方法，不肯与他人共同研究。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1558",
+      "sec": 19,
+      "it": "La nostra gente era semplicemente incapace di intraprendere una qualsiasi impresa su vasta scala.",
+      "zh": "我们的人民简直不能开展任何大规模的公共事业。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1559",
+      "sec": 19,
+      "it": "Inutile dire che è proprio per questo che le nostre faccende politiche sono andate tanto male.",
+      "zh": "不言而喻，正因为如此，我们的政治事务才搞得一塌糊涂。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1560",
+      "sec": 19,
+      "it": "Se abbiamo ottenuto un qualche risultato positivo nei servizi postali e nel monopolio del sale, lo dobbiamo agli stranieri.",
+      "zh": "邮政和盐业专卖之所以能取得一些成绩，还是靠外国人。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1561",
+      "sec": 19,
+      "it": "L’interdizione di avere un commercio marittimo è stata revocata da tempo, eppure non abbiamo ancora nulla in questo settore, neppure una piccola nave che faccia servizio per l’Europa.",
+      "zh": "海禁早已废除，然而我们在这一领域仍旧一无所有，甚至连一艘驶往欧洲的轮船也没有。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1562",
+      "sec": 19,
+      "it": "Le uniche imprese che esistono in Cina, la Compagnia commerciale di navigazione e le miniere di Han Yeh Ping, hanno grossi deficit annuali e quando tali deficit sono particolarmente cospicui si sollecitano investimenti dall’estero.",
+      "zh": "中国仅有的两所企业——轮船招商局和汉冶萍煤铁公司——每年都有巨额亏损，而当亏损特别巨大时，便乞援于外国的投资。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1563",
+      "sec": 19,
+      "it": "Su tutte le linee ferroviarie gestite dagli stranieri le attrezzature, il servizio e il livello di pulizia sono senz’altro migliori.",
+      "zh": "凡由外国人管理的铁路，其设备、服务和整洁程度无疑都要好得多。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1564",
+      "sec": 19,
+      "it": "Non appena una linea ferroviaria viene gestita dal nostro Ministero dei trasporti, diventa uno schifo.",
+      "zh": "铁路一旦归我们的交通部管理，便搞得一塌糊涂。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1565",
+      "sec": 19,
+      "it": "Tra gli utenti delle linee Pechino-Hankow, Tientsin-Pukou e Wuchang-Changsha non se ne trova uno che non storca il naso e digrigni i denti!",
+      "zh": "京汉、津浦、武长各路的乘客，没有一个不是捏着鼻子、咬着牙的！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1566",
+      "sec": 19,
+      "it": "Inoltre, le scuole sono tenute male, l’autogoverno viene male attuato, la vita di famiglia è male organizzata, la vita degli individui pure.",
+      "zh": "此外，学校办得不好，自治实行得不好，家庭生活组织得不好，个人生活亦然。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1567",
+      "sec": 19,
+      "it": "E così siamo ridotti a “uccelli con una sola piuma”, dappertutto la stessa monotonia.",
+      "zh": "于是我们成了\"孤鸿片羽\"，到处都是千篇一律。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1568",
+      "sec": 19,
+      "it": "Non è allora fin troppo semplice parlare di La grande unione delle masse popolari grande unione delle masse popolari?",
+      "zh": "那么，谈民众的大联合，岂不是太简单了吗？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1569",
+      "sec": 19,
+      "it": "Sarà così facile resistere ai potenti che sono tanto ben radicati?",
+      "zh": "要抵抗那些根基如此深厚的强者，能那么容易吗？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1570",
+      "sec": 19,
+      "it": "Benché lo stato di cose sopra descritto sia reale, ciò non significa che noi siamo intrinsecamente incapaci.",
+      "zh": "虽然上述状况是确实存在的，但这并不意味着我们本质上没有能力。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1571",
+      "sec": 19,
+      "it": "Se non abbiamo tale capacità, la causa risiede semplicemente nella nostra mancanza di pratica.",
+      "zh": "我们之所以没有这种能力，原因仅仅在于我们缺乏实践。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1572",
+      "sec": 19,
+      "it": "Finora e per migliaia di anni, centinaia di milioni di cinesi hanno tutti condotto una vita da schiavi.",
+      "zh": "过去几千年来，数亿中国人过的都是奴隶般的生活。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1573",
+      "sec": 19,
+      "it": "C’era una sola persona, l’imperatore, che non era uno schiavo (o piuttosto potremmo dire che persino lui era uno schiavo, schiavo del Cielo).",
+      "zh": "只有一个人——皇帝——不是奴隶（或者不如说，甚至连他也是奴隶，是天的奴隶）。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1574",
+      "sec": 19,
+      "it": "Dal momento che l’imperatore governava su ogni cosa, a noi non era permesso di esercitare le nostre capacità.",
+      "zh": "既然皇帝统治着一切，我们就不被允许施展自己的能力。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1575",
+      "sec": 19,
+      "it": "Non ci era permesso nella politica, nello studio, nella società, ecc., di avere un nostro pensiero, una nostra organizzazione, una nostra pratica.",
+      "zh": "在政治、学术、社会等等方面，我们都不被允许有自己的思想、自己的组织、自己的实践。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1576",
+      "sec": 19,
+      "it": "Oggi le cose stanno diversamente, stiamo conquistandoci la libertà in ogni campo: libertà di pensiero, libertà politica, libertà economica, libertà nelle relazioni tra uomini e donne, libertà nell’insegnamento.",
+      "zh": "今日情形大不同了。我们正在各个领域争得自由：思想的自由、政治的自由、经济的自由、男女关系的自由、教育的自由。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1577",
+      "sec": 19,
+      "it": "Tutte queste cose vogliono a viva forza uscire a vedere il cielo, finalmente liberate dalle ingiuste condanne a cui erano state soggette.",
+      "zh": "这一切都要奋然冲决网罗，出来见天日，从久受的不公正判决中解放出来。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1578",
+      "sec": 19,
+      "it": "Il popolo cinese possiede straordinarie capacità!",
+      "zh": "中国人民具有非凡的创造力！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1579",
+      "sec": 19,
+      "it": "Più l’oppressione è profonda, più la reazione è grande.",
+      "zh": "压迫愈深，反抗愈大。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1580",
+      "sec": 19,
+      "it": "Le cose represse per lungo tempo esploderanno tutte assieme.",
+      "zh": "长久受压的事物终将一齐爆发。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1581",
+      "sec": 19,
+      "it": "Azzardo un’incredibile affermazione: un giorno la riforma del popolo cinese sarà più radicale di quella di qualsiasi altro popolo, la società del popolo cinese sarà più luminosa di quella di qualsiasi altro popolo.",
+      "zh": "我敢作一个惊人的断语：总有一天，中国人民的革新将比任何其他民族更为彻底，中国人民的社会将比任何其他民族更为光明。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1582",
+      "sec": 19,
+      "it": "La grande unione del popolo cinese sarà raggiunta prima che in qualsiasi altro luogo e prima che da qualsiasi altro popolo.",
+      "zh": "中国民众的大联合，将先于任何其他地方、先于任何其他民族而实现。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1583",
+      "sec": 19,
+      "it": "Amici!",
+      "zh": "朋友们！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1584",
+      "sec": 19,
+      "it": "Amici!",
+      "zh": "朋友们！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1585",
+      "sec": 19,
+      "it": "Impegnamoci fino in fondo!",
+      "zh": "努力前进吧！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1586",
+      "sec": 19,
+      "it": "Avanziamo con tutte le nostre forze!",
+      "zh": "奋勇前进吧！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1587",
+      "sec": 19,
+      "it": "La nostra età dell’oro, la nostra età di splendore, sta proprio davanti a noi.",
+      "zh": "我们的黄金时代、我们的光荣时代，就在眼前。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1588",
+      "sec": 19,
+      "it": "NOTE",
+      "zh": "注释",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1589",
+      "sec": 19,
+      "it": "1..La cricca del Peiyang e la cricca del Hsinan erano aggregazioni di signori della guerra,",
+      "zh": "¹ 北洋军阀集团和西南军阀集团都是军阀的集合体，",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1590",
+      "sec": 19,
+      "it": "rispettivamente delle province settentrionali e sud-orientali della Cina, che si scontrarono per il controllo della Cina tra il 1916 (morte di Yuan Shih-kai) e il 1928 (installazione del “Governo nazionale” del Kuomintang) e anche oltre.",
+      "zh": "分别为中国北方和东南各省的军阀集团，1916年（袁世凯死后）至1928年（国民党“国民政府”建立）乃至更晚的时期，它们为争夺对中国的控制权而互相厮杀。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1591",
+      "sec": 19,
+      "it": "Il clan Satsuma e il clan Chosou erano due aggregazioni di notabili che ebbero un ruolo importante nella trasformazione del Giappone da paese feudale in paese imperialista, a partire dal colpo di Stato attuato dall’imperatore nel 1868.",
+      "zh": "萨摩藩和長州藩是由士绅名流结成的两个集团。1868年天皇发动政变以后，它们在日本从封建国家变为帝国主义国家的转变过程中起了重要作用。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1592",
+      "sec": 19,
+      "it": "2..Nel 1918 l’esercito del nord dell’alleanza dei signori della guerra del Chihli e",
+      "zh": "2．1918年，直隶系军阀联军的北方军队同湖南、广西两省军阀联军的南方军队作战，",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1593",
+      "sec": 19,
+      "it": "dell’Anhwei prevalse sull’esercito del sud dell’alleanza dei signori della guerra dello Hunan e del Kwangsi; l’esercito del sud e il governatore Tan Yen-kai lasciarono lo Hunan che venne occupato dall’esercito del nord.",
+      "zh": "北方军队获胜。南方军队和湖南督军谭延闿退出湖南，湖南为北方军队所占领。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1594",
+      "sec": 19,
+      "it": "Il signore della guerra Chang Ching-yao divenne il nuovo governatore dello Hunan da cui fu cacciato solo nel 1920.",
+      "zh": "军阀张敬尧成为新的湖南督军，直到1920年才被赶出湖南。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1595",
+      "sec": 19,
+      "it": "3..La caratterizzazione che di seguito Mao Tse-tung dà delle teorie di Marx e di Kropotkin",
+      "zh": "3. 毛泽东下面对马克思和克鲁泡特金理论所作的评价，",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1596",
+      "sec": 19,
+      "it": "deriva da un articolo dell’inglese Angelo S. Rappoport uscito su Edimburgh Review, nel giugno 1917 e ripubblicato su Gioventù nuova n. 4 e⁵.",
+      "zh": "取自英国人安吉洛·S·拉波波尔特发表于《爱丁堡评论》1917年6月号的一篇文章，该文又转载于《新青年》第4、5期⁵。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1597",
+      "sec": 19,
+      "it": "Anche le comunicazioni culturali della Cina con l’estero erano controllate dalle istituzioni imperialiste e il movimento rivoluzionario cinese dovette pagare anche questo pedaggio per svilupparsi.",
+      "zh": "当时中国同外国的文化交流也受到帝国主义机构的控制，中国革命运动为了发展，也不得不付出这一代价。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1598",
+      "sec": 19,
+      "it": "4..Nei trattati leonini firmati dal governo cinese con il governo giapponese il¹⁶ e¹⁸",
+      "zh": "4. 中国政府同日本政府于¹⁶和¹⁸",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1599",
+      "sec": 19,
+      "it": "maggio 1918, l’articolo³ di entrambi i trattati proclamava che le relazioni tra i due governi e i due paesi sarebbero state improntate ad “amicizia”.",
+      "zh": "1918年5月缔结的各项不平等条约，其³条款均宣称两国政府和两国之间的关系应以\"友好\"为基础。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1600",
+      "sec": 19,
+      "it": "5..Lu Jung-ting (1856-1927) era un importante signore della guerra del Kwangsi. Il¹⁵",
+      "zh": "5. 陆荣廷（1856—1927）是广西重要的军阀。¹⁵",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1601",
+      "sec": 19,
+      "it": "marzo 1916 dichiarò l’indipendenza del Kwangsi dal Governo di Pechino, contribuendo a far fallire il tentativo di Yuan Shih-kai di fondare una nuova dinastia imperiale.",
+      "zh": "1916年3月，他宣布广西脱离北京政府独立，此举有助于挫败袁世凯建立新帝制的图谋。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1602",
+      "sec": 19,
+      "it": "Tsao Ju-lin (1877-1966) era un funzionario governativo e diplomatico di alto livello, sostenitore di Yuan Shih-kai e membro del clan di Anfu, che ebbe una parte di primo piano nell’accettazione da parte del governo cinese delle richieste del governo giapponese nel periodo della Prima guerra mondiale.",
+      "zh": "曹汝霖（1877—1966）是高级政府官员和外交家，袁世凯的支持者、安福系成员，在第一次世界大战期间中国接受日本政府要求的过程中扮演了重要角色。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1603",
+      "sec": 19,
+      "it": "Era uno dei personaggi più denunciati dal Movimento del⁴ maggio.",
+      "zh": "他是五四运动中被声讨得最厉害的人物之一。⁴",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1604",
+      "sec": 19,
+      "it": "6..Il concetto era espresso anche nella dichiarazione rilasciata il²⁵ giugno a Shanghai dal",
+      "zh": "6. 这一概念也体现在6月²⁵日由在上海发表的声明中，该声明由",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1605",
+      "sec": 19,
+      "it": "Partito dei lavoratori: “[...] Proponiamo che i lavoratori prendano nelle loro mani la loro situazione e che i lavoratori di ogni ramo anzitutto formino piccole unioni e che successivamente riuniscano queste in una grande unione [...]”.",
+      "zh": "工人党：“[……]我们提议，工人把自己的命运掌握在自己手中，各业工人首先组成小联合会，随后再把这些小联合会联合成一个大工会[……]”。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1606",
+      "sec": 19,
+      "it": "7..Si tratta del Movimento del⁴ maggio.",
+      "zh": "7. 这里指的是五月⁴四运动。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1607",
+      "sec": 19,
+      "it": "8..Era una delle numerose società segrete esistenti in Cina, particolarmente forte nello",
+      "zh": "8. 它是当时中国众多秘密会社之一，特别在",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1608",
+      "sec": 19,
+      "it": "Hunan, nello Hupeh, nello Kweichow e nello Szechwan.",
+      "zh": "湖南、湖北、贵州和四川十分强大。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1609",
+      "sec": 19,
+      "it": "9..Imperatore Hunghsien (ossia Imperatore della grande Costituzione) era il titolo che si",
+      "zh": "9. 洪宪皇帝是袁世凯",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1610",
+      "sec": 19,
+      "it": "era dato Yuan Shih-kai nel suo tentativo di restaurazione imperiale (1915-1916).",
+      "zh": "在其帝制复辟的尝试（1915—1916年）中给自己所加的帝号。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1611",
+      "sec": 19,
+      "it": "La grande unione delle masse popolari",
+      "zh": "民众的大联合",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1612",
+      "sec": 19,
+      "it": "10.. Allusione alla rivolta antibritannica del Punjab (marzo-aprile 1919) e al Movimento per",
+      "zh": "10. 指旁遮普的反英起义（1919年3月至4月）和……运动",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1613",
+      "sec": 19,
+      "it": "l’indipendenza scoppiato in Corea il¹° marzo 1919 contro l’oppressione giapponese (il governo giapponese aveva imposto il suo protettorato sulla Corea nel 1905 e l’aveva annessa nel 1910).",
+      "zh": "1919年3月1日¹在朝鲜爆发的反对日本压迫的独立运动（日本政府于1905年对朝鲜强行建立保护关系，并于1910年将其吞并）。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1614",
+      "sec": 19,
+      "it": "11..Nel luglio 1908 il Governo imperiale cinese emise un decreto sulla costituzione di",
+      "zh": "11. 1908年7月，清朝帝国政府颁布了关于设立",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1615",
+      "sec": 19,
+      "it": "un’assemblea in ogni provincia dell’impero e le assemblee si riunirono nell’ottobre del 1909.",
+      "zh": "帝国各省谘议局的诏令，各省谘议局于1909年10月开会。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1616",
+      "sec": 19,
+      "it": "La Tung Meng Hui (Lega unitaria dei rivoluzionari cinesi) fu fondata a Tokio il²⁰ agosto 1905 da Sun Yat-sen, Huang Hsing e altri.",
+      "zh": "中国同盟会（中国革命者统一同盟）由孙中山、黄兴等人于1905年8月20日²⁰在东京成立。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1617",
+      "sec": 19,
+      "it": "Nel 1912 si trasformò nel Kuomintang (Partito nazionale del popolo).",
+      "zh": "1912年改组为国民党（人民民族党）。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1618",
+      "sec": 19,
+      "it": "12..Dramma tradizionale con cui si celebravano le vittorie.",
+      "zh": "12. 旧剧名，用以庆贺胜利。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1619",
+      "sec": 19,
+      "it": "La denominazione cinese",
+      "zh": "中文名称的含义",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1620",
+      "sec": 19,
+      "it": "significa anche “bere la coppa della vittoria in battaglia”.",
+      "zh": "亦为“饮庆功之酒”。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1621",
+      "sec": 19,
+      "it": "Questo testo è un collage di pezzi tratti da nove articoli che Mao Tse-tung pubblicò nel quotidiano di Changsha, Ta Kung Pao, dal¹⁶ al³⁰ novembre 1919, dopo che il¹⁴ dello stesso mese una studentessa, Chao Wu-chieh, costretta a sposare un uomo contro la sua volontà, si era uccisa tagliandosi la gola con un coltello sul palanchino che la stava portando alla casa dello sposo.",
+      "zh": "本文是毛泽东1919年11月¹⁶日至³⁰日在长沙《大公报》上发表的九篇文章的摘编。同年11月¹⁴日，女学生赵五贞被迫违心嫁人，在喜轿上持刀自刎身亡。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1622",
+      "sec": 19,
+      "it": "La liberazione della donna era una questione centrale nel movimento rivoluzionario cinese, i cui membri posero pubblicamente vari problemi (riforma del sistema familiare, riforma del matrimonio, divorzio, educazione comune dei figli, libertà ed eguaglianza sessuale, diritti politici, ecc.) come parte del rinnovamento cercato.",
+      "zh": "妇女的解放是中国革命运动的一个中心问题，革命运动的成员公开提出了各种问题（家庭制度改革、婚姻改革、离婚、子女共同教育、性的自由与平等、政治权利等等），作为所追求的革新事业的一部分。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1623",
+      "sec": 19,
+      "it": "La lotta contro la morale confuciana delle tre lealtà (del suddito verso il sovrano, del figlio verso i genitori, della donna verso il marito), contro la famiglia patriarcale e il sistema dei clan e a favore della libertà individuale, dell’indipendenza e della parità sessuale sono oggetto anche di altri articoli di Mao Tse-tung su vari periodici (anche di organizzazioni femminili) pubblicati nell’epoca a Changsha, che era uno dei centri del movimento rivoluzionario cinese.",
+      "zh": "毛泽东当时在长沙的多种刊物（包括妇女团体刊物）上发表的其他文章，也论及反对儒家三从（臣从君、子从父、妇从夫）道德、反对家长制家庭和宗族制度、争取个人自由、独立与男女平等等问题，而长沙正是中国革命运动的中心之一。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1624",
+      "sec": 19,
+      "it": "Quando nella società avviene un fatto, non può essere considerato insignificante.",
+      "zh": "社会上发生了一件事，就不能看作无关紧要。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1625",
+      "sec": 19,
+      "it": "Le circostanze di un evento contengono tutte le cause del suo verificarsi.",
+      "zh": "一件事的种种情由，包含着它发生的全部原因。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1626",
+      "sec": 19,
+      "it": "L’evento di ieri è stato molto importante e le sue circostanze sono state il nostro abominevole sistema di matrimonio, il sistema sociale oscurantista, la mancanza di libertà di pensiero e la negazione della libertà di amare.",
+      "zh": "昨天的事件非常重要，其背景就是我们那可恶的婚姻制度、那愚昧的社会制度、思想自由之缺乏以及恋爱自由之被否定。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1627",
+      "sec": 19,
+      "it": "[...] Sono sempre e soltanto le circostanze che spingono una persona al suicidio.",
+      "zh": "[……] 永远只是环境才驱使一个人走向自杀。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1628",
+      "sec": 19,
+      "it": "Originariamente la signorina Chao voleva forse morire?",
+      "zh": "赵小姐原本想死吗？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1629",
+      "sec": 19,
+      "it": "Proprio all’opposto, voleva vivere.",
+      "zh": "恰恰相反，她是想活的。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1630",
+      "sec": 19,
+      "it": "Se invece ha finito col darsi la morte è perché le circostanze ve l’hanno spinta.",
+      "zh": "然而她最终自尽，是因为环境把她逼到了这一步。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1631",
+      "sec": 19,
+      "it": "Le circostanze che hanno determinato l’atto mortale della signorina Chao sono state: 1..la società cinese; 2..la famiglia Chao di via Nanyang a Changsha; 3..la famiglia Wu di via Kantzuyuan a Changsha, la famiglia cioè dell’uomo che lei rifiutava come marito.",
+      "zh": "造成赵小姐之致命行为的环境是：一、中国社会；二、长沙南乡街赵家；三、长沙卡子园吴家，即她拒绝与之成婚的那个男人的家庭。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1632",
+      "sec": 19,
+      "it": "Questi tre fattori formavano come un reticolato di ferro che delimitava una sorta di gabbia triangolare.",
+      "zh": "这三个因素构成了一张像铁网一般的东西，围成一个三角形的笼子。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1633",
+      "sec": 19,
+      "it": "La ragazza, prigioniera in questa gabbia triangolare, aspirava alla vita ma per lei non c’era modo di vivere; ora, il contrario della vita è la morte e la signorina Chao è stata così spinta verso la morte.",
+      "zh": "这个姑娘被囚在这三角形的笼子里，渴望着生，却没有办法活下去；而生之反面就是死，赵小姐于是被推向了死亡。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1634",
+      "sec": 19,
+      "it": "[...] Se soltanto uno di quei tre fattori non avesse formato una gabbia di ferro, o se una delle reti si fosse aperta, la signorina Chao sicuramente non sarebbe morta.",
+      "zh": "[……] 只要那三个因素中有一个形不成铁笼，或者有一张网张开了口子，赵小姐是一定不会死的。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1635",
+      "sec": 19,
+      "it": "Se i genitori della signorina Chao avessero accettato la libera volontà della ragazza e non fossero ricorsi alla forza, la signorina Chao sicuramente non sarebbe",
+      "zh": "如果赵小姐的父母接受了这姑娘的自由意志，而不诉诸强力，赵小姐是一定不会",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1636",
+      "sec": 20,
+      "it": "IL SUICIDIO DELLA SIGNORINA CHAO",
+      "zh": "赵女士自杀事件",
+      "head": true,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1637",
+      "sec": 20,
+      "it": "(16-30 novembre 1919) morta.",
+      "zh": "（一九一九年十一月十六日至三十日）死去了。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1638",
+      "sec": 20,
+      "it": "Se i genitori della signorina Chao non fossero ricorsi alla forza ma avessero permesso alla figlia di spiegare il suo punto di vista e le ragioni del suo rifiuto del futuro marito o se il futuro marito avesse accettato il punto di vista della ragazza e rispettato la sua libertà individuale, la signorina Chao sicuramente non sarebbe morta.",
+      "zh": "如果赵小姐的父母不是诉诸暴力，而是允许女儿申说自己的主张和拒绝未婚夫的理由；或者如果未婚夫接受姑娘的观点，尊重她的个人自由，那么赵小姐一定不会死。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1639",
+      "sec": 20,
+      "it": "Ma persino se i genitori della signorina Chao e il futuro marito avessero rifiutato di conformarsi alla libera volontà della ragazza, ma almeno ci fosse stata nella società una forte corrente di opinione pubblica che la sostenesse, un mondo diverso dove la fuga dalla casa dei genitori per cercare scampo altrove non fosse considerato un fatto disonorevole ma onorevole, anche in questo caso la signorina Chao sicuramente non sarebbe morta.",
+      "zh": "但即使赵小姐的父母和未婚夫不肯屈从姑娘的自由意志，只要社会上有一股强大的舆论潮流支持她，有一个不同的天地，把逃离父母家庭、远走他乡寻求出路视为光荣而非可耻，那么赵小姐也一定不会死。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1640",
+      "sec": 20,
+      "it": "Oggi la signorina Chao è morta perché era prigioniera di tre solide reti di ferro (la società, la sua famiglia e il suo futuro marito).",
+      "zh": "今天赵小姐死了，因为她被三副坚固的铁网（社会、她的家庭和她的未婚夫）所囚禁。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1641",
+      "sec": 20,
+      "it": "Lei desiderava vivere, ma alla fine è stata spinta a darsi la morte.",
+      "zh": "她想活下去，但最终被迫走上了自杀的道路。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1642",
+      "sec": 20,
+      "it": "[...] Quel che è successo è grave.",
+      "zh": "……发生的事十分严重。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1643",
+      "sec": 20,
+      "it": "Quel che è successo, è successo per colpa del vergognoso sistema dei matrimoni combinati, per colpa del sistema sociale oscurantista, è frutto della negazione della libertà individuale e della mancanza di libertà nella scelta del proprio compagno.",
+      "zh": "这件事之所以发生，是可耻的包办婚姻制度的罪过，是黑暗蒙昧的社会制度的罪过，是个人自由被否定、自主择偶自由缺失的恶果。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1644",
+      "sec": 20,
+      "it": "È da sperare che le persone interessate riflettano su tutti gli aspetti di questo episodio e difendano l’onore di una ragazza che è morta martire della causa della libertà di scegliersi il proprio amore.",
+      "zh": "希望有关人士对此事件作全面的反思，捍卫一位姑娘的名誉，她是为争取自由恋爱的权利而牺牲的烈士。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1645",
+      "sec": 20,
+      "it": "[...] Sia la famiglia della ragazza che la famiglia del futuro marito sono legate alla società, fanno parte entrambe della società.",
+      "zh": "……姑娘的家庭和未婚夫的家庭都与社会相联系，都属于社会的一部分。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1646",
+      "sec": 20,
+      "it": "Queste due famiglie hanno commesso un delitto, ma dobbiamo capire che le radici di questo delitto affondano nella società.",
+      "zh": "这两家犯了罪，但我们必须明白，这一罪恶的根源深植于社会。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1647",
+      "sec": 20,
+      "it": "È vero che questo delitto è stato perpetrato dalle due famiglie, ma la maggior parte della colpa risale alla società.",
+      "zh": "诚然，这一罪行是这两家所犯，但大部分的罪责应归咎于社会。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1648",
+      "sec": 20,
+      "it": "In una società buona le due famiglie, anche se avessero voluto, non avrebbero avuto la possibilità di commettere questo delitto.",
+      "zh": "在一个良好的社会里，这两家即使想犯这个罪，也不可能有犯这个罪的条件。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1649",
+      "sec": 20,
+      "it": "[...] [Se per sottrarsi a un matrimonio non voluto una ragazza scappasse con il suo amato, nel giro di un paio di giorni i parenti la riprenderebbero e] dopo averla ricompensata con una tremenda bastonata e averla messa sotto chiave, i genitori le imporrebbero un cosiddetto matrimonio “ideale” con l’ottuso fidanzato.",
+      "zh": "……[如果一个姑娘为了摆脱不想要的婚姻而与情人私奔，不出几天，亲属就会把她抓回去，]把她痛打一顿之后关起来，父母还会强迫她与那个愚蠢的未婚夫结成所谓\"理想\"的婚姻。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1650",
+      "sec": 20,
+      "it": "E l’opinione pubblica sosterrebbe: “È stato proprio ben fatto; una fuga come questa con il suo amante, dimostra che lei non ha il senso della dignità...”.",
+      "zh": "而舆论会支持说：\"打得好；她和情人私奔，说明她没有廉耻之心……\"。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1651",
+      "sec": 20,
+      "it": "Certo, finché si è schiavi dei pregiudizi ora diffusi, la famiglia che ha generato una ragazza del genere morirebbe davvero di vergogna.",
+      "zh": "当然，在眼下流行的偏见支配之下，生出这种女儿的人家确实会羞死。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1652",
+      "sec": 20,
+      "it": "Questa giovane ragazza si è comportata come un’estremista.",
+      "zh": "这位年轻的姑娘表现得像一个极端分子。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1653",
+      "sec": 20,
+      "it": "Non solo non ha avuto paura di una grande sofferenza, ma ha anche messo in gioco la sua vita nella lotta contro l’impossibile.",
+      "zh": "她不仅不怕巨大的苦难，而且不惜以自己的生命与不可能之事作斗争。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1654",
+      "sec": 20,
+      "it": "Che cosa aveva ancora da guadagnare?",
+      "zh": "她还有什么可争取的呢？",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1655",
+      "sec": 20,
+      "it": "A mio parere c’erano solo tre cose che poteva ottenere: una, essere perseguitata; l’altra, essere percossa; la terza, essere derisa.",
+      "zh": "在我看来，她只能得到三样东西：一是被迫害，二是挨打，三是被嘲笑。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1656",
+      "sec": 20,
+      "it": "[...] Il fatto che nella nostra società vi siano fattori che hanno causato la morte della signorina Chao, significa che questa società è una cosa molto pericolosa.",
+      "zh": "……在我们的社会里存在导致赵小姐死亡的因素，这意味着这个社会是一个非常危险的东西。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1657",
+      "sec": 20,
+      "it": "Ha provocato la morte della signorina Chao come avrebbe potuto provocare quella della signorina Chieh, della signorina Sun o della signorina Li.",
+      "zh": "它导致了赵小姐的死亡，正如它本可以导致赵洁小姐、孙小姐或李小姐的死亡一样。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1658",
+      "sec": 20,
+      "it": "Come uccide le donne può uccidere anche gli uomini.",
+      "zh": "它既然能杀害妇女，也能杀害男子。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1659",
+      "sec": 20,
+      "it": "Tutti noi, che siamo vittime potenziali, dobbiamo stare in guardia di fronte a questa cosa tanto pericolosa che può infliggerci colpi mortali.",
+      "zh": "我们大家都是潜在的受害者，必须警惕这个能给我们以致命打击的危险之物。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1660",
+      "sec": 20,
+      "it": "Dobbiamo protestare ad alta voce, avvertire gli altri esseri umani che non sono ancora morti, condannare gli infiniti mali della nostra società.",
+      "zh": "我们必须大声抗议，提醒尚未死去的人们，谴责我们社会的无穷罪恶。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1661",
+      "sec": 20,
+      "it": "[...] [Quanto al sistema di matrimonio in uso da noi] la più grande superstizione è la “dottrina dei matrimoni predestinati”.",
+      "zh": "……[至于我们现行的婚姻制度]最大的迷信是\"婚姻命定\"之说。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1662",
+      "sec": 20,
+      "it": "Non appena uno abbandona il ventre materno, si dice che il suo matrimonio è stato stabilito.",
+      "zh": "一个人刚从母腹降生，人们就说他的婚姻已经注定。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1663",
+      "sec": 20,
+      "it": "Quando diventa adulto e deve sposarsi, non può mai osare sollevare lui stesso il problema del matrimonio.",
+      "zh": "到他成年该结婚的时候，自己绝不能敢于提出婚姻问题。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1664",
+      "sec": 20,
+      "it": "Egli semplicemente invita i genitori e il mezzano a combinarlo.",
+      "zh": "他只是请父母和媒人替他操办。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1665",
+      "sec": 20,
+      "it": "Può discutere il matrimonio con i suoi genitori e il mezzano, ma, comunque sia, esso è già stato precedentemente stabilito e incontestabilmente “tutto è stato fatto così bene”.",
+      "zh": "他固然可以和父母及媒人商议婚事，但无论如何，婚事早已事先定了下来，无可争辩地\"样样都安排得妥妥当当\"。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1666",
+      "sec": 20,
+      "it": "[...] Tutte queste coppie il cui focolare domestico si dice che sia completamente tranquillo, hanno i loro petti gonfi dei quattro grandi caratteri che indicano il “matrimonio predestinato”.",
+      "zh": "……所有那些据说家庭灶头十分安宁的夫妻，胸中无不装着\"婚姻天定\"四个大字。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1667",
+      "sec": 20,
+      "it": "Ripetono ritornelli del tipo “matrimoni fatti in cielo”, e così via.",
+      "zh": "他们翻来覆去地念叨着\"天作之合\"之类的老调。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1668",
+      "sec": 20,
+      "it": "[...] I matrimoni contratti conformemente alla dottrina dei matrimoni predestinati costituiscono approssimativamente l’⁸⁰ per cento di tutti i matrimoni cinesi.",
+      "zh": "……按照婚姻天定论缔结的婚姻，约占中国全部婚姻的⁸⁰％。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1669",
+      "sec": 20,
+      "it": "[...] Su questa dottrina dei matrimoni predestinati si basano altre irrazionali credenze, come quella dei “matrimoni stabiliti nel ventre materno” e “combinare un matrimonio con il bimbo in braccio”: derivano tutte dalla stessa superstizione di fondo.",
+      "zh": "……在这婚姻天定论之上，还衍生出其他种种荒谬的迷信，诸如\"指腹为婚\"、\"抱子成婚\"之类：全都出于同一根本的迷信。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1670",
+      "sec": 20,
+      "it": "Ognuno considera questo come una sorta di “magnifico destino”.",
+      "zh": "人人都把这当作一种\"天赐良缘\"。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1671",
+      "sec": 20,
+      "it": "Nessuno ha mai immaginato che sia tutto uno sbaglio.",
+      "zh": "从来没有人想到这全然是一个错误。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1672",
+      "sec": 20,
+      "it": "Se chiedi a uno le ragioni delle sue azioni, egli tira fuori il “matrimonio predestinato”.",
+      "zh": "你若问一个人行事的缘由，他便搬出\"婚姻天定\"来作答。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1673",
+      "sec": 20,
+      "it": "Se vogliamo promuovere una campagna per la riforma dell’istituto matrimoniale tradizionale dobbiamo prima di tutto abolire le superstizioni sul matrimonio, la credenza che i matrimoni siano predestinati dal fato.",
+      "zh": "我们若要推动改革传统婚姻制度的宣传运动，首先就必须破除婚姻迷信，破除那种婚姻系命中注定的观念。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1674",
+      "sec": 20,
+      "it": "Demolite queste concezioni, svanirà il pretesto del quale si fa scudo il sistema dei matrimoni combinati dai genitori e si farà immediatamente strada nella società il concetto della “incompatibilità tra marito e moglie”.",
+      "zh": "这些观念一经破除，父母包办婚姻制度所赖以庇护的口实也就消失，而“夫妇不和”的观念便会立即在社会上传播开来。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1675",
+      "sec": 20,
+      "it": "Con l’affermazione del concetto dell’incompatibilità tra marito e moglie, l’esercito della rivoluzione familiare diventerà infinitamente numeroso e tutta la Cina sarà sommersa dalla grande ondata della libertà di amare.",
+      "zh": "夫妇不和的观念一旦确立，家庭革命的军队便会无限扩大，全中国都将被恋爱自由的大浪潮所淹没。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1676",
+      "sec": 20,
+      "it": "[...] Chi si suicida non è spinto dalla volontà di cercare la morte.",
+      "zh": "……自杀的人并非出于求死的意愿。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1677",
+      "sec": 20,
+      "it": "Egli non sta direttamente cercando la morte.",
+      "zh": "他并非直接在寻求死亡。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1678",
+      "sec": 20,
+      "it": "Al contrario il suicidio è la maniera estrema di volere la vita.",
+      "zh": "恰恰相反，自杀是追求生命的一种极端方式。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1679",
+      "sec": 20,
+      "it": "La ragione per cui nella società ci sono persone che vogliono suicidarsi, è che la società si impadronisce delle loro speranze e le distrugge totalmente, con il risultato che essi vengono lasciati completamente senza speranza.",
+      "zh": "社会上之所以有人要自杀，是因为社会夺去了他们的希望并将其彻底毁灭，致使他们完全陷于绝望之中。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1680",
+      "sec": 20,
+      "it": "Quando la società si impadronisce delle speranze di qualcuno e lo lascia completamente senza speranza, allora quella persona inevitabilmente si suiciderà.",
+      "zh": "当社会夺去了某人的希望而使他完全绝望时，那人便不可避免地要自杀。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1681",
+      "sec": 20,
+      "it": "[...] Più la società farà sì che le persone perdano le loro speranze, più numerose saranno le persone che si suicideranno.",
+      "zh": "……社会使人失去的希望越多，自杀的人也就越多。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1682",
+      "sec": 20,
+      "it": "[...] Personalmente penso che il suicidio debba essere rifiutato.",
+      "zh": "……我个人认为，自杀应当加以反对。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1683",
+      "sec": 20,
+      "it": "[...] Prima di tutto, scopo dell’uomo è vivere; dunque l’uomo non dovrebbe mai andare contro la propria tendenza naturale dandosi la morte.",
+      "zh": "……第一，人生的目的在于生，因此人绝不应违背自己求生之本性而自戕。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1684",
+      "sec": 20,
+      "it": "[...] In secondo luogo, proprio perché la gente è spinta al suicidio dal fatto che la società la priva di ogni speranza, noi Il suicidio della signorina Chao dovremmo lottare contro la società per riavere le speranze che abbiamo perduto.",
+      "zh": "……第二，正因为人们是被社会剥夺了一切希望而被迫走向自杀的，所以我们赵女士自杀的事情我们应当向社会作斗争，夺回我们所失去的希望。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1685",
+      "sec": 20,
+      "it": "[...] Noi dovremmo morire combattendo.",
+      "zh": "……我们应该在斗争中死去。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1686",
+      "sec": 20,
+      "it": "[...] In terzo luogo, se la gente rispetta coloro che hanno coraggiosamente posto fine alla propria esistenza, ciò non significa che rispetti il suicidio in sé ma che rispetta il coraggioso spirito di resistenza alla forza bruta che ha ispirato le persone che si sono suicidate.",
+      "zh": "……第三，人们敬重那些勇敢地结束自己生命的人，这并不意味着敬重自杀本身，而是敬重那种激发自杀者反抗强暴的勇敢反抗精神。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1687",
+      "sec": 20,
+      "it": "[...] È molto, ma molto meglio essere uccisi in battaglia che togliersi la vita!",
+      "zh": "……在斗争中被人杀死，远比自杀好得多，好得多啊！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1688",
+      "sec": 20,
+      "it": "Obiettivo della lotta non è essere uccisi dagli altri, ma realizzare la propria vera personalità.",
+      "zh": "斗争的目的不是被别人杀死，而是实现自己真正的人格。",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1689",
+      "sec": 20,
+      "it": "Chi nonostante tutti i suoi sforzi non vi riesce, chi lotta fino alla morte sacrificando se stesso, sarà considerato esempio di supremo coraggio e la sua tragedia impressionerà profondamente le menti degli uomini!",
+      "zh": "凡竭尽全力仍不能达到目标、斗争到底而自我牺牲的人，将被视为最高勇气的典范，其悲剧将深深震撼世人的心灵！",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    },
+    {
+      "pid": "s1690",
+      "sec": 20,
+      "it": "[...]",
+      "zh": "〔……〕",
+      "head": false,
+      "audio": "",
+      "audio_zh": ""
+    }
+  ]
+};

@@ -1,20 +1,43 @@
 # -*- coding: utf-8 -*-
-"""Split work 01 paragraphs into sentence-level bilingual units.
+"""Split Mao works into sentence-level bilingual units (一句意 + 一句中).
 
-Each output unit = one Italian sentence + one corresponding Chinese sentence,
-so the existing sentence-level reader renders them one-by-one. Audio paths are
-rewritten per sentence (audio/01/sNNN.mp3, audio/01/zsNNN.mp3) so the TTS
-gen scripts (which iterate paras and use pid / audio_zh) regenerate per-sentence.
+Usage:
+  python split_sentences.py                 # analyze all works (dry run)
+  python split_sentences.py --write         # split & write back data files
+  python split_sentences.py --works 02,03   # only these works (default: all)
+  python split_sentences.py --audio-ids 01  # which works keep audio refs (default: 01)
 
-Alignment: split IT on . ! ? ; split ZH on 。 ！ ？. When counts differ, pair
-min(N,M) 1:1 and append the longer side's tail into the LAST unit, so every
-unit stays a complete bilingual pair (no orphaned untranslated sentence).
+Design notes:
+- Each output unit = one Italian sentence + one corresponding Chinese sentence.
+- pid is renumbered s001..sNNN per work; head=True only on a paragraph's first unit.
+- Audio refs are written ONLY for works listed in --audio-ids (they already have
+  per-sentence audio on disk). Other works get "" and the reader marks them noaudio.
+- --write also syncs meta.para_count (total units across all works) and the voice
+  fields in data/stories.js + data/index.js.
 """
-import re, json, io, os, sys
+import re, json, io, os, sys, glob
 
-SID = "01"
 ABBR = r'(?:n|n°|no|ecc|es|prof|dott|sig|fig|art|vol|p|cfr|sec|app|cap|pag|tel)\.'
 WRITE = "--write" in sys.argv
+
+PUNCT_ONLY = re.compile(r'^[\s"\'""\'\'「」『』（）()…—，、：；！？。%0-9¹²³⁴⁵⁶⁷⁸⁹]+$')
+
+
+def arg_val(flag, default):
+    if flag in sys.argv:
+        i = sys.argv.index(flag)
+        if i + 1 < len(sys.argv):
+            return sys.argv[i + 1]
+    return default
+
+
+def all_work_ids():
+    ids = []
+    for fn in sorted(glob.glob(os.path.join("data", "st", "*.js"))):
+        sid = os.path.basename(fn)[:-3]
+        if re.match(r'^\d\d$', sid):
+            ids.append(sid)
+    return ids
 
 
 def load_story(sid, path=None):
@@ -29,6 +52,7 @@ def split_it(text):
     text = (text or "").strip()
     if not text:
         return []
+
     def prot(m):
         return m.group(0)[:-1] + "\x00"   # hide the period (abbrev or list marker)
     # protect abbreviations like "n. 2"
@@ -40,11 +64,8 @@ def split_it(text):
     return clean_parts(out)
 
 
-PUNCT_ONLY = re.compile(r'^[\s"\'""\'\'「」『』（）()…—，、：；！？。%0-9¹²³⁴⁵⁶⁷⁸⁹]+$')
-
-
 def clean_parts(parts):
-    """Drop/merge fragments that are only quotes or punctuation."""
+    """Merge fragments that are only quotes/punctuation into the previous sentence."""
     out = []
     for p in parts:
         p = p.strip()
@@ -95,23 +116,18 @@ def align(its, zhs):
         return units
 
 
-def main():
-    # 从 git 取回的原始127段版重切（当前 data/st/01.js 已是旧切分结果）
-    src = os.path.join("build", "_orig_01.js")
-    if not os.path.exists(src):
-        src = os.path.join("data", "st", SID + ".js")
-    story = load_story(SID, src)
+def split_story(sid, with_audio):
+    story = load_story(sid)
     paras = story["paras"]
     new_paras = []
     idx = 1
     mism = []
     empty_zh_paras = []
+    stray = []
     for p in paras:
         its = split_it(p.get("it"))
         zhs = split_zh(p.get("zh"))
-        if not zhs and p.get("zh"):
-            pass
-        if not zhs and not p.get("zh"):
+        if not zhs and not (p.get("zh") or "").strip():
             empty_zh_paras.append(p.get("pid"))
         pairs = align(its, zhs)
         if len(its) != len(zhs):
@@ -119,39 +135,84 @@ def main():
         head = p.get("head", False)
         sec = p.get("sec", 1)
         for j, (it_s, zh_s) in enumerate(pairs):
-            audio_zh = ("audio/%s/zs%03d.mp3" % (SID, idx)) if zh_s else ""
+            # sanity: no pure-punctuation unit may survive
+            if PUNCT_ONLY.match(it_s) or PUNCT_ONLY.match(zh_s):
+                stray.append((idx, it_s[:20], zh_s[:20]))
+            audio = ("audio/%s/s%03d.mp3" % (sid, idx)) if with_audio else ""
+            audio_zh = ("audio/%s/zs%03d.mp3" % (sid, idx)) if (with_audio and zh_s) else ""
             new_paras.append({
                 "pid": "s%03d" % idx,
                 "sec": sec,
                 "it": it_s,
                 "zh": zh_s,
                 "head": bool(head and j == 0),
-                "audio": "audio/%s/s%03d.mp3" % (SID, idx),
+                "audio": audio,
                 "audio_zh": audio_zh,
             })
             idx += 1
+    return story, new_paras, mism, empty_zh_paras, stray
 
-    print("=== 分析报告 (work %s) ===" % SID)
-    print("原段落数: %d | 拆出句级单元数: %d" % (len(paras), len(new_paras)))
-    print("句数一致段落: %d | 不一致(已把多出的并到最后一句): %d"
-          % (len(paras) - len(mism), len(mism)))
-    if mism:
-        print("\n-- 不一致段落 (pid, 意句数, 中句数) --")
-        for pid, ni, nz in mism:
-            print("  %s: IT=%d ZH=%d" % (pid, ni, nz))
-    if empty_zh_paras:
-        print("\n-- 原中文为空的段落(保留意语, 中文留空): %s --" % empty_zh_paras)
-    print("\n-- 前 6 个句级单元预览 --")
-    for u in new_paras[:6]:
-        print("  [%s] IT: %s" % (u["pid"], u["it"][:60]))
-        print("       ZH: %s" % (u["zh"][:60] or "(空)"))
 
+def sync_meta():
+    """Recount total units across all works and update stories.js / index.js meta."""
+    total = 0
+    for sid in all_work_ids():
+        try:
+            obj = load_story(sid)
+            total += len(obj["paras"])
+        except Exception:
+            pass
+    for fn in ("data/stories.js", "data/index.js"):
+        t = io.open(fn, encoding="utf-8").read()
+        t2 = re.sub(r'("para_count":\s*)\d+', r'\g<1>%d' % total, t)
+        t2 = re.sub(r'("voice":\s*")[^"]*(")', r'\g<1>it-IT-GiuseppeMultilingualNeural\g<2>', t2)
+        if t2 != t:
+            with io.open(fn, "w", encoding="utf-8") as f:
+                f.write(t2)
+    return total
+
+
+def main():
+    works_arg = arg_val("--works", None)
+    audio_arg = arg_val("--audio-ids", "01")
+    all_ids = all_work_ids()
+    works = [w.strip() for w in works_arg.split(",")] if works_arg else all_ids
+    works = [w for w in works if w in all_ids]
+    audio_ids = set(w.strip() for w in audio_arg.split(","))
+
+    print("=== 处理篇目: %s | 写音频引用的篇: %s ===" % (",".join(works), ",".join(sorted(audio_ids)) or "(无)"))
+    summary = []
+    for sid in works:
+        story, new_paras, mism, empty_zh, stray = split_story(sid, sid in audio_ids)
+        print("\n[work %s] %s" % (sid, story.get("title_zh", "")))
+        print("  原段落 %d -> 句级单元 %d | 句数一致 %d | 不一致 %d | 空中文段 %d"
+              % (len(story["paras"]), len(new_paras), len(story["paras"]) - len(mism), len(mism), len(empty_zh)))
+        if mism:
+            detail = ", ".join("%s(IT%d/ZH%d)" % m for m in mism[:12])
+            print("  不一致: %s%s" % (detail, " ..." if len(mism) > 12 else ""))
+        if stray:
+            print("  ⚠️ 纯标点单元: %s" % stray[:5])
+        if empty_zh:
+            print("  空中文段(仅意语): %s" % empty_zh[:10])
+        # preview first two units
+        for u in new_paras[:2]:
+            print("  预览 [%s]%s IT: %s" % (u["pid"], " H" if u["head"] else "", u["it"][:55]))
+            print("            ZH: %s" % (u["zh"][:55] or "(空)"))
+        summary.append((sid, len(story["paras"]), len(new_paras), len(mism)))
+        if WRITE:
+            story["paras"] = new_paras
+            out = "window.__GRIMM_STORIES__['%s'] = %s;\n" % (sid, json.dumps(story, ensure_ascii=False, indent=2))
+            with io.open(os.path.join("data", "st", sid + ".js"), "w", encoding="utf-8") as f:
+                f.write(out)
+            print("  [WRITE] data/st/%s.js (%d 单元)" % (sid, len(new_paras)))
+
+    print("\n=== 汇总 ===")
+    print("篇目 | 原段数 | 单元数 | 不一致段")
+    for sid, a, b, c in summary:
+        print("  %s | %5d | %5d | %d" % (sid, a, b, c))
     if WRITE:
-        story["paras"] = new_paras
-        out = "window.__GRIMM_STORIES__['%s'] = %s;\n" % (SID, json.dumps(story, ensure_ascii=False, indent=2))
-        with io.open(os.path.join("data", "st", SID + ".js"), "w", encoding="utf-8") as f:
-            f.write(out)
-        print("\n[WRITE] 已写入 data/st/%s.js (%d 单元)" % (SID, len(new_paras)))
+        total = sync_meta()
+        print("\n[WRITE] meta.para_count 已同步为 %d（全部篇目单元总数），voice 字段已更新" % total)
 
 
 if __name__ == "__main__":
