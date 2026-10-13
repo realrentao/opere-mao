@@ -1,21 +1,22 @@
 # -*- coding: utf-8 -*-
-"""Generate Italian TTS audio for Mao works via edge-tts (fixed DiegoNeural voice).
+"""Generate Italian TTS audio for Mao works via edge-tts (fixed neural voice).
 One mp3 per paragraph: audio/<id>/<pid>.mp3
 Reads text from data/st/<id>.js (field "it").
-Resume-safe (skips existing >200 bytes). Voice: it-IT-DiegoNeural.
+Resume-safe (skips existing >200 bytes). Voice: it-IT-GiuseppeMultilingualNeural.
 
 NOTE: edge-tts was revived 2026-10-13 by applying rany2/edge-tts PR #491
 (WSS endpoint -> api.msedgeservices.com, Ocp-Apim-Subscription-Key auth).
 Fixed neural voices keep every sentence's timbre identical.
 """
-import asyncio, json, os, re, io, time
+import asyncio, json, os, re, io, time, sys
 import edge_tts
 
 OUT = r"D:/意大利语材料/opere-mao"
-VOICE = "it-IT-DiegoNeural"   # 意大利语沉稳男声（固定音色，逐句一致）
+VOICE = "it-IT-GiuseppeMultilingualNeural"   # 意大利语男声（清晰年轻，固定音色，逐句一致）
 IDS = ["01"]
 CONCURRENCY = 4
 LOG = os.path.join(OUT, "build", "audio_gen.log")
+FORCE = "--force" in sys.argv   # 覆盖已存在的文件（换音色用）
 
 done = 0
 total = 0
@@ -50,7 +51,7 @@ async def gen_one(sem, sid, para):
         return
     path = os.path.join(OUT, "audio", sid, pid + ".mp3")
     os.makedirs(os.path.dirname(path), exist_ok=True)
-    if os.path.exists(path) and os.path.getsize(path) > 200:
+    if not FORCE and os.path.exists(path) and os.path.getsize(path) > 200:
         async with lock:
             done += 1
         return
